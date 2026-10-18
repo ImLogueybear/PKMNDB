@@ -1,0 +1,1901 @@
+{
+  "set": {
+    "id": 1127,
+    "language": "en",
+    "name": "EX Legend Maker",
+    "code": "LM",
+    "series": "EX Series",
+    "release_date": "2006-02-13",
+    "date_text": "Feb 13, 2006",
+    "card_count": 93,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/46/eb/e5/46ebe523974817f8261667cab4a067d7331e4429592a0247ff15a7e4c112ce14.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/d2/94/35/d294353561ec9b8f029624d56418baaf7ba84436710a7eb0d9362803b66522c1.svg",
+    "logo_path": "images/sets/1127-logo.webp",
+    "symbol_path": "images/sets/1127-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/1127/ex-legend-maker",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 93
+  },
+  "cards": [
+    {
+      "id": 2954,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Aerodactyl",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 92,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/be/13/57/be13571d8d5b8eb76395c8f93abc8ff562cd579ad05c73bd87f0fe6e2c6440ae.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5a/ee/65/5aee65cbfa8440c4305739f5e02ad3bcd1a84dc1cf23decfbf9fcc7519aed8bf.jpg",
+      "image_path": "images/cards/1127/1-2954.webp",
+      "image_sha256": "beb3af7f63620b99a055ca5c1bf59a2fafc35beba19a98582ee9cee5d9f1f07e",
+      "image_bytes": 110296,
+      "source_url": "https://www.tcgcollector.com/cards/2954/aerodactyl-ex-legend-maker-1-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 1
+    },
+    {
+      "id": 2955,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Aggron",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 92,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/55/17/78/551778c844658d729c14a0bad8849cb1fedb35a3bbc42595dfc5f1c773dfe8c9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/35/d6/2a/35d62a9040bbba99fa4f6cc7575aa66f23d60bd09ec47dbdd7a3f5a8901af8ad.jpg",
+      "image_path": "images/cards/1127/2-2955.webp",
+      "image_sha256": "494ebd16b0a241ed59f89b13d863ff8cc9c56b5c52774bd31a3eabd362636b59",
+      "image_bytes": 156951,
+      "source_url": "https://www.tcgcollector.com/cards/2955/aggron-ex-legend-maker-2-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 2
+    },
+    {
+      "id": 2956,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Cradily",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 92,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/b5/d1/2b/b5d12ba8638e33bcc17863d6bef7ce1948ce7e96bfd9635956f17df427d79c85.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/90/69/e4/9069e4da5769c3dd441b652b3e599030ca2ef9de3b3b3fb41a09896c9d771721.jpg",
+      "image_path": "images/cards/1127/3-2956.webp",
+      "image_sha256": "7510a15c5c1953269ca6247b36e4ad37d97b567b6c350fd0c29f30f9526ae88d",
+      "image_bytes": 117501,
+      "source_url": "https://www.tcgcollector.com/cards/2956/cradily-ex-legend-maker-3-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 3
+    },
+    {
+      "id": 2957,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Delcatty",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 92,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/2f/e3/25/2fe32562d67780fb347fa4db7c9b41c95ca3d7750366281a42863b62e802ac10.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2d/3f/00/2d3f000c61a8a04ce5e296faf966375f79f6f9e6a446ae9894607e10ab132f5c.jpg",
+      "image_path": "images/cards/1127/4-2957.webp",
+      "image_sha256": "4e97288193a7ab1dfb2fab83f340be6b5789c2c83c2927559ff7ca39159cfd43",
+      "image_bytes": 112782,
+      "source_url": "https://www.tcgcollector.com/cards/2957/delcatty-ex-legend-maker-4-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 4
+    },
+    {
+      "id": 2958,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Gengar",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 92,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/94/d3/a3/94d3a3b614d852158e709f5ba3a37057b2067e9893538f17acfcc77425b5ba06.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/76/2f/9e/762f9e2dcbb86b640487e6acf60b1cda4b073c493bc13eedfeab6fb624ec8473.jpg",
+      "image_path": "images/cards/1127/5-2958.webp",
+      "image_sha256": "a69ded6f65c0ba60c36632c037480e249e286090199f386ed321f667148a1177",
+      "image_bytes": 100658,
+      "source_url": "https://www.tcgcollector.com/cards/2958/gengar-ex-legend-maker-5-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 5
+    },
+    {
+      "id": 2959,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Golem",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 92,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/4b/81/cc/4b81cc945f51e1297886610a25be693a83de709458ebf94e24ea373778541da8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9c/28/0a/9c280a4f202189647a27826e234df874cf0f86e93dfc3ca45b218304221e270e.jpg",
+      "image_path": "images/cards/1127/6-2959.webp",
+      "image_sha256": "23b8cf2c1ee7abc2cc2de412f3a4a2ac1b0d13b2fd20f5678f92b50c993e56f6",
+      "image_bytes": 116987,
+      "source_url": "https://www.tcgcollector.com/cards/2959/golem-ex-legend-maker-6-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 6
+    },
+    {
+      "id": 2960,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Kabutops",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 92,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/c2/f8/37/c2f837cab44f94f5a96be9fbd0fc43d8018d323ac6910914b57f7531ba7b8194.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bd/5b/70/bd5b70075d985c1f55db7db2b0e10996d98bd78420a34d77628fc6a461e8ec9a.jpg",
+      "image_path": "images/cards/1127/7-2960.webp",
+      "image_sha256": "e8ef6a5d26eec06aa779b74552542fc64c967542f2fb265fadd1a1aed0b72d1f",
+      "image_bytes": 109422,
+      "source_url": "https://www.tcgcollector.com/cards/2960/kabutops-ex-legend-maker-7-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 7
+    },
+    {
+      "id": 2961,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Lapras",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 92,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/fb/bd/eb/fbbdeb365ef6be26510da8f97484e1c3321d0d8b691ddbdb141508d1822063c0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3a/ff/58/3aff58c9cd2bfc44382fb26b374ce99396453755e73b4d052fa4512a0a3a7932.jpg",
+      "image_path": "images/cards/1127/8-2961.webp",
+      "image_sha256": "858ec4b172cd776a39db08b1c018fd13d7baa1edbb1631e8fb932a0a8d84faed",
+      "image_bytes": 113826,
+      "source_url": "https://www.tcgcollector.com/cards/2961/lapras-ex-legend-maker-8-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 8
+    },
+    {
+      "id": 2962,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Machamp",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 92,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/d5/dd/ff/d5ddffbb6130feb74783fbd8047d6838dceeaea6b6348358e995440708692a1c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/08/48/82/08488237ca67ea06d36a05b7fcd2c003798d3be0d0e912d1b8fb32c269b4750a.jpg",
+      "image_path": "images/cards/1127/9-2962.webp",
+      "image_sha256": "8f07ca2ba30be5791bf8effd601039f98e7933eac5aee469be85a8d966a6d752",
+      "image_bytes": 106987,
+      "source_url": "https://www.tcgcollector.com/cards/2962/machamp-ex-legend-maker-9-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 9
+    },
+    {
+      "id": 2963,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Mew",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 92,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/7f/0d/ca/7f0dca3fc24feb29fa5a6b27eebc3ae5c476a71dcd0d2c9dd3a6962dfc2e8136.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/40/af/47/40af47efcae6d04166554c1ee6071a26c2f460aa26b73134b46caa74c81bc2c0.jpg",
+      "image_path": "images/cards/1127/10-2963.webp",
+      "image_sha256": "654314be8fb496ec965fe6434e9bc931042e54ad42dec3a90b1ad18d795965eb",
+      "image_bytes": 106803,
+      "source_url": "https://www.tcgcollector.com/cards/2963/mew-ex-legend-maker-10-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 10
+    },
+    {
+      "id": 2964,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Muk",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 92,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/2f/8b/df/2f8bdfc3fa21a531f2e5fd17e708b38dda3909bf94aa58c53a38de6825b59890.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/89/4d/e3/894de3981d1758e7be37bce9844499d627022ff49e7289f3155e16ef207598e6.jpg",
+      "image_path": "images/cards/1127/11-2964.webp",
+      "image_sha256": "6653a13996e9ccc282d482ba71118bea847897d44b7f3d2435431d0dbc46f608",
+      "image_bytes": 101373,
+      "source_url": "https://www.tcgcollector.com/cards/2964/muk-ex-legend-maker-11-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 11
+    },
+    {
+      "id": 2965,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Shiftry",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 92,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/59/54/5a/59545affe7b3246868a2888bfb8840a11c58f23358672564b37b8df47819f835.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7a/90/a6/7a90a6c0749a1ec4384d1dc6b40afd9ab497e268e752368e5a3304dba469e875.jpg",
+      "image_path": "images/cards/1127/12-2965.webp",
+      "image_sha256": "c06c08d35f413105940aba6b1d85e5df8e77aa59401e5a3b04683453ebcfb8f6",
+      "image_bytes": 114564,
+      "source_url": "https://www.tcgcollector.com/cards/2965/shiftry-ex-legend-maker-12-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 12
+    },
+    {
+      "id": 2966,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Victreebel",
+      "number": "13",
+      "number_value": 13,
+      "printed_total": 92,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/ea/bb/07/eabb07de341d6a3a16c590a7547c234e091404c2e3ddab2bb34b31ce99206598.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b0/bf/1c/b0bf1cd462acb997a826280da3f9cd15b70b20b72877947b5b77e7b1b447b3a1.jpg",
+      "image_path": "images/cards/1127/13-2966.webp",
+      "image_sha256": "3dd4a9bc0a22202873a7139bb9119cd581ccb90e38a5938abface8d4e7c49d3f",
+      "image_bytes": 117227,
+      "source_url": "https://www.tcgcollector.com/cards/2966/victreebel-ex-legend-maker-13-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 13
+    },
+    {
+      "id": 2967,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Wailord",
+      "number": "14",
+      "number_value": 14,
+      "printed_total": 92,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/30/8c/59/308c590d5e4350a3c02acc1a8afaa387abfc02a21dcc277e520f1d2515026b74.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/00/02/20/000220f2a4e9bd6e6c1a49d0ba7f019dbb52a7c2686b6f3acbfdc9905f5f9b47.jpg",
+      "image_path": "images/cards/1127/14-2967.webp",
+      "image_sha256": "56723620963b72c9e1f8af7189ef07bcdd530e435f35e7548b824731e7da1652",
+      "image_bytes": 118206,
+      "source_url": "https://www.tcgcollector.com/cards/2967/wailord-ex-legend-maker-14-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 14
+    },
+    {
+      "id": 2968,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Absol",
+      "number": "15",
+      "number_value": 15,
+      "printed_total": 92,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/be/63/da/be63da5e46dbef7032a334d9a4b39cddce7454cc6838185cbbcd386bbe19033b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b5/14/77/b51477d30c7a27162019827803d178ec868c22a1488ea1173ad3fbc4b80e58f6.jpg",
+      "image_path": "images/cards/1127/15-2968.webp",
+      "image_sha256": "740698e15c2409faddc3ce945c29b5b260e08944b312be7d01c64a810f578893",
+      "image_bytes": 100646,
+      "source_url": "https://www.tcgcollector.com/cards/2968/absol-ex-legend-maker-15-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 15
+    },
+    {
+      "id": 2969,
+      "set_id": 1127,
+      "set_ids": [
+        1127,
+        1232,
+        1233
+      ],
+      "name": "Girafarig",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 92,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/c2/48/a5/c248a5594481b88c541e6df47fc927434b9a2c68f13b951de0636dfcd03a7ed5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/80/15/0c/80150c3ab5443a6b922bf870ed44e6e17eaa920f45207b9ad1643c20c540855d.jpg",
+      "image_path": "images/cards/1127/16-2969.webp",
+      "image_sha256": "7a8139517225e813c3ae0f828a9b7cb6f5d5392f2ce76766ad349f4bc96fd0ff",
+      "image_bytes": 121645,
+      "source_url": "https://www.tcgcollector.com/cards/2969/girafarig-ex-legend-maker-16-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 16
+    },
+    {
+      "id": 2970,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Gorebyss",
+      "number": "17",
+      "number_value": 17,
+      "printed_total": 92,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ac/6d/83/ac6d832157ef1a9b0c895d7067d990e877f97867c42a009254253acc133e40ce.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/96/a1/67/96a16727bd005772335e102785ddc2258ee37a16c06dfc9c240e5cc7825a08b9.jpg",
+      "image_path": "images/cards/1127/17-2970.webp",
+      "image_sha256": "7850e431b995e5561bdb078ec5ff9ff718a9b5ceb45dd4f2e9154ce18bbbc3ec",
+      "image_bytes": 106406,
+      "source_url": "https://www.tcgcollector.com/cards/2970/gorebyss-ex-legend-maker-17-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 17
+    },
+    {
+      "id": 2971,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Huntail",
+      "number": "18",
+      "number_value": 18,
+      "printed_total": 92,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f2/64/b4/f264b49564429369d5e0c6e70b74e83552432139c5b0171e3c877e38e7009241.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/22/65/40/226540b716d4d0160da9b079a2466d3180bf69a056c32376f843970b19569089.jpg",
+      "image_path": "images/cards/1127/18-2971.webp",
+      "image_sha256": "1af31b49c1d3c536834c9a4b9b8157981af65b3d1fbb6b756466859ae834da21",
+      "image_bytes": 111321,
+      "source_url": "https://www.tcgcollector.com/cards/2971/huntail-ex-legend-maker-18-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 18
+    },
+    {
+      "id": 2972,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Lanturn",
+      "number": "19",
+      "number_value": 19,
+      "printed_total": 92,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/6a/f4/cf/6af4cf075fe75d514fcd5344959d20263eb04779120bf2b959ad331a6b1b9a28.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a5/b4/56/a5b4566b71c7f286cc983d87c99f3d83c7aec81180b00905e714e5f6038d977c.jpg",
+      "image_path": "images/cards/1127/19-2972.webp",
+      "image_sha256": "76bb323558ef5e1e1705c291abbc334c2e9198151caf53b9ff7e4d5cc6a852d3",
+      "image_bytes": 105374,
+      "source_url": "https://www.tcgcollector.com/cards/2972/lanturn-ex-legend-maker-19-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 19
+    },
+    {
+      "id": 2973,
+      "set_id": 1127,
+      "set_ids": [
+        1127,
+        1233
+      ],
+      "name": "Lunatone",
+      "number": "20",
+      "number_value": 20,
+      "printed_total": 92,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/3f/04/ef/3f04ef0c0a9a162b5b696dfb1a4b78dda5502dde9ab74d21a36375b08861e52a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/57/14/ac/5714ac7cc741a8f36ad6d55ba6f65f4374455382021e681ea7ec9069b7112dbc.jpg",
+      "image_path": "images/cards/1127/20-2973.webp",
+      "image_sha256": "f558a30f09e135bfc25ac8a357a4f61fac8af89b3a70121aedd9508c64557cee",
+      "image_bytes": 97586,
+      "source_url": "https://www.tcgcollector.com/cards/2973/lunatone-ex-legend-maker-20-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 20
+    },
+    {
+      "id": 2974,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Magmar",
+      "number": "21",
+      "number_value": 21,
+      "printed_total": 92,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/27/e3/fd/27e3fd21921371af7ccbf7be282d242606ba7dae44c33df9fa76b17363b8fb9a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/04/2a/84/042a847ad131d701c22c91287d86b9d0a4d77b66754ae478224b3f2e70f2e0e7.jpg",
+      "image_path": "images/cards/1127/21-2974.webp",
+      "image_sha256": "449f7aa932a95bb710a0ce2ffd6a1a0012d673a47d6d630d709aafd9a534245d",
+      "image_bytes": 113235,
+      "source_url": "https://www.tcgcollector.com/cards/2974/magmar-ex-legend-maker-21-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 21
+    },
+    {
+      "id": 2975,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Magneton",
+      "number": "22",
+      "number_value": 22,
+      "printed_total": 92,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/3f/b3/78/3fb37880a4fa84162a03489e21254eca232899edc473add446fc7e76bea69be1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1a/71/74/1a7174a9c7d75e585fd07144fbcb2705d71f278840a7092af4a8f9011a6d9b74.jpg",
+      "image_path": "images/cards/1127/22-2975.webp",
+      "image_sha256": "4232c2d14bfda78ebbf0e43ee139baa3b4034b7ada78c027577f8cbe86cd7cf8",
+      "image_bytes": 106652,
+      "source_url": "https://www.tcgcollector.com/cards/2975/magneton-ex-legend-maker-22-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 22
+    },
+    {
+      "id": 2976,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Omastar",
+      "number": "23",
+      "number_value": 23,
+      "printed_total": 92,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/bf/66/16/bf66161de882de93d5ed4279804077405fe249bfb6323437675fc001af28dfa5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a8/45/a4/a845a4bc82a54b362ef8d5af0f7771f278ce84b0e7d38f9a156e8517982175f6.jpg",
+      "image_path": "images/cards/1127/23-2976.webp",
+      "image_sha256": "c32b9213162dfbb4ce6eef55d148e731d1c237d0d7f1d157506b080315ed3da2",
+      "image_bytes": 107744,
+      "source_url": "https://www.tcgcollector.com/cards/2976/omastar-ex-legend-maker-23-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 23
+    },
+    {
+      "id": 2977,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Pinsir",
+      "number": "24",
+      "number_value": 24,
+      "printed_total": 92,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/43/63/fa/4363fa569428bf75d0dc847ccbf7c8256cc702a9f07e09230e2c1c5ae6f253f1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a6/a8/00/a6a8009694278a0a3693e19a3595c4fe64e280859fc0fa4f2ada0211d81aa284.jpg",
+      "image_path": "images/cards/1127/24-2977.webp",
+      "image_sha256": "6f9065f8847c2e0bdbfc0902bc2e20fa91c84b77ef1de16a92adb4dd69952ca3",
+      "image_bytes": 112897,
+      "source_url": "https://www.tcgcollector.com/cards/2977/pinsir-ex-legend-maker-24-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 24
+    },
+    {
+      "id": 2978,
+      "set_id": 1127,
+      "set_ids": [
+        1127,
+        1233,
+        1236
+      ],
+      "name": "Solrock",
+      "number": "25",
+      "number_value": 25,
+      "printed_total": 92,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/94/12/32/941232358ff38c6ca64d88e3fc53b0eea9972ef37388fc1844533106de3824be.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0c/05/e0/0c05e0415ac30786abd78e617d43e13dfd98b3c1f4243036a09bc74693eaa9e0.jpg",
+      "image_path": "images/cards/1127/25-2978.webp",
+      "image_sha256": "c4cf5724dfcb7b9aec0f78c4eda0d9ae638856b5082bbccd1c56c9d48e654231",
+      "image_bytes": 112487,
+      "source_url": "https://www.tcgcollector.com/cards/2978/solrock-ex-legend-maker-25-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 25
+    },
+    {
+      "id": 2979,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Spinda",
+      "number": "26",
+      "number_value": 26,
+      "printed_total": 92,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/9c/88/f2/9c88f2a92921b4467e6d7684f02474ce1a9029449b65a165d22bc79bca213a6e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/58/a8/40/58a840281deb110080f9e7a35acc935377b390fb4e56892c6a7c0422bf691003.jpg",
+      "image_path": "images/cards/1127/26-2979.webp",
+      "image_sha256": "d4dbb1e90997b6152995b9db48ec54fb088b921c2baa29c0079256b38deedfb0",
+      "image_bytes": 104696,
+      "source_url": "https://www.tcgcollector.com/cards/2979/spinda-ex-legend-maker-26-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 26
+    },
+    {
+      "id": 2980,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Torkoal",
+      "number": "27",
+      "number_value": 27,
+      "printed_total": 92,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/e5/cc/e1/e5cce1b15a51d63a4cbe77cdf24eef4197024e69ac9a6258acf1e60645f96899.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/95/e6/0e/95e60e42f79ec3afb076b803f5672d8ab2b528bdf6763a6cda3dafaed3e65c9a.jpg",
+      "image_path": "images/cards/1127/27-2980.webp",
+      "image_sha256": "958a82d0db037d42a2a26a377c3d1cbdf90235e24fa2aa4ccb9a46f7d209eb42",
+      "image_bytes": 99494,
+      "source_url": "https://www.tcgcollector.com/cards/2980/torkoal-ex-legend-maker-27-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 27
+    },
+    {
+      "id": 2981,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Wobbuffet",
+      "number": "28",
+      "number_value": 28,
+      "printed_total": 92,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/2c/f9/55/2cf955ae3bf54aa16d8d3e1abd6b41ab19fd6c39b87d0245f8ef08c79ccf5c5a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bf/91/61/bf9161ea29a780ce693449769392d351126c741f98288c000c1e5f1aae5882d1.jpg",
+      "image_path": "images/cards/1127/28-2981.webp",
+      "image_sha256": "ae0149363a18efc2e2c21ca361abd317808266e39ea92613a0e08b0359af3a0e",
+      "image_bytes": 106613,
+      "source_url": "https://www.tcgcollector.com/cards/2981/wobbuffet-ex-legend-maker-28-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 28
+    },
+    {
+      "id": 2982,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Anorith",
+      "number": "29",
+      "number_value": 29,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/a7/db/10/a7db109becf7c7189867006097a2b3d9dbf019f2321bfcd01e872156081c2016.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b5/e5/d9/b5e5d9dd2f75f36087032a1e07e72e9b08829d9048826136bdee026ec45da986.jpg",
+      "image_path": "images/cards/1127/29-2982.webp",
+      "image_sha256": "4445947bd641b6b78aabec6548d8c431eacd3f3558cd9707cfe277f0cb9a6d92",
+      "image_bytes": 106990,
+      "source_url": "https://www.tcgcollector.com/cards/2982/anorith-ex-legend-maker-29-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 29
+    },
+    {
+      "id": 2983,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Cascoon",
+      "number": "30",
+      "number_value": 30,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/9c/80/95/9c80954a2a0a6277b525dfde267ba8f40876f522c1b5f87b9bd59a61aac54634.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/95/a5/37/95a537803d0c7713d24a5d8cdec210abfdc13e4a3c8e1d550863307391e035f7.jpg",
+      "image_path": "images/cards/1127/30-2983.webp",
+      "image_sha256": "d345621ff2e1272e2c25a22f3e73d13947217a44c3006ce2feeab098819c6e5e",
+      "image_bytes": 110768,
+      "source_url": "https://www.tcgcollector.com/cards/2983/cascoon-ex-legend-maker-30-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 30
+    },
+    {
+      "id": 2984,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Dunsparce",
+      "number": "31",
+      "number_value": 31,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f9/8e/a7/f98ea7d887e6ac0cb88db32fb2c428902a6bd54b0110c1efaa0899fbf4ddfcc0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/29/b3/23/29b3237e953657e38406ece23fa7a73d8a1110475f52c1306d07440e8dd9aa52.jpg",
+      "image_path": "images/cards/1127/31-2984.webp",
+      "image_sha256": "e98d653cb3054dc2ff5bc0740ea8b527b71b9c3c43c28ad961c88421cebb6b88",
+      "image_bytes": 109638,
+      "source_url": "https://www.tcgcollector.com/cards/2984/dunsparce-ex-legend-maker-31-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 31
+    },
+    {
+      "id": 2985,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Electrode",
+      "number": "32",
+      "number_value": 32,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/42/c5/04/42c504c6131486127030144b8ceb7104557a20cf9dff27b5067c42efd20f5e5a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fd/b0/4c/fdb04c61493a985fef8cfc1fd4fa2266e886419128e98e8a33fac21298606233.jpg",
+      "image_path": "images/cards/1127/32-2985.webp",
+      "image_sha256": "d35c2d7d0e70eedc84c6e1204953907164226f29f51bf2f33125974395d10c86",
+      "image_bytes": 98437,
+      "source_url": "https://www.tcgcollector.com/cards/2985/electrode-ex-legend-maker-32-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 32
+    },
+    {
+      "id": 2986,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Furret",
+      "number": "33",
+      "number_value": 33,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/7e/db/bb/7edbbb16e6b454c6ab94157a30c777b895a81e72177062979d42420cbc99648c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/98/69/cd/9869cd45717f26f5371c417190056c1a1f7c55c12f58d843b7bd7846515e15ca.jpg",
+      "image_path": "images/cards/1127/33-2986.webp",
+      "image_sha256": "3ce0b3f6d947e52ac32d968b815c28a31e2e4e4d4a1f37a3690c0c0c2603396e",
+      "image_bytes": 97318,
+      "source_url": "https://www.tcgcollector.com/cards/2986/furret-ex-legend-maker-33-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 33
+    },
+    {
+      "id": 2987,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Graveler",
+      "number": "34",
+      "number_value": 34,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/aa/70/3b/aa703bd557f4319f8bdea3a4dc729a29d87a4970749ac153267f1054c128425e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/aa/04/5c/aa045c4a94fad867f8fa96beb5a3523620d5e8b84bf246f7c783f9b3c381ddba.jpg",
+      "image_path": "images/cards/1127/34-2987.webp",
+      "image_sha256": "3ddb2f3f3fd42dbe5f0d4aa412cbd31a637d00434653a7f6c13251d90536a7ce",
+      "image_bytes": 118149,
+      "source_url": "https://www.tcgcollector.com/cards/2987/graveler-ex-legend-maker-34-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 34
+    },
+    {
+      "id": 2988,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Haunter",
+      "number": "35",
+      "number_value": 35,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/37/c4/41/37c441e8e5664e330ae58f477b7fb1a144f2e92951852be87084272f30be1080.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/28/5c/dc/285cdcd4fb91a13fe73d11513c51d461b3a602a1a52cfd9cf7918adf2efc86df.jpg",
+      "image_path": "images/cards/1127/35-2988.webp",
+      "image_sha256": "63146208bbf9d4b5da7973adcf02ad6cd00f88ac6b04efdf639b11730cf667ae",
+      "image_bytes": 107714,
+      "source_url": "https://www.tcgcollector.com/cards/2988/haunter-ex-legend-maker-35-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 35
+    },
+    {
+      "id": 2989,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Kabuto",
+      "number": "36",
+      "number_value": 36,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/3d/95/ed/3d95ed7d262f49d32e9ffa82da11b8fb8a27ccb0919311cc861314a3ad7f1dfc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d2/dc/9d/d2dc9d75f38b5bc3af8c9e3ad48aac1008dde42a04155f873b71bca18e9d3c75.jpg",
+      "image_path": "images/cards/1127/36-2989.webp",
+      "image_sha256": "5d967f40edcb7d6b6bc8ca862f88114a863cd2a38b61f4be081afc5b64dff446",
+      "image_bytes": 103463,
+      "source_url": "https://www.tcgcollector.com/cards/2989/kabuto-ex-legend-maker-36-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 36
+    },
+    {
+      "id": 2990,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Kecleon",
+      "number": "37",
+      "number_value": 37,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/80/00/d2/8000d290ceed1dfc6ef8bcea88f3d71d0257a2f28a667eb5da7f72dba1fdb147.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4c/72/c1/4c72c1297f971c2d0123a04fc147d683a25f8da39f081505b667e3522bc23399.jpg",
+      "image_path": "images/cards/1127/37-2990.webp",
+      "image_sha256": "aa5e968638c6b198242194df82707b1333c4247b7c687293972d6e810cb0db9e",
+      "image_bytes": 114248,
+      "source_url": "https://www.tcgcollector.com/cards/2990/kecleon-ex-legend-maker-37-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 37
+    },
+    {
+      "id": 2991,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Lairon",
+      "number": "38",
+      "number_value": 38,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/eb/f4/a4/ebf4a45abec6ef57021fba867c0ffc97ac46fa8a6168b8628b4e0c649ca862ec.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2d/c8/82/2dc882be367a7139dda8fe17882cc4f4c84339996fa1a27be5596f418d5346a3.jpg",
+      "image_path": "images/cards/1127/38-2991.webp",
+      "image_sha256": "2eeacac8fa6727ab5bf500f57668bdd96e60be84e8e85499e20ed538dc87edb9",
+      "image_bytes": 121207,
+      "source_url": "https://www.tcgcollector.com/cards/2991/lairon-ex-legend-maker-38-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 38
+    },
+    {
+      "id": 2992,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Machoke",
+      "number": "39",
+      "number_value": 39,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/e5/23/33/e523339a152ab68261441b6ab8dd7d4fa8932fea68d4e0e25322125d9450e486.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e4/d0/12/e4d012dd6add9cf05781f8baaa721b23c99174776716f2cfffc96908b401130a.jpg",
+      "image_path": "images/cards/1127/39-2992.webp",
+      "image_sha256": "fa61f4b161d170eda43d7e66ab9c59285639c06c78d0d50d903f00e345348bdb",
+      "image_bytes": 103669,
+      "source_url": "https://www.tcgcollector.com/cards/2992/machoke-ex-legend-maker-39-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 39
+    },
+    {
+      "id": 2993,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Misdreavus",
+      "number": "40",
+      "number_value": 40,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/67/48/d5/6748d5e029cd68dc3655a4edd6f90dc5282f35a69fbbae0b36f8572b4e58c7ef.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/41/2b/08/412b088c9eb45bb7050b8495628eb373004029b4b7642dd6dd988e0d737c7058.jpg",
+      "image_path": "images/cards/1127/40-2993.webp",
+      "image_sha256": "c54d1db7ca1f661f7357696b18c9e6b827096f002dccfeb77400406899eb86e7",
+      "image_bytes": 115293,
+      "source_url": "https://www.tcgcollector.com/cards/2993/misdreavus-ex-legend-maker-40-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 40
+    },
+    {
+      "id": 2994,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Nuzleaf",
+      "number": "41",
+      "number_value": 41,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f3/03/05/f30305377a852cf590a2d8c5327fea6e52263cc114776492f979e075aa381185.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4d/18/29/4d18296c5e2fdb48aa6f3fb8c9dea5ae882a0a269f1986a408c93910fea49c0e.jpg",
+      "image_path": "images/cards/1127/41-2994.webp",
+      "image_sha256": "d51c745e3a55eda61ccf2c302dbf3c6ed802136c93af193271e49851fb4be243",
+      "image_bytes": 93686,
+      "source_url": "https://www.tcgcollector.com/cards/2994/nuzleaf-ex-legend-maker-41-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 41
+    },
+    {
+      "id": 2995,
+      "set_id": 1127,
+      "set_ids": [
+        1127,
+        1232
+      ],
+      "name": "Roselia",
+      "number": "42",
+      "number_value": 42,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/2b/3b/c7/2b3bc7b89a4c3f27d226f32f4ade90751c3d09663da6074576fbb973cc4ffd84.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bf/44/9e/bf449e7fca8921ad94df94aef3fdff7a266823d91533144f833533b8e8631242.jpg",
+      "image_path": "images/cards/1127/42-2995.webp",
+      "image_sha256": "f90ebb623be4c43e509dae30bb8d76cf58f6f2ec7ec7b71545c7f3c97d14d214",
+      "image_bytes": 109103,
+      "source_url": "https://www.tcgcollector.com/cards/2995/roselia-ex-legend-maker-42-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 42
+    },
+    {
+      "id": 2996,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Sealeo",
+      "number": "43",
+      "number_value": 43,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/07/78/1c/07781cc488369bf1b1e23e7b005fdc378c841ec406731138901d3fd8713fee43.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/aa/78/e1/aa78e1927155c3430c48041451a3df1fd61e418e21d58fb1d93ec08fc05d8037.jpg",
+      "image_path": "images/cards/1127/43-2996.webp",
+      "image_sha256": "4af9128657b0f5d1864f9c62ce195dc5e3810a9f886705bdd92cce8730dca1d1",
+      "image_bytes": 106640,
+      "source_url": "https://www.tcgcollector.com/cards/2996/sealeo-ex-legend-maker-43-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 43
+    },
+    {
+      "id": 2997,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Tangela",
+      "number": "44",
+      "number_value": 44,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/5f/5a/11/5f5a1194ef8bca64927ced97a125abc0b8032fef94d1ae85b10a15e88942bf6b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/40/41/55/4041552e599c3723a0b40d6b8fed7b571f34f8e24849bb78283bac840fef934d.jpg",
+      "image_path": "images/cards/1127/44-2997.webp",
+      "image_sha256": "69427233600a183679e941f471ecba5775a9df316ac6d4bef45b413d2be8f4c1",
+      "image_bytes": 121122,
+      "source_url": "https://www.tcgcollector.com/cards/2997/tangela-ex-legend-maker-44-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 44
+    },
+    {
+      "id": 2998,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Tentacruel",
+      "number": "45",
+      "number_value": 45,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/bb/63/06/bb63063bd9d4eaed74d9bfc2d44c88754ea9765ac02919abf029f495595761ae.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a6/f6/f2/a6f6f2a07ec0fb692b50ed03edc1e64f3e1ee1167325cb0c014e11536ec3a07f.jpg",
+      "image_path": "images/cards/1127/45-2998.webp",
+      "image_sha256": "89c0358b750891a45d4a2e2ce109e46abfda2827819666a03521f09da2a0b5aa",
+      "image_bytes": 117134,
+      "source_url": "https://www.tcgcollector.com/cards/2998/tentacruel-ex-legend-maker-45-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 45
+    },
+    {
+      "id": 2999,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Vibrava",
+      "number": "46",
+      "number_value": 46,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ce/d3/6a/ced36a138da992dcb1ef7a8eb4ac5260fcb50d11f1637455d8004baea0baf245.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d7/f2/d2/d7f2d20854ef7a65bffd9459d1d9e5711ed92a5a453e41a2d408a9456dcf5dae.jpg",
+      "image_path": "images/cards/1127/46-2999.webp",
+      "image_sha256": "1d2634d40eae605fd81f0ea0a06dd5b8c42ea2be130d8b3e55c0964dd6583cce",
+      "image_bytes": 96771,
+      "source_url": "https://www.tcgcollector.com/cards/2999/vibrava-ex-legend-maker-46-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 46
+    },
+    {
+      "id": 3000,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Weepinbell",
+      "number": "47",
+      "number_value": 47,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/7f/9b/b8/7f9bb8122e395b02637d74761209d640cd1a36919ac20e08c64feffb97aa2f95.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/08/13/ef/0813efd5076d2d44839b693c345c748e016858f5bbf6541d3c534ea0c1666b1e.jpg",
+      "image_path": "images/cards/1127/47-3000.webp",
+      "image_sha256": "75047e7481ea36cd52a93f9bed1b1341f3790d305d55fe47ed809161034a1a84",
+      "image_bytes": 92883,
+      "source_url": "https://www.tcgcollector.com/cards/3000/weepinbell-ex-legend-maker-47-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 47
+    },
+    {
+      "id": 3001,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Aron",
+      "number": "48",
+      "number_value": 48,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/5c/da/5c/5cda5ce0081aa3cc0f8e3998c6fde7b7edcf89bedcd1f07519ce14cfdb5e1484.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0a/3b/a6/0a3ba6c55f386d1d533eb95ac11dcf14b3f7d517d70030387229a147b4fd8cee.jpg",
+      "image_path": "images/cards/1127/48-3001.webp",
+      "image_sha256": "360ee9cd4316a69999c864516c181a93fd3e3a2f62fe7f7c4af351b86d3cce67",
+      "image_bytes": 117362,
+      "source_url": "https://www.tcgcollector.com/cards/3001/aron-ex-legend-maker-48-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 48
+    },
+    {
+      "id": 3002,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Bellsprout",
+      "number": "49",
+      "number_value": 49,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/db/4f/d3/db4fd3bd9b743f02726fc45e2f419ad8410594cf22eabe7a90a5270aeb968e0e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/06/1f/68/061f6847eccf2a0ae9429cda94d6d51246b0304f5b6b33b4f614d8a3292cc39b.jpg",
+      "image_path": "images/cards/1127/49-3002.webp",
+      "image_sha256": "de7c1840829f0da720cf75d2f915260e7f21213f264657a437cb6dbbcb86e68a",
+      "image_bytes": 95240,
+      "source_url": "https://www.tcgcollector.com/cards/3002/bellsprout-ex-legend-maker-49-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 49
+    },
+    {
+      "id": 3003,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Chinchou",
+      "number": "50",
+      "number_value": 50,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/71/eb/53/71eb5346b2ec8f437dd632306d141455f242254929f471ed1ad0567f947948fa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c6/29/61/c62961f1ccc2a1086646b257cb7324394a5cb894e675f26adca7c4a44810eb5a.jpg",
+      "image_path": "images/cards/1127/50-3003.webp",
+      "image_sha256": "1db7826ce63fc9d36d6b23218a72b21c77be6d530ac356456d0888ce4bb70e58",
+      "image_bytes": 99282,
+      "source_url": "https://www.tcgcollector.com/cards/3003/chinchou-ex-legend-maker-50-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 50
+    },
+    {
+      "id": 3004,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Clamperl",
+      "number": "51",
+      "number_value": 51,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/52/72/39/5272395aab74ad23a49987da623ebafca97505dbf04f2c3b1aff26c6c95dfbe8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4f/9b/12/4f9b121ebab87a1f179be253846859ad54c6ceb89ac4a563ac3b798b6503febb.jpg",
+      "image_path": "images/cards/1127/51-3004.webp",
+      "image_sha256": "43abe9a1158cbfcc8b24c3e9a84174705a10e74c993228c95a4776a64c4ee144",
+      "image_bytes": 104525,
+      "source_url": "https://www.tcgcollector.com/cards/3004/clamperl-ex-legend-maker-51-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 51
+    },
+    {
+      "id": 3005,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Gastly",
+      "number": "52",
+      "number_value": 52,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e2/24/38/e224386e3c9d2ee933ef320e395c1c33e5f492cfe06eec324d3576770ac49eb4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6c/78/b1/6c78b138b190be553c1882e5ccbad969ff0f35f43a72e9d6fed04d75100e3310.jpg",
+      "image_path": "images/cards/1127/52-3005.webp",
+      "image_sha256": "cb2af13cf5855e435a8cce1b58c2c22fa7f5832e7aefc1bd25c1cf940d65335d",
+      "image_bytes": 99874,
+      "source_url": "https://www.tcgcollector.com/cards/3005/gastly-ex-legend-maker-52-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 52
+    },
+    {
+      "id": 3006,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Geodude",
+      "number": "53",
+      "number_value": 53,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/4a/ce/d9/4aced98981ba2f25734bb0a1968718c5a804b4e0fc29ef8f28b42a8aa175cbaf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/70/2c/24/702c24b9b91751b44ae4958f5b7552cb02ab50ab9684f3f50159ab67a99134af.jpg",
+      "image_path": "images/cards/1127/53-3006.webp",
+      "image_sha256": "79a7e0cb69b30865609bdc3c1e6f443a42098db357a9fa61db5f21b2a7b8c1c9",
+      "image_bytes": 105093,
+      "source_url": "https://www.tcgcollector.com/cards/3006/geodude-ex-legend-maker-53-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 53
+    },
+    {
+      "id": 3007,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Grimer",
+      "number": "54",
+      "number_value": 54,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/c5/e5/b1/c5e5b187667bdef26bd40e930acec89566050bc4360abf578a0616cb83ea15ed.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ec/fe/64/ecfe644729efcc5552bbe3816e4299643c564c0f29ce92c91509fb4ed3235b74.jpg",
+      "image_path": "images/cards/1127/54-3007.webp",
+      "image_sha256": "f881708ee015b48271471467944bf3258590ab2ac217df446400517b92b25264",
+      "image_bytes": 101937,
+      "source_url": "https://www.tcgcollector.com/cards/3007/grimer-ex-legend-maker-54-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 54
+    },
+    {
+      "id": 3008,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Growlithe",
+      "number": "55",
+      "number_value": 55,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/1d/18/f2/1d18f2f2a77f859f48620b2abec67323a85c05b1b88855d58e6b69901fae30be.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ff/e7/e0/ffe7e0b94741f0a0d4a48fa8d2397af33fe3e0e5095c96a3eb0f8469b0ccfb78.jpg",
+      "image_path": "images/cards/1127/55-3008.webp",
+      "image_sha256": "63f8f7a86dcd25e4717eeb8e8d07c867f650ff3f6ef40adb24d9dd432a29ce7f",
+      "image_bytes": 98439,
+      "source_url": "https://www.tcgcollector.com/cards/3008/growlithe-ex-legend-maker-55-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 55
+    },
+    {
+      "id": 3009,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Lileep",
+      "number": "56",
+      "number_value": 56,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f5/a8/f5/f5a8f506ba6ad62cdd381fdb1ad50586e2d5d8834ce856ab9be4f8014b04f984.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ac/00/f9/ac00f9c36686c1a2ef210d95a1f77923f664b4ad14e3d1fc44ac64fda5206a80.jpg",
+      "image_path": "images/cards/1127/56-3009.webp",
+      "image_sha256": "74229d4850797bb4c9f41c73f549a74b61ae382fb9ea823adb07c8ad45af4542",
+      "image_bytes": 99609,
+      "source_url": "https://www.tcgcollector.com/cards/3009/lileep-ex-legend-maker-56-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 56
+    },
+    {
+      "id": 3010,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Machop",
+      "number": "57",
+      "number_value": 57,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/18/15/0f/18150fd43afbcc58f7d0cb18a68ba271a68eace3cee9c551f43a66c4f3b914df.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0e/b9/fb/0eb9fb53fabeeae9b473c1aaab158dd3990cf352e3e3a8af444080c62a00694b.jpg",
+      "image_path": "images/cards/1127/57-3010.webp",
+      "image_sha256": "013e04ff39353fe912d3ca45ebe8be67f16e59724f933649355d56c41ec59a72",
+      "image_bytes": 118321,
+      "source_url": "https://www.tcgcollector.com/cards/3010/machop-ex-legend-maker-57-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 57
+    },
+    {
+      "id": 3011,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Magby",
+      "number": "58",
+      "number_value": 58,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/8a/ad/15/8aad1556fc29a217823965ae0c5924cd10d99bfc9f0eab8d8941983349c5d195.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cd/24/2a/cd242afcca856376231481c16fdd6bd571fc5fc7f3366b140e82c7a6c0145ef9.jpg",
+      "image_path": "images/cards/1127/58-3011.webp",
+      "image_sha256": "08087143372d62f5f094a9cc630fd878bffb903ce6c3fd6e5e3de4e378875501",
+      "image_bytes": 100345,
+      "source_url": "https://www.tcgcollector.com/cards/3011/magby-ex-legend-maker-58-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 58
+    },
+    {
+      "id": 3012,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Magnemite",
+      "number": "59",
+      "number_value": 59,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/90/af/e2/90afe266f9e47691dac5f62c455f1659d7e1a4264cc0cda5752bced77af95334.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/63/f0/5b/63f05bc70112d0f312bc423ed6c38cc08556080c903e3e4c773aa18176f911f0.jpg",
+      "image_path": "images/cards/1127/59-3012.webp",
+      "image_sha256": "08954dd11e3e1b398836c0a8a008bd78709c3c2477d4f23731ef1d8ba76a0579",
+      "image_bytes": 106142,
+      "source_url": "https://www.tcgcollector.com/cards/3012/magnemite-ex-legend-maker-59-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 59
+    },
+    {
+      "id": 3013,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Omanyte",
+      "number": "60",
+      "number_value": 60,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/21/25/e7/2125e718a0bddf443f6d07a16ffa9929f33c57eeee8f1e0baf35c4655e9cc558.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1a/49/0c/1a490cc79f0695a1a4c7a90b869c77f5cee6d04e03048b5efbfd2767394b90f4.jpg",
+      "image_path": "images/cards/1127/60-3013.webp",
+      "image_sha256": "9eea68b23861c2b226b8aec49e8cb64bbf96830eb4a95ca20ebbffa543ed2a1d",
+      "image_bytes": 107480,
+      "source_url": "https://www.tcgcollector.com/cards/3013/omanyte-ex-legend-maker-60-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 60
+    },
+    {
+      "id": 3014,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Seedot",
+      "number": "61",
+      "number_value": 61,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/9f/4f/9d/9f4f9d88b98c38ee97f654544f4cba155980e73ed0d949f4c6169ebfff68324d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/61/90/a2/6190a2f1688401e960ea0f8ffaca0957ff141ca07d48b9add3cd5a4b1067cf24.jpg",
+      "image_path": "images/cards/1127/61-3014.webp",
+      "image_sha256": "d50506527c7c417a530d54db220cbe6754f8270ecfcfc101f3f1d9244a2da52e",
+      "image_bytes": 100865,
+      "source_url": "https://www.tcgcollector.com/cards/3014/seedot-ex-legend-maker-61-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 61
+    },
+    {
+      "id": 3015,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Sentret",
+      "number": "62",
+      "number_value": 62,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/2f/8c/8f/2f8c8fcd2ca59327e8715e3574a8ce3012cd3beafd78b25b5b0e124ff12353a3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0b/f5/71/0bf571f1739c5484fb037456e6698c4b580f688100d70b220115443fbd956a47.jpg",
+      "image_path": "images/cards/1127/62-3015.webp",
+      "image_sha256": "ead7324d0489e2add0b4809f274a6d521dd148b041aa3e98d8cf6fc58087dae0",
+      "image_bytes": 101515,
+      "source_url": "https://www.tcgcollector.com/cards/3015/sentret-ex-legend-maker-62-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 62
+    },
+    {
+      "id": 3016,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Shuppet",
+      "number": "63",
+      "number_value": 63,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/21/7c/38/217c381f42fbbfd34c0c6e2fd65e70d552ee3eff054a90df44b109890220f458.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/09/6c/16/096c160bb4c1c8c3c825483674326d999642b089de3e4c851324c74aab541a16.jpg",
+      "image_path": "images/cards/1127/63-3016.webp",
+      "image_sha256": "a9e26eb9085d04bba9888f0503b938fc82bf7a96f2a8ec8020fd02c670b67b2b",
+      "image_bytes": 92291,
+      "source_url": "https://www.tcgcollector.com/cards/3016/shuppet-ex-legend-maker-63-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 63
+    },
+    {
+      "id": 3017,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Skitty",
+      "number": "64",
+      "number_value": 64,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/de/62/be/de62bea4c16e8ec26e55dfffe614dd13e25f987435a73415b5f35b7ed51c664a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/94/19/2a/94192aa421d2475869650e8280f0a9c9065c9ead2528a2ae9c4cbf795ac3696a.jpg",
+      "image_path": "images/cards/1127/64-3017.webp",
+      "image_sha256": "8bed0f7418b08997734094a55ce51900113694bc3b8568384185fd3d0b7d4bde",
+      "image_bytes": 106957,
+      "source_url": "https://www.tcgcollector.com/cards/3017/skitty-ex-legend-maker-64-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 64
+    },
+    {
+      "id": 3018,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Spheal",
+      "number": "65",
+      "number_value": 65,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f1/f4/a1/f1f4a18420b8fb044a69d2e0584b091b5fa311f42b2f37faab38631ce8cf25ee.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e1/b6/a6/e1b6a66d67e4adf4a7433613d9efd39c534e967b528fc5fbfd8930bad097f5aa.jpg",
+      "image_path": "images/cards/1127/65-3018.webp",
+      "image_sha256": "03791482092d161dd1cb57a267c9f74bb777e9cf767125f485f9f23d411c9b6d",
+      "image_bytes": 93759,
+      "source_url": "https://www.tcgcollector.com/cards/3018/spheal-ex-legend-maker-65-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 65
+    },
+    {
+      "id": 3019,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Tentacool",
+      "number": "66",
+      "number_value": 66,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/80/10/b5/8010b55ec1c2972c8f2c54f37d24e54600025b761250bdeb732ea2ba170361c6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bc/03/19/bc0319e03e2153b354c143d77b95c8b52f9db3d60fed6e9a54a3ec69dd205371.jpg",
+      "image_path": "images/cards/1127/66-3019.webp",
+      "image_sha256": "581059a4aa905d7d20db547fd256bf5f50133d0c0b4ea8e51f5390d450a3d4bb",
+      "image_bytes": 105113,
+      "source_url": "https://www.tcgcollector.com/cards/3019/tentacool-ex-legend-maker-66-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 66
+    },
+    {
+      "id": 3020,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Trapinch",
+      "number": "67",
+      "number_value": 67,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/02/d6/c4/02d6c400eedf0e78f154e32c3deef649b850eb1a5db3cd7b754d8fa06314ee78.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/47/98/87/479887a7ee5d41d67725adf6d0d42d3e4867d64d4dd636852b84ca7a1f420a1e.jpg",
+      "image_path": "images/cards/1127/67-3020.webp",
+      "image_sha256": "85abfb048392f3d26b6151568e5f747b2cebd647feb34c41a1e80bf03ec97a33",
+      "image_bytes": 107255,
+      "source_url": "https://www.tcgcollector.com/cards/3020/trapinch-ex-legend-maker-67-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 67
+    },
+    {
+      "id": 3021,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Voltorb",
+      "number": "68",
+      "number_value": 68,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/10/b5/cf/10b5cfa93b94ce01fe04d4cfdbd47f350d3a1015ea64743fae3f691c2dc0ed9d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0f/6d/a7/0f6da7b4ba4a2a64301b3a72f52572dae6767ee2e1c1b1b782de213b91a4f15f.jpg",
+      "image_path": "images/cards/1127/68-3021.webp",
+      "image_sha256": "59dbdfdb5b53653911e542037a762a7db3e2974bffccbee4e034933c5cc8e5e0",
+      "image_bytes": 87567,
+      "source_url": "https://www.tcgcollector.com/cards/3021/voltorb-ex-legend-maker-68-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 68
+    },
+    {
+      "id": 3022,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Wailmer",
+      "number": "69",
+      "number_value": 69,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ec/42/9d/ec429d25a1f228e1f34df2e2f3f16b1473f3cebad613eca749dfdbeb508be6d3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ba/0f/2f/ba0f2f74bbb916b18224ba416ee8b9bef7a7028f08ff2986143bd7e02bc405e2.jpg",
+      "image_path": "images/cards/1127/69-3022.webp",
+      "image_sha256": "b44e31f7bd0e32865537383f277f5f858853b7ebc3afb7a5098735bf226f3f06",
+      "image_bytes": 105340,
+      "source_url": "https://www.tcgcollector.com/cards/3022/wailmer-ex-legend-maker-69-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 69
+    },
+    {
+      "id": 3023,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Wurmple",
+      "number": "70",
+      "number_value": 70,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/dc/be/90/dcbe90363459044bca44a4e76cf8e2e7e3287cc4d290cbf58683303bccd61aee.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e3/ce/e7/e3cee724aa7bcc56725b7a9d6881b7eb311cc968822f9e3a34ccc6388692edf2.jpg",
+      "image_path": "images/cards/1127/70-3023.webp",
+      "image_sha256": "a984e3cb9b3edeb248f835ecd11123c66bafcdceb802bb92d307a9915e9e494f",
+      "image_bytes": 116514,
+      "source_url": "https://www.tcgcollector.com/cards/3023/wurmple-ex-legend-maker-70-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 70
+    },
+    {
+      "id": 3024,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Wynaut",
+      "number": "71",
+      "number_value": 71,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/9a/f7/2f/9af72f2cfaaf9730d2e4dc7d2d38c2b793a919c7a4935ea346345b520a603f11.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ed/e3/89/ede38900b354fd1053f4274e692e06e0a908f45082867999e3a5e5f691a976c6.jpg",
+      "image_path": "images/cards/1127/71-3024.webp",
+      "image_sha256": "b25c9ca2371b9be7b446b8d61013915a8ed693c47c9e0daf4a5abdf5225a8aea",
+      "image_bytes": 105479,
+      "source_url": "https://www.tcgcollector.com/cards/3024/wynaut-ex-legend-maker-71-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 71
+    },
+    {
+      "id": 3025,
+      "set_id": 1127,
+      "set_ids": [
+        1127,
+        1232,
+        1233,
+        1237
+      ],
+      "name": "Cursed Stone",
+      "number": "72",
+      "number_value": 72,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ab/0c/bc/ab0cbc7645e06dc829168401ae62c3c91702166b7a1612c93648a4a7daeb6f57.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c6/35/ff/c635ff0d7191f7951bee6c81f84900702f862719e975d9e812adc29c5bd7ed54.jpg",
+      "image_path": "images/cards/1127/72-3025.webp",
+      "image_sha256": "56759736a938623297ad8b760945efecd26dcc20be4486f70af4cef99b5739d3",
+      "image_bytes": 103421,
+      "source_url": "https://www.tcgcollector.com/cards/3025/cursed-stone-ex-legend-maker-72-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 72
+    },
+    {
+      "id": 3026,
+      "set_id": 1127,
+      "set_ids": [
+        1127,
+        1234
+      ],
+      "name": "Fieldworker",
+      "number": "73",
+      "number_value": 73,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/6b/81/44/6b8144f4369d6dd07cbb545b52350d6173794cb0265f7ec7b50169e77f7899c2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a6/80/c9/a680c90089ccda46e04183901aa8a7a36c94aa0e985b665f512550c45fd190ee.jpg",
+      "image_path": "images/cards/1127/73-3026.webp",
+      "image_sha256": "fecd8f4daa4265b569379c32623964fbaf6ed0d96411d037e8f0bd4902c943ae",
+      "image_bytes": 87573,
+      "source_url": "https://www.tcgcollector.com/cards/3026/fieldworker-ex-legend-maker-73-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 73
+    },
+    {
+      "id": 3027,
+      "set_id": 1127,
+      "set_ids": [
+        1127,
+        1231
+      ],
+      "name": "Full Flame",
+      "number": "74",
+      "number_value": 74,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/4a/51/9f/4a519f19546ce08a56e69798d4b08e9ec8425fc22e88911fe4cc4f8c8ff4836d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9b/0a/00/9b0a0061f3cec8ec9cbd97c9b919bf2c9b1d16ab8b0f16c4ecb9848e8961cbe8.jpg",
+      "image_path": "images/cards/1127/74-3027.webp",
+      "image_sha256": "8299f0bd093073aba34b15ca1242d28c465518209bded79da96c3afde84e84d4",
+      "image_bytes": 96763,
+      "source_url": "https://www.tcgcollector.com/cards/3027/full-flame-ex-legend-maker-74-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 74
+    },
+    {
+      "id": 3028,
+      "set_id": 1127,
+      "set_ids": [
+        1127,
+        1231,
+        1235
+      ],
+      "name": "Giant Stump",
+      "number": "75",
+      "number_value": 75,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/1c/3c/af/1c3cafa47d9fd21108612395db8b49937636963db55731d44bc51cd753e3d4b0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a5/8b/4e/a58b4eeac4e6495bc79ae68f69de791bfd232b97af10b94ee251a6b85ead87e0.jpg",
+      "image_path": "images/cards/1127/75-3028.webp",
+      "image_sha256": "072ec55fd3b503e72806d1b3ac6aff67e0ef3cbb4b4757fca61e4c81b46c00dc",
+      "image_bytes": 99843,
+      "source_url": "https://www.tcgcollector.com/cards/3028/giant-stump-ex-legend-maker-75-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 75
+    },
+    {
+      "id": 3029,
+      "set_id": 1127,
+      "set_ids": [
+        1127,
+        1230,
+        1234
+      ],
+      "name": "Power Tree",
+      "number": "76",
+      "number_value": 76,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/19/66/d1/1966d1cad88df74ca53b6ab09c8efc9c01eec1b10fa8303822f6bed01dd58c5d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c5/ca/2d/c5ca2d48db05531b693980738a5e8856171b18a92ca98f1b593860747dd3448b.jpg",
+      "image_path": "images/cards/1127/76-3029.webp",
+      "image_sha256": "8f722b7fe73b63ff7ed03c776400df0763aa2afd9158cb1a013e258c9acba211",
+      "image_bytes": 103603,
+      "source_url": "https://www.tcgcollector.com/cards/3029/power-tree-ex-legend-maker-76-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 76
+    },
+    {
+      "id": 3030,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Strange Cave",
+      "number": "77",
+      "number_value": 77,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/cd/84/4a/cd844af3367dd6023d320086b494328d193270619b1d3103bd5fe938bbcd91f4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1b/d5/64/1bd5641f1d33a62187979962ee6e1e33d38389f7908c572b6e2015560e227486.jpg",
+      "image_path": "images/cards/1127/77-3030.webp",
+      "image_sha256": "c2a11e970ec62dd802f7a73e2323f410548a78851aae3cd2c8f0197347179991",
+      "image_bytes": 98488,
+      "source_url": "https://www.tcgcollector.com/cards/3030/strange-cave-ex-legend-maker-77-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 77
+    },
+    {
+      "id": 3031,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Claw Fossil",
+      "number": "78",
+      "number_value": 78,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/bb/fd/d0/bbfdd0e63695637f4ca042f94c6922c840f2b559b410285137724e53f32b1678.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/12/3c/d6/123cd6d6b1211a91d9da480994a3b5305638696c785bcc88b779990ce9608883.jpg",
+      "image_path": "images/cards/1127/78-3031.webp",
+      "image_sha256": "1c7545d1d1c779900e1949cc45b1fb39930a8ee5fb96eab6f3809e91c789d55e",
+      "image_bytes": 103610,
+      "source_url": "https://www.tcgcollector.com/cards/3031/claw-fossil-ex-legend-maker-78-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 78
+    },
+    {
+      "id": 3032,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Mysterious Fossil",
+      "number": "79",
+      "number_value": 79,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/2c/7e/56/2c7e56836728309d8b64fa455c8df0d8ae04f3199e84e6f029cd816c8dc1a09d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/95/9a/cc/959accc7c2b14ead08801d5ea3ac676a0deb26836b80f29f4c9a9c7dfb62f1bf.jpg",
+      "image_path": "images/cards/1127/79-3032.webp",
+      "image_sha256": "1960dd8a253604f21b3038a426d3c216cce6dbbbf5571dc3ce25954a95140760",
+      "image_bytes": 102889,
+      "source_url": "https://www.tcgcollector.com/cards/3032/mysterious-fossil-ex-legend-maker-79-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 79
+    },
+    {
+      "id": 3033,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Root Fossil",
+      "number": "80",
+      "number_value": 80,
+      "printed_total": 92,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e8/3e/76/e83e76dcb04991887f5f49c9f6d612269889a77c49e43c48c791597501db41a8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/93/ae/20/93ae20c4e504fe1f8f662c34443bf9040745b954d55e9f3dfffbe3d565ce5c48.jpg",
+      "image_path": "images/cards/1127/80-3033.webp",
+      "image_sha256": "3ef6cc81ae3db7151b6ec96b7bebe70f5544e4988b45aaa2921f04431d5f114e",
+      "image_bytes": 98598,
+      "source_url": "https://www.tcgcollector.com/cards/3033/root-fossil-ex-legend-maker-80-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 80
+    },
+    {
+      "id": 3034,
+      "set_id": 1127,
+      "set_ids": [
+        1127,
+        1236
+      ],
+      "name": "Rainbow Energy",
+      "number": "81",
+      "number_value": 81,
+      "printed_total": 92,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/25/f3/d9/25f3d97fed9ca71b362f1266295b8cca0aa9c2114f9c01bcc3c04713743508bd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/80/cf/0f/80cf0f8d6d1ecae2ba3282ccfe530af694c9f9d9aa8429cd64fe9766c1d81dc9.jpg",
+      "image_path": "images/cards/1127/81-3034.webp",
+      "image_sha256": "56e5d5066ab76627e8c783ca86e465b00c62cb9e15d86006fae0b0b2ca77bce6",
+      "image_bytes": 92956,
+      "source_url": "https://www.tcgcollector.com/cards/3034/rainbow-energy-ex-legend-maker-81-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 81
+    },
+    {
+      "id": 3035,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "React Energy",
+      "number": "82",
+      "number_value": 82,
+      "printed_total": 92,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/18/b5/57/18b557762ef6453259f4026029a90dfac92b0a3daab48e24a74ae518d98767a8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fd/9d/98/fd9d98617147c8f27a35b0f45fce5fa22901c5a41e8e26934b626e9521fdb568.jpg",
+      "image_path": "images/cards/1127/82-3035.webp",
+      "image_sha256": "db1fd9b8c36cd2a43437303138c32d76b393f1c3c6cbc539db60cbcf459b7244",
+      "image_bytes": 77073,
+      "source_url": "https://www.tcgcollector.com/cards/3035/react-energy-ex-legend-maker-82-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 82
+    },
+    {
+      "id": 3036,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Arcanine ex",
+      "number": "83",
+      "number_value": 83,
+      "printed_total": 92,
+      "rarity": "Rare Holo ex",
+      "image_url": "https://static.tcgcollector.com/content/images/04/5e/c0/045ec0731df76c0d2322e587f4760f96aeab5d00eba019192c895e3c34144d56.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6c/ec/61/6cec6162d28786b4810022af426146b3717d549a67ab9afc2a9b97df850604f4.jpg",
+      "image_path": "images/cards/1127/83-3036.webp",
+      "image_sha256": "9efae4009b17f66cb4703d8eabb3eadc659f5d0c887f83927d94e2b11d729c04",
+      "image_bytes": 122334,
+      "source_url": "https://www.tcgcollector.com/cards/3036/arcanine-ex-ex-legend-maker-83-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 83
+    },
+    {
+      "id": 3037,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Armaldo ex",
+      "number": "84",
+      "number_value": 84,
+      "printed_total": 92,
+      "rarity": "Rare Holo ex",
+      "image_url": "https://static.tcgcollector.com/content/images/90/4c/32/904c32cae538d926ee56cc2d952117fb8cfded80dd35a15fbfc082c791fecb47.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b1/47/74/b14774205f5c2ae05fc0152a91afb7c191593990c144d459faa23c821fd8f2d4.jpg",
+      "image_path": "images/cards/1127/84-3037.webp",
+      "image_sha256": "5a0bc52c6fc6df358f569fac65600becc1e91dea22aae7304c0b57eaf257622e",
+      "image_bytes": 130872,
+      "source_url": "https://www.tcgcollector.com/cards/3037/armaldo-ex-ex-legend-maker-84-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 84
+    },
+    {
+      "id": 3038,
+      "set_id": 1127,
+      "set_ids": [
+        1127,
+        1236
+      ],
+      "name": "Banette ex",
+      "number": "85",
+      "number_value": 85,
+      "printed_total": 92,
+      "rarity": "Rare Holo ex",
+      "image_url": "https://static.tcgcollector.com/content/images/4b/ea/f0/4beaf0216d1faf433e1cd06c9f798063aea8501e72d4acc3efdd0abbcb7fc266.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/49/ac/1c/49ac1ca535777b5770881940de878e8d6e36c7910dc838b5fdf50219c0876fab.jpg",
+      "image_path": "images/cards/1127/85-3038.webp",
+      "image_sha256": "02b7d9b557465f2e94a85fd14a9da7eb0f0cea0d4f26bd7e3edaf9971c7fdd09",
+      "image_bytes": 124422,
+      "source_url": "https://www.tcgcollector.com/cards/3038/banette-ex-ex-legend-maker-85-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 85
+    },
+    {
+      "id": 3039,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Dustox ex",
+      "number": "86",
+      "number_value": 86,
+      "printed_total": 92,
+      "rarity": "Rare Holo ex",
+      "image_url": "https://static.tcgcollector.com/content/images/53/cd/0f/53cd0f20c7b9d63cc94a54e3d41dbb451fc814901dae3b8cd5bcee53f669380a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5e/9e/57/5e9e571290ec4d40a460d732f0154c7c2b49bbd98fdd564427601f2b8c937bf8.jpg",
+      "image_path": "images/cards/1127/86-3039.webp",
+      "image_sha256": "9465832827331cd542742864052a083f2a6655b8196029c0ecdfe8202c19f1fe",
+      "image_bytes": 121373,
+      "source_url": "https://www.tcgcollector.com/cards/3039/dustox-ex-ex-legend-maker-86-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 86
+    },
+    {
+      "id": 3040,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Flygon ex",
+      "number": "87",
+      "number_value": 87,
+      "printed_total": 92,
+      "rarity": "Rare Holo ex",
+      "image_url": "https://static.tcgcollector.com/content/images/ac/f1/1f/acf11f578f3ae3d067025c68fbeadf4ed80097995c0ec39d7d6f84db1fa314bd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f0/d8/26/f0d82648a0f6d88075358e831feef1e0cb8ac772d3e7f81729206cda62b0b49a.jpg",
+      "image_path": "images/cards/1127/87-3040.webp",
+      "image_sha256": "e60d0b71e6ea193c3f281cf6b21830b76db4755635d8e4d8cf5a0978c25454ed",
+      "image_bytes": 129784,
+      "source_url": "https://www.tcgcollector.com/cards/3040/flygon-ex-ex-legend-maker-87-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 87
+    },
+    {
+      "id": 3041,
+      "set_id": 1127,
+      "set_ids": [
+        1127,
+        1232,
+        1235
+      ],
+      "name": "Mew ex",
+      "number": "88",
+      "number_value": 88,
+      "printed_total": 92,
+      "rarity": "Rare Holo ex",
+      "image_url": "https://static.tcgcollector.com/content/images/77/9a/8c/779a8c084f6bb3f62e86c4d5c8be015d21d8395f8f0530059fe596501a2a600f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d5/86/28/d586283beb36ef25e6875afe2454365010dac3db8a275c341906e064d28a7ff0.jpg",
+      "image_path": "images/cards/1127/88-3041.webp",
+      "image_sha256": "86aee2ad91a0d92ab9efc2699b5fc4f1ca0209f1a4d5cbc62e724d407fae7315",
+      "image_bytes": 114753,
+      "source_url": "https://www.tcgcollector.com/cards/3041/mew-ex-ex-legend-maker-88-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 88
+    },
+    {
+      "id": 3042,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Walrein ex",
+      "number": "89",
+      "number_value": 89,
+      "printed_total": 92,
+      "rarity": "Rare Holo ex",
+      "image_url": "https://static.tcgcollector.com/content/images/dc/6e/b4/dc6eb4d2bc5490dc70efea712c946d07cc91746681e99f1dcf357efab9b49c7a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/98/bb/d3/98bbd36f968509b950b564d0eb52e605137edf3cf4e9debff02a0d04f1eab030.jpg",
+      "image_path": "images/cards/1127/89-3042.webp",
+      "image_sha256": "11715e57daea0473ed9aa4c16ef9627aff7fe80de8fe2b25fbfef805ac390bff",
+      "image_bytes": 128431,
+      "source_url": "https://www.tcgcollector.com/cards/3042/walrein-ex-ex-legend-maker-89-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 89
+    },
+    {
+      "id": 3044,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Regice ☆",
+      "number": "90",
+      "number_value": 90,
+      "printed_total": 92,
+      "rarity": "Rare Holo ☆",
+      "image_url": "https://static.tcgcollector.com/content/images/ed/9e/c1/ed9ec17fe0c52a77ef469bd8e523f59e1b87c64e77507c32c7280da1445e2177.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/11/c3/8f/11c38f4af071f84eb2895cacd1d49e64b53435e48ee0955953b44eb9bfe73e01.jpg",
+      "image_path": "images/cards/1127/90-3044.webp",
+      "image_sha256": "88ca7fa6a03727d540bd9bcf4c7bd0993c6a802f449e252b3392ce315336ffbd",
+      "image_bytes": 119833,
+      "source_url": "https://www.tcgcollector.com/cards/3044/regice-star-ex-legend-maker-90-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 90
+    },
+    {
+      "id": 3043,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Regirock ☆",
+      "number": "91",
+      "number_value": 91,
+      "printed_total": 92,
+      "rarity": "Rare Holo ☆",
+      "image_url": "https://static.tcgcollector.com/content/images/58/ae/20/58ae20dbe6074cec4cfd00ce710a3b85f4f31b2b59be708bb27208e4ca788658.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e6/b1/7d/e6b17d329bd196b7c60e96dc8cedb24264e7d32f875ec14156061477e88d92bd.jpg",
+      "image_path": "images/cards/1127/91-3043.webp",
+      "image_sha256": "8e527834081709ef6b369d9a53e208f2b6473061b92d69e7fc13e482cb7a27f9",
+      "image_bytes": 117695,
+      "source_url": "https://www.tcgcollector.com/cards/3043/regirock-star-ex-legend-maker-91-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 91
+    },
+    {
+      "id": 3045,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Registeel ☆",
+      "number": "92",
+      "number_value": 92,
+      "printed_total": 92,
+      "rarity": "Rare Holo ☆",
+      "image_url": "https://static.tcgcollector.com/content/images/bd/01/07/bd010702f758a6e877501c497c50772bb253d02d99a015d803477d74a4ebbadf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ef/a6/8f/efa68ff4f03859c796fc45f23e5c0bec26b330ab5e420bdc8610376eb22360d8.jpg",
+      "image_path": "images/cards/1127/92-3045.webp",
+      "image_sha256": "a9ce0355d2e75ff82d1886e9c758e2c4b2a42b1766526dcf8c78e1bdd4398ab6",
+      "image_bytes": 153579,
+      "source_url": "https://www.tcgcollector.com/cards/3045/registeel-star-ex-legend-maker-92-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 92
+    },
+    {
+      "id": 3046,
+      "set_id": 1127,
+      "set_ids": [
+        1127
+      ],
+      "name": "Pikachu",
+      "number": "93",
+      "number_value": 93,
+      "printed_total": 92,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/1a/68/a2/1a68a26a367f102012fe387ab0bb757187eed802c8dd2fd36564bd0a1c42f570.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8d/89/ac/8d89ac8ecce1618dd383406ddb208572f9039f085e8a75a7b4f56467691a69eb.jpg",
+      "image_path": "images/cards/1127/93-3046.webp",
+      "image_sha256": "2e37d729e9635109611c179355e78b279709ea9f6e4fdfec946dc3f9d893a28a",
+      "image_bytes": 129805,
+      "source_url": "https://www.tcgcollector.com/cards/3046/pikachu-ex-legend-maker-93-92",
+      "scraped_at": "2026-10-18T22:25:40Z",
+      "position": 93
+    }
+  ]
+}

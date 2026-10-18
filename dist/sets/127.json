@@ -1,0 +1,192 @@
+{
+  "set": {
+    "id": 127,
+    "language": "en",
+    "name": "Holiday Calendar 2024",
+    "code": null,
+    "series": "Other",
+    "release_date": "2024-08-23",
+    "date_text": "Aug 23, 2024",
+    "card_count": 8,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/b3/9d/c3/b39dc33e529676a92c378bff7f3e99624ea61c0915a5b5b8c5a1db67a06dbb6a.png",
+    "symbol_url": null,
+    "logo_path": "images/sets/127-logo.webp",
+    "symbol_path": null,
+    "source_url": "https://www.tcgcollector.com/sets/127/holiday-calendar-2024",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 8
+  },
+  "cards": [
+    {
+      "id": 45099,
+      "set_id": 11625,
+      "set_ids": [
+        127,
+        11625
+      ],
+      "name": "Iron Bundle",
+      "number": "062",
+      "number_value": 62,
+      "printed_total": 167,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/4d/c9/04/4dc90452842676840f3c954fb0e86cb82cabd3daa897a8fbea8470e7270dd3d6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fc/a3/f4/fca3f4c1b2b834cdef5ac906292df414348a51464cdc6dbb039439a007abb124.jpg",
+      "image_path": "images/cards/11625/062-45099.webp",
+      "image_sha256": "5834411dd0e78aece275a383faca3fab70fdf0ee433c665f283bba53d2d71577",
+      "image_bytes": 185041,
+      "source_url": "https://www.tcgcollector.com/cards/45099/iron-bundle-twilight-masquerade-062-167",
+      "scraped_at": "2026-10-18T22:21:00Z",
+      "position": 1
+    },
+    {
+      "id": 43038,
+      "set_id": 11591,
+      "set_ids": [
+        127,
+        11591
+      ],
+      "name": "Snorunt",
+      "number": "037",
+      "number_value": 37,
+      "printed_total": 182,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/de/e9/ce/dee9cee90028db00fca797e6c195111dac0c250f577dfe929773932064770da8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/eb/3f/d8/eb3fd81d3aa69b574b35c1761624639c3921e3cdfbb8c9c19e189f377032ddeb.jpg",
+      "image_path": "images/cards/11591/037-43038.webp",
+      "image_sha256": "f54b2774d012ebc04785fdd71c834a1f8404e851499292e1b90bb5be2b195419",
+      "image_bytes": 141784,
+      "source_url": "https://www.tcgcollector.com/cards/43038/snorunt-paradox-rift-037-182",
+      "scraped_at": "2026-10-18T22:21:13Z",
+      "position": 2
+    },
+    {
+      "id": 43046,
+      "set_id": 11591,
+      "set_ids": [
+        127,
+        11591
+      ],
+      "name": "Vanilluxe",
+      "number": "045",
+      "number_value": 45,
+      "printed_total": 182,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/6a/ff/2a/6aff2a2c3aef45446eba9ce4267af08dab7865232f0635619b797b2da55060a5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b6/af/59/b6af59da6b7adb29eab6db864b52976a22cc189bf15b2b468c665195c7aa6bd8.jpg",
+      "image_path": "images/cards/11591/045-43046.webp",
+      "image_sha256": "5ce2f0a8823e583bf1e1917973d41bccfb87d1ee73899104b9fac8e85e79f5fd",
+      "image_bytes": 171141,
+      "source_url": "https://www.tcgcollector.com/cards/43046/vanilluxe-paradox-rift-045-182",
+      "scraped_at": "2026-10-18T22:21:13Z",
+      "position": 3
+    },
+    {
+      "id": 42151,
+      "set_id": 11581,
+      "set_ids": [
+        127,
+        11581
+      ],
+      "name": "Eiscue ex",
+      "number": "042",
+      "number_value": 42,
+      "printed_total": 197,
+      "rarity": "Double Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/35/a2/8f/35a28fc74df1d0e7812d677d6bc75509cfc2733d97fc9f5f42199f42796b9c63.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c0/52/02/c0520216fb4eb743ef755467dc0137aafd1c7246773134ef4432658e7b07c994.jpg",
+      "image_path": "images/cards/11581/042-42151.webp",
+      "image_sha256": "5d4ee023ea425dce5b6046ba453a21aee4a23891f30a128126c1cc1c42376236",
+      "image_bytes": 194184,
+      "source_url": "https://www.tcgcollector.com/cards/42151/eiscue-ex-obsidian-flames-042-197",
+      "scraped_at": "2026-10-18T22:21:23Z",
+      "position": 4
+    },
+    {
+      "id": 41254,
+      "set_id": 11574,
+      "set_ids": [
+        127,
+        11574
+      ],
+      "name": "Cetoddle",
+      "number": "053",
+      "number_value": 53,
+      "printed_total": 193,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/6b/fb/83/6bfb830ffafda2eb98308851e7b51eb339e497f8460467866d140e3b0070e0e3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cf/6e/35/cf6e35225318e16a203100813810ff24424020b1db3af9e5ba2c59f1883df31b.jpg",
+      "image_path": "images/cards/11574/053-41254.webp",
+      "image_sha256": "68d25e67f3dae42c9b981ba72a95909f57ab5504dbd060403bc711ed8a59ca0d",
+      "image_bytes": 157627,
+      "source_url": "https://www.tcgcollector.com/cards/41254/cetoddle-paldea-evolved-053-193",
+      "scraped_at": "2026-10-18T22:21:25Z",
+      "position": 5
+    },
+    {
+      "id": 41259,
+      "set_id": 11574,
+      "set_ids": [
+        127,
+        11574
+      ],
+      "name": "Frigibax",
+      "number": "058",
+      "number_value": 58,
+      "printed_total": 193,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/4f/c5/c1/4fc5c1e380a05cd1e7880716f351ddd53657d0c0e105a9ae26a785651accb6b8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f7/b7/ce/f7b7ce66851aa10bc330cce442dad9bb7ea735b35d4b340aec091bad8996e336.jpg",
+      "image_path": "images/cards/11574/058-41259.webp",
+      "image_sha256": "f8094893e43bf7188e3fdbbfea5c14a2a26468c2aaaeab66bc55aaf38e5d9266",
+      "image_bytes": 149722,
+      "source_url": "https://www.tcgcollector.com/cards/41259/frigibax-paldea-evolved-058-193",
+      "scraped_at": "2026-10-18T22:21:25Z",
+      "position": 6
+    },
+    {
+      "id": 41262,
+      "set_id": 11574,
+      "set_ids": [
+        127,
+        1220,
+        1221,
+        11574
+      ],
+      "name": "Chien-Pao ex",
+      "number": "061",
+      "number_value": 61,
+      "printed_total": 193,
+      "rarity": "Double Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/18/24/cb/1824cb8254374f6e45afce574679697c166eccbba7258e8c425d5b1da84fb046.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a9/33/b1/a933b1b593763caf63aee0fd18677912279979eb191a1dca8dcb395d63e65bef.jpg",
+      "image_path": "images/cards/11574/061-41262.webp",
+      "image_sha256": "049ec4b09145bc10420ba732bad81c14dea6707e584b1cac3e33771f02f853f4",
+      "image_bytes": 178299,
+      "source_url": "https://www.tcgcollector.com/cards/41262/chien-pao-ex-paldea-evolved-061-193",
+      "scraped_at": "2026-10-18T22:21:25Z",
+      "position": 7
+    },
+    {
+      "id": 41264,
+      "set_id": 11574,
+      "set_ids": [
+        127,
+        11574
+      ],
+      "name": "Pikachu ex",
+      "number": "063",
+      "number_value": 63,
+      "printed_total": 193,
+      "rarity": "Double Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/56/8b/4b/568b4b573c25bf1b874cedeba8aab180a45b03b0afad398567c2371c3e1f92ba.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/80/87/36/8087369823679bffa52c2dd2913f5ad4e859b730a2d3c84bf310e93b42f89ef0.jpg",
+      "image_path": "images/cards/11574/063-41264.webp",
+      "image_sha256": "751143771f9fe71913b936f409a854c1a0cd9ea151985aa74513a8a698f42389",
+      "image_bytes": 147263,
+      "source_url": "https://www.tcgcollector.com/cards/41264/pikachu-ex-paldea-evolved-063-193",
+      "scraped_at": "2026-10-18T22:21:25Z",
+      "position": 8
+    }
+  ]
+}

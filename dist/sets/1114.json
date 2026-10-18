@@ -1,0 +1,3748 @@
+{
+  "set": {
+    "id": 1114,
+    "language": "en",
+    "name": "Aquapolis",
+    "code": "AQ",
+    "series": "e-Card Series",
+    "release_date": "2003-01-15",
+    "date_text": "Jan 15, 2003",
+    "card_count": 186,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/28/be/b9/28beb9a46167a120800ad75beef72fffc0ad307099d94248ae282c598f50e0bf.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/f4/5a/03/f45a03700fcc5656e98c8aa5102fe0e83f49e18b128fea454bca5d532d6cc975.svg",
+    "logo_path": "images/sets/1114-logo.webp",
+    "symbol_path": "images/sets/1114-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/1114/aquapolis",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 186
+  },
+  "cards": [
+    {
+      "id": 27,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Ampharos",
+      "number": "H1",
+      "number_value": 1,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/7b/9a/72/7b9a720861ac4387f10ee370e72b95b84d958467ceda3b6525ec2e027fe95b45.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/31/25/30/3125308a3a629d24a6e474d6ef6de9f9058bf74f39a4fd9c5e5dc72eef52a2ec.jpg",
+      "image_path": "images/cards/1114/H1-27.webp",
+      "image_sha256": "bfdc873cf3ba7954bbda356f5585b0a68425efae669ec2936052c19da66a9d0f",
+      "image_bytes": 126535,
+      "source_url": "https://www.tcgcollector.com/cards/27/ampharos-aquapolis-h1-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 1
+    },
+    {
+      "id": 43,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Arcanine",
+      "number": "H2",
+      "number_value": 2,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/cf/17/65/cf176508996a463ec818016eaa91faee69c46a310f734de8aba6f17055b5b354.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/aa/fd/2c/aafd2c4fcef1da5f13352ca35d22df14e1d293245f454414b9ea6c7ff1c5d779.jpg",
+      "image_path": "images/cards/1114/H2-43.webp",
+      "image_sha256": "34303de28b00d447000afa17ecfdb133a4593b71bd8847a9cc012571d4deaf1b",
+      "image_bytes": 123373,
+      "source_url": "https://www.tcgcollector.com/cards/43/arcanine-aquapolis-h2-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 2
+    },
+    {
+      "id": 50,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Ariados",
+      "number": "H3",
+      "number_value": 3,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/cc/5f/1a/cc5f1a45333472ebe566c07429f307d4de8510c154cef82c16a1e37b12183c89.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a0/bc/fb/a0bcfbe819e08a7c18015feb2426673e0e79edb7a7fe9acb59b52cf82b5195dd.jpg",
+      "image_path": "images/cards/1114/H3-50.webp",
+      "image_sha256": "4a388651e916ad17cfc401d88e14b8c50f216308a68b70c5057f59c47cb2d9f2",
+      "image_bytes": 127132,
+      "source_url": "https://www.tcgcollector.com/cards/50/ariados-aquapolis-h3-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 3
+    },
+    {
+      "id": 67,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Azumarill",
+      "number": "H4",
+      "number_value": 4,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/07/e4/57/07e4571be90efbdfbad1128a9e4befb64d8a4c8e56c19dd5b5db6c4743cec6dc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bb/de/3b/bbde3b271928d3a561de53efa0c4a1f309a54127d9606f06b4a3b432fdfb4f36.jpg",
+      "image_path": "images/cards/1114/H4-67.webp",
+      "image_sha256": "c40b9337133e631747accbde3168434efa81d649c4d4feb86b5cda7960b3dec9",
+      "image_bytes": 134491,
+      "source_url": "https://www.tcgcollector.com/cards/67/azumarill-aquapolis-h4-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 4
+    },
+    {
+      "id": 87,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Bellossom",
+      "number": "H5",
+      "number_value": 5,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/e7/0d/ae/e70daecbe7802cedd077cf9abc81227b81775285b367cbd959a4c2878ed46b52.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cc/37/cc/cc37cc396ab28793bbed02db0c918df1004dafae7a0e490386debb786ba4f6bc.jpg",
+      "image_path": "images/cards/1114/H5-87.webp",
+      "image_sha256": "cfe9ecdd9d8d0efe835dc0ab689050deaea5dcc19da25103cd712bf4f22907fe",
+      "image_bytes": 131910,
+      "source_url": "https://www.tcgcollector.com/cards/87/bellossom-aquapolis-h5-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 5
+    },
+    {
+      "id": 133,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Blissey",
+      "number": "H6",
+      "number_value": 6,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/63/f4/ee/63f4ee913d2f6c2acb0421a0c034898b9235628a437ba3dc2d84b7f3280b4ad2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/07/c1/09/07c10911da2de78ceda23f1d56ce589616cf2f3e41ee57e7618dd566de85f6af.jpg",
+      "image_path": "images/cards/1114/H6-133.webp",
+      "image_sha256": "414f4df48a5f4438cc54c82116abd6c893d25414a97ecf0e5a5faaa16affd450",
+      "image_bytes": 119182,
+      "source_url": "https://www.tcgcollector.com/cards/133/blissey-aquapolis-h6-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 6
+    },
+    {
+      "id": 462,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Electrode",
+      "number": "H7",
+      "number_value": 7,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/91/23/28/912328393fcb9ea3f0c97d79f640d25e137057ba70b411874cc492b04ee5c3fd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4a/ed/57/4aed5776e90661f4b896b2ae78e684d10da0ffb313bdbe1aad6cfae9ea4747f4.jpg",
+      "image_path": "images/cards/1114/H7-462.webp",
+      "image_sha256": "4c72d7201b702abedfc889b9de0970279366690ee8226894e79a1d909ec2aa5c",
+      "image_bytes": 113220,
+      "source_url": "https://www.tcgcollector.com/cards/462/electrode-aquapolis-h7-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 7
+    },
+    {
+      "id": 490,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Entei",
+      "number": "H8",
+      "number_value": 8,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/25/54/c8/2554c82a42b400c6f6cc94065e1e7e7355bcdd31801cc1e74df40807b2a4c626.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0d/19/94/0d1994a4dd4dd195a4b03847c408eb839f84aaddbe97f7a33a0b5d55e4b0d3bd.jpg",
+      "image_path": "images/cards/1114/H8-490.webp",
+      "image_sha256": "d2fa3a88d24077e2a228f85cfb928967f43dbe3508793ef7ce4c55a094bc2ddb",
+      "image_bytes": 119918,
+      "source_url": "https://www.tcgcollector.com/cards/490/entei-aquapolis-h8-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 8
+    },
+    {
+      "id": 526,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Espeon",
+      "number": "H9",
+      "number_value": 9,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/41/55/86/4155861bc8e92858db47781ef0ae25ffa2a25f3e1808cfa354d75e018cdc802f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dd/06/49/dd0649ccaafc3847d192557fabd150695e325cf08ed0e0194f569a7f95b6ddce.jpg",
+      "image_path": "images/cards/1114/H9-526.webp",
+      "image_sha256": "047c201e44c77ca3b47f963a015d7e7bcab9ccd7641249d0f728f6e3d388de2e",
+      "image_bytes": 120641,
+      "source_url": "https://www.tcgcollector.com/cards/526/espeon-aquapolis-h9-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 9
+    },
+    {
+      "id": 535,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Exeggutor",
+      "number": "H10",
+      "number_value": 10,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/37/c5/15/37c5154de72915f1a753b5316c949f7fec211257052ee0444a0ddd5f50d41814.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bf/26/6a/bf266a785e21f6327c192a127090e476c09eb44d31c034a70b25cea7acca2f0e.jpg",
+      "image_path": "images/cards/1114/H10-535.webp",
+      "image_sha256": "f7fcde1d7198fb9ec374aeeba532fa79aa7a44c20de7a87449f8006ff49f6f96",
+      "image_bytes": 131293,
+      "source_url": "https://www.tcgcollector.com/cards/535/exeggutor-aquapolis-h10-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 10
+    },
+    {
+      "id": 762,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Houndoom",
+      "number": "H11",
+      "number_value": 11,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/1d/c4/3e/1dc43ecf3f14d04ee6d80de447d66afca0ccbf0fbae60fd3c2b285072f319982.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b2/69/3d/b2693de0b3af0352c93059d6488326e2dc679aa9ec4b59394f65ca5c6c862434.jpg",
+      "image_path": "images/cards/1114/H11-762.webp",
+      "image_sha256": "66a0f122ce2e0ebeaebf810cdf0e339256f2966edd214da84768b4ae9596c72d",
+      "image_bytes": 139949,
+      "source_url": "https://www.tcgcollector.com/cards/762/houndoom-aquapolis-h11-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 11
+    },
+    {
+      "id": 781,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Hypno",
+      "number": "H12",
+      "number_value": 12,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/86/91/a5/8691a54b99a35924a241ab3be21d63ed78af877ee5a09f6a66d23b9d978a78ac.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bc/80/35/bc80353efe3e9678460d64d020e919cc31b80a9517e92fc8804f834d0ecbc358.jpg",
+      "image_path": "images/cards/1114/H12-781.webp",
+      "image_sha256": "8fb2ca82e939cf820563e64f6b5f0f60745daf60b1d85d30330991456434be0e",
+      "image_bytes": 118576,
+      "source_url": "https://www.tcgcollector.com/cards/781/hypno-aquapolis-h12-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 12
+    },
+    {
+      "id": 811,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Jumpluff",
+      "number": "H13",
+      "number_value": 13,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/9c/fc/50/9cfc503d3e9f6ff7caac239c257ce6205e477f364308ce955a5505cab25a139d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/25/08/4c/25084c91e87664ac6db301141ab5d7d6877bf3a2dc83cd842a394a5bfb02f475.jpg",
+      "image_path": "images/cards/1114/H13-811.webp",
+      "image_sha256": "e85d08667af5e00992cff56ad48f34b567cd06b057d47757dc5910e1a69f0aa5",
+      "image_bytes": 109800,
+      "source_url": "https://www.tcgcollector.com/cards/811/jumpluff-aquapolis-h13-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 13
+    },
+    {
+      "id": 845,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Kingdra",
+      "number": "H14",
+      "number_value": 14,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/d3/9c/17/d39c17e8c20aec4ff93bdfcfb4bce3e8c622e81cac98d43d0d96d6acee4d2a2f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d7/49/95/d74995732afa0302d406e1a3ffe5bd91a7ab41310fe703506f82ad97859f2a74.jpg",
+      "image_path": "images/cards/1114/H14-845.webp",
+      "image_sha256": "a7652b6887161876cbda21082a6882094d696a804f3c5ecc69ee9d2ff9516678",
+      "image_bytes": 137143,
+      "source_url": "https://www.tcgcollector.com/cards/845/kingdra-aquapolis-h14-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 14
+    },
+    {
+      "id": 888,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Lanturn",
+      "number": "H15",
+      "number_value": 15,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/f0/f6/34/f0f6345439b04453c177fb4c50bfc46626eff19309a6b75c51284c56862eb3c4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/65/d8/ed/65d8edc5132e4549605eac1dc16dacd0e77fe24db0c5d24cbe89ed3e9d36c03b.jpg",
+      "image_path": "images/cards/1114/H15-888.webp",
+      "image_sha256": "345d2615807ffae83aefdcb3e6b64a95c52ef19795b5d8f78bd7735402f19ac1",
+      "image_bytes": 115612,
+      "source_url": "https://www.tcgcollector.com/cards/888/lanturn-aquapolis-h15-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 15
+    },
+    {
+      "id": 1039,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Magneton",
+      "number": "H16",
+      "number_value": 16,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/59/93/17/599317e86bf77b10fdb1d712e89d0661b767218fe7ab5681fe51ccea7e92c842.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/77/00/e7/7700e706acc1426e5e57b60bc261a7703b385f8da2aaee32eac4f3b347c9eac1.jpg",
+      "image_path": "images/cards/1114/H16-1039.webp",
+      "image_sha256": "55799a6d1e14bbbfc27dffc321cd076a9a2bead96c648c500c7aac4c7ed36898",
+      "image_bytes": 125282,
+      "source_url": "https://www.tcgcollector.com/cards/1039/magneton-aquapolis-h16-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 16
+    },
+    {
+      "id": 1190,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Muk",
+      "number": "H17",
+      "number_value": 17,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/00/bc/7c/00bc7c3d7d628b03e85d7fef294a2f80e7fe512175e80aa476dbeabf447e4426.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/12/89/77/1289771948c0419389472f96af8f5637a7413a9a79f41f3f976de8a4097874a1.jpg",
+      "image_path": "images/cards/1114/H17-1190.webp",
+      "image_sha256": "54731239949f3c6bd22dc900ac396aa03e09a18c39a45d5f38692a8796e9f689",
+      "image_bytes": 128960,
+      "source_url": "https://www.tcgcollector.com/cards/1190/muk-aquapolis-h17-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 17
+    },
+    {
+      "id": 1215,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Nidoking",
+      "number": "H18",
+      "number_value": 18,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/22/f0/17/22f01717af39e7d2d19d8fd92d8783578c6861e8002750405f8b585203a61f65.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/53/59/fb/5359fbad907416d560605becc71eb6f0080c030276567e155c0a6a127e1c1dc0.jpg",
+      "image_path": "images/cards/1114/H18-1215.webp",
+      "image_sha256": "204b2802aba3f3f72164ce8ae0ff0f70ccc1ab57e7b992fb816ce1ecfa6f2228",
+      "image_bytes": 125345,
+      "source_url": "https://www.tcgcollector.com/cards/1215/nidoking-aquapolis-h18-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 18
+    },
+    {
+      "id": 1246,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Ninetales",
+      "number": "H19",
+      "number_value": 19,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/f8/34/7a/f8347aec211e8fc9c1dbb42bed177c536edebc33cd6bd06532da3317f34dded0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ff/ed/d9/ffedd95cf62ed1b955676dfb2ae7971d15000e27d05d0817b7f50b1bf87dc523.jpg",
+      "image_path": "images/cards/1114/H19-1246.webp",
+      "image_sha256": "8c88e6236134c5030585aeb1448235338e9ce67c5a47dd2befa18527b1eed34d",
+      "image_bytes": 114026,
+      "source_url": "https://www.tcgcollector.com/cards/1246/ninetales-aquapolis-h19-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 19
+    },
+    {
+      "id": 1259,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Octillery",
+      "number": "H20",
+      "number_value": 20,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/d5/6d/71/d56d716fab4ef42c1bd6175c41d1693988792bc67a0a221136b0afd1c7762f6d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/47/98/4a/47984a0b3e4fd96b323567f57317b10c1edb73f783ace4c182a00cb1888ecf6e.jpg",
+      "image_path": "images/cards/1114/H20-1259.webp",
+      "image_sha256": "15002a9c3af5cf2eac304f991c334b1082883fd4f64a24bbbd24d325e43008c7",
+      "image_bytes": 132370,
+      "source_url": "https://www.tcgcollector.com/cards/1259/octillery-aquapolis-h20-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 20
+    },
+    {
+      "id": 1563,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Scizor",
+      "number": "H21",
+      "number_value": 21,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/23/d1/23/23d12339ed347417b144a45c64a42b09f70c7819a07e652dac6bd84394449a6b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c9/6d/2a/c96d2ad5e33f1746c118d074a5170715528ea063d4d3cfdc607ba5a85509493d.jpg",
+      "image_path": "images/cards/1114/H21-1563.webp",
+      "image_sha256": "a237f404de2e80f861833880c2a935285bc88cccb5fd46be8586d11cd865a189",
+      "image_bytes": 140931,
+      "source_url": "https://www.tcgcollector.com/cards/1563/scizor-aquapolis-h21-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 21
+    },
+    {
+      "id": 1647,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Slowking",
+      "number": "H22",
+      "number_value": 22,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/f2/27/52/f22752adc8660b4fd1473a15966a1869fba143e0e680e6559e95c29fdecedb3b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0d/b8/79/0db879a5fa750d2fe305d8973e4b884c2ba84a196a56bf1117f20b52ff9092d9.jpg",
+      "image_path": "images/cards/1114/H22-1647.webp",
+      "image_sha256": "e0fcd54bee03b0d8ae34a2e945b6ec792060f042dc9f4f3f2677f86e0f6b6b2e",
+      "image_bytes": 124053,
+      "source_url": "https://www.tcgcollector.com/cards/1647/slowking-aquapolis-h22-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 22
+    },
+    {
+      "id": 1710,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Steelix",
+      "number": "H23",
+      "number_value": 23,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/1d/2a/dc/1d2adc1684b6eca56a238104931be274056a23f433bf2b38d2e99a8ebe4f03f3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/80/e5/3e/80e53e40d69d129b1f42d8c21da8f9cf235418a24fc0e384ef8d9a0aa7e9d662.jpg",
+      "image_path": "images/cards/1114/H23-1710.webp",
+      "image_sha256": "aeb4873f1532914a03b7ab870cd9e0f168d1fa50133080635fb2a2a74988bd1f",
+      "image_bytes": 132346,
+      "source_url": "https://www.tcgcollector.com/cards/1710/steelix-aquapolis-h23-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 23
+    },
+    {
+      "id": 1715,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Sudowoodo",
+      "number": "H24",
+      "number_value": 24,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/f1/ae/33/f1ae33464b05bb8d2283f7e41ad964a37248945462606dd17d21930fb936286f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/89/e4/73/89e473b13de35e7a8883035ad3f6d8bcfd12bc738290a1a653eefe6f6e20813f.jpg",
+      "image_path": "images/cards/1114/H24-1715.webp",
+      "image_sha256": "52ad9650b41456178fc7ece9e41afb451e942caef360c0f9379063e810c5b999",
+      "image_bytes": 120663,
+      "source_url": "https://www.tcgcollector.com/cards/1715/sudowoodo-aquapolis-h24-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 24
+    },
+    {
+      "id": 1720,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Suicune",
+      "number": "H25",
+      "number_value": 25,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/68/1d/db/681ddb8c66dba793c87be526fff1d69391ce3ee6702a13fe9e568e9a0e202073.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4b/4f/34/4b4f349afc64baeee8d49136ef064da96860c17281167ff90ea7dc1599c16ec8.jpg",
+      "image_path": "images/cards/1114/H25-1720.webp",
+      "image_sha256": "c7a978c08b80fd81e528c1a14a7ee63ccebdf0c6cf56353953ab44bee684c647",
+      "image_bytes": 124652,
+      "source_url": "https://www.tcgcollector.com/cards/1720/suicune-aquapolis-h25-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 25
+    },
+    {
+      "id": 1765,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Tentacruel",
+      "number": "H26",
+      "number_value": 26,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/99/a4/c5/99a4c550b843a3c0f21e24563776f5285094827db92513bd4f3d9f264cecf62b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/af/0e/9b/af0e9bcd49433f9eca0745f8f0b326d5a965fce0568b53d4c5ec453d3b9f131c.jpg",
+      "image_path": "images/cards/1114/H26-1765.webp",
+      "image_sha256": "0f1379ad54f40b699f0e67e067c485b5f39097fb991af1717db1b38afeb2fda0",
+      "image_bytes": 132916,
+      "source_url": "https://www.tcgcollector.com/cards/1765/tentacruel-aquapolis-h26-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 26
+    },
+    {
+      "id": 1783,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Togetic",
+      "number": "H27",
+      "number_value": 27,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/87/e9/ad/87e9ad5e747c0a931274a7767626c4cac7d19264b4e14d6c34a56217b4fff37b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8a/4a/f2/8a4af2f8c6b8e4ea0a9ed92bbd2f8d160787cbba1ecaa7301a892395367217a5.jpg",
+      "image_path": "images/cards/1114/H27-1783.webp",
+      "image_sha256": "6832aadadae03155e5c325e753e2fb255fd0ca9c4957eaaadd6d75100995990f",
+      "image_bytes": 122962,
+      "source_url": "https://www.tcgcollector.com/cards/1783/togetic-aquapolis-h27-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 27
+    },
+    {
+      "id": 1814,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Tyranitar",
+      "number": "H28",
+      "number_value": 28,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/b8/2a/3b/b82a3bcf28bef77a340a5dac53557f6d254032fc8f11a76d5b4cc70438cbd9f1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/41/55/10/415510d6ef49eac40dabb9abe428ff104c38fd92f4c8e88dd985bf2acf8f858b.jpg",
+      "image_path": "images/cards/1114/H28-1814.webp",
+      "image_sha256": "c7cf4f6f0bcfe30cdfeff7e8a3df3f60cbae01d3acee0eb8dec25abc58a5656e",
+      "image_bytes": 135927,
+      "source_url": "https://www.tcgcollector.com/cards/1814/tyranitar-aquapolis-h28-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 28
+    },
+    {
+      "id": 1823,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Umbreon",
+      "number": "H29",
+      "number_value": 29,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/75/37/a1/7537a11e2d622268e60b10064606b04e5a5e52a8618919a1401c8e977e638376.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/97/db/0a/97db0a20dec0a12020d77e408770ff458a9c661415bb4b65fbfab133557182b9.jpg",
+      "image_path": "images/cards/1114/H29-1823.webp",
+      "image_sha256": "4cd48b32a51234048993af5cff76f94116363be64a5e8a8a449c44efcef4fb9c",
+      "image_bytes": 134274,
+      "source_url": "https://www.tcgcollector.com/cards/1823/umbreon-aquapolis-h29-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 29
+    },
+    {
+      "id": 1883,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Victreebel",
+      "number": "H30",
+      "number_value": 30,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/39/5c/9e/395c9e09adec64bbe04091deb2c1d1c90e6054b8bdadb2a54ee598c005a49350.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cb/54/6f/cb546fa3be9442cc7083b60a8df676ef9a639f2dad32afa29a4a8e521dd59980.jpg",
+      "image_path": "images/cards/1114/H30-1883.webp",
+      "image_sha256": "61c98ed0a91eba2678d804ecc34914ab20c04c5689ed639df7192f8449486ec2",
+      "image_bytes": 128068,
+      "source_url": "https://www.tcgcollector.com/cards/1883/victreebel-aquapolis-h30-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 30
+    },
+    {
+      "id": 1891,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Vileplume",
+      "number": "H31",
+      "number_value": 31,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/01/be/cb/01becb73b8a55dfc179456589d7c3a07503168ab14c28ee9814cee7cdd8e71a7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/37/5b/47/375b4794f8672e5019559f287fd0d7a5cda6f7a262ecec7004a571f1629cd6e1.jpg",
+      "image_path": "images/cards/1114/H31-1891.webp",
+      "image_sha256": "773311ab056e0b3ff6343f4840555393feda4f300374ad5ad02fd32987413265",
+      "image_bytes": 119112,
+      "source_url": "https://www.tcgcollector.com/cards/1891/vileplume-aquapolis-h31-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 31
+    },
+    {
+      "id": 1967,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Zapdos",
+      "number": "H32",
+      "number_value": 32,
+      "printed_total": 32,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/37/39/f1/3739f115684a4d103bb0474f906639e8cb5d690febb8cee2a146b85025131a62.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/09/05/6b/09056b108981ebbc35d7b3f277dc8d4064502adc88f84ff2b3e2714f80e8dfd5.jpg",
+      "image_path": "images/cards/1114/H32-1967.webp",
+      "image_sha256": "4c66dd1ff187df9f19cc6f6e80f6fe9d6b0b35f0a3719dc16b3c691058b90d3f",
+      "image_bytes": 119755,
+      "source_url": "https://www.tcgcollector.com/cards/1967/zapdos-aquapolis-h32-h32",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 32
+    },
+    {
+      "id": 28,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Ampharos",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/5f/30/a6/5f30a6e36f3483f2f9e05442a7a763689f617c7b81cd81c605201e9531a8692a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/01/c9/7c/01c97c85ce89313d6b03ba585de86273083995a4826166b49669afd7eb95edd9.jpg",
+      "image_path": "images/cards/1114/1-28.webp",
+      "image_sha256": "6f9988ecd0cab5fb0177ee5f910e4d996f7850ba5c0bb604d743a5101aa65348",
+      "image_bytes": 109887,
+      "source_url": "https://www.tcgcollector.com/cards/28/ampharos-aquapolis-1-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 33
+    },
+    {
+      "id": 44,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Arcanine",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/a8/b6/d6/a8b6d64f691e987308cc969393b042e0ed47455b3a4961d36ca7a05a214f663b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0f/c8/b3/0fc8b374c8d1c9ec305503d864559448029eaf933caea59b80d8ea1b705292b7.jpg",
+      "image_path": "images/cards/1114/2-44.webp",
+      "image_sha256": "a4ec38a6fa75a27015a817bbd7349271ec2c5235ef109504af2e1a4dbc8a607d",
+      "image_bytes": 109615,
+      "source_url": "https://www.tcgcollector.com/cards/44/arcanine-aquapolis-2-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 34
+    },
+    {
+      "id": 51,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Ariados",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/aa/03/21/aa032192e911ba5dcdc92d5a18784bfeb099aaac7f364f934c060c2546143120.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/94/cf/5d/94cf5dfdb0764172b152c013a1262f9bbcf1004b0991cdf369a62d911cfecc8e.jpg",
+      "image_path": "images/cards/1114/3-51.webp",
+      "image_sha256": "531693ac6833bf8d4736a61585473fd4723c9d73a62b7e76a295b9307f8651db",
+      "image_bytes": 102927,
+      "source_url": "https://www.tcgcollector.com/cards/51/ariados-aquapolis-3-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 35
+    },
+    {
+      "id": 68,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Azumarill",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/84/f5/5e/84f55e0ff00fcbb54c70887c2cc8f0e0b68747507d6ec98feadc660815b527c6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9e/f9/3e/9ef93e5b12c28e33a6560ec4203ae6306fdffeb8d7bbf4a141d2db8ff20c9ecf.jpg",
+      "image_path": "images/cards/1114/4-68.webp",
+      "image_sha256": "f9faea954fca9168ea409e62d2171977d88ba7d50ca86fcf83168d2693df5a03",
+      "image_bytes": 111906,
+      "source_url": "https://www.tcgcollector.com/cards/68/azumarill-aquapolis-4-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 36
+    },
+    {
+      "id": 88,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Bellossom",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/5e/4f/bb/5e4fbbf7a613bf594c566cd372b8c4637d5d5b3fd4118a6f3ae87ed632cd509d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f7/e7/cb/f7e7cb48082d0835167c08da43728b26d8b29d1c5dff3b507e57c6144bef47d3.jpg",
+      "image_path": "images/cards/1114/5-88.webp",
+      "image_sha256": "94422c8d1ecb5d4e9ae4786615ebe5e63c9d020fb1a1aaddf9989cf2c54c69a8",
+      "image_bytes": 107283,
+      "source_url": "https://www.tcgcollector.com/cards/88/bellossom-aquapolis-5-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 37
+    },
+    {
+      "id": 134,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Blissey",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ba/5f/ad/ba5fadd652c6b93a593151bf7fd1199bb57b5335a94dbfccd6d8eeda75f9a214.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c5/9f/8e/c59f8ed87c60741a5e3f5eed5f642a3e26b056e64e14b182005480f49c914134.jpg",
+      "image_path": "images/cards/1114/6-134.webp",
+      "image_sha256": "9f53c9a4d91323c30ea9dd68848e8a5c06405e2297932e400825d346c0e1a451",
+      "image_bytes": 123924,
+      "source_url": "https://www.tcgcollector.com/cards/134/blissey-aquapolis-6-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 38
+    },
+    {
+      "id": 399,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Donphan",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ce/99/2c/ce992c31240e0d2062cc4146ff32f1a3aa33f817ed79396cbb2a491257cd348c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a1/6f/fc/a16ffc6dcb60fa7f4c05859327dee3868bf8760e167ad96f2542e4dae5137518.jpg",
+      "image_path": "images/cards/1114/7-399.webp",
+      "image_sha256": "459191973de4978305958b338df7ea5a2a7c486e7d69cc0b03e4b9709ef6d484",
+      "image_bytes": 109756,
+      "source_url": "https://www.tcgcollector.com/cards/399/donphan-aquapolis-7-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 39
+    },
+    {
+      "id": 463,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Electrode",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/71/fc/e5/71fce5d59c984913b562072029dd9ed63cef76acc399c991603625b4ba54a20f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/66/74/8a/66748a844f6e4fbf263800372f6eab60a80eb1b8e1ccf15c809685cb048f0756.jpg",
+      "image_path": "images/cards/1114/8-463.webp",
+      "image_sha256": "cbc12aa14e49795d2874880e384b12752ca6ee1ef0428e945037eb144418cf79",
+      "image_bytes": 109861,
+      "source_url": "https://www.tcgcollector.com/cards/463/electrode-aquapolis-8-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 40
+    },
+    {
+      "id": 468,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Elekid",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/91/7e/af/917eafbfd4a44e43f138ee1bd4ada45b12c86f4c31552ea409a107506011a396.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a6/2f/55/a62f55aec2713296b449741cf3e1d868b0b49aa0a21611c5b734c03c388dd736.jpg",
+      "image_path": "images/cards/1114/9-468.webp",
+      "image_sha256": "ef80a9c044fa0371642209bb81bfa5eaa6cc41bb0f6b9c08d4123fbbbd10e19a",
+      "image_bytes": 115151,
+      "source_url": "https://www.tcgcollector.com/cards/468/elekid-aquapolis-9-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 41
+    },
+    {
+      "id": 491,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Entei",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/60/ee/98/60ee9892cfcefce9149459d4d804c2c6a568ee92ae92def48120227f4c803dc1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9c/0a/c8/9c0ac8983b374841e0e46a57c173a31112a3ec20ca3ab398abebbbc735c06774.jpg",
+      "image_path": "images/cards/1114/10-491.webp",
+      "image_sha256": "c460dc82b4eb81ce1b1b2af36ef6b0f3160e3741a09ba762fa0f9961b7f4211d",
+      "image_bytes": 105781,
+      "source_url": "https://www.tcgcollector.com/cards/491/entei-aquapolis-10-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 42
+    },
+    {
+      "id": 527,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Espeon",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/bc/bd/db/bcbddb25b440fc28cd18d879d0dca13e199f79e8dc3c06b95458b93f980b2d8e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c2/12/13/c2121382739c4074dc88e6ccef01d0775b894c5fb4dd04aacd8f3ad483850cb9.jpg",
+      "image_path": "images/cards/1114/11-527.webp",
+      "image_sha256": "306352d05e328196e15b171f3c8d91e08f16ee8548c279f612c3f2fc6c9f46e3",
+      "image_bytes": 128179,
+      "source_url": "https://www.tcgcollector.com/cards/527/espeon-aquapolis-11-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 43
+    },
+    {
+      "id": 536,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Exeggutor",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f2/cd/6f/f2cd6f9b207558f5091dc61ae8792e16c74132a167aa8b32e8cef9136c53676d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/11/aa/9a/11aa9af301162deaf970dcbb77673ee89ba895f1e9809a85b9d0cb9065715c8c.jpg",
+      "image_path": "images/cards/1114/12-536.webp",
+      "image_sha256": "e66f1d35aa0c0c7cf7b807271238fa81ecb24df214957fda6986e2c407a43d15",
+      "image_bytes": 114286,
+      "source_url": "https://www.tcgcollector.com/cards/536/exeggutor-aquapolis-12-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 44
+    },
+    {
+      "id": 538,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Exeggutor",
+      "number": "13",
+      "number_value": 13,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/b8/d8/8c/b8d88c67a53711937a49ba3b00188855b13b3e8410dc7c4461076a9ee2d7d805.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/61/d9/3e/61d93e2381f176f39fb1fc1cdd8ce3287f0b897f26c3d07114541508569d905b.jpg",
+      "image_path": "images/cards/1114/13-538.webp",
+      "image_sha256": "7cd65ccb3a04acd6607244d7440470867e478c8cf15a8f4024c61255ab0233b6",
+      "image_bytes": 122594,
+      "source_url": "https://www.tcgcollector.com/cards/538/exeggutor-aquapolis-13-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 45
+    },
+    {
+      "id": 765,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Houndoom",
+      "number": "14",
+      "number_value": 14,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/b5/eb/26/b5eb261a8fed581ff60b017b933558888a19a8e9ae48a29a2621fec51a8a0292.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/62/c2/c5/62c2c51fdb9e4dbcf41bbaff5d7ed63605c708f4108ef2c68863137f4466cfb0.jpg",
+      "image_path": "images/cards/1114/14-765.webp",
+      "image_sha256": "58e621c879059e1f7812253771808d723fe6bcd931a0cc2a62946b86129bc410",
+      "image_bytes": 109739,
+      "source_url": "https://www.tcgcollector.com/cards/765/houndoom-aquapolis-14-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 46
+    },
+    {
+      "id": 766,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Houndoom",
+      "number": "15",
+      "number_value": 15,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ab/ea/a0/abeaa0b382ebe2ba8afee83a399ab513bab41a69d9daa23e44f62efa50f3f730.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fe/ad/66/fead66e5fdb8bc9405f32b622f227fa0fe5e010cf620c160d2777f6898861fa8.jpg",
+      "image_path": "images/cards/1114/15-766.webp",
+      "image_sha256": "232fbf60d9843cfffcff91ab96437ac6fbee7b1ea171cfd79afe6f401cb5f6fd",
+      "image_bytes": 111674,
+      "source_url": "https://www.tcgcollector.com/cards/766/houndoom-aquapolis-15-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 47
+    },
+    {
+      "id": 782,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Hypno",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ba/85/4e/ba854e435e99edbf285e05fd0289f57d988477aa26785793c73bc79b21236cc2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6c/b7/78/6cb778d4b114328e7cf2e83bf6ffee543a7a83667620c080f8dfb301e2900bef.jpg",
+      "image_path": "images/cards/1114/16-782.webp",
+      "image_sha256": "0736438b0c8ddd78b8afe26304451ae4fba7b67c0b66efdde9741722a45ef30e",
+      "image_bytes": 116103,
+      "source_url": "https://www.tcgcollector.com/cards/782/hypno-aquapolis-16-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 48
+    },
+    {
+      "id": 812,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Jumpluff",
+      "number": "17",
+      "number_value": 17,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/06/89/1c/06891c316eb01d9dd40fd1ac4d8631094e4eba4f58942df32f78a3c3e7c17c41.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/80/a2/2f/80a22f82dd9c765c60ddadb2284bbd5536e43f989b0ca9f0accea00853a1af6a.jpg",
+      "image_path": "images/cards/1114/17-812.webp",
+      "image_sha256": "3ce56ee4797412adec32bc2edcfef7d05bd0c33bd0f3f10b79299ad26b4b6615",
+      "image_bytes": 101459,
+      "source_url": "https://www.tcgcollector.com/cards/812/jumpluff-aquapolis-17-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 49
+    },
+    {
+      "id": 813,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Jynx",
+      "number": "18",
+      "number_value": 18,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/8f/39/b7/8f39b7d62b8eaf09a408b4abd2957b5ca3ce673c7362455dcfd09ba2f156cfaa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0b/a4/70/0ba47065f725e58239cb8d05fa3dbce4a9f936c5802ff3267cde327e1b560b49.jpg",
+      "image_path": "images/cards/1114/18-813.webp",
+      "image_sha256": "4113fe77e139dd7937a411c67ca25e7aa8b48e2f7cb6f935e2de51e42deb47d1",
+      "image_bytes": 129322,
+      "source_url": "https://www.tcgcollector.com/cards/813/jynx-aquapolis-18-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 50
+    },
+    {
+      "id": 847,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Kingdra",
+      "number": "19",
+      "number_value": 19,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/30/50/6f/30506faaa6ef2fe76fb65059f5afd926c131457dd163fd51ff5be418a9e3dda2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/12/d9/2f/12d92fad3d618bd2584ac8cc25205b2f937d2e27ad214186779becad36ed9927.jpg",
+      "image_path": "images/cards/1114/19-847.webp",
+      "image_sha256": "62fe77549a9ad4414ae3538a6bf0d0a0cdb8ff97726f0269f3ac8d5afe679d96",
+      "image_bytes": 113041,
+      "source_url": "https://www.tcgcollector.com/cards/847/kingdra-aquapolis-19-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 51
+    },
+    {
+      "id": 889,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Lanturn",
+      "number": "20",
+      "number_value": 20,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/99/66/fb/9966fb5f4864bd3ea2468893ccc52a2e8ebd5e6fdf33237277652c5cd784794f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c6/5e/ca/c65ecaf32cf65dbfd3fbdf4465233dab063ae86b0153da4410490c14701a4bbd.jpg",
+      "image_path": "images/cards/1114/20-889.webp",
+      "image_sha256": "ca06ae42b3e09a6c81439cd5a139f81f3fa51af9051f22fd534d5f21586b7b8a",
+      "image_bytes": 105388,
+      "source_url": "https://www.tcgcollector.com/cards/889/lanturn-aquapolis-20-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 52
+    },
+    {
+      "id": 890,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Lanturn",
+      "number": "21",
+      "number_value": 21,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/63/d3/36/63d336a71069860b2571b934ac8c24ef034ed7949e4f798ea04466ede22d62e1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/76/1b/48/761b48ac09bf4653205dcd5f76feebe9180e91156d0be77aac6f821fb7fb8835.jpg",
+      "image_path": "images/cards/1114/21-890.webp",
+      "image_sha256": "d5175e7cf0a3a74cecb9f7d8016b82f1184c6683dedc837fcafbb13118925f9c",
+      "image_bytes": 105565,
+      "source_url": "https://www.tcgcollector.com/cards/890/lanturn-aquapolis-21-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 53
+    },
+    {
+      "id": 1042,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Magneton",
+      "number": "22",
+      "number_value": 22,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/46/78/68/46786828ca90dfa4185e2d588a0766b95964eae9505c54efa3c7c7ec4866566c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a7/0d/c9/a70dc9d922913c525ad83aec5841cc4dac72333eb4fb16d44acc7cd84d34a1f0.jpg",
+      "image_path": "images/cards/1114/22-1042.webp",
+      "image_sha256": "be32e8199354bdba490873b0609bd9d6ff5f18cbfeb1a114062c71f9ef874aa1",
+      "image_bytes": 117785,
+      "source_url": "https://www.tcgcollector.com/cards/1042/magneton-aquapolis-22-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 54
+    },
+    {
+      "id": 1191,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Muk",
+      "number": "23",
+      "number_value": 23,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/e5/3a/c8/e53ac8a3fecc7106ee93a470ce1a3b624d95be95456de17b112854dddef921cf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/be/d2/38/bed238a78b3db5526904dccc7fad39f3129acc8fbda5d59a749aa4460c8dc1cc.jpg",
+      "image_path": "images/cards/1114/23-1191.webp",
+      "image_sha256": "89421d298bad601c01944cbfebd82fd56a1b47809f012bf02dd592a0c7d393f3",
+      "image_bytes": 125982,
+      "source_url": "https://www.tcgcollector.com/cards/1191/muk-aquapolis-23-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 55
+    },
+    {
+      "id": 1216,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Nidoking",
+      "number": "24",
+      "number_value": 24,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ed/c1/1c/edc11cc3a0a5cb10c6c82b15236b137b4e636e76cc6b70620ce3294cd819222f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/02/95/a8/0295a8353ffa736f845f39fc69d89a3771124294238aa89ada4c8ed28b4a6e1d.jpg",
+      "image_path": "images/cards/1114/24-1216.webp",
+      "image_sha256": "9090c29ce63328e3da6bd2e5fd99ba2617655a03de1541b3d63e35e5d464f938",
+      "image_bytes": 124600,
+      "source_url": "https://www.tcgcollector.com/cards/1216/nidoking-aquapolis-24-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 56
+    },
+    {
+      "id": 1247,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Ninetales",
+      "number": "25",
+      "number_value": 25,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/66/97/93/66979397cd6bd03a29516771dec9643a457d615bfc87716b07598f9b44b9aeb9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/51/52/2e/51522e82e60c6bc9fb24623ff21f926c94b400cd4950938c1622d77bb61bf11d.jpg",
+      "image_path": "images/cards/1114/25-1247.webp",
+      "image_sha256": "7fe732e670679021d5920377be36692246b77216adeb696591b6e94e399db3b9",
+      "image_bytes": 97974,
+      "source_url": "https://www.tcgcollector.com/cards/1247/ninetales-aquapolis-25-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 57
+    },
+    {
+      "id": 1260,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Octillery",
+      "number": "26",
+      "number_value": 26,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/e4/f2/dd/e4f2dd7b282e69dbb6f15a6057233bf4cc39c7412f11968b954ac4300f49a59b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/65/de/b2/65deb2b393427afc55d5f6e3064257d788868238d8b0f9eac3736ee395f41e5b.jpg",
+      "image_path": "images/cards/1114/26-1260.webp",
+      "image_sha256": "5c306502a599fbd2ff956d2a5eac6db883b4bd83a439ecd8773c0e218ab5e142",
+      "image_bytes": 119233,
+      "source_url": "https://www.tcgcollector.com/cards/1260/octillery-aquapolis-26-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 58
+    },
+    {
+      "id": 1289,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Parasect",
+      "number": "27",
+      "number_value": 27,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/3b/76/62/3b7662295de6478ea05122a0c1aa90a51655168b96fdb857952bf85c8c448ee1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5d/f1/e4/5df1e4570a1be1cca9754e54b2f70b8dce7b700415459dae3b6af46a25e90015.jpg",
+      "image_path": "images/cards/1114/27-1289.webp",
+      "image_sha256": "0c81eafb94f77eeb3d956a9c0ecfa453e12d3918fcb7e18a0175aa806c2ac3be",
+      "image_bytes": 121546,
+      "source_url": "https://www.tcgcollector.com/cards/1289/parasect-aquapolis-27-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 59
+    },
+    {
+      "id": 1399,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Porygon2",
+      "number": "28",
+      "number_value": 28,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/44/12/d1/4412d1535ccf754e67576598f8809de458c7ad5e8ebb56dac383309c31f534eb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f7/d3/02/f7d302f2348143764c629ddc8a59c3ec2cbd2fbb7e8c840a4c51f4d3951f11e5.jpg",
+      "image_path": "images/cards/1114/28-1399.webp",
+      "image_sha256": "09a1c4ac237cb03228caaf25f40da36909115fb28a9c6d35151e6f1fbfd4483a",
+      "image_bytes": 125334,
+      "source_url": "https://www.tcgcollector.com/cards/1399/porygon2-aquapolis-28-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 60
+    },
+    {
+      "id": 1409,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Primeape",
+      "number": "29",
+      "number_value": 29,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/08/36/71/08367137933dd2b01ecef5d22806ab9864e88d126c550596a63d4d35f28983a8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5e/33/6b/5e336be15ed438e89eca594d4f7d79d8e58ce8a7e508cf3a582e14b4651d1161.jpg",
+      "image_path": "images/cards/1114/29-1409.webp",
+      "image_sha256": "d73e6f844d4ce0179cfd3f9711779664015f09597d2f9a106fbe38637cb6bc4d",
+      "image_bytes": 122690,
+      "source_url": "https://www.tcgcollector.com/cards/1409/primeape-aquapolis-29-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 61
+    },
+    {
+      "id": 1435,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Quagsire",
+      "number": "30",
+      "number_value": 30,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/bb/4b/61/bb4b613c7a8f70a6c8d094f0a382e972e417aeec9583785257dd22188e569888.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4d/71/75/4d7175113fa891a1e6f2860247b9c6c34a5a689d997dd8dbdda6569c300e691f.jpg",
+      "image_path": "images/cards/1114/30-1435.webp",
+      "image_sha256": "93672a6b465dd10f2a79f1be3cab80a31a66ac8b1f72fb42eebef9984508ab51",
+      "image_bytes": 111545,
+      "source_url": "https://www.tcgcollector.com/cards/1435/quagsire-aquapolis-30-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 62
+    },
+    {
+      "id": 1466,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Rapidash",
+      "number": "31",
+      "number_value": 31,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/1d/36/c9/1d36c9f3f2178f85f4238bbf9c8c3c04e77c07adb1ff01cf9a10f90eaca75112.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/80/7e/00/807e00d31e7521571836ebcbcc4734e56362ef91e3570728be3e59b1db23eafc.jpg",
+      "image_path": "images/cards/1114/31-1466.webp",
+      "image_sha256": "3adb96b83a46eac9a6c8b3b5246d840924d34c0da016c425d902ff33bc0a24a7",
+      "image_bytes": 101505,
+      "source_url": "https://www.tcgcollector.com/cards/1466/rapidash-aquapolis-31-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 63
+    },
+    {
+      "id": 1565,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Scizor",
+      "number": "32",
+      "number_value": 32,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/bc/50/4f/bc504f61e3f6b82530ba080c086b896a558bcf14c120923dadd92e4db87131a6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/56/06/30/5606306916e022bb49d7547d52370f471b2fadd983591f4a37898bc1bd6595f0.jpg",
+      "image_path": "images/cards/1114/32-1565.webp",
+      "image_sha256": "46e15db2f403d6f5e25cd9e82f3ad5a388b0c7d99421154fc86375c854792c6c",
+      "image_bytes": 112490,
+      "source_url": "https://www.tcgcollector.com/cards/1565/scizor-aquapolis-32-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 64
+    },
+    {
+      "id": 1643,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Slowbro",
+      "number": "33",
+      "number_value": 33,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/98/9a/13/989a13ea4b871dd62640e28e85ac56d929432cfe7da7d4cfbf6197d8cf9a333a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9a/67/37/9a67370668dea957d1f2190579f6327e51c3f30153f053df171077f091d5ff83.jpg",
+      "image_path": "images/cards/1114/33-1643.webp",
+      "image_sha256": "5bd867fa9713f6ea7a34d448d3a42bbe921f61ce4c1953b8ecc934f4ee31d73e",
+      "image_bytes": 107492,
+      "source_url": "https://www.tcgcollector.com/cards/1643/slowbro-aquapolis-33-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 65
+    },
+    {
+      "id": 1648,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Slowking",
+      "number": "34",
+      "number_value": 34,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/a9/b6/33/a9b6335cf321a9e21977061965ce730337f9fcee501c3683d5d0eb31ba9e8505.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b6/6c/87/b66c873d99d470faba5987d2232b8be4a4216666c1b7398b8d4d924367e18249.jpg",
+      "image_path": "images/cards/1114/34-1648.webp",
+      "image_sha256": "fbca4d6e622abe6fb7ac062f9bd18159f3c3a46c8277088d8611daf657186a9f",
+      "image_bytes": 107947,
+      "source_url": "https://www.tcgcollector.com/cards/1648/slowking-aquapolis-34-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 66
+    },
+    {
+      "id": 1713,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Steelix",
+      "number": "35",
+      "number_value": 35,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/b4/6f/3b/b46f3bef9fe78311985c8aaec3434efda646483e4c69d03a51eb8677b42fbdcc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/91/14/db/9114db38a8d6d68e807658448d2477c376f2ca74d7c50d0acc39c786b5c8bae5.jpg",
+      "image_path": "images/cards/1114/35-1713.webp",
+      "image_sha256": "43670ab5d39a3a5c1d11393fbb8e89c23856af4b04c80346db108a49da2e02b9",
+      "image_bytes": 102152,
+      "source_url": "https://www.tcgcollector.com/cards/1713/steelix-aquapolis-35-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 67
+    },
+    {
+      "id": 1717,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Sudowoodo",
+      "number": "36",
+      "number_value": 36,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ec/74/e7/ec74e71e8ad4722a552e4dc506166c2d84f7847b6df785fb7bbec2f5ce4cf601.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/54/38/5f/54385f78a78862ba36b1350460c88a080625a3a00bd8d0f38a420a72a9643f77.jpg",
+      "image_path": "images/cards/1114/36-1717.webp",
+      "image_sha256": "30f2d758f81f9bfe5e2d71161025749fab3e4647d0190294fea696850b9328bd",
+      "image_bytes": 108647,
+      "source_url": "https://www.tcgcollector.com/cards/1717/sudowoodo-aquapolis-36-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 68
+    },
+    {
+      "id": 1722,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Suicune",
+      "number": "37",
+      "number_value": 37,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f0/e0/6d/f0e06d716e182d77054c4d7fb67fbea9e9651df79783888ded25aeebaf4fa2b6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b0/40/fe/b040fe5a081c647e0e7d3ff04c283ca82ad190b291222fab87a9e27a502a300b.jpg",
+      "image_path": "images/cards/1114/37-1722.webp",
+      "image_sha256": "d3f620bf36f39d6295279ab6d71eed7ad6c50e363233ee40d65d3a54fb80d9dc",
+      "image_bytes": 107368,
+      "source_url": "https://www.tcgcollector.com/cards/1722/suicune-aquapolis-37-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 69
+    },
+    {
+      "id": 1766,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Tentacruel",
+      "number": "38",
+      "number_value": 38,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/36/69/49/36694923a211441b3eb1f96434a698e96abbabfacecdd17753e42beb53ec084d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2c/a5/92/2ca5926db5fc4ad5bac6534942d0892a392a79d3ebe11a72b28da712e8d1b0c8.jpg",
+      "image_path": "images/cards/1114/38-1766.webp",
+      "image_sha256": "b53c5e07ba16874a77a31d9646df2256098043b0493b113fe1284ae7c028a7ac",
+      "image_bytes": 113449,
+      "source_url": "https://www.tcgcollector.com/cards/1766/tentacruel-aquapolis-38-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 70
+    },
+    {
+      "id": 1784,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Togetic",
+      "number": "39",
+      "number_value": 39,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/d0/b8/f2/d0b8f24515ffa457e787a39b809fb70673c55b15a3facb4a42fa316def2fe5ce.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/07/22/a6/0722a6d29f6a7e390ad40dc3e96daa8b7ce6c159755ea28a7596fb975ea8bd54.jpg",
+      "image_path": "images/cards/1114/39-1784.webp",
+      "image_sha256": "361db2759d106479ae58c7b86bbe58adf5136c8b60ca7d6ebf1f9863e32cd7d5",
+      "image_bytes": 128982,
+      "source_url": "https://www.tcgcollector.com/cards/1784/togetic-aquapolis-39-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 71
+    },
+    {
+      "id": 1817,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Tyranitar",
+      "number": "40",
+      "number_value": 40,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f5/51/01/f5510130229fd96866f132ee343fa0b0624960bd0d7d27332b96ce3d9ccfc509.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a5/63/db/a563dbd0a3a43086b0b9f9baf6074b78dbdf748f514d241564bf47b31563f0d0.jpg",
+      "image_path": "images/cards/1114/40-1817.webp",
+      "image_sha256": "f4acd46dd4dcdef4c88b50168f88714b5a0c7091dfa50ff7bee73a3f3f6d3f08",
+      "image_bytes": 128956,
+      "source_url": "https://www.tcgcollector.com/cards/1817/tyranitar-aquapolis-40-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 72
+    },
+    {
+      "id": 1827,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Umbreon",
+      "number": "41",
+      "number_value": 41,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/d3/11/d1/d311d1904a72f26a233524318060ddc933824be83159a8bbe129398751e0f74b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8b/17/a1/8b17a10263b4b540da44738cc8d7a22486ac83d1957864720beb4e66c0cb3326.jpg",
+      "image_path": "images/cards/1114/41-1827.webp",
+      "image_sha256": "e10c8060521f23fa693913bf2c84e91889c3e4caedc2a0fec3bb4d1c027df71a",
+      "image_bytes": 118401,
+      "source_url": "https://www.tcgcollector.com/cards/1827/umbreon-aquapolis-41-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 73
+    },
+    {
+      "id": 1884,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Victreebel",
+      "number": "42",
+      "number_value": 42,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/c1/c3/bd/c1c3bddea737be635d83bd8ea9e67fc9f9a3aba3f7875d5ccdcb153a05428e48.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0b/0e/86/0b0e86fee011bea07a8303c43c1f78080b8ec33b0f80ce63a99ce7c9ac604f49.jpg",
+      "image_path": "images/cards/1114/42-1884.webp",
+      "image_sha256": "4c9b66ffe1f4e3a4f8618028f9a8bb676cf79db1a8249abf5b2d49061fdd859d",
+      "image_bytes": 101255,
+      "source_url": "https://www.tcgcollector.com/cards/1884/victreebel-aquapolis-42-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 74
+    },
+    {
+      "id": 1892,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Vileplume",
+      "number": "43",
+      "number_value": 43,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/99/42/7e/99427ef0a63e7832e5a02ac163fd554d72d01d802b2f6482379c1e2b07afde19.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/78/54/c1/7854c1d5d3646c035cf5b42723fc05754f65d5678b55537110d2f951bbb10359.jpg",
+      "image_path": "images/cards/1114/43-1892.webp",
+      "image_sha256": "fcb97b49d4729a6daa220219aeb3401f47ab6bf7927b585fc2d5281288f771cc",
+      "image_bytes": 115716,
+      "source_url": "https://www.tcgcollector.com/cards/1892/vileplume-aquapolis-43-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 75
+    },
+    {
+      "id": 1968,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Zapdos",
+      "number": "44",
+      "number_value": 44,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/0b/8f/ad/0b8fad8f548e0f391cbe19b793bac33fe54dfa0d83f03366a2e6e722e9a8ecaa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/88/13/3c/88133cb3eee918a5e4352a63219b454582552f073b579738aba815387256aa89.jpg",
+      "image_path": "images/cards/1114/44-1968.webp",
+      "image_sha256": "e3120b10b457b1985f402362e028f034af7ba725b18b7e03509c26f4289cc0bd",
+      "image_bytes": 102918,
+      "source_url": "https://www.tcgcollector.com/cards/1968/zapdos-aquapolis-44-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 76
+    },
+    {
+      "id": 89,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Bellsprout",
+      "number": "45",
+      "number_value": 45,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/a1/49/ce/a149ce663de56ffba4e70a0cb62f00f1dffbacf965b7bc3fec4fb827610ce536.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6b/8f/f7/6b8ff7f29e747f6ca9b5f0660bb02b89662a8317710cb883ad0260731dbf22f1.jpg",
+      "image_path": "images/cards/1114/45-89.webp",
+      "image_sha256": "f791d5788e7dfec61db7ddbcb01ff706d998b3de0d2145b15b3b859f441cb302",
+      "image_bytes": 92757,
+      "source_url": "https://www.tcgcollector.com/cards/89/bellsprout-aquapolis-45-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 77
+    },
+    {
+      "id": 395,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Dodrio",
+      "number": "46",
+      "number_value": 46,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/16/3a/90/163a90786b465a01d35fe3c2cc409cbed3b69264286b958ac78ddfc0d175c8f7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bd/fb/03/bdfb03e0bd8c373529afc8d0f63d8ee5a3b284c4afabdd0f2e09b027bc91dddd.jpg",
+      "image_path": "images/cards/1114/46-395.webp",
+      "image_sha256": "0fec9600e61d4aac256723c15fbd2fd4186d5c6a9e0ba1d30295fffdc64555a7",
+      "image_bytes": 107921,
+      "source_url": "https://www.tcgcollector.com/cards/395/dodrio-aquapolis-46-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 78
+    },
+    {
+      "id": 574,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Flaaffy",
+      "number": "47",
+      "number_value": 47,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d3/c8/28/d3c8289d1a3a480ccb1d049ec198f3ca93230a1b4db04ebddf12a64e3fd350ff.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c1/3b/91/c13b911e43c2685593f03dbd804b3f8b4f9e33a78c19927603a5fc8048ea8c21.jpg",
+      "image_path": "images/cards/1114/47-574.webp",
+      "image_sha256": "afab9d4255c8e1d08268ced9ff2eebaf3aa3b8351bde2495559ae9e45e39090c",
+      "image_bytes": 103063,
+      "source_url": "https://www.tcgcollector.com/cards/574/flaaffy-aquapolis-47-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 79
+    },
+    {
+      "id": 600,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Furret",
+      "number": "48",
+      "number_value": 48,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/35/c8/23/35c823720d4ac8c241df0663d20bf889570c6e478ee0f9f8208ee3170753983b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a6/19/cf/a619cf3cf4ef89dedb0942bdfe020c19749c54c1074f018358edd1b007fb909e.jpg",
+      "image_path": "images/cards/1114/48-600.webp",
+      "image_sha256": "bc3e60e7b52879f3853260c5242004da5e6d2023a24306d1b054fd86767da23c",
+      "image_bytes": 100792,
+      "source_url": "https://www.tcgcollector.com/cards/600/furret-aquapolis-48-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 80
+    },
+    {
+      "id": 650,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Gloom",
+      "number": "49",
+      "number_value": 49,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/bd/be/b3/bdbeb395b14992bbfff5ef9f439d5f5f78c17fdb08adeb28c8133360e3611b44.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ac/e2/d1/ace2d1246013f4bf2d67b92f6fc518f82a52ee5b1950d836442181cf2de50b13.jpg",
+      "image_path": "images/cards/1114/49-650.webp",
+      "image_sha256": "6622a81f6245055f702ea8262572d2d1ea42b9a4754605cb6bccf1a4e39a59b6",
+      "image_bytes": 104664,
+      "source_url": "https://www.tcgcollector.com/cards/650/gloom-aquapolis-49-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 81
+    },
+    {
+      "id": 664,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Golduck",
+      "number": "50a",
+      "number_value": 50,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/5a/96/9f/5a969f7bbaf00698037e8868f75d38afbbd415824c7f4b88384af93251297aee.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ab/f8/b0/abf8b003c74faf532e49ac2abe82bd3f8cc6b5899f9cc70c3f3b194d89ae67b6.jpg",
+      "image_path": "images/cards/1114/50a-664.webp",
+      "image_sha256": "941a0d0ac95c77ade0903cea42c4a2e5d497f4c685937e8d5b1f6cd4c20ba3f8",
+      "image_bytes": 109684,
+      "source_url": "https://www.tcgcollector.com/cards/664/golduck-aquapolis-50a-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 82
+    },
+    {
+      "id": 665,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Golduck",
+      "number": "50b",
+      "number_value": 50,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f6/8f/20/f68f2018f0be3ce06e171b53d8ea242b7b567c96cee8086c0d0a2b592fe58b39.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2c/cc/a0/2ccca07732d69d73b9d36d0c418b90cef0d68fc184443398c1fc5bb8adecf44e.jpg",
+      "image_path": "images/cards/1114/50b-665.webp",
+      "image_sha256": "941a0d0ac95c77ade0903cea42c4a2e5d497f4c685937e8d5b1f6cd4c20ba3f8",
+      "image_bytes": 109684,
+      "source_url": "https://www.tcgcollector.com/cards/665/golduck-aquapolis-50b-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 83
+    },
+    {
+      "id": 701,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Growlithe",
+      "number": "51",
+      "number_value": 51,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/93/bb/64/93bb6449c9bd06baa31e76c3191e28a298cb7a24c21c7491a506c52d3411ed30.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/00/e7/ac/00e7ac65e2eb02f697736c36bd4c6ec9bf7b848549386a3d652035f8f9262819.jpg",
+      "image_path": "images/cards/1114/51-701.webp",
+      "image_sha256": "ab68fb6e8d2fd69663ce54b79aa23b0f2fed50d21239b0f3434e473f652b1006",
+      "image_bytes": 96509,
+      "source_url": "https://www.tcgcollector.com/cards/701/growlithe-aquapolis-51-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 84
+    },
+    {
+      "id": 1027,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Magnemite",
+      "number": "52",
+      "number_value": 52,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/59/fa/5c/59fa5c0c5cd41d46ae427c5337510631df1b939f880dfe455a8633107c52afe2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/34/e5/65/34e56565144da2cc3cc534a09b5e635c29dc15e8fb2eac550fa37c90f02dd1dc.jpg",
+      "image_path": "images/cards/1114/52-1027.webp",
+      "image_sha256": "4a679128a2198c3986294db25d6a2fdb45e8888b3eba6a723c68b4c4d4f5a463",
+      "image_bytes": 106549,
+      "source_url": "https://www.tcgcollector.com/cards/1027/magnemite-aquapolis-52-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 85
+    },
+    {
+      "id": 1070,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Marill",
+      "number": "53",
+      "number_value": 53,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/85/81/5e/85815e1c258434e43899a8eefb655bc873a1940f97b7dd32a02c035ff0cd8150.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d7/b0/ac/d7b0ac9ab1c354d2b968f7d2bfa24ab4c78ef76071a583173ff226e1a886ef6a.jpg",
+      "image_path": "images/cards/1114/53-1070.webp",
+      "image_sha256": "fde808a279ae15b7658bfb1cd1a76a2c6a8e60771bbb505858a087bfe842eaf8",
+      "image_bytes": 105735,
+      "source_url": "https://www.tcgcollector.com/cards/1070/marill-aquapolis-53-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 86
+    },
+    {
+      "id": 1075,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Marowak",
+      "number": "54",
+      "number_value": 54,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/e6/17/63/e6176332560123f9ca9d3f920427ff3ccdfedb4803389e628c5163f4d82c15e2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/26/b2/51/26b25110f4a4b8f3566f9d8a2de8c6b153bd014ddd1e4654b887682934d88f81.jpg",
+      "image_path": "images/cards/1114/54-1075.webp",
+      "image_sha256": "1a63437264ef46292d2b67268802dba12e678e69490b3cd9144dcafdc461f756",
+      "image_bytes": 116011,
+      "source_url": "https://www.tcgcollector.com/cards/1075/marowak-aquapolis-54-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 87
+    },
+    {
+      "id": 1235,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Nidorino",
+      "number": "55",
+      "number_value": 55,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/af/b8/db/afb8dbad382faa6a624056aadb764d86b4ec977a8f445320c8de7be5a14ff956.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ef/65/dd/ef65dd0c49b65c3b52141fff131baafa7c7b4931ef6de22d6357c6188b6b70b7.jpg",
+      "image_path": "images/cards/1114/55-1235.webp",
+      "image_sha256": "28cc7877ffc83238f4253e27f88be8d287001b4b279f3dc2dfb2cc13315e2d2f",
+      "image_bytes": 118668,
+      "source_url": "https://www.tcgcollector.com/cards/1235/nidorino-aquapolis-55-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 88
+    },
+    {
+      "id": 1433,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Pupitar",
+      "number": "56",
+      "number_value": 56,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/89/da/42/89da4297de2be17b73403caf0145911de017271bd21efa9f5110d569e7045772.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fc/6b/10/fc6b1032862e174d96b472183285249b1e68b4ea5bf884b1df545fffdb9d7072.jpg",
+      "image_path": "images/cards/1114/56-1433.webp",
+      "image_sha256": "2c2e260924787187a827f1403b827f06dcef555b30f12ee2b17c7b7b4fa8a1c3",
+      "image_bytes": 127027,
+      "source_url": "https://www.tcgcollector.com/cards/1433/pupitar-aquapolis-56-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 89
+    },
+    {
+      "id": 1574,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Scyther",
+      "number": "57",
+      "number_value": 57,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/2f/52/f9/2f52f96b2df1c7d748552cf935bdd6b1a0370e5befd596f007d896ecf3cbe789.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/41/74/71/417471dd75a90dd41388562069b073d3f19d97bcf1f32fb13899cace16159331.jpg",
+      "image_path": "images/cards/1114/57-1574.webp",
+      "image_sha256": "7f718dee84426a5b67f2231031cb326c996cbdc0314389ef6f39f4579de602a3",
+      "image_bytes": 110656,
+      "source_url": "https://www.tcgcollector.com/cards/1574/scyther-aquapolis-57-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 90
+    },
+    {
+      "id": 1579,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Seadra",
+      "number": "58",
+      "number_value": 58,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/da/ca/84/daca8429b67d97de73f0c32d3a8d302ec665ddcba81cf105df9cba784759f965.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/50/57/53/5057539b5b37512c8f9e0a320ea0012b9fac08fa5163a4ecded68ff414f0cbe2.jpg",
+      "image_path": "images/cards/1114/58-1579.webp",
+      "image_sha256": "9c870d59dd12c4ed16f13bb255f02c25046de29771270760be5f7d9b82d809be",
+      "image_bytes": 105030,
+      "source_url": "https://www.tcgcollector.com/cards/1579/seadra-aquapolis-58-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 91
+    },
+    {
+      "id": 1586,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Seaking",
+      "number": "59",
+      "number_value": 59,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/60/92/d4/6092d41b5671ec66ceaaef6ef4b76de217333bacfd90eda697c0c47577391a6d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9b/54/f0/9b54f0a66885a8d443e4f5c8b76ad7cc9e9ea758b6372015a24ca51bdee5a787.jpg",
+      "image_path": "images/cards/1114/59-1586.webp",
+      "image_sha256": "b8f30fe431e012c3f86968f09f01848734e623c3e5268c42267ada86c3fdb9e8",
+      "image_bytes": 106879,
+      "source_url": "https://www.tcgcollector.com/cards/1586/seaking-aquapolis-59-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 92
+    },
+    {
+      "id": 1634,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Skiploom",
+      "number": "60",
+      "number_value": 60,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/65/0e/97/650e9788bb79446af01291501d5cefb5ceb2bb97178798c023d97c3919f66a08.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/14/1f/49/141f493a6bf2f7cc3611c0fe32a04724811e4bbe3038f602779673146aa80cc1.jpg",
+      "image_path": "images/cards/1114/60-1634.webp",
+      "image_sha256": "848741317fe288680ca55caf63ed800946e930213c26f49cec6fdb8bd72b1bf2",
+      "image_bytes": 97711,
+      "source_url": "https://www.tcgcollector.com/cards/1634/skiploom-aquapolis-60-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 93
+    },
+    {
+      "id": 1664,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Smoochum",
+      "number": "61",
+      "number_value": 61,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/da/7f/4d/da7f4d031717662f81efa89caf9574e10a1e50c60a0f8b3370c355e2ecafe238.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/29/95/ad/2995ad0da60706244aeef280b93cc6e36713a13c03bd03c7557062a9bdf10793.jpg",
+      "image_path": "images/cards/1114/61-1664.webp",
+      "image_sha256": "4aa824ae2dc7eeb80e89a51bd4c5662bb7bdbec7067f74d0498e797272ba6d2c",
+      "image_bytes": 119212,
+      "source_url": "https://www.tcgcollector.com/cards/1664/smoochum-aquapolis-61-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 94
+    },
+    {
+      "id": 1683,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Spinarak",
+      "number": "62",
+      "number_value": 62,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ea/59/73/ea597396e69357a8279de0072f969efd21a77e4b54fc33b553bd95b250fde1e8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/89/a2/dc/89a2dc5fd5bc789e10a02534a546d01591135864e12d38838c4891e848f6e4e9.jpg",
+      "image_path": "images/cards/1114/62-1683.webp",
+      "image_sha256": "8b92242e3d07d14c258125e5a590741082949599b487d15f12cf3a1c33d9d0b0",
+      "image_bytes": 102192,
+      "source_url": "https://www.tcgcollector.com/cards/1683/spinarak-aquapolis-62-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 95
+    },
+    {
+      "id": 1819,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Tyrogue",
+      "number": "63",
+      "number_value": 63,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/23/80/47/23804712b82ac93fda6a3dd26fbcb4443bd43a69c046b387620be769b6f366ef.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3c/bb/9d/3cbb9da8058eca244396d8159545590ba298ea75891a314c334b0d9b1f9f55e8.jpg",
+      "image_path": "images/cards/1114/63-1819.webp",
+      "image_sha256": "2be8e714885bba14ac37ac1bd2201d2f7cdfd8a3d53dc6d40bbdbc7ab4985237",
+      "image_bytes": 133448,
+      "source_url": "https://www.tcgcollector.com/cards/1819/tyrogue-aquapolis-63-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 96
+    },
+    {
+      "id": 1896,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Voltorb",
+      "number": "64",
+      "number_value": 64,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/4a/42/bf/4a42bf74c10d44897388b24f3067dfce3be8bd49f2d15003d08359bf95df8c6c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2b/29/fd/2b29fd7984e638ab8ded4e546f0f77dcd3791b8d841a1538c4aaa4791cd01723.jpg",
+      "image_path": "images/cards/1114/64-1896.webp",
+      "image_sha256": "6a682f919d0186bf9ba44eb22467913729bb4bf7752e9ec510d308cb683fba55",
+      "image_bytes": 101740,
+      "source_url": "https://www.tcgcollector.com/cards/1896/voltorb-aquapolis-64-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 97
+    },
+    {
+      "id": 1931,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Weepinbell",
+      "number": "65",
+      "number_value": 65,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/e8/aa/2b/e8aa2b24a5f4e739228284d9f7914473a3f67663abda81c335b0cdfeb1910fdc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e3/ec/d3/e3ecd312eda33467cffb76e1b3f14ab17bbea6e24e0132444aa890f87eebaae5.jpg",
+      "image_path": "images/cards/1114/65-1931.webp",
+      "image_sha256": "564be26911a85354f7a9d82bd37ad91e3f575ae1521c8e2f5d931419b66335e5",
+      "image_bytes": 113088,
+      "source_url": "https://www.tcgcollector.com/cards/1931/weepinbell-aquapolis-65-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 98
+    },
+    {
+      "id": 1946,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Wooper",
+      "number": "66",
+      "number_value": 66,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/31/5a/a0/315aa01f4e5843db76fd3385be481429c0371e3df1a21ff80e7743f8e5330ffa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5e/2d/de/5e2dde0ac0332432642adbce3bef59b4f5b1436870367b7a64382e356b3d5106.jpg",
+      "image_path": "images/cards/1114/66-1946.webp",
+      "image_sha256": "2c7938dbae581f04e23b976d83cf53b7e52e347e4660a6df9ed7ac2fc7d0a217",
+      "image_bytes": 119954,
+      "source_url": "https://www.tcgcollector.com/cards/1946/wooper-aquapolis-66-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 99
+    },
+    {
+      "id": 17,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Aipom",
+      "number": "67",
+      "number_value": 67,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f8/e1/f0/f8e1f028853acf2583dd7854400617cb531f336e311958c657d222e5b4c5fc24.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/17/ce/9b/17ce9b4f6bd4ce7e693655bd585ff5ce7b35b482b4dbae37b0f91e26efdec9cf.jpg",
+      "image_path": "images/cards/1114/67-17.webp",
+      "image_sha256": "71525542fbe6f279eccf0ef9c60365cbb62dc14810452188cdeade7eb251c13a",
+      "image_bytes": 106982,
+      "source_url": "https://www.tcgcollector.com/cards/17/aipom-aquapolis-67-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 100
+    },
+    {
+      "id": 91,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Bellsprout",
+      "number": "68",
+      "number_value": 68,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/77/c1/49/77c149cb8d0764ae01521e6f868b24d026b7ad1111c5ad2162c11d0f9f251c4b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e4/42/66/e44266c420eee20f76657e919ce986156ce7787ed3911c97c2b875babaf886fe.jpg",
+      "image_path": "images/cards/1114/68-91.webp",
+      "image_sha256": "87182e80ec286d74e96c0bd87e9a26c4a07502b5a13b2ecfad0975843d328b6c",
+      "image_bytes": 109845,
+      "source_url": "https://www.tcgcollector.com/cards/91/bellsprout-aquapolis-68-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 101
+    },
+    {
+      "id": 205,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Chansey",
+      "number": "69",
+      "number_value": 69,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/53/e0/f9/53e0f95007bc154b021b04c3ad76a2f5892a306320e12759bb8e9e0103e366ca.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/90/4e/ac/904eac4c93226523882c5e6057275944b7db91979e35d2ca913c588fd9aac5cc.jpg",
+      "image_path": "images/cards/1114/69-205.webp",
+      "image_sha256": "3a357ae9ee99f1257485242e93ceb3bb86f8ab1d6ea3e21b46423c3749ff3e4d",
+      "image_bytes": 88786,
+      "source_url": "https://www.tcgcollector.com/cards/205/chansey-aquapolis-69-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 102
+    },
+    {
+      "id": 233,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Chinchou",
+      "number": "70",
+      "number_value": 70,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/31/f8/69/31f869e92a1a8026764ef46d283a9c1ebbfb12588f28933ea858ade3a38ed578.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/61/86/95/6186951b5da22d94bb9ce0b58c23c475f7db75c1ced388b77a4739a8aea6b6ab.jpg",
+      "image_path": "images/cards/1114/70-233.webp",
+      "image_sha256": "d89a213418362c274684a2215bfd0e52f948b39624ca8a35f845e6fdf0192483",
+      "image_bytes": 109167,
+      "source_url": "https://www.tcgcollector.com/cards/233/chinchou-aquapolis-70-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 103
+    },
+    {
+      "id": 234,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Chinchou",
+      "number": "71",
+      "number_value": 71,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/03/90/d4/0390d4b1cf7d1d2e4d373b205317317d03d373489c7799302e104b3cc83c2a4d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/12/fe/69/12fe6960856c2e8c983363af7da7b47d741a57a9d006e25bb96c031774827189.jpg",
+      "image_path": "images/cards/1114/71-234.webp",
+      "image_sha256": "bfa5576d2ab1460d54fe4585be9abd040cabb152340213fe7892272a9ae3f1cb",
+      "image_bytes": 103840,
+      "source_url": "https://www.tcgcollector.com/cards/234/chinchou-aquapolis-71-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 104
+    },
+    {
+      "id": 278,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Cubone",
+      "number": "72",
+      "number_value": 72,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/58/af/4c/58af4c37bc48468b8b7740297c440af0fb56db86a3f8bb40543edbc4f7ec4f84.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b0/9a/67/b09a676b8341f9456caed9d3d64cd170328313ba7d760ac8f27652ebab5aa32a.jpg",
+      "image_path": "images/cards/1114/72-278.webp",
+      "image_sha256": "a7b8ceee8b6a9fa43ef78ffc0e105394f9fc59aa1d3a5b670985935a6be71636",
+      "image_bytes": 107682,
+      "source_url": "https://www.tcgcollector.com/cards/278/cubone-aquapolis-72-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 105
+    },
+    {
+      "id": 398,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Doduo",
+      "number": "73",
+      "number_value": 73,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/27/48/2f/27482f076157a1908e5b19cf003ec443d92cc0c58a7b0c58fbef029b9ed8d554.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/25/c6/38/25c638c4b9c0940829c18b66e1c12e4bf04119486e1436c86acaf16db084901e.jpg",
+      "image_path": "images/cards/1114/73-398.webp",
+      "image_sha256": "3b096abcedb6371a47147164b4490e8ab54e6b53ea7771133470315a14283b2f",
+      "image_bytes": 104835,
+      "source_url": "https://www.tcgcollector.com/cards/398/doduo-aquapolis-73-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 106
+    },
+    {
+      "id": 423,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Drowzee",
+      "number": "74a",
+      "number_value": 74,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/20/c6/3b/20c63b8a5accf35ad067b3fd02af04194de8bbeae5cad1e5449089cb7d30a9fa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3f/0d/3e/3f0d3e001186ee9202ea722680ca50dc60f4ead1d3acf7e068aa9310f93ce5e3.jpg",
+      "image_path": "images/cards/1114/74a-423.webp",
+      "image_sha256": "d80e9772a3e566dd9e2930c600548c5e76c05e7adbac45cded9b475ddf88145d",
+      "image_bytes": 112294,
+      "source_url": "https://www.tcgcollector.com/cards/423/drowzee-aquapolis-74a-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 107
+    },
+    {
+      "id": 424,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Drowzee",
+      "number": "74b",
+      "number_value": 74,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/9e/34/42/9e3442daf6594dae5621a234e31b14a4c941954a17996124deab1e524aae6403.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9c/c8/40/9cc840f73651354ea4deeb0f4a751c868dc49c09bc70584479f0d367cbbeaa10.jpg",
+      "image_path": "images/cards/1114/74b-424.webp",
+      "image_sha256": "d80e9772a3e566dd9e2930c600548c5e76c05e7adbac45cded9b475ddf88145d",
+      "image_bytes": 112294,
+      "source_url": "https://www.tcgcollector.com/cards/424/drowzee-aquapolis-74b-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 108
+    },
+    {
+      "id": 445,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Eevee",
+      "number": "75",
+      "number_value": 75,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/82/e6/c7/82e6c77c6c491934fe140127bad3277e7d080a955c55b29d45db5470342f56db.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/85/25/87/852587a2d1fdb6fa2cf7634d4632a14060d231eada881578050817a9c94af136.jpg",
+      "image_path": "images/cards/1114/75-445.webp",
+      "image_sha256": "972e94d7209a9a1796c8818175eb4f1c4d244f8dae41cb1e28a2b8245b27b6bc",
+      "image_bytes": 112207,
+      "source_url": "https://www.tcgcollector.com/cards/445/eevee-aquapolis-75-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 109
+    },
+    {
+      "id": 533,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Exeggcute",
+      "number": "76",
+      "number_value": 76,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/bb/de/9e/bbde9e254558ad054bdeba8ead606c1768e6133c2422071a64ded715ff0e1067.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/43/d2/dd/43d2dd6d612dc35ca551c82ddc91078e43488a365fc0b393bdd701dcba61dc2c.jpg",
+      "image_path": "images/cards/1114/76-533.webp",
+      "image_sha256": "eebaa4f72a479cbbb5071a42fcc8643074ec68cdc31a2515aeaddb20215b2850",
+      "image_bytes": 102980,
+      "source_url": "https://www.tcgcollector.com/cards/533/exeggcute-aquapolis-76-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 110
+    },
+    {
+      "id": 534,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Exeggcute",
+      "number": "77",
+      "number_value": 77,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/95/9b/76/959b76fe8a44bbdfc74d1efc4f6c1c332c1f2cb2e94bbd1d56c1337c542cd260.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c0/41/f1/c041f1612b7b83ae234b04b92915589183ad96bbec858cb1ff2768c56e88caee.jpg",
+      "image_path": "images/cards/1114/77-534.webp",
+      "image_sha256": "a1b794e094f009907dfd15649c9d1cb4f9a74bf8d7ac681103301413c9aaa02a",
+      "image_bytes": 116861,
+      "source_url": "https://www.tcgcollector.com/cards/534/exeggcute-aquapolis-77-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 111
+    },
+    {
+      "id": 659,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Goldeen",
+      "number": "78",
+      "number_value": 78,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/90/fb/17/90fb178bcc08dcad31842ea8f57b5c24fba559ce38e0c1fc2bc4a16006ffc23c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ac/d3/15/acd3150049088726e50106c980d2faa921ae8de7bba6e97150f24d4d02d275a7.jpg",
+      "image_path": "images/cards/1114/78-659.webp",
+      "image_sha256": "6131d711dd93657f9e50d5f5d225a970df3f18914d205c04054fa2c87539952b",
+      "image_bytes": 102487,
+      "source_url": "https://www.tcgcollector.com/cards/659/goldeen-aquapolis-78-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 112
+    },
+    {
+      "id": 692,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Grimer",
+      "number": "79",
+      "number_value": 79,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/47/d4/63/47d463c25b17651670e502c281c3d4a7d83f7ef6547d6d37b90bf80d71892cb6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/75/92/07/759207ee92bca22fc9c9540a8cbe74644e18767be16ee46768c497538cf89770.jpg",
+      "image_path": "images/cards/1114/79-692.webp",
+      "image_sha256": "1fde76008643d1731fa37a0e704f3fdc9cdfc34d1ffcdaf83dfb7fb19fe9998a",
+      "image_bytes": 95638,
+      "source_url": "https://www.tcgcollector.com/cards/692/grimer-aquapolis-79-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 113
+    },
+    {
+      "id": 705,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Growlithe",
+      "number": "80",
+      "number_value": 80,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e7/65/2a/e7652a318dd380eede5b4b667e3f0e0823f8b3ad947f05450835cd72b182b62e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/43/90/9b/43909b2e0ed3cd28523e780df74c4d19d33448ea12b2a4988479cb5c1a6304e6.jpg",
+      "image_path": "images/cards/1114/80-705.webp",
+      "image_sha256": "e37b32c8f7834e08027fc83b03b919578ea64586c30f7582b56ef6090ab13478",
+      "image_bytes": 103215,
+      "source_url": "https://www.tcgcollector.com/cards/705/growlithe-aquapolis-80-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 114
+    },
+    {
+      "id": 733,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Hitmonchan",
+      "number": "81",
+      "number_value": 81,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/12/c9/75/12c97583b3148b1f0fe29a7d06d1578ac9540c9584c8231652c6ca07aa04662d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/30/e2/51/30e2516ab99b94a334a3f2972bd169ee9c3fbd138a048f3029ebb558eb230520.jpg",
+      "image_path": "images/cards/1114/81-733.webp",
+      "image_sha256": "5edb029525293a42a6c9f1cf690902bdcbdcd52c5f5233431427bade576d448f",
+      "image_bytes": 122077,
+      "source_url": "https://www.tcgcollector.com/cards/733/hitmonchan-aquapolis-81-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 115
+    },
+    {
+      "id": 743,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Hitmontop",
+      "number": "82",
+      "number_value": 82,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/43/9c/95/439c9510270a35d6f4638df1261ad6ae5c56e0cd4d0dbefd68f0e8c724ea2404.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/80/36/44/80364440226da3413ca663ffb3540c49f8f2378e6dad1cffce15dfbe7060f1fd.jpg",
+      "image_path": "images/cards/1114/82-743.webp",
+      "image_sha256": "465118d452f0fcd1025eda6bcd410b68a9ecc020a5200d06fc02973bb5894df9",
+      "image_bytes": 127049,
+      "source_url": "https://www.tcgcollector.com/cards/743/hitmontop-aquapolis-82-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 116
+    },
+    {
+      "id": 752,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Hoppip",
+      "number": "83",
+      "number_value": 83,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/29/3d/ce/293dcee86987b496524bc3bc3496c10064d7bac70ca66efd5270e10a6447f1ab.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/44/63/f2/4463f2fc2292c7419b4399f9de7223a2796c82b40faeddafeb045164a40cc683.jpg",
+      "image_path": "images/cards/1114/83-752.webp",
+      "image_sha256": "a1363ff83c8a1f084099f16f3bfbc5a119b20f48971e84ae135dcf22169fe0f1",
+      "image_bytes": 97003,
+      "source_url": "https://www.tcgcollector.com/cards/752/hoppip-aquapolis-83-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 117
+    },
+    {
+      "id": 756,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Horsea",
+      "number": "84",
+      "number_value": 84,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/cf/14/5e/cf145efe76899cac26b2de494e9cc0fb94cc4817c4957992182a5f1ff997548b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1a/ff/75/1aff7505f8589f3e6eca929b845f635c0c95fb1205f7eb18c770eb1c1d855a01.jpg",
+      "image_path": "images/cards/1114/84-756.webp",
+      "image_sha256": "cafa30dc116bba17b9ab5eaf6bd712d838d9496c5b5891816a17bb9b14eae96c",
+      "image_bytes": 104945,
+      "source_url": "https://www.tcgcollector.com/cards/756/horsea-aquapolis-84-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 118
+    },
+    {
+      "id": 757,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Horsea",
+      "number": "85",
+      "number_value": 85,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/06/15/c7/0615c713fd27d45e807015428c3a1c5c3580b6b596a4f38066017e820fdbec42.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/83/34/59/8334598021f293339da063fa6a2561bd34cb2c7c4d8a6ce1b393e888e664ed03.jpg",
+      "image_path": "images/cards/1114/85-757.webp",
+      "image_sha256": "d79fa8f47bfe333f1f25a46c18ea75e2b07fd6854616584480771f3c03a6841d",
+      "image_bytes": 94024,
+      "source_url": "https://www.tcgcollector.com/cards/757/horsea-aquapolis-85-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 119
+    },
+    {
+      "id": 774,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Houndour",
+      "number": "86",
+      "number_value": 86,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/b2/31/67/b23167cfd4d16cbffcea64648134ef11da1f75a1f487fd6c5f76dee565acd623.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/01/2d/b6/012db6db4a2dbe9ada96d928474d180e034d3bffcc67640ae0392a92c6ac328c.jpg",
+      "image_path": "images/cards/1114/86-774.webp",
+      "image_sha256": "2966a1d0d698c8b89c52f4b750e99c3dc58e0d9071be11effc13e453445cd5d3",
+      "image_bytes": 104309,
+      "source_url": "https://www.tcgcollector.com/cards/774/houndour-aquapolis-86-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 120
+    },
+    {
+      "id": 775,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Houndour",
+      "number": "87",
+      "number_value": 87,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/11/1b/9e/111b9e42fb52a66ddf63a94237a7dafd501ea2bc941662394586dbbe93b3d199.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f2/b7/f8/f2b7f8032cb681081b9dedac59c4528b2ae064cf2a4e2950a8e206d7c088c7f5.jpg",
+      "image_path": "images/cards/1114/87-775.webp",
+      "image_sha256": "b8645db60aec06a47a81ab4a3ca7eaf6bc05a33a2876647923febeb8c2718064",
+      "image_bytes": 115854,
+      "source_url": "https://www.tcgcollector.com/cards/775/houndour-aquapolis-87-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 121
+    },
+    {
+      "id": 842,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Kangaskhan",
+      "number": "88",
+      "number_value": 88,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/61/17/fe/6117fea859b575ffa9a4b318d22688b7ff1d82d1b21e26231ed81b1f1dbcd62b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/67/08/15/6708156c33644797d2f98d822c721b610c1df99734f380177209468520886992.jpg",
+      "image_path": "images/cards/1114/88-842.webp",
+      "image_sha256": "1dbfeb4ac929223f1317718388bedaffd73f98dd7523005f7e5a79ca7364762e",
+      "image_bytes": 94630,
+      "source_url": "https://www.tcgcollector.com/cards/842/kangaskhan-aquapolis-88-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 122
+    },
+    {
+      "id": 900,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Larvitar",
+      "number": "89",
+      "number_value": 89,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/44/79/48/44794843a5db867e0aae45520d6ce0878010324ffe0de79fcb582b0224c981e3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/92/b9/05/92b90589d1f4f6551b06422fbe1625355fcb8a1353fcc79a54da76f02a5707d7.jpg",
+      "image_path": "images/cards/1114/89-900.webp",
+      "image_sha256": "815d37dae81427b6e44802265638d7e44f75e15a826408158f6225e4ac74409c",
+      "image_bytes": 118768,
+      "source_url": "https://www.tcgcollector.com/cards/900/larvitar-aquapolis-89-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 123
+    },
+    {
+      "id": 915,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Lickitung",
+      "number": "90",
+      "number_value": 90,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/94/04/03/940403c6964c641a7896ab646b76c4b3899cd4565670990c839f78d42e9f31af.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8a/d5/c6/8ad5c63a2a98331112d95e961f780edc8b97fc0bf30d823df2cf010e242f3543.jpg",
+      "image_path": "images/cards/1114/90-915.webp",
+      "image_sha256": "946cf2d7884537b52cb3bb9a1365fecadcc35ce089811daa3cf3fd7aa85dec9f",
+      "image_bytes": 117006,
+      "source_url": "https://www.tcgcollector.com/cards/915/lickitung-aquapolis-90-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 124
+    },
+    {
+      "id": 1032,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Magnemite",
+      "number": "91",
+      "number_value": 91,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f7/09/10/f70910ab99de03031618b57c3caab1fa508737d391a74cd2d49f23a1fc59aa99.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c7/4f/e9/c74fe91173f98402a002da7c4e9731142509760e634a40424115d09b9265c10e.jpg",
+      "image_path": "images/cards/1114/91-1032.webp",
+      "image_sha256": "d31b2fa10549bb9d0d7d4a3031155881553ad8fc76f6d66360b4846bf5a61360",
+      "image_bytes": 111385,
+      "source_url": "https://www.tcgcollector.com/cards/1032/magnemite-aquapolis-91-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 125
+    },
+    {
+      "id": 1058,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Mankey",
+      "number": "92",
+      "number_value": 92,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/7a/f9/d7/7af9d7b863942235b7d0ee7bee0e67b93ed66eb130404fa32f88cac058a9e89a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/01/1b/ff/011bffb22da9d3cec2a2baeff8005a664239cdca11fd78541f3afce602893e5f.jpg",
+      "image_path": "images/cards/1114/92-1058.webp",
+      "image_sha256": "376665b03dd1a0287405fd471b6e02e3c7deefff3214b75b780163c7ac82f6a5",
+      "image_bytes": 113879,
+      "source_url": "https://www.tcgcollector.com/cards/1058/mankey-aquapolis-92-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 126
+    },
+    {
+      "id": 1065,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Mareep",
+      "number": "93",
+      "number_value": 93,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e7/66/22/e76622a4a461a5105dfba0f324e1094e1fa722dbdb84250f4905995dabebf06d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/da/62/f9/da62f9615d0ab1296101a3f24b266f1a498a1f12615c41e6efdb34858a6567cc.jpg",
+      "image_path": "images/cards/1114/93-1065.webp",
+      "image_sha256": "b52ea07f27a9a7c4d60f1302325057c9f80d9b6730ed820fb10ec6fe76ab8de2",
+      "image_bytes": 97467,
+      "source_url": "https://www.tcgcollector.com/cards/1065/mareep-aquapolis-93-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 127
+    },
+    {
+      "id": 1126,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Miltank",
+      "number": "94",
+      "number_value": 94,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/01/fc/98/01fc98cf7089957a23000f865ebc1093e5053c75e5baf3c1025e4216cbd5992a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4a/49/f2/4a49f21ad4c8ea82987ac48cb0702ddf7e0c77f07032774cdfb7a74bcfb7d26a.jpg",
+      "image_path": "images/cards/1114/94-1126.webp",
+      "image_sha256": "c0c4cd2f2aaba2f66d9a61f2fccd68ed7b26ac7872a7b322ea81f292a2c6f553",
+      "image_bytes": 105695,
+      "source_url": "https://www.tcgcollector.com/cards/1126/miltank-aquapolis-94-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 128
+    },
+    {
+      "id": 1182,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Mr. Mime",
+      "number": "95a",
+      "number_value": 95,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/7b/10/06/7b100675db211aafcdd46f6dfca62592f4347bb7d95b9f99cd1a66cbbaef4f2d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a8/02/72/a802721305ff75a82f59a2a9fe4e915d4942ee1fe920d2826c52db236a7407f0.jpg",
+      "image_path": "images/cards/1114/95a-1182.webp",
+      "image_sha256": "03d196d91da2e6539be32be05fb3b77daa99c896e52f26006a025fee074d32d4",
+      "image_bytes": 118055,
+      "source_url": "https://www.tcgcollector.com/cards/1182/mr-mime-aquapolis-95a-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 129
+    },
+    {
+      "id": 1183,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Mr. Mime",
+      "number": "95b",
+      "number_value": 95,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/b6/25/39/b62539df18e223f3394d2121ba25bd14278dd6b0e70cd1b90fb7e8fb290bc6aa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/88/89/8a/88898a9403a554ed4609b3eb6215f7eb80165e4767b145024cde798dc1e1314b.jpg",
+      "image_path": "images/cards/1114/95b-1183.webp",
+      "image_sha256": "03d196d91da2e6539be32be05fb3b77daa99c896e52f26006a025fee074d32d4",
+      "image_bytes": 118055,
+      "source_url": "https://www.tcgcollector.com/cards/1183/mr-mime-aquapolis-95b-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 130
+    },
+    {
+      "id": 1230,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Nidoran ♂",
+      "number": "96",
+      "number_value": 96,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/3c/83/95/3c8395ffe139c7179d0173ade7331830a63aa38e2cc84b81f36e3e8fba359af2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2c/26/fb/2c26fbe92aeef55c3813accf89a0a61a856364573ca06b031a4286c60ab13ae7.jpg",
+      "image_path": "images/cards/1114/96-1230.webp",
+      "image_sha256": "eb4ba7fe9e7bf661e38c963eb6f93455eab1f21add34041f6190660a163357ae",
+      "image_bytes": 111587,
+      "source_url": "https://www.tcgcollector.com/cards/1230/nidoran-male-aquapolis-96-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 131
+    },
+    {
+      "id": 1265,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Oddish",
+      "number": "97",
+      "number_value": 97,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/26/16/96/2616965d0ab4a0d604f62bcf802666710d6c8236e5bb6f4bc0aacf061d9ccdaa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/25/df/94/25df94e8956389b50d2421c39229fb9656f00d0eb87d0541ff02b47d8a9f8e0b.jpg",
+      "image_path": "images/cards/1114/97-1265.webp",
+      "image_sha256": "675ee92dc6c1a316a67d1172beb2e855604bf7235dd75fa9d1db1cb2ce5634a7",
+      "image_bytes": 101633,
+      "source_url": "https://www.tcgcollector.com/cards/1265/oddish-aquapolis-97-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 132
+    },
+    {
+      "id": 1283,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Onix",
+      "number": "98",
+      "number_value": 98,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e4/23/a1/e423a163ce5c1e37f052208e3f28d12f4988bd1b32bbb8249bfd9f4458464ad5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/25/21/fa/2521fa9d27f66e2dbcf1dd612de25c7c155f11af5c49a4188428e87169e30e45.jpg",
+      "image_path": "images/cards/1114/98-1283.webp",
+      "image_sha256": "5cb2ec82ca52610d179c8cd54d64d09fae7628e5c9888f170c286132253bde7e",
+      "image_bytes": 100976,
+      "source_url": "https://www.tcgcollector.com/cards/1283/onix-aquapolis-98-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 133
+    },
+    {
+      "id": 1288,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Paras",
+      "number": "99",
+      "number_value": 99,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/70/68/c3/7068c350e32f27531b595c2723243841bb2a826a515798ed8f0d48c7c51828af.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/43/a9/92/43a99216785d4794ed9dc9f3348e214a2ec7d27dc897144111fb3bb46b37e3ad.jpg",
+      "image_path": "images/cards/1114/99-1288.webp",
+      "image_sha256": "2f63416401d0b483cda9dd3de7c354f74b8ce8088520cacc6290443ba04e93a4",
+      "image_bytes": 108830,
+      "source_url": "https://www.tcgcollector.com/cards/1288/paras-aquapolis-99-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 134
+    },
+    {
+      "id": 1300,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Phanpy",
+      "number": "100",
+      "number_value": 100,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/cd/62/b7/cd62b7802e1d80ceeb51c770db4c511685be68dc099dcdbe72eba969e1a85467.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/19/3a/23/193a23ff022579d1ad4ba78d3ff5bf60c665f8d427d114df606e4f880acc0a84.jpg",
+      "image_path": "images/cards/1114/100-1300.webp",
+      "image_sha256": "a8665220a502395641b3b691d7dbe8601025af0587b0c479a95f61f9f603a41e",
+      "image_bytes": 109521,
+      "source_url": "https://www.tcgcollector.com/cards/1300/phanpy-aquapolis-100-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 135
+    },
+    {
+      "id": 1342,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Pinsir",
+      "number": "101",
+      "number_value": 101,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e9/e8/ed/e9e8ed53a1668af6f4430460607ab4ccd88a53d1086d48d5bcdc24c64ecf9546.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7a/54/71/7a54718eb94648baae80c61db9e4199fd35ed7fb80421e6ac60c4db82a55e488.jpg",
+      "image_path": "images/cards/1114/101-1342.webp",
+      "image_sha256": "46ce0ae09bae44b7c4d9b37d8722f888ec8fe00d32136cb11a7ff71a77362397",
+      "image_bytes": 104945,
+      "source_url": "https://www.tcgcollector.com/cards/1342/pinsir-aquapolis-101-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 136
+    },
+    {
+      "id": 1388,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Ponyta",
+      "number": "102",
+      "number_value": 102,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/85/20/aa/8520aafe898dd09f2b0901400357080713caae204ff253a048b05458a309ed2a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f2/ee/85/f2ee8597bc0793b970ced82f0c418aa87373a996dad0d2df090d5d76a90f0aea.jpg",
+      "image_path": "images/cards/1114/102-1388.webp",
+      "image_sha256": "164f76eaece2cfde7fc57c7d758d80e816ecaba093106c23769c39942f73cb9a",
+      "image_bytes": 93062,
+      "source_url": "https://www.tcgcollector.com/cards/1388/ponyta-aquapolis-102-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 137
+    },
+    {
+      "id": 1396,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Porygon",
+      "number": "103a",
+      "number_value": 103,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/6a/72/bc/6a72bc88e773310afd28bbb235885f3f75db389abff71ce7726a4cf39ac9bad5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5e/52/a4/5e52a466954f940ab91658a9edc51c26556c252f72de278703614c038362131a.jpg",
+      "image_path": "images/cards/1114/103a-1396.webp",
+      "image_sha256": "d6d1d39f166353f490746c54b8d0489abe4f157b26ebb6cd4d5f82087987d250",
+      "image_bytes": 105743,
+      "source_url": "https://www.tcgcollector.com/cards/1396/porygon-aquapolis-103a-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 138
+    },
+    {
+      "id": 1397,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Porygon",
+      "number": "103b",
+      "number_value": 103,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/91/06/ea/9106ea288c66ab541ef05115502201f5abe7fe404023b2f243e9a173f5a9ae1a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/08/25/1a/08251add2b8517aaed581b014f3c94b2d8862fb5db8222122fb63fd46e4d6f69.jpg",
+      "image_path": "images/cards/1114/103b-1397.webp",
+      "image_sha256": "d6d1d39f166353f490746c54b8d0489abe4f157b26ebb6cd4d5f82087987d250",
+      "image_bytes": 105743,
+      "source_url": "https://www.tcgcollector.com/cards/1397/porygon-aquapolis-103b-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 139
+    },
+    {
+      "id": 1431,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Psyduck",
+      "number": "104",
+      "number_value": 104,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e8/74/29/e87429a66e3f235b1db6a77d858dc6d2d5c4a2a33c79ea59ec50dfb47d39ba56.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4d/30/5d/4d305d6005d122a8f768e40385667fa880273b4cecfbf118098c8992ac82aabc.jpg",
+      "image_path": "images/cards/1114/104-1431.webp",
+      "image_sha256": "dcd554a42ed5a0aa919c2e3ac52ba8597529884d98c87d73164ae5a6e06c8643",
+      "image_bytes": 112354,
+      "source_url": "https://www.tcgcollector.com/cards/1431/psyduck-aquapolis-104-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 140
+    },
+    {
+      "id": 1487,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Remoraid",
+      "number": "105",
+      "number_value": 105,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/0b/56/03/0b5603e03847d0374cfe8e7c69f7551115d7fc711d1ada58e50c72e6ed999e94.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9e/8b/42/9e8b425cb38b348a57f197c3fd0a95ddb40955e31b27813abef2503fdd9b2c24.jpg",
+      "image_path": "images/cards/1114/105-1487.webp",
+      "image_sha256": "b63ff04b13df655ec1091c798ff9b30d854b092640a12ec852e72cc2815c0803",
+      "image_bytes": 109190,
+      "source_url": "https://www.tcgcollector.com/cards/1487/remoraid-aquapolis-105-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 141
+    },
+    {
+      "id": 1575,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Scyther",
+      "number": "106",
+      "number_value": 106,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/30/3e/83/303e83b391b1e6f2d9766f033b7b403b19b8bdbaa7229bae5579af018dd05037.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/13/d6/de/13d6deb9fb27e50b23d4129714dc7d7ebf31f2d0c010574da36579e31d9a398a.jpg",
+      "image_path": "images/cards/1114/106-1575.webp",
+      "image_sha256": "e49cbde3275cb1f98d4afe6092532d9dd9160a0d265ce786505faae09c4c5650",
+      "image_bytes": 112046,
+      "source_url": "https://www.tcgcollector.com/cards/1575/scyther-aquapolis-106-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 142
+    },
+    {
+      "id": 1598,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Sentret",
+      "number": "107",
+      "number_value": 107,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/0b/c8/df/0bc8dfd198c09538c5008ee68204397c2d81f185cf6c0a30aeb75eb00f07ff4b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d2/98/ad/d298addedff4043a2d5efecd62a82a25aa8e2e1d2c2eebe4b4bff7b3408bf5ea.jpg",
+      "image_path": "images/cards/1114/107-1598.webp",
+      "image_sha256": "d18e48e2e15504023deb6ca0ae4f4cc3b73a51bfe82e7dcc2623d90581dd791d",
+      "image_bytes": 99432,
+      "source_url": "https://www.tcgcollector.com/cards/1598/sentret-aquapolis-107-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 143
+    },
+    {
+      "id": 1653,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Slowpoke",
+      "number": "108",
+      "number_value": 108,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/89/88/40/8988400d1fcb3f85dd92e711b28cee8eb2e6377e01743c7e89eceb9e819b5d7e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/99/75/77/99757711a8e2cb582f52b58460ef25a5014f9da9f4f724344fb7a9cb900028ed.jpg",
+      "image_path": "images/cards/1114/108-1653.webp",
+      "image_sha256": "4b71f514ea8a8f75d7cd099cdd5d7cd7759d8c4519337c7e9c22448da0876ae4",
+      "image_bytes": 107804,
+      "source_url": "https://www.tcgcollector.com/cards/1653/slowpoke-aquapolis-108-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 144
+    },
+    {
+      "id": 1661,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Smeargle",
+      "number": "109",
+      "number_value": 109,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/8a/18/0d/8a180d7e289e33a1abaa8b5d337af4ae801cddde0dd0b4074c22dd0fa4ae4598.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a6/c0/eb/a6c0eb9756d987b4a5fa1a47fcd7da54507670198fa83ca143fc1ccffde12a12.jpg",
+      "image_path": "images/cards/1114/109-1661.webp",
+      "image_sha256": "9910406c8b32ff28896a20e2ed18a422a886fd7e2ca14b557fe98d8f3f790493",
+      "image_bytes": 111869,
+      "source_url": "https://www.tcgcollector.com/cards/1661/smeargle-aquapolis-109-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 145
+    },
+    {
+      "id": 1667,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Sneasel",
+      "number": "110",
+      "number_value": 110,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/2e/3d/2f/2e3d2fe516e12c572ca3a40e7a458cb0b0c4e479fda3f88893ed780de34e4ea3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/86/99/c1/8699c170eb402ed0b5d283f4cc250cc11d199cf0731b258bf543a47f9376edb7.jpg",
+      "image_path": "images/cards/1114/110-1667.webp",
+      "image_sha256": "e49fea2de9cee776aa013c0ace7d4b3dd8e797615bf4976dadfef9a051aae352",
+      "image_bytes": 126790,
+      "source_url": "https://www.tcgcollector.com/cards/1667/sneasel-aquapolis-110-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 146
+    },
+    {
+      "id": 1686,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Spinarak",
+      "number": "111",
+      "number_value": 111,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/1f/25/91/1f259199faa1f8d36538e7825a0d668cb6806a51fe49fef7bbd0bc238a316218.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ab/06/52/ab0652cc18dd81776f7806a72efc5bb61e629a7ccdd494ebd28fc91524209e3c.jpg",
+      "image_path": "images/cards/1114/111-1686.webp",
+      "image_sha256": "622cfa314360e3b1a6e2c9e89cfb9cc46bb640d17cfa1b16365cb45952f92c30",
+      "image_bytes": 97163,
+      "source_url": "https://www.tcgcollector.com/cards/1686/spinarak-aquapolis-111-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 147
+    },
+    {
+      "id": 1753,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Tangela",
+      "number": "112",
+      "number_value": 112,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/fe/35/3a/fe353a232b0ac4a17a58208bd91cffef8d6e3c76ce9bb7972c51aa40ee2a3805.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e8/96/cb/e896cb27beacc4526a342a818b297193ab85fa9796337be2f714bc4a3181ac3b.jpg",
+      "image_path": "images/cards/1114/112-1753.webp",
+      "image_sha256": "b512cc4f7a969cf55f8db52398534a1d9b4b55d7b6fca6cf6cc49f754728d6d5",
+      "image_bytes": 114480,
+      "source_url": "https://www.tcgcollector.com/cards/1753/tangela-aquapolis-112-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 148
+    },
+    {
+      "id": 1763,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Tentacool",
+      "number": "113",
+      "number_value": 113,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/54/c3/5c/54c35cbe0361e3b95ac8a92d51c359d66c023ebd500bd775a8fdf564900f3550.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/03/e4/b4/03e4b40fbe22fb36dbf9c0fd32b4ce9206124796cd0452a5ac65fd3ba5fbb64d.jpg",
+      "image_path": "images/cards/1114/113-1763.webp",
+      "image_sha256": "5b12af5b4fd58b32f9c7538dce5f111074c2886c79bc3206eff44b444e3bd9bb",
+      "image_bytes": 99739,
+      "source_url": "https://www.tcgcollector.com/cards/1763/tentacool-aquapolis-113-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 149
+    },
+    {
+      "id": 1781,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Togepi",
+      "number": "114",
+      "number_value": 114,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/59/63/e3/5963e31f73e76b2fadbdaeeb6f545cd1708b6b8b3f03f7ab51487921bdb571fa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e7/5e/72/e75e728dc51c4bbfe53163470d4b4c3cbc46e1dc2c6b7e63595fcab6c05cdfab.jpg",
+      "image_path": "images/cards/1114/114-1781.webp",
+      "image_sha256": "7585084224cb7819c1fa69e90712e2c6fc367ee912a10e769c23caa0d7beed05",
+      "image_bytes": 102112,
+      "source_url": "https://www.tcgcollector.com/cards/1781/togepi-aquapolis-114-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 150
+    },
+    {
+      "id": 1901,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Voltorb",
+      "number": "115",
+      "number_value": 115,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/77/98/02/7798024aa50036d1773c0978031acb6e7f699ec26d1b0b88b207e48a0fe20488.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/60/f4/fc/60f4fc9556c99d2ef931b4388d6b767dcaaf77ff1fb5e564c41667c63da6c053.jpg",
+      "image_path": "images/cards/1114/115-1901.webp",
+      "image_sha256": "4652844949d98a96395ad2a812fb666f43dfc0a1fe7dad19438dbf09a079ef50",
+      "image_bytes": 101065,
+      "source_url": "https://www.tcgcollector.com/cards/1901/voltorb-aquapolis-115-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 151
+    },
+    {
+      "id": 1905,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Vulpix",
+      "number": "116",
+      "number_value": 116,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/c5/f6/02/c5f602c6914f466af507ba8f25ed100d16fbdc58ce51d56d535b6e6bf200c3ca.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7f/5d/3d/7f5d3d0628c35e25905c78b82e021382f415e147297a895eb393afa26be311ed.jpg",
+      "image_path": "images/cards/1114/116-1905.webp",
+      "image_sha256": "87d7f565bac417f24b1b9d6fe67fbe307fec00dea1534f5c3d915eb8c30f5314",
+      "image_bytes": 102014,
+      "source_url": "https://www.tcgcollector.com/cards/1905/vulpix-aquapolis-116-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 152
+    },
+    {
+      "id": 1949,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Wooper",
+      "number": "117",
+      "number_value": 117,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e5/a9/23/e5a923582fe0e95e6bd3334792a1abb3cb1e7b613b1af1e19832e1a86611be43.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4a/a8/65/4aa865f23fc7fdd62f2556b30f8c85919c35d4d9ccfddf07649ddf9db793d5d7.jpg",
+      "image_path": "images/cards/1114/117-1949.webp",
+      "image_sha256": "38bc262787675d290a8cb759ab7d08f85edb79ffccbd6813c8593bd0e2c70a6a",
+      "image_bytes": 116108,
+      "source_url": "https://www.tcgcollector.com/cards/1949/wooper-aquapolis-117-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 153
+    },
+    {
+      "id": 35,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Apricorn Forest",
+      "number": "118",
+      "number_value": 118,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/78/6a/8e/786a8e46aab41d34295c490d4895827e700f83459bd7701092809bc290a17f7a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0d/8f/26/0d8f26cfa71741fe5010b21fb3363fa936043fa237eae308cd21104d9df0806c.jpg",
+      "image_path": "images/cards/1114/118-35.webp",
+      "image_sha256": "a24bb73253a1ced1f37a7997a68b0305daf98ac38fa84e6e9a18b75429209eb8",
+      "image_bytes": 119607,
+      "source_url": "https://www.tcgcollector.com/cards/35/apricorn-forest-aquapolis-118-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 154
+    },
+    {
+      "id": 368,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Darkness Cube 01",
+      "number": "119",
+      "number_value": 119,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/36/ca/d2/36cad2bc6b3c72e144942ad3a0648a571695a9bbf79fd1d19ff545adb9548de3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ef/cd/a7/efcda71635eb29906d24e2676e847e31741f86e24af773042ec14f14540f7164.jpg",
+      "image_path": "images/cards/1114/119-368.webp",
+      "image_sha256": "bd88faa02586e929c7ef44146a7080141cbd527d4f652800f5566dbc01a6cee3",
+      "image_bytes": 96660,
+      "source_url": "https://www.tcgcollector.com/cards/368/darkness-cube-01-aquapolis-119-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 155
+    },
+    {
+      "id": 488,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Energy Switch",
+      "number": "120",
+      "number_value": 120,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/64/eb/c8/64ebc8308d090d2faab1ee45daacd5896fa6c087077bb3f8e7c65aea5f1b03a7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bc/e9/fb/bce9fb1223699a94e23782a727e08a61864f9990faa42f9bba28eab50f6a976a.jpg",
+      "image_path": "images/cards/1114/120-488.webp",
+      "image_sha256": "674671985ab8570ffc60535fcbb4d6bf523926269f9eb26070a9835aca4321e1",
+      "image_bytes": 85024,
+      "source_url": "https://www.tcgcollector.com/cards/488/energy-switch-aquapolis-120-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 156
+    },
+    {
+      "id": 562,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Fighting Cube 01",
+      "number": "121",
+      "number_value": 121,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/cb/2c/bb/cb2cbbee2d2e069f22032df12e6e31e274bd077d868af58239cc75d676cba626.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ef/55/ac/ef55acd4dcca4f9f3628cf2fe569ba93fd4e9e023dac7a3f2f166976d8b30a75.jpg",
+      "image_path": "images/cards/1114/121-562.webp",
+      "image_sha256": "c990e719f1803f3a69c1348fe8ecfae0f73804b15691ee1fdb22065e00200529",
+      "image_bytes": 114494,
+      "source_url": "https://www.tcgcollector.com/cards/562/fighting-cube-01-aquapolis-121-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 157
+    },
+    {
+      "id": 563,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Fire Cube 01",
+      "number": "122",
+      "number_value": 122,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/79/a7/32/79a7320fa43f27f22c128ed0339e0db4ab685bb786146cc3aa7fcd091804cee2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b5/68/43/b56843ea7b1239885fe4682bd156f9060f8e38a548e1ce425d4b4c25e3f32ff2.jpg",
+      "image_path": "images/cards/1114/122-563.webp",
+      "image_sha256": "3cc55d2c1a87d280214fb3a5d499c16b33ce7decc5de30ea16989aaba0d95870",
+      "image_bytes": 91241,
+      "source_url": "https://www.tcgcollector.com/cards/563/fire-cube-01-aquapolis-122-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 158
+    },
+    {
+      "id": 585,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Forest Guardian",
+      "number": "123",
+      "number_value": 123,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ba/2b/94/ba2b94be519a5f347643e4724748d0f9a35650304778f9f8cd206a2deb0d6a65.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7e/66/02/7e6602167caf8e95cacb8e5c7f22af348fe0e4b32f38484bbddf6b07bb4cc508.jpg",
+      "image_path": "images/cards/1114/123-585.webp",
+      "image_sha256": "0da27a5818aee36a2d67e27479a7da81daccef35e1ada0242a8ba84836f5f7f7",
+      "image_bytes": 100219,
+      "source_url": "https://www.tcgcollector.com/cards/585/forest-guardian-aquapolis-123-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 159
+    },
+    {
+      "id": 677,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Grass Cube 01",
+      "number": "124",
+      "number_value": 124,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/8e/be/c4/8ebec4a86e0c5af3302aea4b15a49e3c9fb9bde413a0fbe3bbe687164f45ab9d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ab/bf/4d/abbf4d4b77c498fbe07ed1a1879060b54109835806cd4901a049336b2b7e7cdd.jpg",
+      "image_path": "images/cards/1114/124-677.webp",
+      "image_sha256": "64c712a055312a935039a32dc621c9784a8479e4bf26c66f00ac773dde9ad8dc",
+      "image_bytes": 94158,
+      "source_url": "https://www.tcgcollector.com/cards/677/grass-cube-01-aquapolis-124-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 160
+    },
+    {
+      "id": 722,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Healing Berry",
+      "number": "125",
+      "number_value": 125,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/7d/cf/28/7dcf289ba57d39d2a4d07fe573faa92c289f6e9b2eac04fa9a74188b22957300.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/93/03/19/9303197496b5a064108f4355d4ee08c58082721382dde2dee0117c7b967a1006.jpg",
+      "image_path": "images/cards/1114/125-722.webp",
+      "image_sha256": "463921a310fd8d42f766ac4dd7a4cf054c9895c5156ce9582dba03454b30683e",
+      "image_bytes": 114895,
+      "source_url": "https://www.tcgcollector.com/cards/722/healing-berry-aquapolis-125-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 161
+    },
+    {
+      "id": 808,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Juggler",
+      "number": "126",
+      "number_value": 126,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ef/0c/2c/ef0c2c5178f4f5795a33577427f4fadb2f74d3d2fa1510d50f4f80ea3a9aa506.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1c/67/a9/1c67a92094b28e01d23b01ffbdc6df74ca34fefd6d3dc371db78ae12d010cb03.jpg",
+      "image_path": "images/cards/1114/126-808.webp",
+      "image_sha256": "c1b9c4a8c9fe09541800d28c4dd194f2182427a072506790cf0d11637f04b4df",
+      "image_bytes": 107809,
+      "source_url": "https://www.tcgcollector.com/cards/808/juggler-aquapolis-126-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 162
+    },
+    {
+      "id": 936,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Lightning Cube 01",
+      "number": "127",
+      "number_value": 127,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/97/95/a0/9795a083aa790f6e3cc2aa0a6a1f0138caed13b86c45cb03025ecff5dbff9954.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6c/0d/16/6c0d1690e7cefc4a94dda625dc5435b0ab9dc65bbe5b720c2be253b8628c4363.jpg",
+      "image_path": "images/cards/1114/127-936.webp",
+      "image_sha256": "ae3359c258140c70158ca9573c83761324f706e023f0902043fde609a52a8965",
+      "image_bytes": 101214,
+      "source_url": "https://www.tcgcollector.com/cards/936/lightning-cube-01-aquapolis-127-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 163
+    },
+    {
+      "id": 1092,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Memory Berry",
+      "number": "128",
+      "number_value": 128,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/61/9d/d5/619dd5bdd66bd7ea00918641bdebb075f77e9ea165b5e821e69341ffb0424951.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/70/62/fc/7062fc1735b0ee20ec6eca20008661d7f47a160b3b2de295a8cc025095b4bf00.jpg",
+      "image_path": "images/cards/1114/128-1092.webp",
+      "image_sha256": "79e65d06b35d2c74d713f5c98f212096778ee951cee8c8d33972d8ec173461bc",
+      "image_bytes": 94169,
+      "source_url": "https://www.tcgcollector.com/cards/1092/memory-berry-aquapolis-128-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 164
+    },
+    {
+      "id": 1100,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Metal Cube 01",
+      "number": "129",
+      "number_value": 129,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/3d/3c/08/3d3c089522cb9c4b6f1ca9fed5314302f66ac4c45bfbd0537c137bcb5625fa3d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bf/30/41/bf3041468591b733fab15a9da23406782e45d1dc2832cd7895bbdf31736fca9f.jpg",
+      "image_path": "images/cards/1114/129-1100.webp",
+      "image_sha256": "dda258f9ace6c93c621593e4db8c525c7f7fb37d31639d0de309cb5aac2e0fa2",
+      "image_bytes": 97430,
+      "source_url": "https://www.tcgcollector.com/cards/1100/metal-cube-01-aquapolis-129-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 165
+    },
+    {
+      "id": 1354,
+      "set_id": 1114,
+      "set_ids": [
+        1114,
+        1224
+      ],
+      "name": "Pokémon Fan Club",
+      "number": "130",
+      "number_value": 130,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/82/f6/36/82f6362f45f75bf5a22c762eca38ac6794adaa701f704277edec67b3814f2314.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/59/8d/cc/598dcca7245a5269949103887961935d42e6f27e471bc2c38d6d07fb3ac604e1.jpg",
+      "image_path": "images/cards/1114/130-1354.webp",
+      "image_sha256": "a12dc55ccdafb65825a00ea432050609a7c92abab0680c6c33fdbc25a6647dc9",
+      "image_bytes": 111155,
+      "source_url": "https://www.tcgcollector.com/cards/1354/pokemon-fan-club-aquapolis-130-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 166
+    },
+    {
+      "id": 1358,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Pokémon Park",
+      "number": "131",
+      "number_value": 131,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/88/76/45/887645d4eb2787ae596447e063202937f40247704c015a70cedfe333035e3049.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/33/23/fb/3323fb054d6cf394bed45fe2548aad0e77b44184f238d57477e35d802221a86f.jpg",
+      "image_path": "images/cards/1114/131-1358.webp",
+      "image_sha256": "77cfb2b9cf8715ad09774852a61a28a2cfeff33d111e67fb108ae9994e04c5fa",
+      "image_bytes": 94394,
+      "source_url": "https://www.tcgcollector.com/cards/1358/pokemon-park-aquapolis-131-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 167
+    },
+    {
+      "id": 1418,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Psychic Cube 01",
+      "number": "132",
+      "number_value": 132,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/94/2d/3f/942d3f8ba93460a6b0299cfbefd8a78884968ea72bae8ed9eb95112fb3b7bdcd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ab/4a/a7/ab4aa7814e8dde2101a10bfc0a9a074b61823533d3b73c03ed679bb902182b0f.jpg",
+      "image_path": "images/cards/1114/132-1418.webp",
+      "image_sha256": "01cfc91fe0e8b100404aaf2a97014c9bcc12d192a2a53b1eb17250eb6c531b44",
+      "image_bytes": 96147,
+      "source_url": "https://www.tcgcollector.com/cards/1418/psychic-cube-01-aquapolis-132-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 168
+    },
+    {
+      "id": 1595,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Seer",
+      "number": "133",
+      "number_value": 133,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/56/2a/6d/562a6df6518c5f44f6d2da4b035376b29999e36db38727033dfe724e718d7e87.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cd/ac/5d/cdac5d914f50cef2a282592f1f82263b78bf4efb8674bee8982a46e1be0c3d2f.jpg",
+      "image_path": "images/cards/1114/133-1595.webp",
+      "image_sha256": "b38916dba9271cac6b70d87c6fd1fd215c2e944d180c1a02c42f874a5c13c7d8",
+      "image_bytes": 108190,
+      "source_url": "https://www.tcgcollector.com/cards/1595/seer-aquapolis-133-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 169
+    },
+    {
+      "id": 1730,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Super Energy Removal 2",
+      "number": "134",
+      "number_value": 134,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/39/97/37/39973741b9f23d110c17781d10c4c8907bd390ae167fce929bee02e4e569e2b9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/63/25/fa/6325fa5a4272fda91aa9e5b179c16faf8ba50053c378741833f430cd2a35d45d.jpg",
+      "image_path": "images/cards/1114/134-1730.webp",
+      "image_sha256": "1dc9759cfc35cd43e5e42f5c295b5472fb4ab60ac937af6139c902a132f40108",
+      "image_bytes": 93754,
+      "source_url": "https://www.tcgcollector.com/cards/1730/super-energy-removal-2-aquapolis-134-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 170
+    },
+    {
+      "id": 1776,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Time Shard",
+      "number": "135",
+      "number_value": 135,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ee/56/7b/ee567bfbb564f3beca8fe3d6ccb70d1bf5b1a2911fcf60318ba40304e11175dd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9a/3e/a6/9a3ea64cd37d1ca04d3404c8b1fa16339fbf3d3be365beb6d78ef75514e0bad5.jpg",
+      "image_path": "images/cards/1114/135-1776.webp",
+      "image_sha256": "f83624804908adff5a23e358ef30d2dc5db85af6b6afde3dd2a9067ab1d17cf9",
+      "image_bytes": 98970,
+      "source_url": "https://www.tcgcollector.com/cards/1776/time-shard-aquapolis-135-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 171
+    },
+    {
+      "id": 1795,
+      "set_id": 1114,
+      "set_ids": [
+        1114,
+        1222,
+        1225
+      ],
+      "name": "Town Volunteers",
+      "number": "136",
+      "number_value": 136,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/06/b6/39/06b63911c7dcc86c94e5ba32c40c3bbad32802fcf4f343ab606743f42c6db9ed.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a5/ab/55/a5ab557cc1acc43314fe73677924245d015a189883f99bc122d425561b89dc70.jpg",
+      "image_path": "images/cards/1114/136-1795.webp",
+      "image_sha256": "2e31792a7a2f2b5ccace9bd297031bca6759fda0d7e37fb89879569e90fccfe4",
+      "image_bytes": 103115,
+      "source_url": "https://www.tcgcollector.com/cards/1795/town-volunteers-aquapolis-136-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 172
+    },
+    {
+      "id": 1801,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Traveling Salesman",
+      "number": "137",
+      "number_value": 137,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ef/9c/d5/ef9cd5a3efdd6d71db60fa178d0d70177852185baa7f250b4ad5b14dfbeb1e79.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/20/c9/13/20c913fa9f646834a89a76ecc0367e359a61facdff2318c98bdf7659a98644ae.jpg",
+      "image_path": "images/cards/1114/137-1801.webp",
+      "image_sha256": "1b5ce4a0afaf29e4d5d596c6d2cf2a867c83babff8a2fa53d5e961f3b493f2f6",
+      "image_bytes": 107708,
+      "source_url": "https://www.tcgcollector.com/cards/1801/traveling-salesman-aquapolis-137-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 173
+    },
+    {
+      "id": 1830,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Undersea Ruins",
+      "number": "138",
+      "number_value": 138,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/70/1a/3b/701a3bf0af9e3504e3a8b0dee4cbba4ade6a5c82fb9969a8a0dab1221d508811.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3e/a2/f0/3ea2f01b67cdf7a3ea30d30b899d7ea26fa31006e967012518067f6ec3ce3890.jpg",
+      "image_path": "images/cards/1114/138-1830.webp",
+      "image_sha256": "0b1a48b07c3bbeca893d4fd38b7900473e73036aafe5e5ebf622c647f3ddca46",
+      "image_bytes": 106815,
+      "source_url": "https://www.tcgcollector.com/cards/1830/undersea-ruins-aquapolis-138-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 174
+    },
+    {
+      "id": 1407,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Power Plant",
+      "number": "139",
+      "number_value": 139,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/23/7f/49/237f49e826a3aa95d3f07d78fd0b93cbf00c631f31d8e0848b020787b90f280c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e4/ee/8e/e4ee8e42c87ccf5f617e15fdfb7d66330e43a54a414c37aea6d8f42dfa75556a.jpg",
+      "image_path": "images/cards/1114/139-1407.webp",
+      "image_sha256": "397c3282e343249bcb98010e089c29d59ce85b56784e4024b6756d84ae453f8b",
+      "image_bytes": 109290,
+      "source_url": "https://www.tcgcollector.com/cards/1407/power-plant-aquapolis-139-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 175
+    },
+    {
+      "id": 1918,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Water Cube 01",
+      "number": "140",
+      "number_value": 140,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/47/46/6b/47466b000d7f8cdd75eaff653b7f2e3b8e7acd49c7d2333a6e0f8e55b2a0f1ce.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e3/94/ca/e394cafc2a34eb2377dd6956298d9e5035703e863b81f6073777de1fddaa8690.jpg",
+      "image_path": "images/cards/1114/140-1918.webp",
+      "image_sha256": "609097ed01e2a09891405bc7ff49e46425b1c06e714271ef68b3b9fc6dd128fe",
+      "image_bytes": 98385,
+      "source_url": "https://www.tcgcollector.com/cards/1918/water-cube-01-aquapolis-140-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 176
+    },
+    {
+      "id": 1924,
+      "set_id": 1114,
+      "set_ids": [
+        1114,
+        1225
+      ],
+      "name": "Weakness Guard",
+      "number": "141",
+      "number_value": 141,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/62/32/94/623294ad1ee546cd0bf30a6b6a24448e62aa5990acb513c9a0559fe9d0546fa4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9e/38/1f/9e381ff398942c2b8cca989c96ca7e1685d5418c4ac5dd9697dc48378a04fe73.jpg",
+      "image_path": "images/cards/1114/141-1924.webp",
+      "image_sha256": "9fa18ccbadaaddd17b1caa9047d96eb7b04efc8885e55283d0f302d1c5000f1b",
+      "image_bytes": 97167,
+      "source_url": "https://www.tcgcollector.com/cards/1924/weakness-guard-aquapolis-141-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 177
+    },
+    {
+      "id": 371,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Darkness Energy",
+      "number": "142",
+      "number_value": 142,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/93/87/55/93875585cda6879d4f9c58d499a5e4ef270b693bd957226c1ea789e9b8016800.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c4/9a/6e/c49a6eb58753107eb18f36aeec4e78f31d66796f643cd2e4e9384e032f42d9a7.jpg",
+      "image_path": "images/cards/1114/142-371.webp",
+      "image_sha256": "599b15126b5232ad8a22326552d3185bf71931730e5e082f034308fbc8ef25b1",
+      "image_bytes": 94283,
+      "source_url": "https://www.tcgcollector.com/cards/371/darkness-energy-aquapolis-142-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 178
+    },
+    {
+      "id": 1103,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Metal Energy",
+      "number": "143",
+      "number_value": 143,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/74/18/9c/74189c1fd732ebe67effaea717a37dc876daff591833f1867ef3af094df17fa7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a4/2a/09/a42a095e2a07ca25a3f4b1525ab8e1cf45b820e6eefd8bdfdedb5a0d11f3a657.jpg",
+      "image_path": "images/cards/1114/143-1103.webp",
+      "image_sha256": "46a4052f491cfe6ba2db625255f7836b7787334b2fec088be9a41bd7dd455db8",
+      "image_bytes": 80762,
+      "source_url": "https://www.tcgcollector.com/cards/1103/metal-energy-aquapolis-143-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 179
+    },
+    {
+      "id": 1461,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Rainbow Energy",
+      "number": "144",
+      "number_value": 144,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/a2/87/37/a28737d417184be0231eb86ea602cae7cdbfd4b10dfcd334d5dc98192c08c87e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bf/db/7d/bfdb7d661a254690f97ec57184454933f4dc750a7be50b351649e06f26060e4f.jpg",
+      "image_path": "images/cards/1114/144-1461.webp",
+      "image_sha256": "cf7f80249d9c18a7cf2c57782154c69d5bec2d1c26982c0a5a825cbfe0e7df56",
+      "image_bytes": 112905,
+      "source_url": "https://www.tcgcollector.com/cards/1461/rainbow-energy-aquapolis-144-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 180
+    },
+    {
+      "id": 135,
+      "set_id": 1114,
+      "set_ids": [
+        1114,
+        1225
+      ],
+      "name": "Boost Energy",
+      "number": "145",
+      "number_value": 145,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/42/d7/eb/42d7eba4adeab827d6ff42ec85f04399a0d5f8b43af3e9c072d9fa31619a2eed.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/69/7f/17/697f17b563de6395c80be7d95d57e7a468031f6ebe9de529046a2060a1cfe4a2.jpg",
+      "image_path": "images/cards/1114/145-135.webp",
+      "image_sha256": "7ed52514c3255d1f98b6e8f8659cf2d6ba209b9a39d6adcd5a6e3d25998ac0e4",
+      "image_bytes": 99169,
+      "source_url": "https://www.tcgcollector.com/cards/135/boost-energy-aquapolis-145-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 181
+    },
+    {
+      "id": 275,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Crystal Energy",
+      "number": "146",
+      "number_value": 146,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/31/e0/66/31e0660eb9dad8d8c05ec7ba3ad6b6c8c4f5642c861d642c48fbcad9bf7764a7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a1/35/00/a135004ec20754b5aaae7107455a6f0483de8f6da5629317bebb5be9415b83cf.jpg",
+      "image_path": "images/cards/1114/146-275.webp",
+      "image_sha256": "26728e94604feaf1a3e6180c5034e27864c0188bdebd95eadf7da6a82af0e219",
+      "image_bytes": 90346,
+      "source_url": "https://www.tcgcollector.com/cards/275/crystal-energy-aquapolis-146-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 182
+    },
+    {
+      "id": 1912,
+      "set_id": 1114,
+      "set_ids": [
+        1114,
+        1222
+      ],
+      "name": "Warp Energy",
+      "number": "147",
+      "number_value": 147,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/07/8c/7a/078c7aa6565b87c3afb8b9a29c7d7eae0c0a3ea58baf2559873388ca2434fc6a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/99/4e/7c/994e7c3eda1556586b20ade667aedc6f62a475803183875fa5718e3546b97942.jpg",
+      "image_path": "images/cards/1114/147-1912.webp",
+      "image_sha256": "b5c751abc00e8c3e2ac7ac87a34be4f2384dec7c6fae2a5c8a1902b26dcc26f7",
+      "image_bytes": 113216,
+      "source_url": "https://www.tcgcollector.com/cards/1912/warp-energy-aquapolis-147-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 183
+    },
+    {
+      "id": 848,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Kingdra",
+      "number": "148",
+      "number_value": 148,
+      "printed_total": 147,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/ec/c4/8f/ecc48f966203ad1ba08fff279db97056afdb2c5f84ccaab4408d1d9cc00f1de4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/24/b0/28/24b0288c470a68c87c44aaa8f11b1c74356c272e35a71b8f0a5d23f60cfa268e.jpg",
+      "image_path": "images/cards/1114/148-848.webp",
+      "image_sha256": "673733c6e06fa65b92d6dc22334176cfd3cc57ce7e98cb0bf2796f9aaa59254a",
+      "image_bytes": 124141,
+      "source_url": "https://www.tcgcollector.com/cards/848/kingdra-aquapolis-148-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 184
+    },
+    {
+      "id": 981,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Lugia",
+      "number": "149",
+      "number_value": 149,
+      "printed_total": 147,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/3f/aa/e9/3faae90087f709d0e58cfc50d63ac1b5288ffb4e1265a83049445fc5e50419a4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/79/b9/f3/79b9f38ba40daf60cc44fa2fcf38160571ac911368837086c352f2dc4fd6b4bc.jpg",
+      "image_path": "images/cards/1114/149-981.webp",
+      "image_sha256": "4f7bc5c287fd8333abee9e89e39d570f2e9b54571bba38db8510c6e9e8f9d23f",
+      "image_bytes": 124272,
+      "source_url": "https://www.tcgcollector.com/cards/981/lugia-aquapolis-149-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 185
+    },
+    {
+      "id": 1218,
+      "set_id": 1114,
+      "set_ids": [
+        1114
+      ],
+      "name": "Nidoking",
+      "number": "150",
+      "number_value": 150,
+      "printed_total": 147,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/fe/db/db/fedbdb2fc5f9413124062f72b73852ee4c54eead6763152196741efcf841d2e2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ee/05/37/ee0537bd62e0df81df89a1856c27478d2c1b484c136b90199fb43be3663e86fd.jpg",
+      "image_path": "images/cards/1114/150-1218.webp",
+      "image_sha256": "bf483e0f1b65dc64b0acd4ec022cecfd6f971ea424f2e7b8ac2782344f41b318",
+      "image_bytes": 125685,
+      "source_url": "https://www.tcgcollector.com/cards/1218/nidoking-aquapolis-150-147",
+      "scraped_at": "2026-10-18T22:26:14Z",
+      "position": 186
+    }
+  ]
+}

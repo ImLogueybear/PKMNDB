@@ -1,0 +1,822 @@
+{
+  "set": {
+    "id": 1175,
+    "language": "en",
+    "name": "Nintendo Promos",
+    "code": "NP",
+    "series": "EX Series",
+    "release_date": "2003-09-01",
+    "date_text": "Sep 01, 2003",
+    "card_count": 40,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/61/4e/1e/614e1ee3563558ae098df5c9bcdf80c13056c87f3811b6b3e785f1f524702a73.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/03/2d/31/032d31b8f706a2af21fefd3aba914c2543cc737a609f85267a559bc0ed4db7d4.svg",
+    "logo_path": "images/sets/1175-logo.webp",
+    "symbol_path": "images/sets/1175-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/1175/nintendo-promos",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 40
+  },
+  "cards": [
+    {
+      "id": 882,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Kyogre ex",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/08/39/ce/0839cee4c1bc86cfb3e4f43a79e0f9d5b66c969b68dfe3b6115c2b5c03aeb509.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8f/53/59/8f5359f0e149d5bc29a9a76c00df04623e026b635898b1b8dc9e016404490818.jpg",
+      "image_path": "images/cards/1175/001-882.webp",
+      "image_sha256": "c45198e522b7dde7600f91859deb07a70c1c790a0116524e709f9a3bc2970ce6",
+      "image_bytes": 102224,
+      "source_url": "https://www.tcgcollector.com/cards/882/kyogre-ex-nintendo-promos-001",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 1
+    },
+    {
+      "id": 694,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Groudon ex",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/9f/20/15/9f2015c6fbd76f15df3d538a4632f09c665af32d53aaba262ae3720ab7155c2b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/07/27/69/0727694f5cd0a7dac718080d22d00e0fc2425edc1d10a153b9abace0c5cebdb8.jpg",
+      "image_path": "images/cards/1175/002-694.webp",
+      "image_sha256": "793361adf701209bd332001512a8fef4ae89be045f13dc8babef9eb31e437bdf",
+      "image_bytes": 105492,
+      "source_url": "https://www.tcgcollector.com/cards/694/groudon-ex-nintendo-promos-002",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 2
+    },
+    {
+      "id": 1802,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Treecko",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/fb/60/a8/fb60a856a3f7595ccbc9ca7c6740ef821670b9038bfb27684153d592e0094efd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/87/6a/49/876a49326a5419de13af7b100b57aef7720650604f31146f214fb8ef113d5baf.jpg",
+      "image_path": "images/cards/1175/003-1802.webp",
+      "image_sha256": "f259bf51b7171adc9dcd8179c44451f31fa115964fb466e9239822825363b588",
+      "image_bytes": 104538,
+      "source_url": "https://www.tcgcollector.com/cards/1802/treecko-nintendo-promos-003",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 3
+    },
+    {
+      "id": 695,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Grovyle",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/67/60/be/6760be73069d4a181a8433f7bebc6a0a444771c4e01fe781be62b01d4c71dee2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4f/76/49/4f76491a0e9fb434acd6479b10f9edbc9017acf1144830a94872367892390700.jpg",
+      "image_path": "images/cards/1175/004-695.webp",
+      "image_sha256": "180dad04565f900b676e82069c687b32a1032a92556a4154c2a995482cee1c4a",
+      "image_bytes": 104584,
+      "source_url": "https://www.tcgcollector.com/cards/695/grovyle-nintendo-promos-004",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 4
+    },
+    {
+      "id": 1978,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Mudkip",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/21/21/d8/2121d8a838160f504e3b0cbb5a4e586bc8780cea060172d273cdf37bec0d774c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9e/f2/f2/9ef2f20ae5c69330de209b391d23a7fe7e09d75a49ccd3357ca6782e5f6786db.jpg",
+      "image_path": "images/cards/1175/005-1978.webp",
+      "image_sha256": "4a4c9753e2ef316c09bd525ade02857d8791ee92fa3fda4d1afb8b6d5d3d547e",
+      "image_bytes": 135430,
+      "source_url": "https://www.tcgcollector.com/cards/1978/mudkip-nintendo-promos-005",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 5
+    },
+    {
+      "id": 1979,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Torchic",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/51/f2/df/51f2dfa43035387b872223c07743bc0351fbdec7fd55e8bf8eaefbc78c1c0b8a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3f/a3/c3/3fa3c3c453d89aa6e2c28e23d3b144ac2d84bab007f3aacfac8503224c0f4a69.jpg",
+      "image_path": "images/cards/1175/006-1979.webp",
+      "image_sha256": "ca241d315948a5de0771c58eab8fd9004412c2c808bdbb938e4e5bef072c53f5",
+      "image_bytes": 121956,
+      "source_url": "https://www.tcgcollector.com/cards/1979/torchic-nintendo-promos-006",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 6
+    },
+    {
+      "id": 2300,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Treecko",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/b1/8c/76/b18c76c8df45c84f012a1109468fc78bb99629c482d5d55df9af8411e1760b50.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/21/9c/06/219c06bda5a2e4e117ea3dd2d4429c49f21b1e71e53a6f3dab7aaea178e85422.jpg",
+      "image_path": "images/cards/1175/007-2300.webp",
+      "image_sha256": "35255de2fdb96cb69dff700aa6971d6c01e62ca1e2550f8b20b8dce30bed424b",
+      "image_bytes": 138937,
+      "source_url": "https://www.tcgcollector.com/cards/2300/treecko-nintendo-promos-007",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 7
+    },
+    {
+      "id": 1785,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Torchic",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/5b/30/7d/5b307dfe823025b9e769d912f71bcc8472f5cdafe6df3900112f79e385b57277.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/91/46/0d/91460dde26ac1ddd19c3246bd9313084e092636e412199f7e78ae64225087378.jpg",
+      "image_path": "images/cards/1175/008-1785.webp",
+      "image_sha256": "8eb55baa06fe4b09b4e4670aec0f25b3aadd9f6d83465358dc8bea5b831c2152",
+      "image_bytes": 81413,
+      "source_url": "https://www.tcgcollector.com/cards/1785/torchic-nintendo-promos-008",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 8
+    },
+    {
+      "id": 251,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Combusken",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/a0/12/c6/a012c6b2a664c5d9f2d14808625fcb67981120c40a5465a8b2ae136da4de02a2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c1/d4/e8/c1d4e87cbc1ca66afae16ae91b39d28dab4f83d80947d83da1e0cb2c5f3e93c0.jpg",
+      "image_path": "images/cards/1175/009-251.webp",
+      "image_sha256": "19bb7cc5147aa4415560f02e72c2cfee14a3a3e181d8c6b3b5d84ed57b783ab5",
+      "image_bytes": 96877,
+      "source_url": "https://www.tcgcollector.com/cards/251/combusken-nintendo-promos-009",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 9
+    },
+    {
+      "id": 1184,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Mudkip",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/8b/fb/a4/8bfba42b9e84c713f1fe2a3393ff06813d0cdfbf2f2edb822f23d6272f2e668c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0b/45/84/0b45845666a476c219f3d9fc2f8fac00d7ba9baa5229c56563051edac9a2c40a.jpg",
+      "image_path": "images/cards/1175/010-1184.webp",
+      "image_sha256": "8cac32a541c3bf54eed5bb1e3f6276f14ad348d8c143c9d7cc9b0789cb300a83",
+      "image_bytes": 98815,
+      "source_url": "https://www.tcgcollector.com/cards/1184/mudkip-nintendo-promos-010",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 10
+    },
+    {
+      "id": 1076,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Marshtomp",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/c5/a6/05/c5a60527d7dbb6ee5db8f465d5c4e5e76cb8d76b6051f43368f917b5671dfc5c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6a/53/c5/6a53c5c5b36aa64edab1d1b24794b402e6ca79fb85e57d92aa01041c6fdef624.jpg",
+      "image_path": "images/cards/1175/011-1076.webp",
+      "image_sha256": "20b1386038f5961dc46bd0fe67de4d2035f284bb4d442dea31d158b64114e564",
+      "image_bytes": 99135,
+      "source_url": "https://www.tcgcollector.com/cards/1076/marshtomp-nintendo-promos-011",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 11
+    },
+    {
+      "id": 1320,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Pikachu",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/ae/7f/74/ae7f745b80f8299d9d704d6d38a9db0a6674774b87438d989de51a38e0fd75d2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/95/9e/65/959e654df000c880d71331c6d1bf11724834a515372a117a21571505ec80e811.jpg",
+      "image_path": "images/cards/1175/012-1320.webp",
+      "image_sha256": "ec64c559cb0d0fe28ad86ab4ee47f65a10265fc7824004fc90bbe519737ac9c0",
+      "image_bytes": 116916,
+      "source_url": "https://www.tcgcollector.com/cards/1320/pikachu-nintendo-promos-012",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 12
+    },
+    {
+      "id": 1094,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Meowth",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/c5/53/85/c55385429fa08266163f11091bdcb7c29639155da2408e5c6cde7621532be704.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/63/98/66/639866588a2389ca9b965dbcbb0e85c4d77f3c31bc01bf94dcdaf4697ee3d62f.jpg",
+      "image_path": "images/cards/1175/013-1094.webp",
+      "image_sha256": "6d8d4b36dd7d2ad34cb3617767753181b890ec4cfa39399756abc6b221dd71be",
+      "image_bytes": 114466,
+      "source_url": "https://www.tcgcollector.com/cards/1094/meowth-nintendo-promos-013",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 13
+    },
+    {
+      "id": 1976,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Latias",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/f1/de/8a/f1de8a238c67c79d50f023bbb83546a33bf38a7b0e9cd8afd64ac85371930f83.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/03/5d/5e/035d5e654cea284f7af4c6193197e5aeeb5e5314ed59b5719498f759c6836752.jpg",
+      "image_path": "images/cards/1175/014-1976.webp",
+      "image_sha256": "ed20c65c8d3712af86e1751ca205eca6b11fd3f080b261b2fec95dd1dfe7ea1c",
+      "image_bytes": 102428,
+      "source_url": "https://www.tcgcollector.com/cards/1976/latias-nintendo-promos-014",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 14
+    },
+    {
+      "id": 1977,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Latios",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/43/d4/e9/43d4e98136dc74f7af3f23bb82bdf5c29b0165ac7fafc502802ab88e68ab1bc7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/79/ae/e4/79aee4a9db107a876800618df9573ad849a1f5587b917cdac407f6dfff93aab6.jpg",
+      "image_path": "images/cards/1175/015-1977.webp",
+      "image_sha256": "dbee7fa40c9c4af22c41c74d3732e576acd68e169fc3dbd3327d4fb13012b7a0",
+      "image_bytes": 101380,
+      "source_url": "https://www.tcgcollector.com/cards/1977/latios-nintendo-promos-015",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 15
+    },
+    {
+      "id": 1980,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Treecko",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/c0/b4/e8/c0b4e804a574ccf683d895015173ff9e057cf0a7bbd4a97a7c94373aba8539ec.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/af/de/c9/afdec9d0a38b14ce08483f42d8ada4f44cdad8580c591c485e1a2bc4bfcf6c30.jpg",
+      "image_path": "images/cards/1175/016-1980.webp",
+      "image_sha256": "08807f9ecf08a0f892e84e15f222acc836c00741db438d94fbde630dde084b90",
+      "image_bytes": 101535,
+      "source_url": "https://www.tcgcollector.com/cards/1980/treecko-nintendo-promos-016",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 16
+    },
+    {
+      "id": 1981,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Torchic",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/56/f3/08/56f308a05aed3aa9a9eba2c6b7f71d83f0ad780893baeddfeebd4a566798b0f1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b2/12/8e/b2128e1b40423e5557dd5d12fa75bb444c860d3a04b9dd94b500199b19973484.jpg",
+      "image_path": "images/cards/1175/017-1981.webp",
+      "image_sha256": "51233e6ec7f48d13bb59dad2878bcf81fc6bf9628382292707f74283ca53d80d",
+      "image_bytes": 102359,
+      "source_url": "https://www.tcgcollector.com/cards/1981/torchic-nintendo-promos-017",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 17
+    },
+    {
+      "id": 1982,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Mudkip",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/7a/a1/c3/7aa1c3651fa0d2bd9bdf458ea0ab659e0368f70f2b0bd4c4dbcc58343ff52936.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dd/df/a6/dddfa668bd1aa2e7596332162b36a7d2cb3510fca2763d468f6876cf684f881c.jpg",
+      "image_path": "images/cards/1175/018-1982.webp",
+      "image_sha256": "baa29bd319b88b429c201abeea4c47f7cc2b60fd11d166559140daf0208f0661",
+      "image_bytes": 107555,
+      "source_url": "https://www.tcgcollector.com/cards/1982/mudkip-nintendo-promos-018",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 18
+    },
+    {
+      "id": 1983,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Whismur",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/89/33/c0/8933c0d8957bd70a645afd57baf90b05997f643218935c4573610267755aa8a2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a3/f1/3e/a3f13e194634f5f33aa232fa87e383100fdae90a3d8227ea8bce85a0ef801f72.jpg",
+      "image_path": "images/cards/1175/019-1983.webp",
+      "image_sha256": "5ab63c17dac76e74dd743a4f5c22c4bc2f7420db8ddd788525f5f074792f2fbb",
+      "image_bytes": 104933,
+      "source_url": "https://www.tcgcollector.com/cards/1983/whismur-nintendo-promos-019",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 19
+    },
+    {
+      "id": 2081,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Ludicolo",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/d3/0d/b0/d30db0bf89da780d385f0ec7d3043d0bd1a9113a6ba9a2db62ae4ab6cd58ea89.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b9/c1/73/b9c173225f957e2709e9ed4c6f86885a6ef4cac765f5eef284e981e3a5836b14.jpg",
+      "image_path": "images/cards/1175/020-2081.webp",
+      "image_sha256": "c534ecf2dced78836094c948d5449b211ef930bde58608c5d71fb5ce5ff86d60",
+      "image_bytes": 119521,
+      "source_url": "https://www.tcgcollector.com/cards/2081/ludicolo-nintendo-promos-020",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 20
+    },
+    {
+      "id": 2306,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Jirachi",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/58/9f/64/589f645c5b6b5677caa878466800b48782158e6abbaa24e95138147493b1752c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e4/86/82/e48682f24317b81a4fc41c40f666766883e9b0eb20c2b6f4ce46149391534160.jpg",
+      "image_path": "images/cards/1175/021-2306.webp",
+      "image_sha256": "3c847b10272c978175aebedd7f1e7ba6e09ffbbaf1f2213b4129956344528ebf",
+      "image_bytes": 89365,
+      "source_url": "https://www.tcgcollector.com/cards/2306/jirachi-nintendo-promos-021",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 21
+    },
+    {
+      "id": 2301,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Beldum",
+      "number": "022",
+      "number_value": 22,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/4e/7f/63/4e7f634532a47e2bae0dfdb6f846865081205eafaee040cbb6e0551009e37c87.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4a/0e/c3/4a0ec39f95ef4e1383448a0da9079d438898ce78e1ff77561066e901759470f2.jpg",
+      "image_path": "images/cards/1175/022-2301.webp",
+      "image_sha256": "37bd3f919d41fa1ef583d21849eebe027e0641d9bdafde325d2de1cfe0716161",
+      "image_bytes": 128053,
+      "source_url": "https://www.tcgcollector.com/cards/2301/beldum-nintendo-promos-022",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 22
+    },
+    {
+      "id": 2305,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Metang",
+      "number": "023",
+      "number_value": 23,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/56/5a/fa/565afa2ef05bec0f5b4534eb4cef4c657f19a947e2f601905c81964833da6742.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/55/e6/1c/55e61c78974ac097f59c88a06f01e91f91379d8b9513052a9d1e1d7134ed1931.jpg",
+      "image_path": "images/cards/1175/023-2305.webp",
+      "image_sha256": "c75cf48509e828e0289b6d80a1e050a748b61f056006f73f5bf7d10a26efb950",
+      "image_bytes": 115609,
+      "source_url": "https://www.tcgcollector.com/cards/2305/metang-nintendo-promos-023",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 23
+    },
+    {
+      "id": 2302,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Chimecho",
+      "number": "024",
+      "number_value": 24,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/1f/bf/d5/1fbfd5e40b4e152aac2b2bea5c49f1f0979d2faa928781d55ae9d3591ccb594b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/82/d3/1b/82d31b1dc10c7deec68345db0e41c254632d8b5d62e8141b7f3dce053e4bd67a.jpg",
+      "image_path": "images/cards/1175/024-2302.webp",
+      "image_sha256": "d128f17270f4f86f449eedca5777e90495f6265ca7538d34852e035c78b81fb0",
+      "image_bytes": 110716,
+      "source_url": "https://www.tcgcollector.com/cards/2302/chimecho-nintendo-promos-024",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 24
+    },
+    {
+      "id": 2303,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Flygon",
+      "number": "025",
+      "number_value": 25,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/ee/8e/e3/ee8ee365fadf05380297294c428fcc5f729e9fb66387b0608aa2506d3f35360b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/96/62/3b/96623bbecebcf925c18ec77718942798660b739ad5a96ef8af0fac038c62823c.jpg",
+      "image_path": "images/cards/1175/025-2303.webp",
+      "image_sha256": "bb4301b9b789076202289288e2e2a98df1ccfa6528ce06137fbaba051497de9d",
+      "image_bytes": 107780,
+      "source_url": "https://www.tcgcollector.com/cards/2303/flygon-nintendo-promos-025",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 25
+    },
+    {
+      "id": 2304,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Tropical Wind",
+      "number": "026",
+      "number_value": 26,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/4b/ff/61/4bff611901a5c3e2ba8fd54a2b61e6773830ba2f71011980bf430759864bc3b0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a9/ee/5b/a9ee5b6b5a6a531faee70cde22eb5fba42465924e21798944152a4b098846bd2.jpg",
+      "image_path": "images/cards/1175/026-2304.webp",
+      "image_sha256": "1dd149a63bd5ff0b0214117509c3aa421ae4021bad4b75008c73daf7ab523851",
+      "image_bytes": 89438,
+      "source_url": "https://www.tcgcollector.com/cards/2304/tropical-wind-nintendo-promos-026",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 26
+    },
+    {
+      "id": 2821,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Tropical Tidal Wave",
+      "number": "027",
+      "number_value": 27,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/93/76/43/937643285e4a4cc1b8b37a38dbaf9683fbbfd2df2763a435dbe458c9c9686e50.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b3/e3/f4/b3e3f43921d47b2f46d99534a466b7aa0f23ea6b92b21b2803328688bbf25ff9.jpg",
+      "image_path": "images/cards/1175/027-2821.webp",
+      "image_sha256": "ad087ef33e06eb8f8ae09e8b27fe912d772ecc836e3d06b31eab7c2438d79244",
+      "image_bytes": 95698,
+      "source_url": "https://www.tcgcollector.com/cards/2821/tropical-tidal-wave-nintendo-promos-027",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 27
+    },
+    {
+      "id": 2822,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Championship Arena",
+      "number": "028",
+      "number_value": 28,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/20/7d/a4/207da4c57c8c8d57c6d8e448f7d15887715cf014c232f1dde0a076c3a7c73372.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/38/69/b6/3869b6397ada52a2a231795c64aeb92f06deb294eab7262d8ec77e432a0dd630.jpg",
+      "image_path": "images/cards/1175/028-2822.webp",
+      "image_sha256": "9ee4886a576cc32924eb8087c51bb2ddf17b87ed94c6905b95bd5746a7cbedd7",
+      "image_bytes": 98744,
+      "source_url": "https://www.tcgcollector.com/cards/2822/championship-arena-nintendo-promos-028",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 28
+    },
+    {
+      "id": 3047,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Celebi",
+      "number": "029",
+      "number_value": 29,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/21/ac/6e/21ac6efb0f3cbab6bb0bde2bfc188fbbdec8df232bf11c2d74a88655749f2311.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/62/f2/a9/62f2a9e30d2f198c9b66f1093050310defdc3e8e7e29188f62adab1e72b505ff.jpg",
+      "image_path": "images/cards/1175/029-3047.webp",
+      "image_sha256": "f89fc963765d921b939103161b818367f5970ba866f7b3f17dc301c084eeb652",
+      "image_bytes": 131175,
+      "source_url": "https://www.tcgcollector.com/cards/3047/celebi-nintendo-promos-029",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 29
+    },
+    {
+      "id": 3048,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Suicune",
+      "number": "030",
+      "number_value": 30,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/df/03/19/df031986f3fab2288e8ab870b76152e8939f180f6c161b432f113e3d175ce322.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/89/22/36/8922363dd8864aa5a2e30762a21791a4dfdf55415309c0fe298b01fe91ca578a.jpg",
+      "image_path": "images/cards/1175/030-3048.webp",
+      "image_sha256": "6469501ff48c74b3f45b35bc46a8cd5559e46d9a833c36d0c1a8d11252f30187",
+      "image_bytes": 120473,
+      "source_url": "https://www.tcgcollector.com/cards/3048/suicune-nintendo-promos-030",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 30
+    },
+    {
+      "id": 3049,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Moltres ex",
+      "number": "031",
+      "number_value": 31,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/d1/be/5e/d1be5e63a4b60b0f630e785b3d5d7699cce7ce49ef1c3721b5df4867022d209f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/33/e2/01/33e201501ac6009475f518f9320afe6f2c0d1a3ec589238540c9d78cd37ec567.jpg",
+      "image_path": "images/cards/1175/031-3049.webp",
+      "image_sha256": "a6021231b386e14f22617d5d5565546f0a26d2a77e4e8cb6c9d7f54e070f678b",
+      "image_bytes": 110087,
+      "source_url": "https://www.tcgcollector.com/cards/3049/moltres-ex-nintendo-promos-031",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 31
+    },
+    {
+      "id": 3050,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Articuno ex",
+      "number": "032",
+      "number_value": 32,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/a2/1a/ef/a21aef9f4a210be445c3436eb9872a1ddf926922137f9ec856b37b63ad80c200.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5d/5d/5f/5d5d5f4d9b54f9358e6988cbc1612c5db7cc0092979b1ca615f8cef2a7e78978.jpg",
+      "image_path": "images/cards/1175/032-3050.webp",
+      "image_sha256": "09acd6740ddcc94d4ee027531966bb747bbabd6cc61119cc4b33e8500e2ae7e8",
+      "image_bytes": 122587,
+      "source_url": "https://www.tcgcollector.com/cards/3050/articuno-ex-nintendo-promos-032",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 32
+    },
+    {
+      "id": 3051,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Zapdos ex",
+      "number": "033",
+      "number_value": 33,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/d9/5a/25/d95a258d2a3cb7c01d1e1b29059b309800f7976bbac46c473b832028f1e03166.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/92/0e/15/920e15e1ab7e88e40cf29fd5204effc4f0ab89fdfe8ac7b1caf04f610480c738.jpg",
+      "image_path": "images/cards/1175/033-3051.webp",
+      "image_sha256": "ad18d1df10104cf1d8cb9ceaebd68aa084af3fb6ea6605edbe05a45204bdf18c",
+      "image_bytes": 124327,
+      "source_url": "https://www.tcgcollector.com/cards/3051/zapdos-ex-nintendo-promos-033",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 33
+    },
+    {
+      "id": 3321,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Typhlosion",
+      "number": "034",
+      "number_value": 34,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/77/43/00/774300f47479211bc0a80c772eeddbc30d30892f5c94c0a99bd3ef40fa80b502.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/99/16/02/9916026a1ca7507aae04b1cd1363cf25ea723223f1ef94be52338f24b5a37b8d.jpg",
+      "image_path": "images/cards/1175/034-3321.webp",
+      "image_sha256": "2b1d07e1a989be71e8b9d26cbd531a59b8cd80f7aaa0acec81c73e3b680b0fc1",
+      "image_bytes": 146584,
+      "source_url": "https://www.tcgcollector.com/cards/3321/typhlosion-nintendo-promos-034",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 34
+    },
+    {
+      "id": 3426,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Pikachu",
+      "number": "035",
+      "number_value": 35,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/18/75/5a/18755abdf3045900561e91ce33452eb2d03799132470a00ff67eaced742ab15a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/98/d8/5e/98d85e4a2aa1ddcbb3596f46587bf1ba4fde2b52b71a2c9927daad95ff5ec3c9.jpg",
+      "image_path": "images/cards/1175/035-3426.webp",
+      "image_sha256": "1a4f3bd3aa61c8ba7af527b5d62af24a7ee1c8cd12e9d60ba64f43bdd00a5a7c",
+      "image_bytes": 123106,
+      "source_url": "https://www.tcgcollector.com/cards/3426/pikachu-nintendo-promos-035",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 35
+    },
+    {
+      "id": 3427,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Tropical Tidal Wave",
+      "number": "036",
+      "number_value": 36,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/68/a6/a3/68a6a30e1f71f72661f86a05c0510452e8bbf61bb71cc91ce1f59e5feaa3e059.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c4/94/ba/c494baa6b0c238014171b6cb57839922fd75a3881f3d6fb0cf7a928ed55d1567.jpg",
+      "image_path": "images/cards/1175/036-3427.webp",
+      "image_sha256": "8d719fab699cf9b7ad5efc0531ea7579daea861bb577ea04c606a508ff094103",
+      "image_bytes": 94179,
+      "source_url": "https://www.tcgcollector.com/cards/3427/tropical-tidal-wave-nintendo-promos-036",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 36
+    },
+    {
+      "id": 3322,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Kyogre ex",
+      "number": "037",
+      "number_value": 37,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/64/f9/30/64f930f0d8f98b425121d44cfd0015ebce899be2a5e43a31de11fbdc3d4e2130.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/73/07/6b/73076b2a635b8d1a9000f87b27136b37386d2f967665ab8b0e7ac2d85a1bf2b6.jpg",
+      "image_path": "images/cards/1175/037-3322.webp",
+      "image_sha256": "25043537a71ba1b6bf0cec6cd1f874376bb99102107bc48e78c8270e01fb1d79",
+      "image_bytes": 134790,
+      "source_url": "https://www.tcgcollector.com/cards/3322/kyogre-ex-nintendo-promos-037",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 37
+    },
+    {
+      "id": 3323,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Groudon ex",
+      "number": "038",
+      "number_value": 38,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/35/28/a8/3528a81bf8e869082545b446d0304db93ceee12a1abcb6c1cc19e5ab9030bc20.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6f/d8/0e/6fd80e389b90ab56b7f5560aa6b5d98625f498706c3bf037248840e89b46a025.jpg",
+      "image_path": "images/cards/1175/038-3323.webp",
+      "image_sha256": "ef288fd6940028bed48a584adacd68d025bd42f2aef0e53d2993279bb3ea2af5",
+      "image_bytes": 153377,
+      "source_url": "https://www.tcgcollector.com/cards/3323/groudon-ex-nintendo-promos-038",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 38
+    },
+    {
+      "id": 3324,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Rayquaza ex",
+      "number": "039",
+      "number_value": 39,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/57/81/88/578188693d483d1ae8228a15eceae0f06dcea9108dc93566d814898bf5985b18.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f6/f6/54/f6f6547edeaf3c38511b73f1b24f80b5173899d6cf157075aad6c1a1280991fd.jpg",
+      "image_path": "images/cards/1175/039-3324.webp",
+      "image_sha256": "cba9cc805c83d85def74ffc6912c3126bf57e76633e754d3bb0e5aff8cfe0ab1",
+      "image_bytes": 135988,
+      "source_url": "https://www.tcgcollector.com/cards/3324/rayquaza-ex-nintendo-promos-039",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 39
+    },
+    {
+      "id": 3428,
+      "set_id": 1175,
+      "set_ids": [
+        1175
+      ],
+      "name": "Mew",
+      "number": "040",
+      "number_value": 40,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/7f/ff/f6/7ffff62456024b8345a3b37e6934ec50853d4cc7d46627976be551cbfc0fcaf0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b8/d6/af/b8d6afbe3163c1fa726f2776aa2a4572136e235a17a36a1c463f25343c83054f.jpg",
+      "image_path": "images/cards/1175/040-3428.webp",
+      "image_sha256": "2fc646779a9ed4b1b6906e3e60bf041935e2055fe61502733e153cd011d0cf74",
+      "image_bytes": 105162,
+      "source_url": "https://www.tcgcollector.com/cards/3428/mew-nintendo-promos-040",
+      "scraped_at": "2026-10-18T22:26:11Z",
+      "position": 40
+    }
+  ]
+}

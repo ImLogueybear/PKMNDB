@@ -1,0 +1,262 @@
+{
+  "set": {
+    "id": 11122,
+    "language": "en",
+    "name": "McDonald's Collection 2016",
+    "code": "M16",
+    "series": "McDonald's Series",
+    "release_date": "2016-08-20",
+    "date_text": "Aug 20, 2016",
+    "card_count": 12,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/8a/dc/47/8adc47f392b2bc8a1ccf45e8284c1ebbe04aeb756fa7a90573b189255259fecb.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/fb/29/09/fb29099ddaee3a4af684ed29e52c453d099387f59139cbd6011d9250b351a09a.svg",
+    "logo_path": "images/sets/11122-logo.webp",
+    "symbol_path": "images/sets/11122-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/11122/mcdonalds-collection-2016",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 12
+  },
+  "cards": [
+    {
+      "id": 12258,
+      "set_id": 11122,
+      "set_ids": [
+        11122
+      ],
+      "name": "Vulpix",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/b4/0f/98/b40f9862a6a3cd8c5fa67c22641034b36d2946e7654666bf32a81bc6be785f5c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ff/4e/c9/ff4ec9a07e74f7019153b11a41ba8e12eea428a3f828df3584ff07742ee2b68f.jpg",
+      "image_path": "images/cards/11122/1-12258.webp",
+      "image_sha256": "a817a67512e6b718be46e2946995c6a02c245b8b9ed4032410cf71c36869bee2",
+      "image_bytes": 206587,
+      "source_url": "https://www.tcgcollector.com/cards/12258/vulpix-mcdonalds-collection-2016-1-12",
+      "scraped_at": "2026-10-18T22:23:14Z",
+      "position": 1
+    },
+    {
+      "id": 12203,
+      "set_id": 11122,
+      "set_ids": [
+        11122
+      ],
+      "name": "Torchic",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/88/01/0e/88010e5fb2df9d567cdd366752ec27fb2f5a3566649ae1124b3c7bc59d96bf84.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d3/29/a1/d329a14820777dd910f2034226c33d922353279c9dca2bba9d0ea200a4cf41b0.jpg",
+      "image_path": "images/cards/11122/2-12203.webp",
+      "image_sha256": "e83312ce40f09f1c876b0851b724ef8799dc13ef7f2e12a4f907d947a069cd25",
+      "image_bytes": 190606,
+      "source_url": "https://www.tcgcollector.com/cards/12203/torchic-mcdonalds-collection-2016-2-12",
+      "scraped_at": "2026-10-18T22:23:14Z",
+      "position": 2
+    },
+    {
+      "id": 12626,
+      "set_id": 11122,
+      "set_ids": [
+        11122
+      ],
+      "name": "Fennekin",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/e5/c7/8e/e5c78eadc1a8b5e1ebe2e0a19a1d192a97725f883fbe85ddc1920c0a77ac5947.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/33/67/e2/3367e244ebe3f17ca325d497e2af33c646e398934753a864a3ff7b1b1a79eefa.jpg",
+      "image_path": "images/cards/11122/3-12626.webp",
+      "image_sha256": "d64364434c7f5a8a351ccf4d7ab54220defa3511f57a21cad08faf1f9ae63917",
+      "image_bytes": 194322,
+      "source_url": "https://www.tcgcollector.com/cards/12626/fennekin-mcdonalds-collection-2016-3-12",
+      "scraped_at": "2026-10-18T22:23:14Z",
+      "position": 3
+    },
+    {
+      "id": 12627,
+      "set_id": 11122,
+      "set_ids": [
+        11122
+      ],
+      "name": "Magikarp",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/d7/0a/ae/d70aaeac2e46beb356cf487edd0d68150bb32ca9afd76083cd1c56caeddbc649.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/84/bc/75/84bc75c2f5d5fab9b6c746a22cb2828165cfa0ed74494f28e4b3b8b66ce211a2.jpg",
+      "image_path": "images/cards/11122/4-12627.webp",
+      "image_sha256": "b9c7fe45dd91b41794431a200499bbfa806227ce1c527b3a7e11d585426d089b",
+      "image_bytes": 196815,
+      "source_url": "https://www.tcgcollector.com/cards/12627/magikarp-mcdonalds-collection-2016-4-12",
+      "scraped_at": "2026-10-18T22:23:14Z",
+      "position": 4
+    },
+    {
+      "id": 12628,
+      "set_id": 11122,
+      "set_ids": [
+        11122
+      ],
+      "name": "Totodile",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/83/91/15/8391156c24d8bef9e1704a035ae00438ccc50003a775abfc9295aaf494e7cdc8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9c/44/2b/9c442b0d5e03f25de12f36dcbef2602a6d468c8301f24b46eb0fef0989d6cc6f.jpg",
+      "image_path": "images/cards/11122/5-12628.webp",
+      "image_sha256": "237554a1198056f0f4d45b322eb30f9298c5a2811618e1b001c0bfdd0b7fedca",
+      "image_bytes": 196673,
+      "source_url": "https://www.tcgcollector.com/cards/12628/totodile-mcdonalds-collection-2016-5-12",
+      "scraped_at": "2026-10-18T22:23:14Z",
+      "position": 5
+    },
+    {
+      "id": 11967,
+      "set_id": 11122,
+      "set_ids": [
+        11122
+      ],
+      "name": "Pikachu",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/09/03/1b/09031b8d57852cb8e3e3cdd5b95a176e1e0e6c9cc8261d2c372b1f85332776dd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f7/26/20/f726207662159c530703231f11ca755d0da9e57f4a4a52fd06313a6e2858a167.jpg",
+      "image_path": "images/cards/11122/6-11967.webp",
+      "image_sha256": "95e438ef084495a1bdbac17d709c3e35f1e4e1116dae57cc694fe94c7c78af25",
+      "image_bytes": 198786,
+      "source_url": "https://www.tcgcollector.com/cards/11967/pikachu-mcdonalds-collection-2016-6-12",
+      "scraped_at": "2026-10-18T22:23:14Z",
+      "position": 6
+    },
+    {
+      "id": 12629,
+      "set_id": 11122,
+      "set_ids": [
+        11122
+      ],
+      "name": "Scraggy",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/7a/a5/69/7aa56950d6ac5f5105f778757c16e10726417ebbbfd5f59fd58b4b41c86a0349.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a5/79/40/a57940ba747bc1ed970f980c4c3c922f8e9fabc04df300495fbdf8a2d3ef571f.jpg",
+      "image_path": "images/cards/11122/7-12629.webp",
+      "image_sha256": "450df93d7a8db827f18a147d47383f2a06c95639a2597588c601297a185aed2b",
+      "image_bytes": 186186,
+      "source_url": "https://www.tcgcollector.com/cards/12629/scraggy-mcdonalds-collection-2016-7-12",
+      "scraped_at": "2026-10-18T22:23:14Z",
+      "position": 7
+    },
+    {
+      "id": 12204,
+      "set_id": 11122,
+      "set_ids": [
+        11122
+      ],
+      "name": "Jigglypuff",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/54/7d/c8/547dc8a8067f909d7668c977db971e6250e1a795c7dde605a951306fa7ec61b6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/49/8f/69/498f69be30cbdcabe86d7b456cc80129237dab9ae18930ab922860371a1883b6.jpg",
+      "image_path": "images/cards/11122/8-12204.webp",
+      "image_sha256": "758a8a0b360a2d1e210713914d0379dc29a314316c9db4af3115c4adbd0c38a1",
+      "image_bytes": 214143,
+      "source_url": "https://www.tcgcollector.com/cards/12204/jigglypuff-mcdonalds-collection-2016-8-12",
+      "scraped_at": "2026-10-18T22:23:14Z",
+      "position": 8
+    },
+    {
+      "id": 12630,
+      "set_id": 11122,
+      "set_ids": [
+        11122
+      ],
+      "name": "Togepi",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/75/1f/3c/751f3cd5b35a7d95a5cd311d7aedaa2f20e5ed814dfefe10274144871d4eb5c3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2a/07/9c/2a079c4dfd5ac3b4a8a411388bcb1742520df288619803d9555be17bfb4ae8bb.jpg",
+      "image_path": "images/cards/11122/9-12630.webp",
+      "image_sha256": "57375018a84854e67b722674747ef9d4098f66fed81be57aa9f15c3decee8f64",
+      "image_bytes": 222474,
+      "source_url": "https://www.tcgcollector.com/cards/12630/togepi-mcdonalds-collection-2016-9-12",
+      "scraped_at": "2026-10-18T22:23:14Z",
+      "position": 9
+    },
+    {
+      "id": 12631,
+      "set_id": 11122,
+      "set_ids": [
+        11122
+      ],
+      "name": "Dedenne",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/90/ae/da/90aedadcfeb532f114af68f1a7bf6dec1ce36c2bdc22abd28e0622264085a834.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0a/f6/a4/0af6a482fe551a014fad4dbcf090dd30833cbb7ca4240436db034d7b95a86946.jpg",
+      "image_path": "images/cards/11122/10-12631.webp",
+      "image_sha256": "3dd9058b85ca0849a8346129ff4ec27ceaf2d5d240f82cfb765974e130bfee01",
+      "image_bytes": 231517,
+      "source_url": "https://www.tcgcollector.com/cards/12631/dedenne-mcdonalds-collection-2016-10-12",
+      "scraped_at": "2026-10-18T22:23:14Z",
+      "position": 10
+    },
+    {
+      "id": 12625,
+      "set_id": 11122,
+      "set_ids": [
+        11122
+      ],
+      "name": "Meowth",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/c7/42/06/c74206a69e7d81ede7e8dc96b50710c8ed7d5e86efbdc8cdfbc42713a44e998a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f7/3e/fb/f73efb12268439918fbdd00e6f103072bd6ca89ea5752d451e92a300b7f978ce.jpg",
+      "image_path": "images/cards/11122/11-12625.webp",
+      "image_sha256": "5db58ada4be35a16c145c2fb06d583a4dd86ad173aad39d3430e83a4cacb8c3d",
+      "image_bytes": 201368,
+      "source_url": "https://www.tcgcollector.com/cards/12625/meowth-mcdonalds-collection-2016-11-12",
+      "scraped_at": "2026-10-18T22:23:14Z",
+      "position": 11
+    },
+    {
+      "id": 12632,
+      "set_id": 11122,
+      "set_ids": [
+        11122
+      ],
+      "name": "Eevee",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/96/65/a4/9665a4ecc07be10d080064f0d8df430ff21c025cec1709b457e2fe55bd83f075.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f3/cc/39/f3cc391e71dea92a7a5db54bb99992e8602998284d722f325885011b7e49d64c.jpg",
+      "image_path": "images/cards/11122/12-12632.webp",
+      "image_sha256": "59517853a416e3bf2772ca9c2026b872d6337dbe4e46faaf45575e2cb3953648",
+      "image_bytes": 188734,
+      "source_url": "https://www.tcgcollector.com/cards/12632/eevee-mcdonalds-collection-2016-12-12",
+      "scraped_at": "2026-10-18T22:23:14Z",
+      "position": 12
+    }
+  ]
+}

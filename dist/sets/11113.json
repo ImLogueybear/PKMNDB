@@ -1,0 +1,382 @@
+{
+  "set": {
+    "id": 11113,
+    "language": "en",
+    "name": "Southern Islands",
+    "code": "SI",
+    "series": "Other",
+    "release_date": "2001-07-31",
+    "date_text": "Jul 31, 2001",
+    "card_count": 18,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/9c/87/c5/9c87c5c785705ea626d90fd0899a5a1361732540aa8e0e30f75d9511a87f61bf.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/47/38/dc/4738dc743b0eb91ffa59954b4f3f89b0ff6cb897f73738bc8033ca5647e5b898.svg",
+    "logo_path": "images/sets/11113-logo.webp",
+    "symbol_path": "images/sets/11113-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/11113/southern-islands",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 18
+  },
+  "cards": [
+    {
+      "id": 1109,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Mew",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/80/6a/ec/806aec769af7b59724a1f4124121323d0a3c91e6628fc86ac25706a1f4359bd1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ca/45/59/ca45597f254b4bf5d4dfbef6703cec2109bf0076d4e5b8324f37a7e44bebe53a.jpg",
+      "image_path": "images/cards/11113/1-1109.webp",
+      "image_sha256": "3740fbb9d05b929e1b9173e91989c33dc1e149ff655a28a3c47e9cf705b9412b",
+      "image_bytes": 122041,
+      "source_url": "https://www.tcgcollector.com/cards/1109/mew-southern-islands-1-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 1
+    },
+    {
+      "id": 1306,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Pidgeot",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/61/a8/4f/61a84fc027ec344e04b504299367809f595ba6a501e9dd8e517192e153e4be20.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/12/79/67/127967e5dc3820efd40c4e7cb730efd483e265d18f7466a60b17e0f7e0d0a649.jpg",
+      "image_path": "images/cards/11113/2-1306.webp",
+      "image_sha256": "60c3506ddaaa8d9eac467ade65ad4a12d2bd9a2290c9c181628b613d76c7e496",
+      "image_bytes": 107314,
+      "source_url": "https://www.tcgcollector.com/cards/1306/pidgeot-southern-islands-2-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 2
+    },
+    {
+      "id": 1278,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Onix",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/14/88/00/148800117426804a00416814946f6551087f88a0e93e3c6c18d1854a5a7044d4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/66/5f/84/665f84419dca8b606b58c1cfef62e0f7ec809370969e1dba5bb5631f6031e793.jpg",
+      "image_path": "images/cards/11113/3-1278.webp",
+      "image_sha256": "0e79cfa4a68202dbc36267f159b297703b233c683c7513f7c1cea86c2bba42af",
+      "image_bytes": 111401,
+      "source_url": "https://www.tcgcollector.com/cards/1278/onix-southern-islands-3-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 3
+    },
+    {
+      "id": 1777,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Togepi",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/af/77/2d/af772dad4a93c55a02df59311762329ed01b53772e37872809e878fbe5f3c8c0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4f/7e/c0/4f7ec03811c76fbe4e6a6d2065f83100ed6a96503bba11a7682d65ff238ad270.jpg",
+      "image_path": "images/cards/11113/4-1777.webp",
+      "image_sha256": "0016696ea701c5c19b54c5d78778efb8796e197aca00312c2ca0af7924992957",
+      "image_bytes": 130652,
+      "source_url": "https://www.tcgcollector.com/cards/1777/togepi-southern-islands-4-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 4
+    },
+    {
+      "id": 793,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Ivysaur",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/2f/55/b7/2f55b72ef6c72e86f5c38dcb001a9cb27ff68700d434bb970545b6b8622765ff.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4b/13/fa/4b13fa5cbfe241ff0f2fd64a610fb58bc83d0164e66bebc182c34360d610c954.jpg",
+      "image_path": "images/cards/11113/5-793.webp",
+      "image_sha256": "44cccc8b381fcf0589527a16ea281e1262a3155ab8a992db24f01c5185efc05c",
+      "image_bytes": 116337,
+      "source_url": "https://www.tcgcollector.com/cards/793/ivysaur-southern-islands-5-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 5
+    },
+    {
+      "id": 1471,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Raticate",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/5c/70/50/5c705092313ffb5c5e9c07702b041d11194341e5412025fa1f80ece4d57b56fd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d1/e8/79/d1e879eaacf213be2465b4e20f1aeece4dc334e73995e0546a54a710436d10b1.jpg",
+      "image_path": "images/cards/11113/6-1471.webp",
+      "image_sha256": "c76e93872bc13a82da0213f08eb32485445257e2e9b95c1a9667f5f228662805",
+      "image_bytes": 107965,
+      "source_url": "https://www.tcgcollector.com/cards/1471/raticate-southern-islands-6-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 6
+    },
+    {
+      "id": 908,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Ledyba",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/a8/4e/0d/a84e0da2babcbb1594ea34152eece54affddc774d814e4fc5651280070aed7c0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a4/57/7f/a4577f38444024f7696c4e06326cdddcf34136cfed03d75165b6de250222e1a9.jpg",
+      "image_path": "images/cards/11113/7-908.webp",
+      "image_sha256": "95f97d609bf35c695f4fee73caf8bc477186b7d982714c9ee05cb239a4190527",
+      "image_bytes": 123591,
+      "source_url": "https://www.tcgcollector.com/cards/908/ledyba-southern-islands-7-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 7
+    },
+    {
+      "id": 798,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Jigglypuff",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/e2/63/76/e26376ae57ceb5889d1b1593541c99090ff6ead0529b469fe4c2374edb2f1260.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3e/22/a3/3e22a3111178d08a11b4272e05026d878fbe72f395d91c40c15e923f2dfa2a22.jpg",
+      "image_path": "images/cards/11113/8-798.webp",
+      "image_sha256": "7c8ff5d52b9bcac02fefe894fc7c4012f71ad1e68dbb2822e8eef97259ee1250",
+      "image_bytes": 105983,
+      "source_url": "https://www.tcgcollector.com/cards/798/jigglypuff-southern-islands-8-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 8
+    },
+    {
+      "id": 178,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Butterfree",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/10/0b/38/100b38f437a6369591e2f345922ee728e94dec4aefcb6a8146d30d4f38235090.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b6/19/07/b619076d9f3f06e57dcb0fdadc5b8c87d0a8c87c4067f696ee3cafffb25cc899.jpg",
+      "image_path": "images/cards/11113/9-178.webp",
+      "image_sha256": "e1f2e55c906a95c46af30971aed9c148f61b3502bbae85c5b86174f94b952150",
+      "image_bytes": 117117,
+      "source_url": "https://www.tcgcollector.com/cards/178/butterfree-southern-islands-9-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 9
+    },
+    {
+      "id": 1764,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Tentacruel",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/46/e2/a9/46e2a912c589d2729dcab6c2a98cb330cea0090b6cb03dd3ef487ac1336ef6b2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/23/fc/7a/23fc7ac768d4014f219fc4af62e37ad1ca852f0f9b8aa9efa12ed7a74050994e.jpg",
+      "image_path": "images/cards/11113/10-1764.webp",
+      "image_sha256": "092a479169f595013d763d9a561db278191033565a445c3a2f4753d4a9e2d956",
+      "image_bytes": 121254,
+      "source_url": "https://www.tcgcollector.com/cards/1764/tentacruel-southern-islands-10-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 10
+    },
+    {
+      "id": 1068,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Marill",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/c9/43/3a/c9433adab5ef1ab2f16f1a7f5f125c0660b50704c70a472d71e23dedf939adda.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b5/8a/3a/b58a3af9f5e2d27e1147d32ad0b68d3e3426315d9185eed44779dbbf5d0e1a31.jpg",
+      "image_path": "images/cards/11113/11-1068.webp",
+      "image_sha256": "41988d89f27672f9e58948b543457758e2962f83cd5571f9e71eb0281f895f8f",
+      "image_bytes": 135342,
+      "source_url": "https://www.tcgcollector.com/cards/1068/marill-southern-islands-11-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 11
+    },
+    {
+      "id": 894,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Lapras",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/fa/f1/7b/faf17b14bff1b87382d839ec8dc312d1f35f11fbb7b70ea86ab2b664d3948f59.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/47/25/04/47250429e9202b96ab270b19f8b069086edea3f087e41c1dcbf27acc53f84537.jpg",
+      "image_path": "images/cards/11113/12-894.webp",
+      "image_sha256": "09bf19698ecac35c564354fabebb341f413961e064e115202b0e0e9af716af8e",
+      "image_bytes": 131004,
+      "source_url": "https://www.tcgcollector.com/cards/894/lapras-southern-islands-12-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 12
+    },
+    {
+      "id": 537,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Exeggutor",
+      "number": "13",
+      "number_value": 13,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/e4/fd/7a/e4fd7a32de9a059a879d94d8265758ae0c052474a435b4cd50ba8c1fbf895a9d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c5/e0/48/c5e048787dd7467a4a2a3690d3a1a0f368023327c41c8daa7f15751d610f9086.jpg",
+      "image_path": "images/cards/11113/13-537.webp",
+      "image_sha256": "7a7e82b5863b1b5f74b1fc27a8fde576534cddb37e927270bb04e5e5ae886a5f",
+      "image_bytes": 116618,
+      "source_url": "https://www.tcgcollector.com/cards/537/exeggutor-southern-islands-13-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 13
+    },
+    {
+      "id": 1645,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Slowking",
+      "number": "14",
+      "number_value": 14,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/ce/45/4a/ce454a73fe642c566050694e3429afd15c1054974941f1da4731db69e022b713.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/81/bc/cb/81bccbfa095fb9447c35c92487519330e074a53f6f58aac3047f5ae6c0c5b9cb.jpg",
+      "image_path": "images/cards/11113/14-1645.webp",
+      "image_sha256": "cbc296e9e9310adbab552295d0c167ce747e7286c8af4d651aeebb38b5197abf",
+      "image_bytes": 128001,
+      "source_url": "https://www.tcgcollector.com/cards/1645/slowking-southern-islands-14-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 14
+    },
+    {
+      "id": 1915,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Wartortle",
+      "number": "15",
+      "number_value": 15,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/28/d9/a2/28d9a2e06fa5243201ab7f4976bc31357f4074e7ce51c0e0603e04fd2ee738f4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0e/22/0c/0e220c91610d573394649f2886a7f4ccb2c072e7687689f0541b96452f2f0856.jpg",
+      "image_path": "images/cards/11113/15-1915.webp",
+      "image_sha256": "fc32175e434f8349d79932a26c68fc152a8a683bc7168cb68a69ab49402a9b00",
+      "image_bytes": 114065,
+      "source_url": "https://www.tcgcollector.com/cards/1915/wartortle-southern-islands-15-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 15
+    },
+    {
+      "id": 913,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Lickitung",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/ba/f1/48/baf14881b1d57851cd2e4224521b4e97cdca9f15ae3820556abfcdd86c210e0d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d5/b4/13/d5b413f041dc7eeb54c3bdba23fd7adeb1ccaae0c001819c89056238718a751c.jpg",
+      "image_path": "images/cards/11113/16-913.webp",
+      "image_sha256": "45f8e548d0b6c88c35d6092f11d2c4af10c772e2c82b6d99110668a7b4771c98",
+      "image_bytes": 109797,
+      "source_url": "https://www.tcgcollector.com/cards/913/lickitung-southern-islands-16-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 16
+    },
+    {
+      "id": 1888,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Vileplume",
+      "number": "17",
+      "number_value": 17,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/8b/c1/ba/8bc1ba06e0295400c9a84f9b81c2a5072d87b7c4e996ae0585b57270db2d6287.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/18/59/dd/1859dd650e7df331d3834be9b355c9655f7e243e41d41f1baee5821cccdc8142.jpg",
+      "image_path": "images/cards/11113/17-1888.webp",
+      "image_sha256": "5afc55285831204a6d7859a4de00b7ad7920cd8cf69d660b0ce847c23f24f933",
+      "image_bytes": 137087,
+      "source_url": "https://www.tcgcollector.com/cards/1888/vileplume-southern-islands-17-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 17
+    },
+    {
+      "id": 1408,
+      "set_id": 11113,
+      "set_ids": [
+        11113
+      ],
+      "name": "Primeape",
+      "number": "18",
+      "number_value": 18,
+      "printed_total": 18,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/8c/ae/54/8cae54cd2b264e7534fe4ad30c590d75585ccdcbcc5ec9dd70ef1894a26c1583.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/00/b7/4a/00b74a1a8dc2db484b94dcfdbf1721e175121ebfe64e24317be427ba86dc09ad.jpg",
+      "image_path": "images/cards/11113/18-1408.webp",
+      "image_sha256": "171c7d45de5c18ae80adb3fb4abab6d8ab3c17cd7460b94f38b65b1b9ad9bcb1",
+      "image_bytes": 112580,
+      "source_url": "https://www.tcgcollector.com/cards/1408/primeape-southern-islands-18-18",
+      "scraped_at": "2026-10-18T22:26:27Z",
+      "position": 18
+    }
+  ]
+}

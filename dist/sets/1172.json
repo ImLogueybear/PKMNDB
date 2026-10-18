@@ -1,0 +1,2282 @@
+{
+  "set": {
+    "id": 1172,
+    "language": "en",
+    "name": "Evolutions",
+    "code": "EVO",
+    "series": "XY Series",
+    "release_date": "2016-11-02",
+    "date_text": "Nov 02, 2016",
+    "card_count": 113,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/16/1a/6b/161a6b4147ca18beb64ec72bb8ad83ae6a6d5c0bdbd6d0660efddfc9d0ad1b54.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/0e/bb/ec/0ebbeca3a35de59604cce898d0e2e6529962f8e20e448daf8167c7bda7dd6dc1.svg",
+    "logo_path": "images/sets/1172-logo.webp",
+    "symbol_path": "images/sets/1172-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/1172/evolutions",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 113
+  },
+  "cards": [
+    {
+      "id": 8976,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Venusaur-EX",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 108,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/37/c1/7c/37c17c0ffd56220a8810316cc944ca34c6619d5906939c0e98b23ba8663c3579.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/62/70/d8/6270d8860a68f6a3b111436a66053340aecd68391d00a7bba6b6ab80d0a2ff33.jpg",
+      "image_path": "images/cards/1172/1-8976.webp",
+      "image_sha256": "15111c972b085a4ae13027eb964ba73bb5e86104effe31e2a1ca3305a11d43b7",
+      "image_bytes": 185448,
+      "source_url": "https://www.tcgcollector.com/cards/8976/venusaur-ex-evolutions-1-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 1
+    },
+    {
+      "id": 8977,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "M Venusaur-EX",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 108,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/22/b1/b7/22b1b7cead6cf94c4c26f364ff5f303fae8ed853f33ba380988139773b9625fe.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f2/25/39/f22539beedc570bbe360965029093b1969ed3ac3bb86ad99d06993b1319351b7.jpg",
+      "image_path": "images/cards/1172/2-8977.webp",
+      "image_sha256": "a81c7a48e0fe93fc834fe298a3b336f2c76187100aae0d50680d521878e2a438",
+      "image_bytes": 219413,
+      "source_url": "https://www.tcgcollector.com/cards/8977/m-venusaur-ex-evolutions-2-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 2
+    },
+    {
+      "id": 8978,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Caterpie",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/49/ee/7c/49ee7c6e626fcc8a725c44be16c2be7197174c7c0fcdf4418727986b79bf3561.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f7/ea/82/f7ea8241c8a53da6bd0741e50c55c3f03943a54b60017a29ed7538bf4aea67a6.jpg",
+      "image_path": "images/cards/1172/3-8978.webp",
+      "image_sha256": "c6485fb632081090384e0161c6223bfa533ba4952b3dc1b6dca2b50d499dfa61",
+      "image_bytes": 190382,
+      "source_url": "https://www.tcgcollector.com/cards/8978/caterpie-evolutions-3-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 3
+    },
+    {
+      "id": 8979,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Metapod",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/8d/28/91/8d289112481f6cb4b3cf91e045a5ab8fbdbb8039accd29f49794e24111950af8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7b/d7/96/7bd796667157ebdb3adc5ac74c0abd5df81319ee10be20de846ffc2b6740e0ad.jpg",
+      "image_path": "images/cards/1172/4-8979.webp",
+      "image_sha256": "a895097753c92aade44dc00c655049c01b3b44fe0e9bc65dadc5d5278059f6d8",
+      "image_bytes": 212780,
+      "source_url": "https://www.tcgcollector.com/cards/8979/metapod-evolutions-4-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 4
+    },
+    {
+      "id": 8980,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Weedle",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/4c/86/57/4c8657a0fcd1782702988993af6b89ce7a29b30b8fd0e764c96cf1daf143a932.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/46/9f/91/469f91009aadc762b4dfe6c72c337155aecc27b9e43cc537c636b30a6a695e3d.jpg",
+      "image_path": "images/cards/1172/5-8980.webp",
+      "image_sha256": "559428500c3bf7f2810ea494e4de458960a15f790c793b722b67c05b6012ea1e",
+      "image_bytes": 213086,
+      "source_url": "https://www.tcgcollector.com/cards/8980/weedle-evolutions-5-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 5
+    },
+    {
+      "id": 8981,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Kakuna",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f8/25/a1/f825a1530ee2feebd4309698b955fe420c4d33737028305073a0c837cac570aa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/74/b3/69/74b369c39a5df6a45d3982269926697b758f633cbff629471b1bad13112afb44.jpg",
+      "image_path": "images/cards/1172/6-8981.webp",
+      "image_sha256": "ab7a2f6e50f5d27c0aaf32a560e5a2e2f63a9b3f6b087ccc337ef7d58ea10608",
+      "image_bytes": 184661,
+      "source_url": "https://www.tcgcollector.com/cards/8981/kakuna-evolutions-6-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 6
+    },
+    {
+      "id": 8982,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Beedrill",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/0e/62/63/0e6263b12a90d68c55a46b868c80e524c1ac9b495b82650bb2340a42f9118283.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d8/35/3a/d8353afd22bb94609cf940a8d3dd403fc3640d1835a74b9a806c192667c88820.jpg",
+      "image_path": "images/cards/1172/7-8982.webp",
+      "image_sha256": "d6ef1a94210ff89a4816b78ba32169e845f086be617978df84cdbc701b7151b6",
+      "image_bytes": 215366,
+      "source_url": "https://www.tcgcollector.com/cards/8982/beedrill-evolutions-7-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 7
+    },
+    {
+      "id": 8983,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Tangela",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/2e/e5/ea/2ee5eadeca67608d7d3a4714bbf675985538d7b2fd5ad2709f9c8166c96a808a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/75/74/ca/7574ca19bd73851b05a29c69f558628e41678843018f199e46dfc7d120a160a4.jpg",
+      "image_path": "images/cards/1172/8-8983.webp",
+      "image_sha256": "be67413274254209d929373a7eec1038efbfe67ec9ec1209fd1441742fcd9d6c",
+      "image_bytes": 210443,
+      "source_url": "https://www.tcgcollector.com/cards/8983/tangela-evolutions-8-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 8
+    },
+    {
+      "id": 8984,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Charmander",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/3e/77/c2/3e77c287b85342255c830f7ebbed39ea031dc3c55f8e5cb865a4f323d66a8fa5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d7/e4/45/d7e445c5d58ab4acfbb89830521c21c0457200f67023956d5c2f64bdc4794d08.jpg",
+      "image_path": "images/cards/1172/9-8984.webp",
+      "image_sha256": "03beed5a668657af358774df4863cc3b8062eaf883e9e5831d69608f65b6571c",
+      "image_bytes": 153880,
+      "source_url": "https://www.tcgcollector.com/cards/8984/charmander-evolutions-9-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 9
+    },
+    {
+      "id": 8985,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Charmeleon",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/10/a8/e6/10a8e6fb286a8d3091a4199fb06659d5de6f87db017fb94ff22c4ce617d68675.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a5/29/cf/a529cfca4f5170156dad25bbbc4d137858adc2a7de05e95c87b6268a16670bbe.jpg",
+      "image_path": "images/cards/1172/10-8985.webp",
+      "image_sha256": "0c89320916d30ec5303dbda14d64e5d2bf45f48112c69349d76e638c9931e9ca",
+      "image_bytes": 166868,
+      "source_url": "https://www.tcgcollector.com/cards/8985/charmeleon-evolutions-10-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 10
+    },
+    {
+      "id": 8986,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Charizard",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/09/d6/e0/09d6e0c9ad33bd47eeea2406819d253f9870ab2fc1c058950c50ee43b88924e7.webp",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c4/eb/74/c4eb742ff0bfda200d5fe16300120c5a1aaee736d6872779bef9fd35980b5aea.webp",
+      "image_path": "images/cards/1172/11-8986.webp",
+      "image_sha256": "5cefc69b6c0807f28340fb981be052d93878c07ce075ab64aecf9535d36692ab",
+      "image_bytes": 113392,
+      "source_url": "https://www.tcgcollector.com/cards/8986/charizard-evolutions-11-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 11
+    },
+    {
+      "id": 8987,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Charizard-EX",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 108,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/f6/af/58/f6af588ca716491f2bb5a2687bf7ee49bec57647558a96933f03cec1d694c0e5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0a/27/f4/0a27f4cc9df755be95cce7c6bf9a3edddd75aedb4a66dc564db63093c075f00c.jpg",
+      "image_path": "images/cards/1172/12-8987.webp",
+      "image_sha256": "3dd3917656cfdaf43ea1dd932b1ffa7d92598025c77d6cab02ec6772216fa943",
+      "image_bytes": 191631,
+      "source_url": "https://www.tcgcollector.com/cards/8987/charizard-ex-evolutions-12-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 12
+    },
+    {
+      "id": 8988,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "M Charizard-EX",
+      "number": "13",
+      "number_value": 13,
+      "printed_total": 108,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/cb/f4/f9/cbf4f936532d8274aa13ce4bde5b3f5b1a2912b1b9fb444798e6128e1963e0bc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cb/7b/87/cb7b8750d21efb9e889dafe589731104531b712c14ffecabb98f2c6a126d1599.jpg",
+      "image_path": "images/cards/1172/13-8988.webp",
+      "image_sha256": "1aa6a70d1e8b438cf6d5974823f53714fdabd470922454973d35940fa81f460a",
+      "image_bytes": 227750,
+      "source_url": "https://www.tcgcollector.com/cards/8988/m-charizard-ex-evolutions-13-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 13
+    },
+    {
+      "id": 8989,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Vulpix",
+      "number": "14",
+      "number_value": 14,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/88/47/8b/88478bb29018c0690a4b0325a26b8c862dde9f0e278508cf69a226dba9a2ca1a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9c/3f/dc/9c3fdc0a287810f236e11527e15408d2547ea9d1d5bf2cde81ad065ff03176c1.jpg",
+      "image_path": "images/cards/1172/14-8989.webp",
+      "image_sha256": "ab327533e0fb2e76840d29079c58c683ff0b5d91f3dee10efbfeaf7473bad4d4",
+      "image_bytes": 144685,
+      "source_url": "https://www.tcgcollector.com/cards/8989/vulpix-evolutions-14-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 14
+    },
+    {
+      "id": 8990,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Ninetales",
+      "number": "15",
+      "number_value": 15,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/d8/9d/d0/d89dd02e92f007ce5e75d84905455c551cc8df693c0725f651a9d32f43494cac.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/da/4b/7f/da4b7fd28f117ca1420d1621712426379d173081cc354d4ec5affcc039ea4e7f.jpg",
+      "image_path": "images/cards/1172/15-8990.webp",
+      "image_sha256": "f1d490d97ba86cb55a894e507c3ef76206d5dc7ac7b35e0cccf677a53df33f6b",
+      "image_bytes": 174749,
+      "source_url": "https://www.tcgcollector.com/cards/8990/ninetales-evolutions-15-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 15
+    },
+    {
+      "id": 8991,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Ninetales BREAK",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 108,
+      "rarity": "Rare BREAK",
+      "image_url": "https://static.tcgcollector.com/content/images/35/03/52/3503521a7f9de4859ec2f5af36b0c6d20f6cc5e5d37ba1caf35efc5e619faaab.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ba/40/b1/ba40b17bf7d7efa5dbd065916167910df494baee8b21fc4b49e7da1d41930601.jpg",
+      "image_path": "images/cards/1172/16-8991.webp",
+      "image_sha256": "26d67c6d74196c4e1c83c7ad99ed0adba16c505f329a8ae64f641d4d0e84554f",
+      "image_bytes": 202802,
+      "source_url": "https://www.tcgcollector.com/cards/8991/ninetales-break-evolutions-16-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 16
+    },
+    {
+      "id": 8992,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Growlithe",
+      "number": "17",
+      "number_value": 17,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/1f/34/17/1f3417f7472e2f7abe4b3648ae0faebaec916576c8d3ce9e2253323a211968c7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/97/a2/25/97a225a6df4106b853f5cf18661fbe335a810730aed4dafb6582380829926975.jpg",
+      "image_path": "images/cards/1172/17-8992.webp",
+      "image_sha256": "549282b09e3fa8dae24422f51e0d4cdb67a49d5d55da25629173275cb6b8f83a",
+      "image_bytes": 153337,
+      "source_url": "https://www.tcgcollector.com/cards/8992/growlithe-evolutions-17-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 17
+    },
+    {
+      "id": 8993,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Arcanine",
+      "number": "18",
+      "number_value": 18,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/2e/52/ef/2e52ef1a633c8ba088d0d647a5b429555e4c18939900838d26d54302b4d399c5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/53/14/c0/5314c00717dc6eaf2b74e21e7845fde2757a89445b51e4f651171085a3d3988f.jpg",
+      "image_path": "images/cards/1172/18-8993.webp",
+      "image_sha256": "5d05a61de2d8aed062e7a72a05415d084062c11b3bf93fd484d18249db036bff",
+      "image_bytes": 182112,
+      "source_url": "https://www.tcgcollector.com/cards/8993/arcanine-evolutions-18-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 18
+    },
+    {
+      "id": 8994,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Ponyta",
+      "number": "19",
+      "number_value": 19,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/64/94/f4/6494f4a10f596ad29ffe0d52e6c8e5cea24d7828a26c4841e5ffb046256274bb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/27/8b/1f/278b1f96f28c7eec2cd555de4f749fbe156e2d23d71d4bc980ba644224c49e44.jpg",
+      "image_path": "images/cards/1172/19-8994.webp",
+      "image_sha256": "114fb3619f70961be491c7c5d490b6524aa35be54e6d53a4e2ad7aee3fb6807c",
+      "image_bytes": 133683,
+      "source_url": "https://www.tcgcollector.com/cards/8994/ponyta-evolutions-19-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 19
+    },
+    {
+      "id": 8995,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Magmar",
+      "number": "20",
+      "number_value": 20,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/93/db/ae/93dbaef41effc3e9234fc265836fd2d9b1e60e9c2659c756972bb52083098bd8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c6/46/1f/c6461f1e574d8bd0e063c88f85fc6975d243adcab1d6973a7bc03e06334e4618.jpg",
+      "image_path": "images/cards/1172/20-8995.webp",
+      "image_sha256": "4b65e89df7ac2a43093a861b7b9bf5acaf48c7b2a466a28f02eab7ea99459dbd",
+      "image_bytes": 160854,
+      "source_url": "https://www.tcgcollector.com/cards/8995/magmar-evolutions-20-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 20
+    },
+    {
+      "id": 8996,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Blastoise-EX",
+      "number": "21",
+      "number_value": 21,
+      "printed_total": 108,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/e2/80/b6/e280b628141bbb00dfad8a916f6a6707863e888d4ea245452924aa8c72b3acf9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/22/3a/ae/223aae456201842202bd89b92ac2d8a8a954ce0e9fa93d201a2a7952f34392a4.jpg",
+      "image_path": "images/cards/1172/21-8996.webp",
+      "image_sha256": "d88be5be6f4a86a1478e17349c6550ae00cb8c3cd9c3d95ff8338a26d70faddc",
+      "image_bytes": 207486,
+      "source_url": "https://www.tcgcollector.com/cards/8996/blastoise-ex-evolutions-21-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 21
+    },
+    {
+      "id": 8997,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "M Blastoise-EX",
+      "number": "22",
+      "number_value": 22,
+      "printed_total": 108,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/1c/9b/61/1c9b6157afd8b5133178a1d2ed34325299e03b97a1beacbfabffcbbbb3b8c985.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d9/39/59/d939593e0804f7034370aabf3c2cee6034478d644b8cbfb6a2e101746a582337.jpg",
+      "image_path": "images/cards/1172/22-8997.webp",
+      "image_sha256": "a323c1d0d11d724d2966049fb918f96bb680e9bf225a98aaf379170e01ead1d2",
+      "image_bytes": 259856,
+      "source_url": "https://www.tcgcollector.com/cards/8997/m-blastoise-ex-evolutions-22-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 22
+    },
+    {
+      "id": 8998,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Poliwag",
+      "number": "23",
+      "number_value": 23,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/7f/5b/e4/7f5be4e70872c51e7f7cdc02afdcc38359ee87efc6c2db11151956c5ca303725.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/93/27/64/9327642b3d0d6370b4841b5a8e4a249ace14bb378f4587e062a6f7d4003bf4dc.jpg",
+      "image_path": "images/cards/1172/23-8998.webp",
+      "image_sha256": "c5b5786a660f2b3cd6851ebe5a499a5ec4009343924fdbf6a8606a948e87fe73",
+      "image_bytes": 153514,
+      "source_url": "https://www.tcgcollector.com/cards/8998/poliwag-evolutions-23-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 23
+    },
+    {
+      "id": 8999,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Poliwhirl",
+      "number": "24",
+      "number_value": 24,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/89/0f/be/890fbe4c851f7c8f9c88db15311b578fd6ad9e2bf792f1cb8b9239afdf129b83.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/70/00/ef/7000efca4d0c6f30341c076dcc47795f61ed098b8d147b7901ed14a5b4e8f139.jpg",
+      "image_path": "images/cards/1172/24-8999.webp",
+      "image_sha256": "599e622bd9754a9d0bd9dee6b55f14531eed135a8a8e48b46e7ff88c28154115",
+      "image_bytes": 190519,
+      "source_url": "https://www.tcgcollector.com/cards/8999/poliwhirl-evolutions-24-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 24
+    },
+    {
+      "id": 9000,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Poliwrath",
+      "number": "25",
+      "number_value": 25,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/da/17/9e/da179e0ead26f87fca51cefa28acaa0178ccf401703bec56056c717610056447.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fe/dc/95/fedc95102aedc1d89d3804d60ca21ed8cf46a748178ef432649290a7309c7f39.jpg",
+      "image_path": "images/cards/1172/25-9000.webp",
+      "image_sha256": "8b20c33f7b57612b30b672ff17b2dcdc9b9935e652819652def8e71b6f70cb56",
+      "image_bytes": 193411,
+      "source_url": "https://www.tcgcollector.com/cards/9000/poliwrath-evolutions-25-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 25
+    },
+    {
+      "id": 9001,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Slowbro-EX",
+      "number": "26",
+      "number_value": 26,
+      "printed_total": 108,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/33/75/66/337566596242ed9ebf74290022d710f898179c121d55d24211a8e803ffcc7d23.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/35/1e/31/351e31f8272acf83873644805c7eb26bff99a46be533da41128a0de44bdcd03f.jpg",
+      "image_path": "images/cards/1172/26-9001.webp",
+      "image_sha256": "7be18aea8ef174dbca03e5044ef2de34e6a15175aac304b69618e145c427a074",
+      "image_bytes": 221652,
+      "source_url": "https://www.tcgcollector.com/cards/9001/slowbro-ex-evolutions-26-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 26
+    },
+    {
+      "id": 9002,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "M Slowbro-EX",
+      "number": "27",
+      "number_value": 27,
+      "printed_total": 108,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/d1/d5/17/d1d517266e143348489d638e1dbccfd6e6139ecb0b0fd22dde70aaafa948161b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d8/85/63/d8856384736b2e6894bf9be4db6b52fa41df45d0b43e3eac0e4836c4c100b25a.jpg",
+      "image_path": "images/cards/1172/27-9002.webp",
+      "image_sha256": "8891a936b4c273f846a7464bfd23678675230f99346db45b416895bdeefd92b0",
+      "image_bytes": 243398,
+      "source_url": "https://www.tcgcollector.com/cards/9002/m-slowbro-ex-evolutions-27-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 27
+    },
+    {
+      "id": 9003,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Seel",
+      "number": "28",
+      "number_value": 28,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/03/ac/ad/03acad0c69e5e53c2b5dc73512e30dace6039935803c5422240bae49109502ba.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cb/79/6b/cb796bdef787b6647185f4ef94694826d86a8e046ad1e35015cd41265e826588.jpg",
+      "image_path": "images/cards/1172/28-9003.webp",
+      "image_sha256": "3659ceea61a2e885e93638c8585e307fe2bf9919452a17c41f94b876b8b10b70",
+      "image_bytes": 179419,
+      "source_url": "https://www.tcgcollector.com/cards/9003/seel-evolutions-28-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 28
+    },
+    {
+      "id": 9004,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Dewgong",
+      "number": "29",
+      "number_value": 29,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/59/a4/64/59a4648282a0ac6a1f793ddaea69a8c2f148cd6b23edb12b944d222704b1faaa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c6/67/16/c6671684bcc70484d6c724e9197e1916adb188086e0fbe3c3ff8259caf24ed26.jpg",
+      "image_path": "images/cards/1172/29-9004.webp",
+      "image_sha256": "cc1b54b91a36bb90eb5981bbc4f08492096db11239f73d179755afb96d29cf63",
+      "image_bytes": 183542,
+      "source_url": "https://www.tcgcollector.com/cards/9004/dewgong-evolutions-29-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 29
+    },
+    {
+      "id": 9005,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Staryu",
+      "number": "30",
+      "number_value": 30,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ca/d2/51/cad251a71bb6a730569ce9f0c00b649b2e9ffe82813065d2ff16406a50ddd7bf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b5/1b/df/b51bdf4c1d08cf38b7ea2754ed43ddde68058f215a3fc7c8b6b1476536bad488.jpg",
+      "image_path": "images/cards/1172/30-9005.webp",
+      "image_sha256": "19bd6c05a84e3f8dc3e1dd7a988e61fff936c61da5fa59be9ec2f5f021ee46a8",
+      "image_bytes": 174398,
+      "source_url": "https://www.tcgcollector.com/cards/9005/staryu-evolutions-30-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 30
+    },
+    {
+      "id": 9006,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Starmie",
+      "number": "31",
+      "number_value": 31,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/76/36/78/76367844f063cbbfc8cc58678e5c239f14ea189532f0c60761f461c9ed4d5129.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/66/b7/32/66b7326cacb7ca28a8f107b12481b0b9c1127dcc28c57892a8494064d7f38367.jpg",
+      "image_path": "images/cards/1172/31-9006.webp",
+      "image_sha256": "e3eb17f1aabe9b58c85ec5c8660dbb14e1e34b4212d2ebd4cb31288b9b48b379",
+      "image_bytes": 164757,
+      "source_url": "https://www.tcgcollector.com/cards/9006/starmie-evolutions-31-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 31
+    },
+    {
+      "id": 9007,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Starmie BREAK",
+      "number": "32",
+      "number_value": 32,
+      "printed_total": 108,
+      "rarity": "Rare BREAK",
+      "image_url": "https://static.tcgcollector.com/content/images/50/93/b4/5093b4107fef46fc345c5d610842416cc0de179b672c79068de7b0b833b5460d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/db/a4/a2/dba4a2ccaa28717a77e33225e4d58380a159b672170391c09ada729383de0bdc.jpg",
+      "image_path": "images/cards/1172/32-9007.webp",
+      "image_sha256": "2d43a51a3d3cc64cd7e7f0b154236cd549f2af167f7d2c74fe33e6ecffd62e4b",
+      "image_bytes": 184702,
+      "source_url": "https://www.tcgcollector.com/cards/9007/starmie-break-evolutions-32-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 32
+    },
+    {
+      "id": 9008,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Magikarp",
+      "number": "33",
+      "number_value": 33,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/d8/d6/88/d8d688dba1bcda260f6c88c5e8208cc5148f51ddd79190872e1629fd4bec1e82.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a3/22/10/a32210c3ff03d598c5ccad57f5f50d6b466b2086a191f1c210febc5cb2cbbd4f.jpg",
+      "image_path": "images/cards/1172/33-9008.webp",
+      "image_sha256": "e04bcea9404aff179bc72bb6ebc96e5b9def822c2e539f70bc3bc5b9fde46a22",
+      "image_bytes": 189182,
+      "source_url": "https://www.tcgcollector.com/cards/9008/magikarp-evolutions-33-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 33
+    },
+    {
+      "id": 9009,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Gyarados",
+      "number": "34",
+      "number_value": 34,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/55/e5/cd/55e5cdff61b112bfc449fac5791c5ef2a42e1dea16bb4309f40e938e421dad13.webp",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/34/6e/34/346e34a933d2c44f263627998c8626825728f0dbec62739c25afcd2125f57619.webp",
+      "image_path": "images/cards/1172/34-9009.webp",
+      "image_sha256": "f18ee45dd1e7c351563273eca6c069601f8bcc182a9a7a363e81c73cbf62b8b3",
+      "image_bytes": 143434,
+      "source_url": "https://www.tcgcollector.com/cards/9009/gyarados-evolutions-34-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 34
+    },
+    {
+      "id": 9010,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Pikachu",
+      "number": "35",
+      "number_value": 35,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/d5/5a/2e/d55a2eae7ed6cfca21fc52ff40474ebc2524ccb986357e1fe0770603f679a46c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9a/db/88/9adb887d8f5284b59d33d43c87b008ab94846ac54be3ebbeba690b835e1ee300.jpg",
+      "image_path": "images/cards/1172/35-9010.webp",
+      "image_sha256": "9348363972773f17f5eed3fde86cd7730deb0836f63e1ab58c37b0cd1b12a100",
+      "image_bytes": 182060,
+      "source_url": "https://www.tcgcollector.com/cards/9010/pikachu-evolutions-35-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 35
+    },
+    {
+      "id": 9011,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Raichu",
+      "number": "36",
+      "number_value": 36,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/54/1a/07/541a0726a5415babb320284db5886c6cf65569d05f9f2a17f105e2fefcb2bb41.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4d/b6/e1/4db6e1e242a60ffcf4179b22ef4f7494b7254b735c4cf9d6daa4d7d52eb84e80.jpg",
+      "image_path": "images/cards/1172/36-9011.webp",
+      "image_sha256": "647a38c2d8bbb4c0b0a05a101447f414d864cff80b905992b6a03605ea2ce98f",
+      "image_bytes": 210811,
+      "source_url": "https://www.tcgcollector.com/cards/9011/raichu-evolutions-36-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 36
+    },
+    {
+      "id": 9012,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Magnemite",
+      "number": "37",
+      "number_value": 37,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/16/be/e5/16bee5ade0b275869bb3cffa257f5ae5f1ddbd23790e2ddcfba70e86be227cb3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d8/ab/ca/d8abca9170ed33dcd250e347342bc7ce93f3ba1c1a19c6715e149425ad31a0b9.jpg",
+      "image_path": "images/cards/1172/37-9012.webp",
+      "image_sha256": "a06c007f0abbe5d67a0ce3f223601e6b42a233684993b934fbad6cec0b0ab6cf",
+      "image_bytes": 155211,
+      "source_url": "https://www.tcgcollector.com/cards/9012/magnemite-evolutions-37-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 37
+    },
+    {
+      "id": 9013,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Magneton",
+      "number": "38",
+      "number_value": 38,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/c0/48/84/c04884e65f8b8c34d43489b7f25932151fd1105b6d581f8db0887edca732ecfa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/42/51/f8/4251f8be3142ed8dcde257b21d24274183b7b51b59aa3a2f53d615c17e90947f.jpg",
+      "image_path": "images/cards/1172/38-9013.webp",
+      "image_sha256": "736568b3443a9d6b8672a96e5e8be10e7b76bd30f5f005671a1928e36421e2f7",
+      "image_bytes": 161955,
+      "source_url": "https://www.tcgcollector.com/cards/9013/magneton-evolutions-38-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 38
+    },
+    {
+      "id": 9014,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Voltorb",
+      "number": "39",
+      "number_value": 39,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/92/15/8e/92158ee1fdba352bdabc5b61454bca29698a7a7b8ab694b7bd14ceba43f1e490.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/48/0b/c2/480bc2d0514c12af1d5c39049d1fae5214137952ad16cdc9950bd2ecd0d6f367.jpg",
+      "image_path": "images/cards/1172/39-9014.webp",
+      "image_sha256": "73d53c0769395770113f2f2ed1b161b2848b817ca1e1a0e8def45279a2991193",
+      "image_bytes": 151531,
+      "source_url": "https://www.tcgcollector.com/cards/9014/voltorb-evolutions-39-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 39
+    },
+    {
+      "id": 9015,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Electrode",
+      "number": "40",
+      "number_value": 40,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/70/b3/ca/70b3ca781e5e13bd9de133f6aab55a570f1c1913fe2388dae6347d9c2bbfbdb9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5e/45/03/5e45037b76ca556de2dceddc3f559c71d5dc28ee47c679127b3dba12a5c25884.jpg",
+      "image_path": "images/cards/1172/40-9015.webp",
+      "image_sha256": "390a93dd254db90163c230bb4e6fe6cc2adeeb459292fda59b2a83014447d0b0",
+      "image_bytes": 171306,
+      "source_url": "https://www.tcgcollector.com/cards/9015/electrode-evolutions-40-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 40
+    },
+    {
+      "id": 9016,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Electabuzz",
+      "number": "41",
+      "number_value": 41,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/d9/17/38/d91738c06363ea847d48df51ef3280dcad33fad7e6e61aa0ccfabd1b57bcdf11.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/30/83/81/3083812049b8d5304d7ddbfc3de41f541e65a97396c06e676624b99fb092da6a.jpg",
+      "image_path": "images/cards/1172/41-9016.webp",
+      "image_sha256": "5e3f3680cdbee4da54f3b3764f2e62f01ecae1d81d0f1f301c4b88673c9cb2fc",
+      "image_bytes": 181076,
+      "source_url": "https://www.tcgcollector.com/cards/9016/electabuzz-evolutions-41-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 41
+    },
+    {
+      "id": 9017,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Zapdos",
+      "number": "42",
+      "number_value": 42,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/a3/f2/72/a3f272e8e787475ed49439d2df2668a7116bc3962c47e5d3c02f3169bfd76736.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5b/8e/81/5b8e81bc583f4fbf2336a5beb5f255d619c192da5891b34d0dd91d3508a2718b.jpg",
+      "image_path": "images/cards/1172/42-9017.webp",
+      "image_sha256": "552e976b42e13987d53062c879ea545ca549d913e603b10e9f2b0f6b6c9b8879",
+      "image_bytes": 199852,
+      "source_url": "https://www.tcgcollector.com/cards/9017/zapdos-evolutions-42-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 42
+    },
+    {
+      "id": 9018,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Nidoran ♂",
+      "number": "43",
+      "number_value": 43,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/33/e8/58/33e85826d20f60ead7f01a5e90ca39c2c503513fe7ff4fab4149e38439989344.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0e/06/d8/0e06d837508370d9f78095e38a24221c0970e0a7b3151d652f6596c0644c0969.jpg",
+      "image_path": "images/cards/1172/43-9018.webp",
+      "image_sha256": "7f8d50f6f6e2f50edad22985c9dfbb93e504e98614bd943de6bfd93e51dfe3a0",
+      "image_bytes": 138251,
+      "source_url": "https://www.tcgcollector.com/cards/9018/nidoran-male-evolutions-43-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 43
+    },
+    {
+      "id": 9019,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Nidorino",
+      "number": "44",
+      "number_value": 44,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/16/97/35/1697358ba46eb7f9b6527a64f7282013ba1a43285036ca5ab1dfcab876a833f7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/79/49/62/794962af410bd97c5a4fa6570b4b2d4f0058060227c2ffb3ce9ca1f0397ca294.jpg",
+      "image_path": "images/cards/1172/44-9019.webp",
+      "image_sha256": "d4e17cd29fd4757b2abb791b49c5e491c6ea02d6a72810a51aac54fd361d90c0",
+      "image_bytes": 162775,
+      "source_url": "https://www.tcgcollector.com/cards/9019/nidorino-evolutions-44-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 44
+    },
+    {
+      "id": 9020,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Nidoking",
+      "number": "45",
+      "number_value": 45,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/58/cd/e0/58cde0c72049b4304ee72f797805c3cd88fa7bcf677e514be4c20210a538acc0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ed/16/22/ed1622c620ec883f6a8e7416a9c666ffaa1383914b6ae2b0caf5a62dfd43535f.jpg",
+      "image_path": "images/cards/1172/45-9020.webp",
+      "image_sha256": "47d6c3fe0c881de375aa3f3934d5426975b84724c54173aad8e2aac021f06606",
+      "image_bytes": 177750,
+      "source_url": "https://www.tcgcollector.com/cards/9020/nidoking-evolutions-45-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 45
+    },
+    {
+      "id": 9021,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Nidoking BREAK",
+      "number": "46",
+      "number_value": 46,
+      "printed_total": 108,
+      "rarity": "Rare BREAK",
+      "image_url": "https://static.tcgcollector.com/content/images/8b/20/aa/8b20aa28d1f2640deac5bbab24c4ef0b28f6aa029e0b68d699d3f1a47f1c3d31.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ed/d1/7a/edd17ab5b65ce9623e8ced18337ef91eb9377b412860a648f547d41e5e10179c.jpg",
+      "image_path": "images/cards/1172/46-9021.webp",
+      "image_sha256": "626d38700434bb7c6df9b8b6380b48ae7c3e15f5cd6ca4972e6d75ca0109f633",
+      "image_bytes": 200136,
+      "source_url": "https://www.tcgcollector.com/cards/9021/nidoking-break-evolutions-46-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 46
+    },
+    {
+      "id": 9022,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Gastly",
+      "number": "47",
+      "number_value": 47,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/0e/8a/70/0e8a703fc5b7a237b681b3de97a7437a3bc546787482314b0cceca8e6d3e82f7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/76/10/0c/76100c94833eb4af19bbbeebb45c1b45d7e8b80b8c7f73bb3c4fc814ca28f80d.jpg",
+      "image_path": "images/cards/1172/47-9022.webp",
+      "image_sha256": "820876aaf59c41e414690397eda302bb68b9ed1ea9a629a716e07cd82f0978ea",
+      "image_bytes": 129068,
+      "source_url": "https://www.tcgcollector.com/cards/9022/gastly-evolutions-47-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 47
+    },
+    {
+      "id": 9023,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Haunter",
+      "number": "48",
+      "number_value": 48,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b0/86/94/b08694f0d5b55069a56b573fc42479ac3b27372e4d6145fd18638197fcb13e2e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f9/00/fb/f900fb4483d47add44709dba44e896d10b54dc4fe3d48ae69a761ce7f0f4d7fa.jpg",
+      "image_path": "images/cards/1172/48-9023.webp",
+      "image_sha256": "a3d4fe673bec5fcad9021b11e9ed7c91ea6a5943a0d9d6813f52c1294f701d12",
+      "image_bytes": 130668,
+      "source_url": "https://www.tcgcollector.com/cards/9023/haunter-evolutions-48-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 48
+    },
+    {
+      "id": 9024,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Drowzee",
+      "number": "49",
+      "number_value": 49,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/53/a7/0d/53a70d2b1bd23338207b9ed8f6d42c6063da3190d4931068d66ac0f6621a2caa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0f/74/b7/0f74b7eeb7ab8ab67ae7dd92076dd63d862926d4e825d2dbc53f044ecea1d297.jpg",
+      "image_path": "images/cards/1172/49-9024.webp",
+      "image_sha256": "b5ccf5c65f7c35d2de976eacc840da78674e4f75f4f5941f1fc653cf32759481",
+      "image_bytes": 142832,
+      "source_url": "https://www.tcgcollector.com/cards/9024/drowzee-evolutions-49-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 49
+    },
+    {
+      "id": 9025,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Koffing",
+      "number": "50",
+      "number_value": 50,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/6f/82/5a/6f825a629b442357861ab0b29765f6a6fda7914edfdca093589e165cc5c2779c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/48/ee/0c/48ee0cb217f8203137542118ed19fe3e13fd02184647a831ad252ce699fb9254.jpg",
+      "image_path": "images/cards/1172/50-9025.webp",
+      "image_sha256": "c962283294f266a6f67dec7037b79954541873eb26fc0aac3fb108bfb4b09b86",
+      "image_bytes": 155711,
+      "source_url": "https://www.tcgcollector.com/cards/9025/koffing-evolutions-50-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 50
+    },
+    {
+      "id": 9026,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Mewtwo",
+      "number": "51",
+      "number_value": 51,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/55/c7/78/55c778a026458ad96a3420b892866504aa618104bad607f565833a00a218fa40.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/71/c7/4d/71c74d638493ee9c961e9633f53fbf2bc0f9291deb3d45f94cf49189cec15389.jpg",
+      "image_path": "images/cards/1172/51-9026.webp",
+      "image_sha256": "26c2713bfbc0502c05772726839b0f6a2b5c030d9468e06e569050d54b2f2c67",
+      "image_bytes": 162335,
+      "source_url": "https://www.tcgcollector.com/cards/9026/mewtwo-evolutions-51-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 51
+    },
+    {
+      "id": 9027,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Mewtwo-EX",
+      "number": "52",
+      "number_value": 52,
+      "printed_total": 108,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/68/24/05/682405ab76d9e2a6b7f6e330fe1ef86298a39192a99fe8d6fb7869c579b643df.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/73/f3/8e/73f38ecc5ad1ec2ce389e427722da67ab963ec6e138c75fbd7499321568dc4df.jpg",
+      "image_path": "images/cards/1172/52-9027.webp",
+      "image_sha256": "e49aced2fa36b44c4da4b87eb1f800e6fc335aa6396198641b3713f71a3986e1",
+      "image_bytes": 187358,
+      "source_url": "https://www.tcgcollector.com/cards/9027/mewtwo-ex-evolutions-52-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 52
+    },
+    {
+      "id": 9028,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Mew",
+      "number": "53",
+      "number_value": 53,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/5f/9d/d6/5f9dd65d8b7f112fac27d9f330f8c16521748f42130a8d3d8810ba4b27b42535.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2c/27/d2/2c27d281d381e68099a551e4445ea10da45aaa26411ad6d656ad5bd5a07f3c7d.jpg",
+      "image_path": "images/cards/1172/53-9028.webp",
+      "image_sha256": "b6cf1bf576c4feaf841ef75d50a776673c2e3acf124e9333c75b8e1f9573ee68",
+      "image_bytes": 166747,
+      "source_url": "https://www.tcgcollector.com/cards/9028/mew-evolutions-53-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 53
+    },
+    {
+      "id": 9029,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Sandshrew",
+      "number": "54",
+      "number_value": 54,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/b2/05/49/b20549fe08e5f7f3bfad705e8389e7f0a30e8dca3fe722a63deffa7405bd319a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4c/f1/70/4cf170a7422655d5c3b55bd925fddc7c5bd488481a1fafb817363659e8c115a7.jpg",
+      "image_path": "images/cards/1172/54-9029.webp",
+      "image_sha256": "7a6d69e47ff0105cc22f22ffabcec33a510d280666819e16a36f74ed2379fc82",
+      "image_bytes": 199164,
+      "source_url": "https://www.tcgcollector.com/cards/9029/sandshrew-evolutions-54-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 54
+    },
+    {
+      "id": 9030,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Diglett",
+      "number": "55",
+      "number_value": 55,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/bd/42/ee/bd42eebdbeb9595ba321393091fdd813b486e4f984dc07fc88fc372159cc6c6f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a1/57/c5/a157c5301c98d87c95cc11eb4ed504f5a487975ba09534d7d3296e9e9a280660.jpg",
+      "image_path": "images/cards/1172/55-9030.webp",
+      "image_sha256": "923aafe5244a6ae706e549db0efa8ed716284ca998bc2c1238a72a0a505f0beb",
+      "image_bytes": 185099,
+      "source_url": "https://www.tcgcollector.com/cards/9030/diglett-evolutions-55-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 55
+    },
+    {
+      "id": 9031,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Dugtrio",
+      "number": "56",
+      "number_value": 56,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/9d/0e/f4/9d0ef416bc58467191974a2fa6bb36865cdba50eeb9e1fb07f065dad7a3e0eb6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2d/5b/42/2d5b42a4dda3428bfbe2bdf6d9ce0a0c9de2c4f5ae9e112316ca2759eab0aab0.jpg",
+      "image_path": "images/cards/1172/56-9031.webp",
+      "image_sha256": "c37f25eb03ce8a90552290fb74000d0445997e6178c4c97f69e35da2c84964df",
+      "image_bytes": 176679,
+      "source_url": "https://www.tcgcollector.com/cards/9031/dugtrio-evolutions-56-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 56
+    },
+    {
+      "id": 9032,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Machop",
+      "number": "57",
+      "number_value": 57,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/1d/df/cd/1ddfcd42f86c962e65049d3d4037abf76c09ae40a8f9fb0929d1337f1d362059.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d7/7c/63/d77c63e2abb9d1ec5e056dcec0503407bc5c90ad781cf8f50d7cc80e902e48a6.jpg",
+      "image_path": "images/cards/1172/57-9032.webp",
+      "image_sha256": "c4487bae0cb8a48b16e55d1782988ccec605a588a6fb9dedea86c6d657c457bb",
+      "image_bytes": 179898,
+      "source_url": "https://www.tcgcollector.com/cards/9032/machop-evolutions-57-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 57
+    },
+    {
+      "id": 9033,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Machoke",
+      "number": "58",
+      "number_value": 58,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/e0/72/39/e07239bd4150e30de7a6f1f37faeb48b82ed9976fbe86d178c1391dd38864f9d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c1/25/f0/c125f0f288f1d9fd9f6fe247299f16fed47540181c023717a6095e4631799e85.jpg",
+      "image_path": "images/cards/1172/58-9033.webp",
+      "image_sha256": "d37268500152dad6d42249c8b204c9423f51e6997f7cf451ba5c93ecdeb88fb1",
+      "image_bytes": 206605,
+      "source_url": "https://www.tcgcollector.com/cards/9033/machoke-evolutions-58-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 58
+    },
+    {
+      "id": 9034,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Machamp",
+      "number": "59",
+      "number_value": 59,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/fe/7c/7a/fe7c7ab6ca000944faf9c46bc46e575667c9e07722679e1b02a953e06808bf2b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/73/4a/7a/734a7a6397b6f2c05da1e9911085375cd24912e1c65e5c1f934a9dbf890cd5b2.jpg",
+      "image_path": "images/cards/1172/59-9034.webp",
+      "image_sha256": "d09e53a32618a7e2314e76c1690fdacc1cf8a529308f8456ed24ddb58e12b142",
+      "image_bytes": 207352,
+      "source_url": "https://www.tcgcollector.com/cards/9034/machamp-evolutions-59-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 59
+    },
+    {
+      "id": 9035,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Machamp BREAK",
+      "number": "60",
+      "number_value": 60,
+      "printed_total": 108,
+      "rarity": "Rare BREAK",
+      "image_url": "https://static.tcgcollector.com/content/images/26/a3/42/26a342084b264df25829f2c4f44df1314cc996d8e87b6162a2828a98a3407f90.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/68/20/c9/6820c985a20ce01c85beeedde4b4cf75fe6d4c0ecefec68f58359b0dab1057db.jpg",
+      "image_path": "images/cards/1172/60-9035.webp",
+      "image_sha256": "b0f0a81f31ec0b114e0aad897cda4091203024c993506fe91adbb6b8144f2cee",
+      "image_bytes": 197451,
+      "source_url": "https://www.tcgcollector.com/cards/9035/machamp-break-evolutions-60-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 60
+    },
+    {
+      "id": 9036,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Onix",
+      "number": "61",
+      "number_value": 61,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/05/2e/a7/052ea7465a9145f3223fe6509f920ed22edb89047161b0729594e106d48ccac0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d9/43/28/d94328b30806216a9f131d8fd27a4190a60b3401fff877f848618f0bcff3e9ce.jpg",
+      "image_path": "images/cards/1172/61-9036.webp",
+      "image_sha256": "348ad34ea56e21b45700e4f31163f5b6e3ed649433595c37812116e7b4912688",
+      "image_bytes": 215520,
+      "source_url": "https://www.tcgcollector.com/cards/9036/onix-evolutions-61-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 61
+    },
+    {
+      "id": 9037,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Hitmonchan",
+      "number": "62",
+      "number_value": 62,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/57/39/a6/5739a666e6956d1ce49807e0d0093864554a724c125099f85f60eaf7e39d84c8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/30/b7/ba/30b7ba7be0e9ed1703f57bbda940ab174660f5deda5f3dd5a263ac5d888bfb41.jpg",
+      "image_path": "images/cards/1172/62-9037.webp",
+      "image_sha256": "a65d5b99855ed975352b7d407bb6e851184d1d68ca7da4baf1ac2a5459cf1f22",
+      "image_bytes": 165562,
+      "source_url": "https://www.tcgcollector.com/cards/9037/hitmonchan-evolutions-62-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 62
+    },
+    {
+      "id": 9038,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Clefairy",
+      "number": "63",
+      "number_value": 63,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/73/c9/44/73c94479275aa63b5ecd06f35f6ff9f51bff84dbb2e5bbd27e5d49192f5e3d84.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/00/44/b0/0044b05df47d6d207e1971dbf1d4e1cb4ac06c58f4ef973097181795094758ae.jpg",
+      "image_path": "images/cards/1172/63-9038.webp",
+      "image_sha256": "05ccd583d826a394bc6fd2c2f5dc2d4eb194b57d28846de1eb22763f6da19625",
+      "image_bytes": 160412,
+      "source_url": "https://www.tcgcollector.com/cards/9038/clefairy-evolutions-63-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 63
+    },
+    {
+      "id": 9039,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Pidgeot-EX",
+      "number": "64",
+      "number_value": 64,
+      "printed_total": 108,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/a3/ae/6f/a3ae6fe260d2a088ed81eb059477692a3cdc163c6c05ab2f6112f9835e2cb37a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2d/c1/97/2dc1975991e5250c1f935ea7af5d879dfe20957e969430982a86ba7021e5487a.jpg",
+      "image_path": "images/cards/1172/64-9039.webp",
+      "image_sha256": "eba9212b5500caad31d358498512caa82400bc6a52aa9ed3b45727e19e87cd5d",
+      "image_bytes": 204295,
+      "source_url": "https://www.tcgcollector.com/cards/9039/pidgeot-ex-evolutions-64-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 64
+    },
+    {
+      "id": 9040,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "M Pidgeot-EX",
+      "number": "65",
+      "number_value": 65,
+      "printed_total": 108,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/aa/52/5c/aa525ce579bf7acce018486da9f34d0875da100a9ac59c6b754c9b2c3da625e9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/85/8c/63/858c633bd45e64d44e295b6a2c7844ea638f39dea3e0b21ba59c0e8977c4e64b.jpg",
+      "image_path": "images/cards/1172/65-9040.webp",
+      "image_sha256": "6fc310894ef9be455876e8a7ef0930719183e7e83895f25e719f2d675ccc865c",
+      "image_bytes": 197038,
+      "source_url": "https://www.tcgcollector.com/cards/9040/m-pidgeot-ex-evolutions-65-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 65
+    },
+    {
+      "id": 9041,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Rattata",
+      "number": "66",
+      "number_value": 66,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f1/41/88/f141885b198b3373aed46d4363da8dfbd47c16d1cb52559a425b6648ced41300.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c4/c8/06/c4c80627aa63d6e6392d1344d4c5be776ca821581c3bb5782da1de8fed7fbc97.jpg",
+      "image_path": "images/cards/1172/66-9041.webp",
+      "image_sha256": "8694ed051c4979c4d2cc60b1a8744e7ec7f4c756ec39f247ddc315f2b6403972",
+      "image_bytes": 194710,
+      "source_url": "https://www.tcgcollector.com/cards/9041/rattata-evolutions-66-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 66
+    },
+    {
+      "id": 9042,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Raticate",
+      "number": "67",
+      "number_value": 67,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/79/fa/54/79fa54a29f8fded234872cc58a130e8e1e8fceaef5a0a20a3078393848f88e7d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6f/26/a6/6f26a6ecdae19a91fd20565f316ac1e89379c3be0a477eac7ea15c8b43f4e40b.jpg",
+      "image_path": "images/cards/1172/67-9042.webp",
+      "image_sha256": "94993a2f0130b17f88e2ea4a3b8663f245692b3ab15492d4e7928267f0172375",
+      "image_bytes": 200522,
+      "source_url": "https://www.tcgcollector.com/cards/9042/raticate-evolutions-67-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 67
+    },
+    {
+      "id": 9043,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Farfetch'd",
+      "number": "68",
+      "number_value": 68,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/36/47/fb/3647fbe51ddb1f7dccd6507db881f839f65ee8cc3eb809b8de21874a745fa240.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6f/d9/f1/6fd9f1fc83eeadf04ba0e5cb55e3668ab60e7a51e7584b43388682747bcbda5f.jpg",
+      "image_path": "images/cards/1172/68-9043.webp",
+      "image_sha256": "3986619d0cd1f1c41ae7244c5593e54e0cd47a9ebf1e13b7adc46d302a0fde0c",
+      "image_bytes": 173536,
+      "source_url": "https://www.tcgcollector.com/cards/9043/farfetchd-evolutions-68-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 68
+    },
+    {
+      "id": 9044,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Doduo",
+      "number": "69",
+      "number_value": 69,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/3b/17/fa/3b17faf05d877ffd62b8000e021f31fbdd12090e47a75c9eb13d6283da25a7f9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/90/d9/eb/90d9eb09e7f4ffe719e7e7da586b54c628c0da82e2d93e8f68c03c0f7f6a6333.jpg",
+      "image_path": "images/cards/1172/69-9044.webp",
+      "image_sha256": "dda4be1a405e990b3c6a41c33670c5d575326a74a8636d4995c8fd0657d1d262",
+      "image_bytes": 180817,
+      "source_url": "https://www.tcgcollector.com/cards/9044/doduo-evolutions-69-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 69
+    },
+    {
+      "id": 9045,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Chansey",
+      "number": "70",
+      "number_value": 70,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/fd/9f/83/fd9f83f83d9e71bd4c858b67f59b0733af3c9300354e82ce9892e435cfabc93b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f3/cc/f4/f3ccf44bef1441202d0d01ca77ad385686e384f53b9325b0e25e5c8cb254df6d.jpg",
+      "image_path": "images/cards/1172/70-9045.webp",
+      "image_sha256": "cbcc10d393a1656ce63af4b9ad47cca3f469891f8febe4822ac456e860ae7385",
+      "image_bytes": 166748,
+      "source_url": "https://www.tcgcollector.com/cards/9045/chansey-evolutions-70-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 70
+    },
+    {
+      "id": 9046,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Porygon",
+      "number": "71",
+      "number_value": 71,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/80/e3/c2/80e3c21b1a17e8363db2937d61c055fbf36f4caf73b5e0ac61bc5bed90de156b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9f/e3/d1/9fe3d147bb6b83980abd633ca14734bc26fb5bdf7c2bfa925400b3c9254b80a3.jpg",
+      "image_path": "images/cards/1172/71-9046.webp",
+      "image_sha256": "32bccda861cfbf45faefb23b607800957c06eca98db210cea07d9c7089520ac2",
+      "image_bytes": 158624,
+      "source_url": "https://www.tcgcollector.com/cards/9046/porygon-evolutions-71-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 71
+    },
+    {
+      "id": 9047,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Dragonite-EX",
+      "number": "72",
+      "number_value": 72,
+      "printed_total": 108,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/4b/20/a3/4b20a3b546068038b76fc03ad50bd55f6d326231180ce3b64f6c6f5a469dd160.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/af/d1/a2/afd1a23cee51a7b97dce13e8ac5035b85ae523de0b588ce82066fb1ae31f1bfd.jpg",
+      "image_path": "images/cards/1172/72-9047.webp",
+      "image_sha256": "6c86ca157ab6045fd7386c2231186060f19619ce1c83142e33167f2400b8c201",
+      "image_bytes": 199453,
+      "source_url": "https://www.tcgcollector.com/cards/9047/dragonite-ex-evolutions-72-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 72
+    },
+    {
+      "id": 9506,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Blastoise Spirit Link",
+      "number": "73",
+      "number_value": 73,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/3a/42/4c/3a424c6701e3e81c00346b86cd3ce304075178576347acfbf08fb87283cf2356.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9c/e6/d5/9ce6d553d4b70243eebbd090c62441dfc1b10579efa75756bbd69a659194ad27.jpg",
+      "image_path": "images/cards/1172/73-9506.webp",
+      "image_sha256": "b7f27f288a398116687e53b920e5264a9a7259ceb38e6c1cb3e327a9707ecad6",
+      "image_bytes": 154489,
+      "source_url": "https://www.tcgcollector.com/cards/9506/blastoise-spirit-link-evolutions-73-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 73
+    },
+    {
+      "id": 9049,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Brock's Grit",
+      "number": "74",
+      "number_value": 74,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/33/8a/6d/338a6dfd324266866de5cd2a9207c5180aaccbdb73ef039e7b961818678a2b95.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dd/63/fe/dd63fe5a74f7048bb1cd40cb33a8df2af9aa06782756ab502521707b75e7c2ef.jpg",
+      "image_path": "images/cards/1172/74-9049.webp",
+      "image_sha256": "e0308c3fff18e0cf42baecaf6693489f1325c86826ee6fa8bd990f44b2a21274",
+      "image_bytes": 139617,
+      "source_url": "https://www.tcgcollector.com/cards/9049/brocks-grit-evolutions-74-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 74
+    },
+    {
+      "id": 9507,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Charizard Spirit Link",
+      "number": "75",
+      "number_value": 75,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/06/5f/c4/065fc4e6996e952abaf9f2ace2376c52af3936a3517da496344ab21dac3ea03d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/48/6a/15/486a15b5b30ab41b1db4f2b4ab4fba6c4e18b582e28972b2fa127591f4657330.jpg",
+      "image_path": "images/cards/1172/75-9507.webp",
+      "image_sha256": "ca5661a691d1eb5ff04022346fe3781603a6700b2e8e476f8accf81204d20233",
+      "image_bytes": 152122,
+      "source_url": "https://www.tcgcollector.com/cards/9507/charizard-spirit-link-evolutions-75-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 75
+    },
+    {
+      "id": 9051,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Devolution Spray",
+      "number": "76",
+      "number_value": 76,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b4/6b/37/b46b371d52e2c603e720bc7d54954b08d7f66e330aa0396b21a72b112b4fc138.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7e/0e/4f/7e0e4f7f4e9f8a4369e39e0421781235f4c3da064e0d2495095ca8ed22bec6e8.jpg",
+      "image_path": "images/cards/1172/76-9051.webp",
+      "image_sha256": "9d6878bb3c8336830a9c512040d211a174713e3d704d7a7b85c749aa2c5bd923",
+      "image_bytes": 108697,
+      "source_url": "https://www.tcgcollector.com/cards/9051/devolution-spray-evolutions-76-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 76
+    },
+    {
+      "id": 9052,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Energy Retrieval",
+      "number": "77",
+      "number_value": 77,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/9f/62/50/9f62501e1371c804e1eb28d38a5b72621cd8341de812e4ae73438ee589396bd9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d5/31/9a/d5319a751b07a5c6c71e339fb1e4f3d458f65709e4556207aeae5d9ed4be90cd.jpg",
+      "image_path": "images/cards/1172/77-9052.webp",
+      "image_sha256": "e30c7a760c1ebd5f8cf854bb4a3b3d38638ce910dab60385992e0c8aabed4bf2",
+      "image_bytes": 101420,
+      "source_url": "https://www.tcgcollector.com/cards/9052/energy-retrieval-evolutions-77-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 77
+    },
+    {
+      "id": 9053,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Full Heal",
+      "number": "78",
+      "number_value": 78,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/95/1f/14/951f14db8bbeabfa4fb734fab35e93aa884a98ee9d24e676af9ce61a8a5f05ad.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/38/61/1c/38611cf9dc15f161fa684b4c368cba0e2f97a12fb577b1f74240fda5248948aa.jpg",
+      "image_path": "images/cards/1172/78-9053.webp",
+      "image_sha256": "0bc108f9f3073763981cec949e3593f1adc8f1f49c330a8b16d1c06ff8db497e",
+      "image_bytes": 98149,
+      "source_url": "https://www.tcgcollector.com/cards/9053/full-heal-evolutions-78-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 78
+    },
+    {
+      "id": 9054,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Maintenance",
+      "number": "79",
+      "number_value": 79,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f6/1f/43/f61f43bbdf50bccccecf3d644d555e47f5464448e725e507bf9208433fee183e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a9/98/0b/a9980ba44fff5dba1d5035448cccb30b00d79ea9e11b3f80e9ce4c5f3af7df2c.jpg",
+      "image_path": "images/cards/1172/79-9054.webp",
+      "image_sha256": "672311179b5ea39c5d09674782c5729552dabbafbee804717b203e9f0850d508",
+      "image_bytes": 111358,
+      "source_url": "https://www.tcgcollector.com/cards/9054/maintenance-evolutions-79-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 79
+    },
+    {
+      "id": 9055,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Misty's Determination",
+      "number": "80",
+      "number_value": 80,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ca/6e/a4/ca6ea43cea5fd1e8b5e0730d302fa86b2c3c094063bfeb39b03a63d5ef6c7abd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/16/6b/90/166b909eff1c4be6f2926232fdb4a3577b9057f6149bcbe96e503bf79dbf8c65.jpg",
+      "image_path": "images/cards/1172/80-9055.webp",
+      "image_sha256": "cceb94444868e1af5a0db8878295e5b54c98545ff7546c9ce19a6938cee85901",
+      "image_bytes": 131176,
+      "source_url": "https://www.tcgcollector.com/cards/9055/mistys-determination-evolutions-80-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 80
+    },
+    {
+      "id": 9503,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Pidgeot Spirit Link",
+      "number": "81",
+      "number_value": 81,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d0/f3/0b/d0f30b98d590b1a645eee04bd9df0da87dea16724e478d0eee0f893b646c5e78.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ed/b3/f4/edb3f49ef63d78a2718c28a250730e6e5e8184072724664bbec1cbbad0ece7aa.jpg",
+      "image_path": "images/cards/1172/81-9503.webp",
+      "image_sha256": "0c1707b7c4f773b88577417075099b76ec75614ebee11225068f74988ce6a293",
+      "image_bytes": 141188,
+      "source_url": "https://www.tcgcollector.com/cards/9503/pidgeot-spirit-link-evolutions-81-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 81
+    },
+    {
+      "id": 9057,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Pokédex",
+      "number": "82",
+      "number_value": 82,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/a6/f0/cd/a6f0cd78ef7b89a06a3db240b6dd9c88d6bdd905b34af79ce01b25b8b0cee601.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/da/48/b1/da48b1c950e580ef8aa811fb0018a322db8860933e07c6173c19f7c8e6e2d40d.jpg",
+      "image_path": "images/cards/1172/82-9057.webp",
+      "image_sha256": "6aa2a1558973d902722eb61544bc1c6fdee3bf0a8d0ddbdae6e79aea966878b8",
+      "image_bytes": 123707,
+      "source_url": "https://www.tcgcollector.com/cards/9057/pokedex-evolutions-82-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 82
+    },
+    {
+      "id": 9058,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Potion",
+      "number": "83",
+      "number_value": 83,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/59/db/d3/59dbd31b4b2800e7ec53fb1cb828a9ba636b1733b4e4b3b6608828c07feda52d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/34/86/4f/34864fecf8a15553909e6b7130e8c6da09f6752abaecf84183472a6c7d3900dd.jpg",
+      "image_path": "images/cards/1172/83-9058.webp",
+      "image_sha256": "23f6afa41a9a54beb4101801dbfe795edb9ac411331b73d9ab7ebebc361e5611",
+      "image_bytes": 97715,
+      "source_url": "https://www.tcgcollector.com/cards/9058/potion-evolutions-83-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 83
+    },
+    {
+      "id": 9059,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Professor Oak's Hint",
+      "number": "84",
+      "number_value": 84,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/15/04/39/150439690aa914d9a27f1c1f6412fcf860f54314153194fd66ea52a7b2f9e31f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b3/64/ad/b364adb94d00a4f2c9bb8ff0f3821136d8463e9798b7a2e41a6b8be5d0325dce.jpg",
+      "image_path": "images/cards/1172/84-9059.webp",
+      "image_sha256": "7e6412e0caed8154c309fa6efb0e41b313f97a7adabffeeca6785800a06b55bb",
+      "image_bytes": 135886,
+      "source_url": "https://www.tcgcollector.com/cards/9059/professor-oaks-hint-evolutions-84-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 84
+    },
+    {
+      "id": 9060,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Revive",
+      "number": "85",
+      "number_value": 85,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/21/8b/c4/218bc4e1e1453f8da0bde40595e3bb9276328f15084eea08aaef7154ba74c1aa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/08/c4/43/08c4434f51a1c82470c2821422a82b3363fb1e6175d7a0d5439e49e9f37fee5e.jpg",
+      "image_path": "images/cards/1172/85-9060.webp",
+      "image_sha256": "9e7c519b807ab96ff24071a5121ab7129c35e11befb23880a6508945075357a5",
+      "image_bytes": 101050,
+      "source_url": "https://www.tcgcollector.com/cards/9060/revive-evolutions-85-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 85
+    },
+    {
+      "id": 9504,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Slowbro Spirit Link",
+      "number": "86",
+      "number_value": 86,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f4/be/cd/f4becd180877c5776ebe0d256d77c24257af7972b68e406239a5bfd15607395d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/55/f8/83/55f88397eceb9ef70b2a0224b788b7ed98c4dcd17151be1da2289150d1640bc7.jpg",
+      "image_path": "images/cards/1172/86-9504.webp",
+      "image_sha256": "338c62bc80aeafcbbc45e29de3ed198b8c585d27915837293aee844744363123",
+      "image_bytes": 138237,
+      "source_url": "https://www.tcgcollector.com/cards/9504/slowbro-spirit-link-evolutions-86-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 86
+    },
+    {
+      "id": 9062,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Super Potion",
+      "number": "87",
+      "number_value": 87,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/66/da/5c/66da5c80165922dcb7eab83ca0bde27126b75067f1712b76ede547b64eaa650a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6c/2c/1f/6c2c1fc23a827da3a743d255b06b7c02b291dad4736cc736a501c5d026faeecf.jpg",
+      "image_path": "images/cards/1172/87-9062.webp",
+      "image_sha256": "8139dc32611da43052500a3f59cafe147eb7cc6de1c5399f0023f5f8399873da",
+      "image_bytes": 109099,
+      "source_url": "https://www.tcgcollector.com/cards/9062/super-potion-evolutions-87-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 87
+    },
+    {
+      "id": 9063,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Switch",
+      "number": "88",
+      "number_value": 88,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/af/5a/ad/af5aad7c81d260db9d7e8cb1509a90559db00fe65b97542b58b4a639ddb36305.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a9/ec/44/a9ec44513edafb32ec81dd71a82ee7756d719b589046155681e4add67d65393f.jpg",
+      "image_path": "images/cards/1172/88-9063.webp",
+      "image_sha256": "2db2707da9cf069ebd7e6a684dc5ba20b5b90abd5710dc2d2acb9a636626483f",
+      "image_bytes": 106251,
+      "source_url": "https://www.tcgcollector.com/cards/9063/switch-evolutions-88-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 88
+    },
+    {
+      "id": 9505,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Venusaur Spirit Link",
+      "number": "89",
+      "number_value": 89,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/c7/75/8f/c7758f12aa6143fc61974a0352d6323ac3cdf73d8ba04492eef6a8b4b2c572d8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/19/a7/cc/19a7ccadff8d9a8add66363dfba5115784b6588f87c24e162cdb74f07843c980.jpg",
+      "image_path": "images/cards/1172/89-9505.webp",
+      "image_sha256": "19ab6fa5342a2f3b6a3aaf7f4503c24b488ca14427c5bf8feccd5b0e68c06a59",
+      "image_bytes": 144081,
+      "source_url": "https://www.tcgcollector.com/cards/9505/venusaur-spirit-link-evolutions-89-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 89
+    },
+    {
+      "id": 9065,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Double Colorless Energy",
+      "number": "90",
+      "number_value": 90,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ed/94/9a/ed949a5e0ce8b2513fc7b7988b34021d7f4a7eb94ff6d53c3c860d09c30cfce7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/50/8c/6a/508c6ac37c8bc16e03a0ea5fdf6f6bd3785fc26f54ef35d3a05ab807cdcaa77d.jpg",
+      "image_path": "images/cards/1172/90-9065.webp",
+      "image_sha256": "d10cf024d6f8660cb44e474468f87b69ff8bc6694ceed99b2d86726182b862f1",
+      "image_bytes": 69477,
+      "source_url": "https://www.tcgcollector.com/cards/9065/double-colorless-energy-evolutions-90-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 90
+    },
+    {
+      "id": 9066,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Grass Energy",
+      "number": "91",
+      "number_value": 91,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/44/69/78/4469782733ddfe483211f60957b3605fb9be355ff39cd50d5fc9e21b1f09867f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/60/17/3f/60173ff2bf87947a2c496177dc6bc7165f22e9ac1c6ad3629bb78b7d9c77c381.jpg",
+      "image_path": "images/cards/1172/91-9066.webp",
+      "image_sha256": "0b2af64e8b23245e317807994b24ce1ba9337b377d24cb184ea6f0d400fcdc1c",
+      "image_bytes": 64540,
+      "source_url": "https://www.tcgcollector.com/cards/9066/grass-energy-evolutions-91-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 91
+    },
+    {
+      "id": 9067,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Fire Energy",
+      "number": "92",
+      "number_value": 92,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ba/a6/ef/baa6ef00cd15103b62f40b33ca3709eb11fc1b81d3168f37f91ae1b85ac21a3b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/18/e6/eb/18e6ebaa7b3d1dfd20779424589275a381477074e63ef4204c451036820db298.jpg",
+      "image_path": "images/cards/1172/92-9067.webp",
+      "image_sha256": "b2a593cb3c46049df1888b89d1c8fb5a0efda0677f224dc0166063bdb97703cd",
+      "image_bytes": 61809,
+      "source_url": "https://www.tcgcollector.com/cards/9067/fire-energy-evolutions-92-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 92
+    },
+    {
+      "id": 9068,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Water Energy",
+      "number": "93",
+      "number_value": 93,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ce/c9/f9/cec9f92cdeeba884ea74326ad0c4d02b641ddaaa79ea14fb7357d1a910d8ab2b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0e/dc/e5/0edce5da4e42c1a345613671df4a6b4c41d680993b9776d866f241e4ec2db3cb.jpg",
+      "image_path": "images/cards/1172/93-9068.webp",
+      "image_sha256": "f71b6dc001d9208edc3d2e1d9c8c989d4d365cb1050d995ef65d61bcf4a447a1",
+      "image_bytes": 60710,
+      "source_url": "https://www.tcgcollector.com/cards/9068/water-energy-evolutions-93-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 93
+    },
+    {
+      "id": 9069,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Lightning Energy",
+      "number": "94",
+      "number_value": 94,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/97/d4/d9/97d4d98e478e17244a8b79e50651ce8be6b03d826d81c557eb9c90eafa94b9df.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3c/5a/52/3c5a5280e1fe7faa4131ca46fbcbc84652d5d3253d6d32571cf0df79f1c893fb.jpg",
+      "image_path": "images/cards/1172/94-9069.webp",
+      "image_sha256": "f836df42cae1327c568b0ce3fde52c81f1b3c20f23ad69c4f15455d9233a7ce0",
+      "image_bytes": 52709,
+      "source_url": "https://www.tcgcollector.com/cards/9069/lightning-energy-evolutions-94-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 94
+    },
+    {
+      "id": 9070,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Psychic Energy",
+      "number": "95",
+      "number_value": 95,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ff/6f/50/ff6f5026757e232204c3c72810b1f5802d5f0be0f1fac3b6be8d866be9065a3b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/33/24/2c/33242c09b0d452ab6e5ffee73ec44533b5544052cfe818997649c0d49f0efc77.jpg",
+      "image_path": "images/cards/1172/95-9070.webp",
+      "image_sha256": "91a843e67dab358dea2e147e3f20984df95def52a58ecbe4ea2e2a58f5f39389",
+      "image_bytes": 62760,
+      "source_url": "https://www.tcgcollector.com/cards/9070/psychic-energy-evolutions-95-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 95
+    },
+    {
+      "id": 9071,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Fighting Energy",
+      "number": "96",
+      "number_value": 96,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/93/56/41/93564157af35189d21e95f3b4e53646ea7b079ae898e22139823604422f8abb2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fa/d7/e3/fad7e371f2084766aa80ea4e3a37525468c65c61008e8340750fd97b45169248.jpg",
+      "image_path": "images/cards/1172/96-9071.webp",
+      "image_sha256": "7c30d4957dc679e631fa0031a99f9f81da48283846a0c799434c4a3fddb758fe",
+      "image_bytes": 58981,
+      "source_url": "https://www.tcgcollector.com/cards/9071/fighting-energy-evolutions-96-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 96
+    },
+    {
+      "id": 9072,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Darkness Energy",
+      "number": "97",
+      "number_value": 97,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f9/aa/ea/f9aaea609ee03dcda6dc7a7c942bb4e7f9e7007d9a92620842e39d00cf8f4f9a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/25/62/27/256227f9b981d07883a50720a0ad57a606d2989444132badce64cfd47c3f5c0b.jpg",
+      "image_path": "images/cards/1172/97-9072.webp",
+      "image_sha256": "0b689b9d00379e76785b3f05efa31dcae8e28a8c12861820a94cee4a8feb1eb8",
+      "image_bytes": 65131,
+      "source_url": "https://www.tcgcollector.com/cards/9072/darkness-energy-evolutions-97-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 97
+    },
+    {
+      "id": 9073,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Metal Energy",
+      "number": "98",
+      "number_value": 98,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/88/6a/b5/886ab518f5fe50b09b35d43d1ba8e1756f13dd088bb2bfcf94837651d33455dd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c4/86/17/c48617bdd48f46858eba4c14e78a16a13b0270a445ca07b442a59ad2f2e4e61c.jpg",
+      "image_path": "images/cards/1172/98-9073.webp",
+      "image_sha256": "ef69ab8aef961ed88dd55bfcedfc2d2ed703c8e5897755e0ea385feb4e19a514",
+      "image_bytes": 227528,
+      "source_url": "https://www.tcgcollector.com/cards/9073/metal-energy-evolutions-98-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 98
+    },
+    {
+      "id": 9074,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Fairy Energy",
+      "number": "99",
+      "number_value": 99,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/42/5e/57/425e575c989833f26cc95e36181968ea8de5c418303b965b207ef9080ee7ea2e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e8/ed/9d/e8ed9d3922e5c9c37c739a64b7e163ad2a59e9c360cf839dbd75c19f173009cd.jpg",
+      "image_path": "images/cards/1172/99-9074.webp",
+      "image_sha256": "51be30f6f04de120208291a30a2ecbcfc1b128bf5f32482ad2cde617989bb7c6",
+      "image_bytes": 70582,
+      "source_url": "https://www.tcgcollector.com/cards/9074/fairy-energy-evolutions-99-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 99
+    },
+    {
+      "id": 9075,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "M Venusaur-EX",
+      "number": "100",
+      "number_value": 100,
+      "printed_total": 108,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/4d/1c/d5/4d1cd569a5ed9584f7e3f06fa9db1b37bc18f8b6631bd86b2a809ff28cbe29cc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f7/55/f6/f755f61559a179c75c424dbbbdd1b03336ef7ce4f2af75e8d825b75544dcbf8f.jpg",
+      "image_path": "images/cards/1172/100-9075.webp",
+      "image_sha256": "14e36d830b732b2df2449fb4f2d8dfd12dc5aa89045b887be6e705a017d57ac3",
+      "image_bytes": 218009,
+      "source_url": "https://www.tcgcollector.com/cards/9075/m-venusaur-ex-evolutions-100-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 100
+    },
+    {
+      "id": 9076,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "M Charizard-EX",
+      "number": "101",
+      "number_value": 101,
+      "printed_total": 108,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/c9/85/cc/c985cc44420a23a96cab64f15158612201b5aaaf5e658cac2bc636df657a4582.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0a/b1/a4/0ab1a40e058b878c466134830e80cce40d714cc6fdd949b0e1c46512a55d1cf7.jpg",
+      "image_path": "images/cards/1172/101-9076.webp",
+      "image_sha256": "969903d11f4b056b22ceb1d415b523aea75ba12476b9bfea74936228ffe55472",
+      "image_bytes": 220692,
+      "source_url": "https://www.tcgcollector.com/cards/9076/m-charizard-ex-evolutions-101-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 101
+    },
+    {
+      "id": 9077,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "M Blastoise-EX",
+      "number": "102",
+      "number_value": 102,
+      "printed_total": 108,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/49/34/8b/49348b3783a6449a8c4b0d9b5317b148d352c50b65862200592625b9438d63d5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4d/dc/a3/4ddca3c9adba560c86c3641f818e9ebd6c7b4c117c4a20856f4c33728edabb45.jpg",
+      "image_path": "images/cards/1172/102-9077.webp",
+      "image_sha256": "d93afd019561d381a827bc540f160d6ce8fd0bfe9291b398e979e32c1c08a65c",
+      "image_bytes": 239869,
+      "source_url": "https://www.tcgcollector.com/cards/9077/m-blastoise-ex-evolutions-102-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 102
+    },
+    {
+      "id": 9078,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Mewtwo-EX",
+      "number": "103",
+      "number_value": 103,
+      "printed_total": 108,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/84/a6/44/84a64448df362dda603c8c5837c6ef43e708607c382332fb501a1899a473b9a3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cc/1e/31/cc1e31e54437fbfc250786c17088dffcbd74cae07bbbc7d1ab710d1884b4ace9.jpg",
+      "image_path": "images/cards/1172/103-9078.webp",
+      "image_sha256": "4708e569bb970f6c98a681cadfff627a972f150bc0efbb08006c5bfe175538fd",
+      "image_bytes": 157919,
+      "source_url": "https://www.tcgcollector.com/cards/9078/mewtwo-ex-evolutions-103-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 103
+    },
+    {
+      "id": 9079,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Pidgeot-EX",
+      "number": "104",
+      "number_value": 104,
+      "printed_total": 108,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/4d/39/56/4d39560f9e3b1216cb61f98f7116c6d0c051f54c98725cf8d5b4b06989d0d1ac.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fd/f8/db/fdf8db3ebd392cc763b10ce2bffcb73bb27c305e691e662d2dcb325832a6c9c7.jpg",
+      "image_path": "images/cards/1172/104-9079.webp",
+      "image_sha256": "786d2cb525c290cbf7a1917026e8f68fec6e5d0e038f669dfca73d2d5e09f71f",
+      "image_bytes": 186029,
+      "source_url": "https://www.tcgcollector.com/cards/9079/pidgeot-ex-evolutions-104-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 104
+    },
+    {
+      "id": 9080,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "M Pidgeot-EX",
+      "number": "105",
+      "number_value": 105,
+      "printed_total": 108,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/44/05/3a/44053a3f701281ea58475d120ec04776f88519345534b7e3c8d17a3779094a96.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dd/b8/2f/ddb82f4e10ec443e32bdd84b22a46209410eee681a1031bc22e0404c5a46708e.jpg",
+      "image_path": "images/cards/1172/105-9080.webp",
+      "image_sha256": "5f1eeb16d309469785a5af347c80e6b10354507cbd98fadc345bb5af91bac70d",
+      "image_bytes": 212289,
+      "source_url": "https://www.tcgcollector.com/cards/9080/m-pidgeot-ex-evolutions-105-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 105
+    },
+    {
+      "id": 9081,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Dragonite-EX",
+      "number": "106",
+      "number_value": 106,
+      "printed_total": 108,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/c4/c1/45/c4c1453d4f82a03ccac6b5b9dcb9d1756749c8b349635a8e32e45ad2fe29d732.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5c/a1/c6/5ca1c6286400e4d18d80dbd6b18e870955f3d2a524220a818d4f9e01b342dde6.jpg",
+      "image_path": "images/cards/1172/106-9081.webp",
+      "image_sha256": "eaf966dce133906083cc91b1344414cd3987135bb29d814a6e1707b7907caaa8",
+      "image_bytes": 170873,
+      "source_url": "https://www.tcgcollector.com/cards/9081/dragonite-ex-evolutions-106-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 106
+    },
+    {
+      "id": 9082,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Brock's Grit",
+      "number": "107",
+      "number_value": 107,
+      "printed_total": 108,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/df/8a/83/df8a83dae27eb0e2dce21a9eac801e6347d12e226aba70c2a5a5b6963186ac70.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a5/1b/ee/a51bee9c9112e603a75350b48e21e73d7d7a72aae20ad85bebf2ba2900333c18.jpg",
+      "image_path": "images/cards/1172/107-9082.webp",
+      "image_sha256": "07867822a0d43f76fc2143d389bfae4775151cd915dc73fec56905e7a254fcab",
+      "image_bytes": 157256,
+      "source_url": "https://www.tcgcollector.com/cards/9082/brocks-grit-evolutions-107-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 107
+    },
+    {
+      "id": 9083,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Misty's Determination",
+      "number": "108",
+      "number_value": 108,
+      "printed_total": 108,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/6d/39/89/6d398937d13654c8a832ef1544ec5d4f3a22a25982fb2741e57103a834019267.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d0/84/31/d0843125624160bc2e86fc46c6ba26a2b5200de913269d4e0ba6cfd0d4befaec.jpg",
+      "image_path": "images/cards/1172/108-9083.webp",
+      "image_sha256": "74653bf0b9d347ea27ee284558eb3f72ca822b7df1a0e9b0cbc5f69e318e8386",
+      "image_bytes": 154683,
+      "source_url": "https://www.tcgcollector.com/cards/9083/mistys-determination-evolutions-108-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 108
+    },
+    {
+      "id": 9084,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "ナッシー[Exeggutor]",
+      "number": "109",
+      "number_value": 109,
+      "printed_total": 108,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/c4/c7/63/c4c7639b185cd4e33b5098cfc12ab001b3e222e512717d66d3e05d2ec14c06ae.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/11/2f/b3/112fb33d921e742793eefdbb8157b49524d76370168b57e0347effa1d19f0ee5.jpg",
+      "image_path": "images/cards/1172/109-9084.webp",
+      "image_sha256": "8e77d20aa5623b8ae07ec4c7c01986678e4316b030100c6eda5227e960339476",
+      "image_bytes": 203499,
+      "source_url": "https://www.tcgcollector.com/cards/9084/nasshi-exeggutor-evolutions-109-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 109
+    },
+    {
+      "id": 9485,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Flying Pikachu",
+      "number": "110",
+      "number_value": 110,
+      "printed_total": 108,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/40/24/8f/40248f0e3cf0fc84de776334f20b76cfc7b707192654276691a041b491ce70e9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/13/45/ca/1345ca1d0553f830aae0062501434afff71b24631daa3170318122696b86c52e.jpg",
+      "image_path": "images/cards/1172/110-9485.webp",
+      "image_sha256": "fec112f265b4045d6e15ff1c90da2871af14f612add620a729354420e8123054",
+      "image_bytes": 176545,
+      "source_url": "https://www.tcgcollector.com/cards/9485/flying-pikachu-evolutions-110-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 110
+    },
+    {
+      "id": 9484,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Surfing Pikachu",
+      "number": "111",
+      "number_value": 111,
+      "printed_total": 108,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/6f/d1/aa/6fd1aa8d731ef56b7cb688a048f2c5a48a89ffe58ddcc07c30e7ea5c3b1b9ad4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/22/36/77/22367776dad157b90e286ee1cb69768c0d4282b99f69a6e65fe0fc35397b004a.jpg",
+      "image_path": "images/cards/1172/111-9484.webp",
+      "image_sha256": "d8407115b461f50347a55bf4cd26496dbf0e3243575be09765ec06ed3882615f",
+      "image_bytes": 149700,
+      "source_url": "https://www.tcgcollector.com/cards/9484/surfing-pikachu-evolutions-111-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 111
+    },
+    {
+      "id": 9085,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Imakuni?'s Doduo",
+      "number": "112",
+      "number_value": 112,
+      "printed_total": 108,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/17/28/77/172877d876955497a9cf6b61c3fefa704fdd0c6c7903731417f8bd42d2c11ea9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3a/30/cf/3a30cfa27d153ebc3b37480c12785a23c19b4303069e1d6bd523d0ee4cfeb381.jpg",
+      "image_path": "images/cards/1172/112-9085.webp",
+      "image_sha256": "6d1276c9aeb29f2a9422a54ffabbe25800ddb8be5ec7fed2d109fc8f7ffdae06",
+      "image_bytes": 194200,
+      "source_url": "https://www.tcgcollector.com/cards/9085/imakuni-s-doduo-evolutions-112-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 112
+    },
+    {
+      "id": 9483,
+      "set_id": 1172,
+      "set_ids": [
+        1172
+      ],
+      "name": "Here Comes Team Rocket!",
+      "number": "113",
+      "number_value": 113,
+      "printed_total": 108,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/07/76/90/0776904a14b7661ed591ecb6c71df0e04258e4e2bf2e9a7267efd76740dcd034.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/95/59/2d/95592d87b7f90b7796bf333708694d228f4b665bd6d78465b5222de5b6207c22.jpg",
+      "image_path": "images/cards/1172/113-9483.webp",
+      "image_sha256": "2fedf4367b6edca122087069b1959fcb7bdb8adf4579a2617a2190eeec5f7383",
+      "image_bytes": 139614,
+      "source_url": "https://www.tcgcollector.com/cards/9483/here-comes-team-rocket-evolutions-113-108",
+      "scraped_at": "2026-10-18T22:23:07Z",
+      "position": 113
+    }
+  ]
+}

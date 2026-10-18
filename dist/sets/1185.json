@@ -1,0 +1,362 @@
+{
+  "set": {
+    "id": 1185,
+    "language": "en",
+    "name": "POP Series 5",
+    "code": "POP5",
+    "series": "Play! Pokémon Series",
+    "release_date": "2007-03-01",
+    "date_text": "Mar 01, 2007",
+    "card_count": 17,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/ce/eb/f9/ceebf9554101983f3bf129f02b8e324f5423bffd6a510b401c30bfd44fe5b24d.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/ca/94/de/ca94deda2c4ab83b1d68bf1fa9516b9287740cc075675eaffb43c039857c6b15.svg",
+    "logo_path": "images/sets/1185-logo.webp",
+    "symbol_path": "images/sets/1185-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/1185/pop-series-5",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 17
+  },
+  "cards": [
+    {
+      "id": 3537,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Ho-Oh",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 17,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/e3/f5/c3/e3f5c355a7312959b27720685ac538571739ad0817c5c22102fdbc4fbe90ffe2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f6/0a/f3/f60af359653166c39f795c5123f0593833d9726bbb5eadb24604514f4e9fd100.jpg",
+      "image_path": "images/cards/1185/1-3537.webp",
+      "image_sha256": "0b352b02e4afc82c23d81a1f3418a670556c72d7086208aad299a5d40e6a50d5",
+      "image_bytes": 99419,
+      "source_url": "https://www.tcgcollector.com/cards/3537/ho-oh-pop-series-5-1-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 1
+    },
+    {
+      "id": 3538,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Lugia",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 17,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/5e/40/d4/5e40d496654fdc76d13acb8638365739f1b7b1df2945e768b4d9df69cbea2802.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8f/ab/78/8fab784410ead99fa220e89f90a2f4fd20c552cfae10d19e24fdc99311993a5b.jpg",
+      "image_path": "images/cards/1185/2-3538.webp",
+      "image_sha256": "12a5b7e57e982a7859d7822e39a69e1f988bda55288b2b62ab6f2a118bf8eb50",
+      "image_bytes": 101829,
+      "source_url": "https://www.tcgcollector.com/cards/3538/lugia-pop-series-5-2-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 2
+    },
+    {
+      "id": 3539,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Mew",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 17,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/3d/9a/55/3d9a55fccefe3f44a38b2d3f8c4aff9ab78247c34f7fbc9d02af1a029ec641a7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d5/3c/1c/d53c1c885a1fefe4c68cb06c85ebd3debd810f968c3748cf3769db73d58a846f.jpg",
+      "image_path": "images/cards/1185/3-3539.webp",
+      "image_sha256": "fb663757796e502f8b6e2943f7d941cc0d707242d353cad08f3fe173f200e926",
+      "image_bytes": 119041,
+      "source_url": "https://www.tcgcollector.com/cards/3539/mew-pop-series-5-3-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 3
+    },
+    {
+      "id": 3540,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Double Rainbow Energy",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 17,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/56/4f/94/564f946f2dd29272275a95b773f7f5e304ead1ddc4d9335b14de5ba6d0bee027.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/02/7e/1f/027e1f7f9dd907d96841d606ac8fa6d63993ac6cd38afbdc20c36665b5115417.jpg",
+      "image_path": "images/cards/1185/4-3540.webp",
+      "image_sha256": "ff84bde503fdbb1ab0623648508a835a3f71afb70ee0733bd9a6760bb63a5167",
+      "image_bytes": 104476,
+      "source_url": "https://www.tcgcollector.com/cards/3540/double-rainbow-energy-pop-series-5-4-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 4
+    },
+    {
+      "id": 3541,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Charmeleon",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 17,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/25/ba/69/25ba69f853de5ca9b8b1ff7f86314d3853ba38b98224c6004102af5cd146adcb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/15/b3/3e/15b33e9667ee9012d1a9c006f4b8888b5560d76f5fd5fd079f446d501a054368.jpg",
+      "image_path": "images/cards/1185/5-3541.webp",
+      "image_sha256": "72791c6f437e7d2000c31c09b13008f8befbda1d63f34afeacd37bb4b8dddb2c",
+      "image_bytes": 106865,
+      "source_url": "https://www.tcgcollector.com/cards/3541/charmeleon-pop-series-5-5-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 5
+    },
+    {
+      "id": 3542,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Bill's Maintenance",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 17,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/10/8a/07/108a0701e07240ab50a5109b393cab7e123fceef47c4c6880e49ec20613a6404.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3e/b7/e6/3eb7e6152ceff51a00c0ceccdceaff528eeb24adf57f0dbbd26491ea3101aa3a.jpg",
+      "image_path": "images/cards/1185/6-3542.webp",
+      "image_sha256": "a8079baef0ffa88fc318d2d4efc884fb800e8415d2271087a0780bdda76b02f2",
+      "image_bytes": 94952,
+      "source_url": "https://www.tcgcollector.com/cards/3542/bills-maintenance-pop-series-5-6-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 6
+    },
+    {
+      "id": 3543,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Rare Candy",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 17,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/9a/c7/50/9ac750c3a1253659fb515e5fb91d89f656381286809ecc4303c3e7f689e93c96.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b4/47/4a/b4474ad41fe8a1e242e9ee0a8397fcb84e77a9d889c22fe976635c71e919b682.jpg",
+      "image_path": "images/cards/1185/7-3543.webp",
+      "image_sha256": "0f2400c0d03a780811a4c31ff69ec0f4e97c59655ec224b70ff84f58d6d6eb91",
+      "image_bytes": 89612,
+      "source_url": "https://www.tcgcollector.com/cards/3543/rare-candy-pop-series-5-7-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 7
+    },
+    {
+      "id": 3544,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Boost Energy",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 17,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/08/aa/00/08aa00cd2a4aca6ecfdf53f9f1c3ca8cce977560fb8e0a82942940e1e3e70302.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/74/9b/d3/749bd398f38fbaa05fec2db0f7cc36eabec9cd6ec89c92aa2eb25fa44aa28fb7.jpg",
+      "image_path": "images/cards/1185/8-3544.webp",
+      "image_sha256": "8fe4e625b77bca204ea98376a5c34f06e12ebb651b63ae8e1930ee45b49297b9",
+      "image_bytes": 102254,
+      "source_url": "https://www.tcgcollector.com/cards/3544/boost-energy-pop-series-5-8-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 8
+    },
+    {
+      "id": 3545,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "δ Rainbow Energy",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 17,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/bb/08/38/bb0838634502c6cf0b66a78c6a37b014d28649362fa0b1f72de0fd8ce0bd29d9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f6/0d/a0/f60da0af2b42804156e9522ae5adab72721f18e6d9d86b8ebac77021a6bb9411.jpg",
+      "image_path": "images/cards/1185/9-3545.webp",
+      "image_sha256": "7a9d64fdd92c12c15a32311923bf07faf2d0d695278d24bd67b2c76f928edf08",
+      "image_bytes": 100176,
+      "source_url": "https://www.tcgcollector.com/cards/3545/d-rainbow-energy-pop-series-5-9-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 9
+    },
+    {
+      "id": 3546,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Charmander",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 17,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/de/65/de/de65dec87efd42eda3c096c0af8980f800f1d76b4d7c586dc3529d4a4e0835e6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/70/c7/ef/70c7efe00134133eea114d7a6b7fedf72309e213f06f26afac8c808025f62d4c.jpg",
+      "image_path": "images/cards/1185/10-3546.webp",
+      "image_sha256": "c93b2934bab87b80d45199f1d5dc45e3a847cf34ff373a913eff7164dd055ce5",
+      "image_bytes": 107014,
+      "source_url": "https://www.tcgcollector.com/cards/3546/charmander-pop-series-5-10-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 10
+    },
+    {
+      "id": 3547,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Meowth",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 17,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/0b/42/fa/0b42faa8ac19099ea309037f48b9412e92f7b94d3c1c5bceaeaf52e8335dd16f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6e/1c/66/6e1c66b21e6aa93df72ade24f916b9d2d692d9649cb168fbdf1b15d8f9b2efd8.jpg",
+      "image_path": "images/cards/1185/11-3547.webp",
+      "image_sha256": "4fe8f9169a55cdb423ceef0cdbfae882a44474c5e48bb0cb02417d6e71c3d090",
+      "image_bytes": 104641,
+      "source_url": "https://www.tcgcollector.com/cards/3547/meowth-pop-series-5-11-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 11
+    },
+    {
+      "id": 3548,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Pikachu",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 17,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/24/be/71/24be71f2c97ee43196e8395a9db259db7c4f54cc2f61d33b89209de08c8c2f92.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ab/4b/4b/ab4b4b81c0f79b1c40a0bd65d46af5658b737b48deb160253769252ab6170a9b.jpg",
+      "image_path": "images/cards/1185/12-3548.webp",
+      "image_sha256": "effc30d1efdda2c1a26cea18f68a35290c59d68709d3ac188992ec739d949413",
+      "image_bytes": 97389,
+      "source_url": "https://www.tcgcollector.com/cards/3548/pikachu-pop-series-5-12-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 12
+    },
+    {
+      "id": 3549,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Pikachu",
+      "number": "13",
+      "number_value": 13,
+      "printed_total": 17,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/58/64/ea/5864ea2eeb7db3f9f7416fcf81dbf597b90027587cf024908d40f6c41b094997.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f8/ca/6b/f8ca6b99d93d2de71f983b1c0e1dcb1a60f858126fb1769e3d90ff2c30f8a808.jpg",
+      "image_path": "images/cards/1185/13-3549.webp",
+      "image_sha256": "297975674eb4b4a2674a24ddb5da2e6229791bc13e15ec6bfbd451a8afd9b068",
+      "image_bytes": 121308,
+      "source_url": "https://www.tcgcollector.com/cards/3549/pikachu-pop-series-5-13-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 13
+    },
+    {
+      "id": 3550,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Pelipper",
+      "number": "14",
+      "number_value": 14,
+      "printed_total": 17,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f5/27/50/f527506e1c0da14ef230eed18e5b8f3d3690168568fe55f80a5f4e11417c0610.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/01/74/0e/01740ed736d42e979c3f0243e420d9ca518f1007f7dc8388bd2d3935ecffc8cd.jpg",
+      "image_path": "images/cards/1185/14-3550.webp",
+      "image_sha256": "6be9ca7820df5aded49efb48d5e210a3d97684547b53ffe09f09b4b8694f4a57",
+      "image_bytes": 112497,
+      "source_url": "https://www.tcgcollector.com/cards/3550/pelipper-pop-series-5-14-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 14
+    },
+    {
+      "id": 3551,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Zangoose",
+      "number": "15",
+      "number_value": 15,
+      "printed_total": 17,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ed/0c/99/ed0c99cd745318a2cd41824a6c37c3e06be29f6001eeb0979793c1052a55be91.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/81/f9/c4/81f9c439191b0fd6c9948ee877da73fabe1431619ced0453ae222c0e06bcb4d4.jpg",
+      "image_path": "images/cards/1185/15-3551.webp",
+      "image_sha256": "5db37d2ac3c08efe81d94f781a8d7c699a2c1520b08eca19e0ff392a8bb321df",
+      "image_bytes": 124010,
+      "source_url": "https://www.tcgcollector.com/cards/3551/zangoose-pop-series-5-15-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 15
+    },
+    {
+      "id": 3552,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Espeon ☆",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 17,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/46/ef/55/46ef55bc7997e5250f40f422aa532c418ab7591365c18fff091a35ef848cd7bc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c2/8a/a8/c28aa857361234a56a714288543bbb47c79a07e04eb0524ed0f6b3fdf054990c.jpg",
+      "image_path": "images/cards/1185/16-3552.webp",
+      "image_sha256": "d696bb47291b89769e0b4305948735944e7b98c350ef5866be1a025a0c9a9104",
+      "image_bytes": 108965,
+      "source_url": "https://www.tcgcollector.com/cards/3552/espeon-star-pop-series-5-16-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 16
+    },
+    {
+      "id": 3553,
+      "set_id": 1185,
+      "set_ids": [
+        1185
+      ],
+      "name": "Umbreon ☆",
+      "number": "17",
+      "number_value": 17,
+      "printed_total": 17,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/03/6a/d1/036ad17ca15899ff2e904470e562d882847bcdaa0e9e4001af1c9bcf4bebbe87.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/42/6b/54/426b54da28def0b53ab2a0c418a72bbe1692a8209faf2292bd7d79f6f1d2e248.jpg",
+      "image_path": "images/cards/1185/17-3553.webp",
+      "image_sha256": "eb15f62e1002437474d16e10d7aa57608d1529e7075bbf040b0e3400aa6a3d4b",
+      "image_bytes": 100333,
+      "source_url": "https://www.tcgcollector.com/cards/3553/umbreon-star-pop-series-5-17-17",
+      "scraped_at": "2026-10-18T22:25:26Z",
+      "position": 17
+    }
+  ]
+}

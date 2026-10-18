@@ -1,0 +1,2351 @@
+{
+  "set": {
+    "id": 1171,
+    "language": "en",
+    "name": "Steam Siege",
+    "code": "STS",
+    "series": "XY Series",
+    "release_date": "2016-08-03",
+    "date_text": "Aug 03, 2016",
+    "card_count": 116,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/66/be/34/66be34f80a32d4d7c498128ed200c05dd430a9b1644bf77549fd20a797a8f9d3.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/51/97/da/5197daebadcec76b6b859fd9f14161970d5b3179eaff653c05d249746a1eadb5.svg",
+    "logo_path": "images/sets/1171-logo.webp",
+    "symbol_path": "images/sets/1171-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/1171/steam-siege",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 116
+  },
+  "cards": [
+    {
+      "id": 9086,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Tangela",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ce/77/6e/ce776e931838e1bdd48fcec71e1530312fafce01ddfb62432d04bb108e191895.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/da/3f/c6/da3fc648ab99eda2d40d686a323a08319900dfebfda4869d0af6ae6bcf080eac.jpg",
+      "image_path": "images/cards/1171/1-9086.webp",
+      "image_sha256": "27f0eda76596ea21fc44083a9328ff9becde4aaf6b64bccbc808d6ca70b298cf",
+      "image_bytes": 178318,
+      "source_url": "https://www.tcgcollector.com/cards/9086/tangela-steam-siege-1-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 1
+    },
+    {
+      "id": 9087,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Tangrowth",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/66/90/59/669059868a0376742a00f3b0ea91f6dce365b0e948be162c2c0daafac521b441.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3f/41/0a/3f410ab600b5869f54be231e5c48975b31fd7689696a249828852fa43318810e.jpg",
+      "image_path": "images/cards/1171/2-9087.webp",
+      "image_sha256": "732f0a9df15227c85953cdeee4df5a36cabba4d1289064a7b638a1a3d5473ca5",
+      "image_bytes": 172627,
+      "source_url": "https://www.tcgcollector.com/cards/9087/tangrowth-steam-siege-2-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 2
+    },
+    {
+      "id": 9088,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Hoppip",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/77/9b/4d/779b4d0f842e9b8967211a2dc4018218fa76330a76945b5668fd41da1991e069.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b6/4d/4c/b64d4cd0f52f8d512907dff2860d4e0ac0054c5752ce5f1733f6fad4b4e9f245.jpg",
+      "image_path": "images/cards/1171/3-9088.webp",
+      "image_sha256": "4b5d4b90bb131161811110441146c7324a9b80e8b1b22cb4f0fc9435cac49255",
+      "image_bytes": 172554,
+      "source_url": "https://www.tcgcollector.com/cards/9088/hoppip-steam-siege-3-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 3
+    },
+    {
+      "id": 9089,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Skiploom",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/64/01/06/640106dd5e65f57c6a733755818592eeab89db1a0fd21094976b54611c933d1f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/19/3e/14/193e142bbb0c5710da52474b8d1ad5a74c33641974ee8d72a5a5f9fd12881bbb.jpg",
+      "image_path": "images/cards/1171/4-9089.webp",
+      "image_sha256": "7234d36250c403b05864a14e67503773617629b99d57483796041127ce5e95c9",
+      "image_bytes": 162868,
+      "source_url": "https://www.tcgcollector.com/cards/9089/skiploom-steam-siege-4-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 4
+    },
+    {
+      "id": 9090,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Jumpluff",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f4/b5/04/f4b5044264b412cbd7401b3786a855d8ab57e7ce0188541ec0aa9e407ab12258.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/96/52/c3/9652c3f790a150777c6b14296ce87c8de2640aea9abd82f852c341112e37624c.jpg",
+      "image_path": "images/cards/1171/5-9090.webp",
+      "image_sha256": "daae6c1ca4b574388fd9798829a12464f6bf52ae7602b7648b8635b4136e8348",
+      "image_bytes": 151687,
+      "source_url": "https://www.tcgcollector.com/cards/9090/jumpluff-steam-siege-5-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 5
+    },
+    {
+      "id": 9091,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Yanma",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/d2/2c/81/d22c81638f16a790ee8b025caaa7b2fd1e40f5fa8a9f3493b137445b43de43a0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ba/ad/d2/baadd27c35b244addea5aedeec99235370c22ad003295464ce7d38108d619ed7.jpg",
+      "image_path": "images/cards/1171/6-9091.webp",
+      "image_sha256": "f657e9e71fb40182ed012a2ddf0a55283e60e2366a6db69ab4c4ea419764254b",
+      "image_bytes": 146622,
+      "source_url": "https://www.tcgcollector.com/cards/9091/yanma-steam-siege-6-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 6
+    },
+    {
+      "id": 9092,
+      "set_id": 1171,
+      "set_ids": [
+        1171,
+        1270
+      ],
+      "name": "Yanmega",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/01/a4/88/01a488c102ac517f5749732e686e776ee731d5e5d3a39178b0e062d12fd91d62.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a6/75/79/a6757988a6243d0e900e06189480fb71d7aaf0b6b7774a0489e4d062e2bd439a.jpg",
+      "image_path": "images/cards/1171/7-9092.webp",
+      "image_sha256": "856f4fe5791310baea0ccff1b54436c9ffe0d017fd6d2b6b9aa26d207187585a",
+      "image_bytes": 174043,
+      "source_url": "https://www.tcgcollector.com/cards/9092/yanmega-steam-siege-7-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 7
+    },
+    {
+      "id": 9093,
+      "set_id": 1171,
+      "set_ids": [
+        1171,
+        1270
+      ],
+      "name": "Yanmega BREAK",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 114,
+      "rarity": "Rare BREAK",
+      "image_url": "https://static.tcgcollector.com/content/images/30/1e/14/301e14b367fe16883dcf76a3b3b3dbab6174ba31f9680c9cdc53bd562aa7f3e2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/92/b1/c4/92b1c40bbf47f2fe0cb112386e6aafb2b404e7b97b72596c775b21130d270ce5.jpg",
+      "image_path": "images/cards/1171/8-9093.webp",
+      "image_sha256": "82d97e86749db45ee975d58e6c54fc09dde47f3911dee7f661e7b789dec25f6e",
+      "image_bytes": 200451,
+      "source_url": "https://www.tcgcollector.com/cards/9093/yanmega-break-steam-siege-8-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 8
+    },
+    {
+      "id": 9094,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Seedot",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/00/1d/bd/001dbd668439fc93107bf37d52f171cc45a7d842616188c67c6115a1cf5084aa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2b/84/32/2b8432676a10a09ce1ce7e57dffabe3450b4024f3dc144dcb6d2ca26eb0eb461.jpg",
+      "image_path": "images/cards/1171/9-9094.webp",
+      "image_sha256": "245fdc8afcdb28057e2e4f5743eb00a3a9be5a1df219325bfc0552db0b3ba35b",
+      "image_bytes": 156275,
+      "source_url": "https://www.tcgcollector.com/cards/9094/seedot-steam-siege-9-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 9
+    },
+    {
+      "id": 9095,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Nuzleaf",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d8/5d/ae/d85dae9aa27c95a1fc75aaa0bb735ebd574df5b06afdd6eba960f13519e26ba5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2c/6d/a9/2c6da988f9dc0c2c9d25682afe03b9680a6f2abb7020be189eadbc9e0b835e0c.jpg",
+      "image_path": "images/cards/1171/10-9095.webp",
+      "image_sha256": "e6efd5b3aa09ea2adb608b01b30625c419b050367b91a5b2017431446ec8568e",
+      "image_bytes": 181525,
+      "source_url": "https://www.tcgcollector.com/cards/9095/nuzleaf-steam-siege-10-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 10
+    },
+    {
+      "id": 9096,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Shiftry",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 114,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/4c/cb/df/4ccbdfe079d01b2715ee15b17e9b2a25048159c7a0f99b6567d1b0d8ff821219.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4c/f0/b7/4cf0b702b3124257b5f11d662530c1c247ee6fa8a3db180dbc894354fbe866ab.jpg",
+      "image_path": "images/cards/1171/11-9096.webp",
+      "image_sha256": "ffc7c850b62c252e88f759fda4a2042a9e8720fe0309415b5f4138f020119f2f",
+      "image_bytes": 182035,
+      "source_url": "https://www.tcgcollector.com/cards/9096/shiftry-steam-siege-11-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 11
+    },
+    {
+      "id": 9097,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Foongus",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e2/1c/c7/e21cc72e754f100447d70e0aebf5bf5fae82134cca7a9e47754f24f60699b878.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ed/5a/b9/ed5ab96b39645047f0e37bfdbc5a168a3312d6a4e8ad7f65ca6fda1f6aa324fc.jpg",
+      "image_path": "images/cards/1171/12-9097.webp",
+      "image_sha256": "ea1662714751288ee8b9c0ffa9a87ee64267c341a0020a2fa3fd79a5155c97b1",
+      "image_bytes": 158620,
+      "source_url": "https://www.tcgcollector.com/cards/9097/foongus-steam-siege-12-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 12
+    },
+    {
+      "id": 9098,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Amoonguss",
+      "number": "13",
+      "number_value": 13,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/1d/9c/be/1d9cbef5a2f6fb37ec0477742c8a79fbdfbb2dfb25489100ed8484bdd9ce8f2a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ed/1d/9b/ed1d9ba8355d6bc631784816037326084439acb22da166d31a54d818660ee369.jpg",
+      "image_path": "images/cards/1171/13-9098.webp",
+      "image_sha256": "d3431fca4f928521cb24fd4824390596d0a7ad2a33216d2b55d4bc93f95c677d",
+      "image_bytes": 169170,
+      "source_url": "https://www.tcgcollector.com/cards/9098/amoonguss-steam-siege-13-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 13
+    },
+    {
+      "id": 9099,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Larvesta",
+      "number": "14",
+      "number_value": 14,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/d2/a8/99/d2a8996f88bb6bf37674041d1c4d8469f5a56015a3f8a7e187bed93de44b807e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9c/d4/a4/9cd4a425dff7c8bddcf79506078a7e7fe85d60e69dde575807d83c258afae39d.jpg",
+      "image_path": "images/cards/1171/14-9099.webp",
+      "image_sha256": "75d467e5954f5935597ccb51950fa6d9f13c17b2ba300619f22ae886143fad62",
+      "image_bytes": 198775,
+      "source_url": "https://www.tcgcollector.com/cards/9099/larvesta-steam-siege-14-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 14
+    },
+    {
+      "id": 9100,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Volcarona",
+      "number": "15",
+      "number_value": 15,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/1a/3c/a0/1a3ca020dc78abded7390a4d30081358442f4406007cef273be6846311eea66c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/93/0a/a3/930aa32c1c433be29096a5898c5cefc6b664e2dfe843aab46105680dbf2ff194.jpg",
+      "image_path": "images/cards/1171/15-9100.webp",
+      "image_sha256": "d93a62477def84c06ac36290dd252203eb81c785113efc914dafa052854f3fbf",
+      "image_bytes": 169151,
+      "source_url": "https://www.tcgcollector.com/cards/9100/volcarona-steam-siege-15-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 15
+    },
+    {
+      "id": 9101,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Ponyta",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/d0/bc/36/d0bc36bf4cfbeb457ff377f42efef9be8e514b6f572d178ad3c61e14dec9f139.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f9/94/87/f99487790641a044176e53c0e18e9dd75e534ec5433087ed87432f4db771c7c3.jpg",
+      "image_path": "images/cards/1171/16-9101.webp",
+      "image_sha256": "86ec690ededd6f0a6e618d1660ea956dd36a62fefb2839e75de2cae20f65c836",
+      "image_bytes": 143466,
+      "source_url": "https://www.tcgcollector.com/cards/9101/ponyta-steam-siege-16-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 16
+    },
+    {
+      "id": 9102,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Rapidash",
+      "number": "17",
+      "number_value": 17,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/e3/7b/c4/e37bc403f767d1ac95216af4f0c2a64de55df268a212e8604b969e483983e3ac.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4b/91/b9/4b91b9912632ae611c72685c78075f016c5cdd5e7e889475ab778d1380bdab9d.jpg",
+      "image_path": "images/cards/1171/17-9102.webp",
+      "image_sha256": "755feb010975796c34f2cad2797d4270d7d4750063ec3ee72210fb4ccd8febb4",
+      "image_bytes": 180330,
+      "source_url": "https://www.tcgcollector.com/cards/9102/rapidash-steam-siege-17-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 17
+    },
+    {
+      "id": 9103,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Chimchar",
+      "number": "18",
+      "number_value": 18,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/28/e1/5b/28e15bce1c5536e22d05f8f29c71e5a6586e146916946011d672b64fdd859f12.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d4/18/ba/d418ba74bb6f312f2ee00762a48e211782e04bba9f1e8a9b57df96719ed23d48.jpg",
+      "image_path": "images/cards/1171/18-9103.webp",
+      "image_sha256": "62a4f089dc3d7e0b02771f555353b6aebeb8891feb42814754c9d3d8b3b2e215",
+      "image_bytes": 176135,
+      "source_url": "https://www.tcgcollector.com/cards/9103/chimchar-steam-siege-18-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 18
+    },
+    {
+      "id": 9104,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Monferno",
+      "number": "19",
+      "number_value": 19,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/84/45/e6/8445e687aeb84863a84222e58a8ff3a94874eeba08fb75481345261395a0c3c4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2c/b7/05/2cb7051d6749fff15188039736144e764a00c192a276a783afdce01780e6057b.jpg",
+      "image_path": "images/cards/1171/19-9104.webp",
+      "image_sha256": "be66e37098262e98d38225f23ef00d12307ed7fa9f55fae2e1479d29c43fc0b4",
+      "image_bytes": 170425,
+      "source_url": "https://www.tcgcollector.com/cards/9104/monferno-steam-siege-19-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 19
+    },
+    {
+      "id": 9105,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Infernape",
+      "number": "20",
+      "number_value": 20,
+      "printed_total": 114,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/5e/61/d0/5e61d0c147186a02becbf7bb850d738dd4364531653b7f0a2e66722d6df94810.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/23/33/83/233383d74490e0d9723c117001917f2a8985590da21ea330b355f3bce915cbe7.jpg",
+      "image_path": "images/cards/1171/20-9105.webp",
+      "image_sha256": "7aacb3c596e9b1d87716bfaeeafb790e0ab9b5fd0fb96eb544fdb90921106ce5",
+      "image_bytes": 180024,
+      "source_url": "https://www.tcgcollector.com/cards/9105/infernape-steam-siege-20-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 20
+    },
+    {
+      "id": 9106,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Talonflame BREAK",
+      "number": "21",
+      "number_value": 21,
+      "printed_total": 114,
+      "rarity": "Rare BREAK",
+      "image_url": "https://static.tcgcollector.com/content/images/1f/96/09/1f960963d1bf3a3d3d7eea002f468ee45f2fd85fd23f48a64ad678a1d995cafb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e0/c6/e0/e0c6e0433f74c7d8c91424b35a7e986d461d439f4d81673381d9020887f206a1.jpg",
+      "image_path": "images/cards/1171/21-9106.webp",
+      "image_sha256": "c2beaaa27f318b0b19c0b58861a643da703db758cee094ce99ede31df146d35a",
+      "image_bytes": 183270,
+      "source_url": "https://www.tcgcollector.com/cards/9106/talonflame-break-steam-siege-21-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 21
+    },
+    {
+      "id": 9107,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Litleo",
+      "number": "22",
+      "number_value": 22,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/84/af/c8/84afc893e070145dcea295636eb0337f6e71c10efc1210788735d8889a527ecf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b3/d6/0a/b3d60a43e38f1b20a2ca13080f72c79226d86b6e0e6175b74386ef88a43e2a58.jpg",
+      "image_path": "images/cards/1171/22-9107.webp",
+      "image_sha256": "831bed74ddc88160f3a775d6ca44b5966e9c014b439a5e1632386e03334c20ce",
+      "image_bytes": 131795,
+      "source_url": "https://www.tcgcollector.com/cards/9107/litleo-steam-siege-22-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 22
+    },
+    {
+      "id": 9108,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Pyroar",
+      "number": "23",
+      "number_value": 23,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/8f/7d/39/8f7d3914c8da080372956b6b4ed0b3c6c80c1b12619293a2e1516cc97a806955.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4c/e4/9c/4ce49c5ef0c60c4e9ce9f5cf9f325aa9473382efabdc0e8fc3fd882bceff4fb7.jpg",
+      "image_path": "images/cards/1171/23-9108.webp",
+      "image_sha256": "bb693860dd3f1ea409e57eec33f274bf996407a47d957050ce9348c1a323a15e",
+      "image_bytes": 169082,
+      "source_url": "https://www.tcgcollector.com/cards/9108/pyroar-steam-siege-23-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 23
+    },
+    {
+      "id": 9109,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Pyroar BREAK",
+      "number": "24",
+      "number_value": 24,
+      "printed_total": 114,
+      "rarity": "Rare BREAK",
+      "image_url": "https://static.tcgcollector.com/content/images/71/ff/e9/71ffe9430a636b8eb917f2f69bea288b20d206bf5f2a7ae4f9ef1c3192d69021.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3c/64/43/3c644307f1ff9dfb1ac73ef0f56051c949df353035d3a440ffcd24619323ae5b.jpg",
+      "image_path": "images/cards/1171/24-9109.webp",
+      "image_sha256": "16aa59fd00603061b4fa899a9947188fb8a524f6d4597a04b98a600b8b342a33",
+      "image_bytes": 202219,
+      "source_url": "https://www.tcgcollector.com/cards/9109/pyroar-break-steam-siege-24-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 24
+    },
+    {
+      "id": 9110,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Volcanion",
+      "number": "25",
+      "number_value": 25,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/26/32/7b/26327b95c2efd86bce544bad175ac47b5fa59c45276f3e4f983519c5489ac080.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e3/da/55/e3da554d18b0a1e958df29f4f65d79a254f8afc3c27695c19aae44b2267deb4a.jpg",
+      "image_path": "images/cards/1171/25-9110.webp",
+      "image_sha256": "d4fe3b9e9676123930e6c51c539164e888984a2c197f3b0d3640e7e69a613191",
+      "image_bytes": 173639,
+      "source_url": "https://www.tcgcollector.com/cards/9110/volcanion-steam-siege-25-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 25
+    },
+    {
+      "id": 9111,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Volcanion-EX",
+      "number": "26",
+      "number_value": 26,
+      "printed_total": 114,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/48/d9/a6/48d9a6ab13437e6fef516ea420f8b5cc322c756dc0adeb2f641bf0fbed0ea75f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/80/27/60/802760c3eec41ea08803a6823647661f56cb0375eded88e1e8ad233a52b43b5e.jpg",
+      "image_path": "images/cards/1171/26-9111.webp",
+      "image_sha256": "d90e66919c347883ab8b3865afb14a21a1adeb97bd8c29a9a8b0e92cff00a6d7",
+      "image_bytes": 229630,
+      "source_url": "https://www.tcgcollector.com/cards/9111/volcanion-ex-steam-siege-26-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 26
+    },
+    {
+      "id": 9112,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Mantine",
+      "number": "27",
+      "number_value": 27,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/26/32/58/2632580d57f994572d91aa03877a5b9b3547e8757414ac129c13b1781159cdb9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/eb/58/76/eb58763c2b429a024ead49dee67e3982660f7f77254ec7653ac75ab36774d36f.jpg",
+      "image_path": "images/cards/1171/27-9112.webp",
+      "image_sha256": "e37ce670dd56015219fb5167b4c1622b90ac0d9c416e46262277228506d90c77",
+      "image_bytes": 183900,
+      "source_url": "https://www.tcgcollector.com/cards/9112/mantine-steam-siege-27-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 27
+    },
+    {
+      "id": 9113,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Shellos",
+      "number": "28",
+      "number_value": 28,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a7/54/6c/a7546c7808cbc46204b57c619bf4dc2d9a9bdbaf84f446bb39061a58a85aeffd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/73/6c/0a/736c0a1768671061c24bf65ad560b4ca43e49ee90bd22b016eb7e6e373972523.jpg",
+      "image_path": "images/cards/1171/28-9113.webp",
+      "image_sha256": "cfa20011025608733b06045db828802de3ec241ea6a6f00e16a2ff1cd95e7e7f",
+      "image_bytes": 152801,
+      "source_url": "https://www.tcgcollector.com/cards/9113/shellos-steam-siege-28-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 28
+    },
+    {
+      "id": 9114,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Gastrodon",
+      "number": "29",
+      "number_value": 29,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/b8/bc/f5/b8bcf54f8180ce268b8ef7a98514fae23f61f7eb849c3bfb583c361bd3a31f34.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ac/03/4e/ac034e8e655fb8df12109da72319875402b80ea273ddafc27f70e71639ddbdac.jpg",
+      "image_path": "images/cards/1171/29-9114.webp",
+      "image_sha256": "ab7a3b0caef69ecbb4e3088b4a2acfb255f827e8ab8790563348b4d3eac6b0d9",
+      "image_bytes": 189799,
+      "source_url": "https://www.tcgcollector.com/cards/9114/gastrodon-steam-siege-29-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 29
+    },
+    {
+      "id": 9115,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Oshawott",
+      "number": "30",
+      "number_value": 30,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/35/20/46/352046d0e38713efdf21c210f3bc8ca0e08211073977362ca68026d676ac8895.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/53/a4/05/53a405857356eea156b43a80de3f9a0db7612386d3ddddaa1bb24b17101e49ec.jpg",
+      "image_path": "images/cards/1171/30-9115.webp",
+      "image_sha256": "ba299a9b8525beb256a6d9060abffc3c3a19048c80d9860ae180fba441c466c0",
+      "image_bytes": 145062,
+      "source_url": "https://www.tcgcollector.com/cards/9115/oshawott-steam-siege-30-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 30
+    },
+    {
+      "id": 9116,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Dewott",
+      "number": "31",
+      "number_value": 31,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/42/7e/60/427e60dd4a3a0d9d4a5730b755b822baafa909d8cc457be2f1206301b3fadd35.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/81/e8/9e/81e89eb3ddfc248a6bc6b3499a980b8d0061af3c9d949988f3a9076a53f05dad.jpg",
+      "image_path": "images/cards/1171/31-9116.webp",
+      "image_sha256": "5790b951d07bcba0ecabbaf510b9c3f3e34a7d5c0fa835ef47b1044fea8b6530",
+      "image_bytes": 162961,
+      "source_url": "https://www.tcgcollector.com/cards/9116/dewott-steam-siege-31-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 31
+    },
+    {
+      "id": 9117,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Samurott",
+      "number": "32",
+      "number_value": 32,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/01/d2/1e/01d21e407ca017e0df6e3a8887663daaf593c6cbcdd51c5454b52d51273dd3e7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/46/d7/f9/46d7f982c9cd6bc319fc6f7c18592ee322b766342ce046213956756b7a80d366.jpg",
+      "image_path": "images/cards/1171/32-9117.webp",
+      "image_sha256": "006d6a47f4db429d368ff27f441dd7ffa835c049817c340a6fa340eadf2b3259",
+      "image_bytes": 198242,
+      "source_url": "https://www.tcgcollector.com/cards/9117/samurott-steam-siege-32-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 32
+    },
+    {
+      "id": 9118,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Clauncher",
+      "number": "33",
+      "number_value": 33,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/68/ba/1a/68ba1a63d485584385e611c8543f68b1e020d0d7810a826aad6b84fb1e44d976.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3e/f8/0b/3ef80b1abe0eed62878567a95a64bc925a5c88c21be4f8f2a9dd92f9d95b6982.jpg",
+      "image_path": "images/cards/1171/33-9118.webp",
+      "image_sha256": "7dcf79d1b53a9eb1bd6d2eaf0fae25874a08efb58f786808e9409040993eaf97",
+      "image_bytes": 165832,
+      "source_url": "https://www.tcgcollector.com/cards/9118/clauncher-steam-siege-33-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 33
+    },
+    {
+      "id": 9119,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Clawitzer",
+      "number": "34",
+      "number_value": 34,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/1c/4f/6b/1c4f6b673dcd5f82428fb09ce1283517eee842f7e1ca1ae922261cd67f359f52.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/66/92/48/6692481248b64c0df203d046b45eac264832f56587ce783c53e5d000a17cea8b.jpg",
+      "image_path": "images/cards/1171/34-9119.webp",
+      "image_sha256": "3ec53c01f00a4350feedba9f81f9cc4bb154490c799866662516f269466f4a65",
+      "image_bytes": 174488,
+      "source_url": "https://www.tcgcollector.com/cards/9119/clawitzer-steam-siege-34-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 34
+    },
+    {
+      "id": 9120,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Clawitzer BREAK",
+      "number": "35",
+      "number_value": 35,
+      "printed_total": 114,
+      "rarity": "Rare BREAK",
+      "image_url": "https://static.tcgcollector.com/content/images/85/06/3d/85063d7230e77600a94382d42e793bc02f82a65171e99483d19d473a4294afc3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/63/66/3d/63663d2bfe4fc50386a9e95c2b8e3bcbdf3a00fc294e414646ec866442dd7d17.jpg",
+      "image_path": "images/cards/1171/35-9120.webp",
+      "image_sha256": "82b859b7de771af7fcaf4dfc83151fd3c11e166a63650b3fe1f6eb1d9e5541a3",
+      "image_bytes": 208202,
+      "source_url": "https://www.tcgcollector.com/cards/9120/clawitzer-break-steam-siege-35-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 35
+    },
+    {
+      "id": 9121,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Bergmite",
+      "number": "36",
+      "number_value": 36,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/2a/e7/18/2ae7180751ace9aafc823146dc0535ba2b5e6bb3f7ec4f1ed4d3880a6156597a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d3/a3/e8/d3a3e8e4c303796b17b269a37eba0eb13191d26e94212fd8a823e7d32f47a09a.jpg",
+      "image_path": "images/cards/1171/36-9121.webp",
+      "image_sha256": "f1dc3c32c7d789929c1661ed60aee1258f07e5fa14de400f4b25a764e686bde9",
+      "image_bytes": 148587,
+      "source_url": "https://www.tcgcollector.com/cards/9121/bergmite-steam-siege-36-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 36
+    },
+    {
+      "id": 9122,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Avalugg",
+      "number": "37",
+      "number_value": 37,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/9f/21/4c/9f214c3329d0ed07f36f03bedbb4d0744c7ffb15d3cff5b1b0e1514d36da49e3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dc/ce/6d/dcce6d56dcd1e59d41b2baf4f980c368802364faa59bae9423adf14996a77bf3.jpg",
+      "image_path": "images/cards/1171/37-9122.webp",
+      "image_sha256": "cb1421440c00c020fc2912cb08ff929f64a762ea2208a6cf956ba7b3ef09daa4",
+      "image_bytes": 194049,
+      "source_url": "https://www.tcgcollector.com/cards/9122/avalugg-steam-siege-37-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 37
+    },
+    {
+      "id": 9123,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Mareep",
+      "number": "38",
+      "number_value": 38,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/2d/4e/98/2d4e9815739ffd2d76f0abc3d9ecdc3203a9c0b14add612c36268e92e668d853.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/93/1b/ce/931bce190c4350527fd3c3dc84af5dc6cb42ee5d9d7a60131b0fec562cf28339.jpg",
+      "image_path": "images/cards/1171/38-9123.webp",
+      "image_sha256": "7c7bde7860a5c215e7667d3c5912990dc274447bb93ca382f8a747258ac9832b",
+      "image_bytes": 196855,
+      "source_url": "https://www.tcgcollector.com/cards/9123/mareep-steam-siege-38-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 38
+    },
+    {
+      "id": 9124,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Flaaffy",
+      "number": "39",
+      "number_value": 39,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/54/a5/ac/54a5ace94ac98032031952a7de6f93bf4f379ece0ec5361351b8d89c33e46dfa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/db/c0/34/dbc03419b8380838e9108fc711312032eb59d28f1bf2bec809c938dfb2ee4d19.jpg",
+      "image_path": "images/cards/1171/39-9124.webp",
+      "image_sha256": "81582ffc94caf955490887341a852f7d5021ca8d77d19d6e189b7b85453e0465",
+      "image_bytes": 171238,
+      "source_url": "https://www.tcgcollector.com/cards/9124/flaaffy-steam-siege-39-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 39
+    },
+    {
+      "id": 9125,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Ampharos",
+      "number": "40",
+      "number_value": 40,
+      "printed_total": 114,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/37/f5/34/37f534ad51e9a2e46d3468a18e29128848c67e3bee30a2470795ad72e7d25904.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/00/7a/e9/007ae99dbaf60a23ae913d502300271586305c8081f1dc83f23f7b86390fc6b2.jpg",
+      "image_path": "images/cards/1171/40-9125.webp",
+      "image_sha256": "54198d3bf065b5f1a017762032cb8cb717ca132c29d06733b8e5dc88024cf03c",
+      "image_bytes": 187703,
+      "source_url": "https://www.tcgcollector.com/cards/9125/ampharos-steam-siege-40-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 40
+    },
+    {
+      "id": 9126,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Joltik",
+      "number": "41",
+      "number_value": 41,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/20/0b/28/200b28b6efe7b62ed5b4c203662ef6fe6b1016e3814c4645b42de6ea7ee34afc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9d/96/b6/9d96b6c65fc9c987d94eea7c89483226be26bbd1e97fab186a0c8e97077688cd.jpg",
+      "image_path": "images/cards/1171/41-9126.webp",
+      "image_sha256": "dbbb080caf6e99a267e4b4100a14fd90b31ed148f94baf7893245a93d14c41be",
+      "image_bytes": 185742,
+      "source_url": "https://www.tcgcollector.com/cards/9126/joltik-steam-siege-41-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 41
+    },
+    {
+      "id": 9127,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Galvantula",
+      "number": "42",
+      "number_value": 42,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/e0/33/12/e03312297ee3393cfe7c8bd8fc22587f87b7e6dc6bccb397711762a7db1414e5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f1/ca/c8/f1cac8073577d5d1784cc446c1a77742929efc4043df488b0cf03fb2fde0996c.jpg",
+      "image_path": "images/cards/1171/42-9127.webp",
+      "image_sha256": "2f69caaadbbbd14478dd6f11002b438794b1220e44f6a3b2bacd10af1b329c86",
+      "image_bytes": 193485,
+      "source_url": "https://www.tcgcollector.com/cards/9127/galvantula-steam-siege-42-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 42
+    },
+    {
+      "id": 9128,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Nidoran ♂",
+      "number": "43",
+      "number_value": 43,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/55/ae/4a/55ae4a93d61598cc18029ed0fd41f099b93a7c84a4bd164bb1b6d79061217de1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/93/09/07/93090728ce2c276376d04a76f7188a9ed46672caabc8635da8ff03187f185bb4.jpg",
+      "image_path": "images/cards/1171/43-9128.webp",
+      "image_sha256": "21dfe6d7f743e76b2b2840e0cc27c67b167b8187807612f72e370a92fb72e853",
+      "image_bytes": 144697,
+      "source_url": "https://www.tcgcollector.com/cards/9128/nidoran-male-steam-siege-43-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 43
+    },
+    {
+      "id": 9129,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Nidorino",
+      "number": "44",
+      "number_value": 44,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/7b/85/26/7b8526235e623391ecee1356f902d5534f4ec509e04acd349cf530081bf466b8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7b/aa/bc/7baabc90dbd670dcdbb836b4cdacd817bb902f3ec2cc826e7885ebee58f6b171.jpg",
+      "image_path": "images/cards/1171/44-9129.webp",
+      "image_sha256": "2f62f64819a127d3759470553a63a879987b78b98299b972cf0dfc6d84e1b2a8",
+      "image_bytes": 144109,
+      "source_url": "https://www.tcgcollector.com/cards/9129/nidorino-steam-siege-44-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 44
+    },
+    {
+      "id": 9130,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Nidoking",
+      "number": "45",
+      "number_value": 45,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/36/24/15/3624154a93eccf51a9355d82e285a358ec4f4f135bc35e1df700ec8302dae2ff.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/79/c1/29/79c1290c1ecbd27fb8b19718b6e28e1b8d2eecdac6142295de857046f5e7b143.jpg",
+      "image_path": "images/cards/1171/45-9130.webp",
+      "image_sha256": "169e2c72807cadd059aec962fd3265a1d69bc3b69ebe89f38d8d9106d4769644",
+      "image_bytes": 194980,
+      "source_url": "https://www.tcgcollector.com/cards/9130/nidoking-steam-siege-45-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 45
+    },
+    {
+      "id": 9131,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Drifloon",
+      "number": "46",
+      "number_value": 46,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e1/22/f0/e122f0aa037070f0c0f54f34d90ee65dbde96646e339b42bf4c4170fbb94a38a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/88/df/dd/88dfdd330229472544cf7c9c8349a165bcbfd74bada26786245caa06a213945e.jpg",
+      "image_path": "images/cards/1171/46-9131.webp",
+      "image_sha256": "8762b64be5e49280af67b3a5a904f3e6c7ad43de19da5bb507993985e32ffcd3",
+      "image_bytes": 145096,
+      "source_url": "https://www.tcgcollector.com/cards/9131/drifloon-steam-siege-46-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 46
+    },
+    {
+      "id": 9132,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Drifblim",
+      "number": "47",
+      "number_value": 47,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b3/bd/b6/b3bdb668db9a93b5fed43bc47d33f7bb594a077a41eb7b12602d8dace576ad93.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f3/a8/9f/f3a89fd8a5c29e5f3bfee932680777ccdbaaa9198b4b6a934297bdbdb703b1fa.jpg",
+      "image_path": "images/cards/1171/47-9132.webp",
+      "image_sha256": "cb4450f138d12f8f799fbf114c0fdba19bdadfbe083269d91fc6fcf98bc0b8ee",
+      "image_bytes": 147087,
+      "source_url": "https://www.tcgcollector.com/cards/9132/drifblim-steam-siege-47-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 47
+    },
+    {
+      "id": 9133,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Litwick",
+      "number": "48",
+      "number_value": 48,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/15/76/21/15762138402e396f607865dcf3b4e554a92339c2511cb8f99cfebe1fd8ec7546.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5b/fe/0d/5bfe0d3a70b54bd1d1d0b019e5f47c21aad1f4ad9fb2bb0b3c3383f733dc2276.jpg",
+      "image_path": "images/cards/1171/48-9133.webp",
+      "image_sha256": "bee2e16f04d3f5e0c05270e3e11ab5b3907aa1f8108fd1242216c57579b7c6cc",
+      "image_bytes": 120868,
+      "source_url": "https://www.tcgcollector.com/cards/9133/litwick-steam-siege-48-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 48
+    },
+    {
+      "id": 9134,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Lampent",
+      "number": "49",
+      "number_value": 49,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/90/14/9c/90149c4cab5866635701748b47756c50fbb733f5757234ad7637915ef83a09a6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d6/34/35/d63435e03be56ca7763202eb45307cd27eb35bd938c89f07788ef72a8fd5882d.jpg",
+      "image_path": "images/cards/1171/49-9134.webp",
+      "image_sha256": "2367792e72178379062b6576cda42b6cae70dd854ae40e3e7d6888691a4f18a6",
+      "image_bytes": 148590,
+      "source_url": "https://www.tcgcollector.com/cards/9134/lampent-steam-siege-49-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 49
+    },
+    {
+      "id": 9135,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Chandelure",
+      "number": "50",
+      "number_value": 50,
+      "printed_total": 114,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/52/8f/84/528f8495a83670d6801f03ad3068dedddc5e4edbcd353e3842892ba84d41c587.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/31/40/0d/31400d0418f31f18c2c05e15d4af937faf4262a365762a3974604538884da45d.jpg",
+      "image_path": "images/cards/1171/50-9135.webp",
+      "image_sha256": "cc498e7fdbfae7fbd45ea5194af606422967b41ce790e1eea73d105f855b7c90",
+      "image_bytes": 193338,
+      "source_url": "https://www.tcgcollector.com/cards/9135/chandelure-steam-siege-50-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 50
+    },
+    {
+      "id": 9136,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Hoopa",
+      "number": "51",
+      "number_value": 51,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/1d/a2/ca/1da2caa6ebd6c9a4d893d0e7e16b376d7680f8f8970bb048fa1c77a5f71b4768.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9e/51/78/9e51785530c121ad623d51b91b9b67f5c2e32733631ab83c586fd75368385a98.jpg",
+      "image_path": "images/cards/1171/51-9136.webp",
+      "image_sha256": "bbb9f106d02aa2190e216f0ede838b3d0e26c5c996b159875266f9a45f009feb",
+      "image_bytes": 163770,
+      "source_url": "https://www.tcgcollector.com/cards/9136/hoopa-steam-siege-51-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 51
+    },
+    {
+      "id": 9137,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Mankey",
+      "number": "52",
+      "number_value": 52,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/5d/d6/31/5dd6310216d20ab8832d68e2a5e4ff172753f7fc54acbe393ca9cc526e1b7e68.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/82/33/3a/82333ab1d6a74648dcd5412cef556dff9c9728c70c67427b46d59b7c61f2f42a.jpg",
+      "image_path": "images/cards/1171/52-9137.webp",
+      "image_sha256": "88cc8fafe0a1fb50d25813650977a4dbbdaf85dc3d035fbf374c9f7b38d27561",
+      "image_bytes": 189838,
+      "source_url": "https://www.tcgcollector.com/cards/9137/mankey-steam-siege-52-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 52
+    },
+    {
+      "id": 9138,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Primeape",
+      "number": "53",
+      "number_value": 53,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/b4/9f/e1/b49fe19d9ab10bfcce01ab9ee090c3d6e2e6dfcd333cb3bc62a31fa01fc4b266.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b9/a0/f9/b9a0f9638b14aec2722fc95e30ed60d16745dbc417d3b8285ad8cb4399bc03cc.jpg",
+      "image_path": "images/cards/1171/53-9138.webp",
+      "image_sha256": "2561dd0a7e92f181b6113a20b4910624587b7f22e21ed67e0b7f33f32cc1d67d",
+      "image_bytes": 207070,
+      "source_url": "https://www.tcgcollector.com/cards/9138/primeape-steam-siege-53-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 53
+    },
+    {
+      "id": 9139,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Nosepass",
+      "number": "54",
+      "number_value": 54,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/fa/61/3e/fa613e0e5d4c70791d26fefcaf94138346e9a230dd5931f7842d21360022406d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/51/e7/5c/51e75c97ef4026c3a23677cb16168b02789906b4da6b0075f0501b0ad43112ed.jpg",
+      "image_path": "images/cards/1171/54-9139.webp",
+      "image_sha256": "08701e42bda24124095e64b5504999a1885cbe7f589eb068407a07bf404bab2d",
+      "image_bytes": 163462,
+      "source_url": "https://www.tcgcollector.com/cards/9139/nosepass-steam-siege-54-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 54
+    },
+    {
+      "id": 9140,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Probopass",
+      "number": "55",
+      "number_value": 55,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/0e/8b/de/0e8bde5ecf0156acee007940d34fa75d6ac6883b316960e462f4ff6c8158703e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c5/69/88/c5698896fe6d05056d6127bae38d17eb07333f7e970a80966c36f078dcd16ed1.jpg",
+      "image_path": "images/cards/1171/55-9140.webp",
+      "image_sha256": "2e73b6a9ce48ac0c572c4bad6a64caf830580b8067c354f01cdc072ae103110f",
+      "image_bytes": 172848,
+      "source_url": "https://www.tcgcollector.com/cards/9140/probopass-steam-siege-55-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 55
+    },
+    {
+      "id": 9510,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Anorith",
+      "number": "56",
+      "number_value": 56,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b6/48/0a/b6480a7f287594506ccd57f391a88b7bc09c7ed43ca8a58e44cde74d27797cf0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7f/af/60/7faf60c54d8b3fe19e4407777e9a4e77e63540012987686cbd6066c02b8b72cd.jpg",
+      "image_path": "images/cards/1171/56-9510.webp",
+      "image_sha256": "5984276e25add8b9196b4693f1182db542b74965f8b4c2119aab9fed1fcc29dd",
+      "image_bytes": 199758,
+      "source_url": "https://www.tcgcollector.com/cards/9510/anorith-steam-siege-56-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 56
+    },
+    {
+      "id": 9142,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Armaldo",
+      "number": "57",
+      "number_value": 57,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/95/86/b0/9586b04803bb08343046f13b282f0df49efafe224e5a73edac4126271f8430a1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/34/9f/75/349f751f1d4166ff052b3c5fa8a54496b08104a1aa8717b134b887f14fec95c5.jpg",
+      "image_path": "images/cards/1171/57-9142.webp",
+      "image_sha256": "d7fd7544ae49d1819647d1c97968ea022bee34d1f274ebeb3d53f98676067244",
+      "image_bytes": 193523,
+      "source_url": "https://www.tcgcollector.com/cards/9142/armaldo-steam-siege-57-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 57
+    },
+    {
+      "id": 9143,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Croagunk",
+      "number": "58",
+      "number_value": 58,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e0/f0/da/e0f0da1ca219339027fdce181347247ebe117c60dcb91ab48094c355f8fd0a65.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f4/38/40/f438405f4b1e9c67ef82d6b9e0ed0f3861fca059fcf240f1626319567eb25b80.jpg",
+      "image_path": "images/cards/1171/58-9143.webp",
+      "image_sha256": "169f52e729266234d2ec8a24f22eba5860acdf7b9c72a70964951496aaade7f4",
+      "image_bytes": 191439,
+      "source_url": "https://www.tcgcollector.com/cards/9143/croagunk-steam-siege-58-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 58
+    },
+    {
+      "id": 9144,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Toxicroak",
+      "number": "59",
+      "number_value": 59,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/10/9d/3a/109d3a7dcd81f2dd620f919c8a0f5042aabd2de65f7d92550b5a12697c95660e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2c/00/41/2c00416d10c61ac6f08ed207d53bb62222b113be8b5cdd503eb968fdf11ff61a.jpg",
+      "image_path": "images/cards/1171/59-9144.webp",
+      "image_sha256": "e21f0cfae4bc9152e9863b184e58b5e25f31ea4c8329b97e501040f42b8a353b",
+      "image_bytes": 199952,
+      "source_url": "https://www.tcgcollector.com/cards/9144/toxicroak-steam-siege-59-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 59
+    },
+    {
+      "id": 9145,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Sneasel",
+      "number": "60",
+      "number_value": 60,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/68/43/ff/6843ffbd15cba8a991a4b99b402bedf2265e228679c1cbf2f40a001ff567f4c0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1d/90/2a/1d902acd7495049b1d4d08097141634fa0b741a9f3e3e17eaf77eb92742ce13a.jpg",
+      "image_path": "images/cards/1171/60-9145.webp",
+      "image_sha256": "12ab357eda05162b0174600a00adcf23a39836fde618391993975b6b24e8f71e",
+      "image_bytes": 145422,
+      "source_url": "https://www.tcgcollector.com/cards/9145/sneasel-steam-siege-60-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 60
+    },
+    {
+      "id": 9271,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Weavile",
+      "number": "61",
+      "number_value": 61,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/e8/06/cc/e806cc250a61a03f6f8a68729c44a98785612992e7fcc81f4d542499b6d6480d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2f/35/9c/2f359c3a584bdef7b4f436e95eae37bb9a1b6170f0ba1a501bf808f4b990f7f5.jpg",
+      "image_path": "images/cards/1171/61-9271.webp",
+      "image_sha256": "6a9959ad4e33c8de6a98272fa8011329d6c4389d2a49dc3e794125ea1214c36f",
+      "image_bytes": 159627,
+      "source_url": "https://www.tcgcollector.com/cards/9271/weavile-steam-siege-61-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 61
+    },
+    {
+      "id": 9272,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Spiritomb",
+      "number": "62",
+      "number_value": 62,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/2e/83/92/2e8392c382b03a73af272da54485a0be8bc59b0e930fc7a1eaf61bae6de41002.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/21/b8/4f/21b84fbfd7564f19b4d96719c7a2943550c993e017b11dbaff55c45391b951f1.jpg",
+      "image_path": "images/cards/1171/62-9272.webp",
+      "image_sha256": "2246eb0c4d8b161656d9d1a494be75d4458797e2031524f0134517c8e94ec236",
+      "image_bytes": 171574,
+      "source_url": "https://www.tcgcollector.com/cards/9272/spiritomb-steam-siege-62-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 62
+    },
+    {
+      "id": 9273,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Pawniard",
+      "number": "63",
+      "number_value": 63,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/fc/52/9b/fc529bf7d6546a1f9dadf43a0e647a365e93ed671fa6ad5ad72510fe18224597.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/16/b7/92/16b792454820b6277be5eb32d62eee4e77ea3bedb708b976fa2a4d6ca1569b76.jpg",
+      "image_path": "images/cards/1171/63-9273.webp",
+      "image_sha256": "5095427ec17e594d261416287e86db161ad52a07ccbfa6505a002579a24bb3f9",
+      "image_bytes": 137217,
+      "source_url": "https://www.tcgcollector.com/cards/9273/pawniard-steam-siege-63-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 63
+    },
+    {
+      "id": 9274,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Bisharp",
+      "number": "64",
+      "number_value": 64,
+      "printed_total": 114,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/29/03/bb/2903bb41fbb4046a2b3d594b8152b99d3deab4e770500c1aecbdfd6dfc601bdf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d4/5e/bb/d45ebbf35dd919966f6b1ba0fb9ef9513c57d9c16fd8b6b513c6998d5f400961.jpg",
+      "image_path": "images/cards/1171/64-9274.webp",
+      "image_sha256": "44fb9089e1420822cb4c61c4ab8edecedeb14630d7c418460de453fa44ed859c",
+      "image_bytes": 210234,
+      "source_url": "https://www.tcgcollector.com/cards/9274/bisharp-steam-siege-64-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 64
+    },
+    {
+      "id": 9275,
+      "set_id": 1171,
+      "set_ids": [
+        1171,
+        1271
+      ],
+      "name": "Yveltal",
+      "number": "65",
+      "number_value": 65,
+      "printed_total": 114,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/40/46/8a/40468a6f0a4a309ab4e91ac30ad642799765baa0f15e23e1c1f2ef927b6c4d3f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/98/a7/1c/98a71c9bdb1c01d891fd56bc14981be713b8fedeb560e9fa6204e02704187002.jpg",
+      "image_path": "images/cards/1171/65-9275.webp",
+      "image_sha256": "5da7f300d4984d5811b276f94b1d2afdb91a6ea53f8a3700da5fb521d2fa0bfb",
+      "image_bytes": 149049,
+      "source_url": "https://www.tcgcollector.com/cards/9275/yveltal-steam-siege-65-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 65
+    },
+    {
+      "id": 9276,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Yveltal BREAK",
+      "number": "66",
+      "number_value": 66,
+      "printed_total": 114,
+      "rarity": "Rare BREAK",
+      "image_url": "https://static.tcgcollector.com/content/images/1a/83/79/1a8379de29f2551a4543997488784743bdef0cdb67a360789423e5d9ad95b0db.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c0/71/2e/c0712edf1a576cc5fb352f544c7b2d02645bfd565bd4893c034851e340573eff.jpg",
+      "image_path": "images/cards/1171/66-9276.webp",
+      "image_sha256": "4c268e422acbf2aa8f113bf562b2ab7d09963541ec3a9f83aa1c23204db00bd3",
+      "image_bytes": 254580,
+      "source_url": "https://www.tcgcollector.com/cards/9276/yveltal-break-steam-siege-66-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 66
+    },
+    {
+      "id": 9277,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Steelix-EX",
+      "number": "67",
+      "number_value": 67,
+      "printed_total": 114,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/ae/bf/56/aebf56d55cb80c76d6d5fb156b542b00b2df0c9bbb33e5a6aed22d125d376cbb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a0/6a/9a/a06a9a42a01eb5bc00f3099a1e42f7c759affa7c4cb0ab3a9fe67a4911150145.jpg",
+      "image_path": "images/cards/1171/67-9277.webp",
+      "image_sha256": "3eff062da2f26e3d8a1a9186ab9b046dfa00e3b167769d833d6c3e5bdb1357ee",
+      "image_bytes": 272317,
+      "source_url": "https://www.tcgcollector.com/cards/9277/steelix-ex-steam-siege-67-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 67
+    },
+    {
+      "id": 9278,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "M Steelix-EX",
+      "number": "68",
+      "number_value": 68,
+      "printed_total": 114,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/41/5a/26/415a2658252c736cde9aaebc11239231c084970c5b68db5242fff0e70d2eee71.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/47/05/34/470534aece5ec6a7149ba67e955eeb4ef02d5e6e38ec3a20f2da15f7bc86e630.jpg",
+      "image_path": "images/cards/1171/68-9278.webp",
+      "image_sha256": "417c4b715db21f269aa105e15a6d3f9133a1f99bc0868b176018b06eb28fafa8",
+      "image_bytes": 265569,
+      "source_url": "https://www.tcgcollector.com/cards/9278/m-steelix-ex-steam-siege-68-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 68
+    },
+    {
+      "id": 9509,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Shieldon",
+      "number": "69",
+      "number_value": 69,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/c8/cc/87/c8cc87f5eabf801e34709f08f32121c72d34810dfa0cf00735e71a4f7f00526d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/30/97/03/309703d572db1e2743cd802731fef07ec246a78a0fcbb6435ebd9d5561b23c57.jpg",
+      "image_path": "images/cards/1171/69-9509.webp",
+      "image_sha256": "a31e788f41ad288347d192ba8835af7be95e35fadef72416f200f5c44ae9053c",
+      "image_bytes": 252121,
+      "source_url": "https://www.tcgcollector.com/cards/9509/shieldon-steam-siege-69-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 69
+    },
+    {
+      "id": 9280,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Bastiodon",
+      "number": "70",
+      "number_value": 70,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/4a/fd/35/4afd35558ed0f87b3a6ad932371ff1cb0ef62816e2be0722f88d906f0b309423.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/94/da/35/94da35e45130bb52dcc7f4a6ea9647cfcc2586d0753d12575e9e5303c8196acf.jpg",
+      "image_path": "images/cards/1171/70-9280.webp",
+      "image_sha256": "45b6d45e5ee3dd480f9aaa93717a2f7a026301353e11ae842e215dd089bfa915",
+      "image_bytes": 236979,
+      "source_url": "https://www.tcgcollector.com/cards/9280/bastiodon-steam-siege-70-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 70
+    },
+    {
+      "id": 9281,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Klink",
+      "number": "71",
+      "number_value": 71,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/50/89/fc/5089fc25acecbf3f593e08f486cee7accb9e0d10580cc143987347d8a46df166.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c6/79/6a/c6796affc10ac3998034afcb95c894758c6754442e977a61e1beefd5c5f9a816.jpg",
+      "image_path": "images/cards/1171/71-9281.webp",
+      "image_sha256": "e79206717a458588b895014371f52b757bb4ce1bcb5722275720a1888c5ab0f3",
+      "image_bytes": 195219,
+      "source_url": "https://www.tcgcollector.com/cards/9281/klink-steam-siege-71-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 71
+    },
+    {
+      "id": 9282,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Klang",
+      "number": "72",
+      "number_value": 72,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/59/ba/42/59ba429523d6f1e0b16cf0fdd2b4be14352d6bcfbb5d40385c30b11a1e6756a6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/27/2b/05/272b053e1621a00ce824f187a43eb68babe1d7d396d622698b79fe3ae3a8df71.jpg",
+      "image_path": "images/cards/1171/72-9282.webp",
+      "image_sha256": "e47365dc79edd02a3d43fe0db203990e363aa30542b4ed250b2e0be01071fa17",
+      "image_bytes": 236862,
+      "source_url": "https://www.tcgcollector.com/cards/9282/klang-steam-siege-72-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 72
+    },
+    {
+      "id": 9283,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Klinklang",
+      "number": "73",
+      "number_value": 73,
+      "printed_total": 114,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/27/b3/be/27b3be95b533181394383d51065917cea093725c1727dd56791379a9954df96c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/72/61/b7/7261b7fbbabc7961e52980762aec250eeb5282ce1c411a747d3a89252106e8d1.jpg",
+      "image_path": "images/cards/1171/73-9283.webp",
+      "image_sha256": "a8c185ba78719141ac71ec4be9e7e0a658afa90fb1f24c5f0bffbf21fbbedf78",
+      "image_bytes": 237311,
+      "source_url": "https://www.tcgcollector.com/cards/9283/klinklang-steam-siege-73-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 73
+    },
+    {
+      "id": 9284,
+      "set_id": 1171,
+      "set_ids": [
+        1171,
+        1272
+      ],
+      "name": "Cobalion",
+      "number": "74",
+      "number_value": 74,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/a4/62/fb/a462fbe6b1bb54b39d15ee3eb58e47014df93d66af5982278c7605f89e077ac2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/84/f3/71/84f3719d36362e4fb6bfcd4a27368b394d3b6339b404717322cc876669908bd7.jpg",
+      "image_path": "images/cards/1171/74-9284.webp",
+      "image_sha256": "ab11e31386cb8616f97e777fa23c4cddee66e0e3d9accd1a6d5e615e5ad73048",
+      "image_bytes": 211072,
+      "source_url": "https://www.tcgcollector.com/cards/9284/cobalion-steam-siege-74-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 74
+    },
+    {
+      "id": 9285,
+      "set_id": 1171,
+      "set_ids": [
+        1171,
+        1272
+      ],
+      "name": "Magearna-EX",
+      "number": "75",
+      "number_value": 75,
+      "printed_total": 114,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/88/93/84/88938463e6c6a482f0b5f832589fe4e18f86cd08be7cb45dacb242a6cfadbe42.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dd/be/4c/ddbe4c2c2003e500078d1669480af327cc53b469b018b3f6bc9d8f78168d6f78.jpg",
+      "image_path": "images/cards/1171/75-9285.webp",
+      "image_sha256": "45203b8d57a33da3a83e676ca808e308f6f59f469f058d311eb783cbbeb506ab",
+      "image_bytes": 259231,
+      "source_url": "https://www.tcgcollector.com/cards/9285/magearna-ex-steam-siege-75-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 75
+    },
+    {
+      "id": 9286,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Marill",
+      "number": "76",
+      "number_value": 76,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/9d/80/75/9d8075e9d7f508da42d050b2255f70c40b57937b81a71d5aa4fcabb564b1ad4c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/62/ab/39/62ab390312761319d58937f1bb05df87ea877724eafbedba6579c7b240dfe1b7.jpg",
+      "image_path": "images/cards/1171/76-9286.webp",
+      "image_sha256": "cd902b0fe425686885434f92a549bda531a283fa2310fe022672ca9467588cb8",
+      "image_bytes": 195670,
+      "source_url": "https://www.tcgcollector.com/cards/9286/marill-steam-siege-76-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 76
+    },
+    {
+      "id": 9287,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Azumarill",
+      "number": "77",
+      "number_value": 77,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/7d/16/69/7d166975146a552f08a4fea543294bef01e5d2cfa7fed392725eb46a4ff86b71.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5a/c3/3e/5ac33eda653d60161387143dcde0ff52b2fc8844f9ac9f8453f259bbaa22f5b1.jpg",
+      "image_path": "images/cards/1171/77-9287.webp",
+      "image_sha256": "1da524d513f1a5acf6bd1baca44197871be6dacc165c57714510276f84c38e6d",
+      "image_bytes": 190362,
+      "source_url": "https://www.tcgcollector.com/cards/9287/azumarill-steam-siege-77-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 77
+    },
+    {
+      "id": 9288,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Gardevoir-EX",
+      "number": "78",
+      "number_value": 78,
+      "printed_total": 114,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/c8/18/4a/c8184af657dbdeedbf0f1daa4fb42d44602d0303e098e5d76107d79aeb85df0e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/94/bb/f7/94bbf7fdfea392861aa1f4a4a275059c6bee8d91e58a308a352b3729fde476ab.jpg",
+      "image_path": "images/cards/1171/78-9288.webp",
+      "image_sha256": "32a4743d733bd2770747022e5f563c76d2f9d757f435361fba1bb015933319ea",
+      "image_bytes": 221193,
+      "source_url": "https://www.tcgcollector.com/cards/9288/gardevoir-ex-steam-siege-78-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 78
+    },
+    {
+      "id": 9289,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "M Gardevoir-EX",
+      "number": "79",
+      "number_value": 79,
+      "printed_total": 114,
+      "rarity": "Rare Holo EX",
+      "image_url": "https://static.tcgcollector.com/content/images/95/83/50/9583503ef70f1db1e9bb678af6df40ef42b8ecfa6f9114242bb004bcd96c3199.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/79/af/bf/79afbfb1a591ab6e67251d97b6bdf00b3f30ce28844c58a2e56ea23fffb1cf64.jpg",
+      "image_path": "images/cards/1171/79-9289.webp",
+      "image_sha256": "21387fef6df27d12c74c39fc15f5e1ae663604157288db49a26bc19fe6599741",
+      "image_bytes": 217632,
+      "source_url": "https://www.tcgcollector.com/cards/9289/m-gardevoir-ex-steam-siege-79-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 79
+    },
+    {
+      "id": 9290,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Klefki",
+      "number": "80",
+      "number_value": 80,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/45/ce/31/45ce31a55d6b2729bf2fe67962be71f8efe95fd5b4eb774c4efc79731135014a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e8/42/21/e84221b1c37f65a50ca5915e6398a4365f06a180bc7229f4a48dcfd43c8dd169.jpg",
+      "image_path": "images/cards/1171/80-9290.webp",
+      "image_sha256": "fda5934ae4a487b5acd6cdc8b4224dd57064a49a6ef1a567d875597a6731db8b",
+      "image_bytes": 205134,
+      "source_url": "https://www.tcgcollector.com/cards/9290/klefki-steam-siege-80-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 80
+    },
+    {
+      "id": 9291,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Xerneas",
+      "number": "81",
+      "number_value": 81,
+      "printed_total": 114,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/99/da/40/99da40a13495f28d822427257db2cc4e72f022d029dac746ddf478917dfee7cf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/91/d4/73/91d47359a347a98c6198d13fe39ebb9feed4cd9fb91b94a9595c6b465d9fdc47.jpg",
+      "image_path": "images/cards/1171/81-9291.webp",
+      "image_sha256": "74cc90e429e6357919c30fdf23ba6f067611f92a87fd5a3bf6a096f2e0c09ac3",
+      "image_bytes": 193304,
+      "source_url": "https://www.tcgcollector.com/cards/9291/xerneas-steam-siege-81-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 81
+    },
+    {
+      "id": 9292,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Xerneas BREAK",
+      "number": "82",
+      "number_value": 82,
+      "printed_total": 114,
+      "rarity": "Rare BREAK",
+      "image_url": "https://static.tcgcollector.com/content/images/8c/d5/b9/8cd5b9ac392ec223cfbe916f7e5aff2c1fe9f29a9ccef7adda525b604a6eac8f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2d/80/69/2d80691be1f738791704684a51fb40739da99f79ba41805d2051af6bed5225aa.jpg",
+      "image_path": "images/cards/1171/82-9292.webp",
+      "image_sha256": "7078b86b236d6cf945eb4476eadc3ff8d7f7785be8d885ae1b0b8c7863069c3b",
+      "image_bytes": 220245,
+      "source_url": "https://www.tcgcollector.com/cards/9292/xerneas-break-steam-siege-82-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 82
+    },
+    {
+      "id": 9293,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Druddigon",
+      "number": "83",
+      "number_value": 83,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/34/7f/9d/347f9de0d7f8cf653957a7a6a0e583bc79b5cdd7c63c1dc3408bb0ae66a95179.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1c/6f/64/1c6f64c9785f65e9c60e6b9ba132b1132525784d545c8972bdf8f054868204e3.jpg",
+      "image_path": "images/cards/1171/83-9293.webp",
+      "image_sha256": "349bf004194ae4daf9841e4322ee1d450b32f6e571747f12e88b061fe3e2ec48",
+      "image_bytes": 179884,
+      "source_url": "https://www.tcgcollector.com/cards/9293/druddigon-steam-siege-83-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 83
+    },
+    {
+      "id": 9294,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Deino",
+      "number": "84",
+      "number_value": 84,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/48/0a/be/480abededa576f8a4a5dfa184051d77fffc8cdbfa2c233ee726ddf9060761589.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/41/20/a1/4120a166d6b7939a930580e97a6f280d3ddf381b762ca91f91381b1b4cd605fa.jpg",
+      "image_path": "images/cards/1171/84-9294.webp",
+      "image_sha256": "d22cb45aff8276cb1b90022c4fc9644151002454a8f7715e8cc94dd60fe1bf71",
+      "image_bytes": 175211,
+      "source_url": "https://www.tcgcollector.com/cards/9294/deino-steam-siege-84-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 84
+    },
+    {
+      "id": 9295,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Zweilous",
+      "number": "85",
+      "number_value": 85,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/37/ed/ec/37edecff647ecccbd7fa8f54693b72b7befab9ee181e44775643575d406f2c4c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8a/6f/bf/8a6fbf7c863fc61dc241c21f02a373404bd85f1688693c07f44fdeff2bc45edf.jpg",
+      "image_path": "images/cards/1171/85-9295.webp",
+      "image_sha256": "de163fb0a23aceeab8c01ec3cc3cac3bbc7f9154a114c2a57dd539033346cb0b",
+      "image_bytes": 188331,
+      "source_url": "https://www.tcgcollector.com/cards/9295/zweilous-steam-siege-85-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 85
+    },
+    {
+      "id": 9296,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Hydreigon",
+      "number": "86",
+      "number_value": 86,
+      "printed_total": 114,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/64/88/9a/64889ad7017fff1a64acb5405492f862ee81e2b10c315ac49f09b215d293c023.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a2/c8/e7/a2c8e7668d9e452e83e454b3566f9dc500c02f32b870e134dbb4185d2ac5e1f6.jpg",
+      "image_path": "images/cards/1171/86-9296.webp",
+      "image_sha256": "48b1f71e6a3d53d4e8cf0cfdc255dc8cd13c81117976b7e148591e2db8873ce6",
+      "image_bytes": 193574,
+      "source_url": "https://www.tcgcollector.com/cards/9296/hydreigon-steam-siege-86-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 86
+    },
+    {
+      "id": 9297,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Hydreigon BREAK",
+      "number": "87",
+      "number_value": 87,
+      "printed_total": 114,
+      "rarity": "Rare BREAK",
+      "image_url": "https://static.tcgcollector.com/content/images/6b/f7/1e/6bf71e5daea104304a461b947bed962437c2d69af64a6a298eca87336d606a99.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/48/99/91/48999197c87a6dae20fe8b00d4a22a4502583607a1d8a7e8227ba73eaf3a9c53.jpg",
+      "image_path": "images/cards/1171/87-9297.webp",
+      "image_sha256": "9cd10a4baec5573b0038b1513f65026290a0490f2984edd38de4e1b85c7809ff",
+      "image_bytes": 238312,
+      "source_url": "https://www.tcgcollector.com/cards/9297/hydreigon-break-steam-siege-87-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 87
+    },
+    {
+      "id": 9298,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Meowth",
+      "number": "88",
+      "number_value": 88,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/b4/f1/91/b4f19113aa7a8ac952a3a372ca05ebf2116861bc05618e454ab55a8af9be3533.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b1/75/30/b17530b4a41a43e189a05bcdbf3ff26f32b1849762d8282be7b5944e9ca8c6fb.jpg",
+      "image_path": "images/cards/1171/88-9298.webp",
+      "image_sha256": "88a7de4f7bd5bb66bb11e3a116203837d75f9b2f0ed43f5e43627530ecdeec48",
+      "image_bytes": 200753,
+      "source_url": "https://www.tcgcollector.com/cards/9298/meowth-steam-siege-88-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 88
+    },
+    {
+      "id": 9299,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Persian",
+      "number": "89",
+      "number_value": 89,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/50/bb/64/50bb643aab74a40f9afbee77e07667a8ca3235d7737ee1818adf9b3810f0613e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d4/0b/1c/d40b1ccc5e422bceff521b9b3481a6036bc2a195a21deeeee63e7977000e6dcb.jpg",
+      "image_path": "images/cards/1171/89-9299.webp",
+      "image_sha256": "b99728e2189e5d99936aa80c802498bc048f6c9eaf1d4dfa1693408ef0779da2",
+      "image_bytes": 183992,
+      "source_url": "https://www.tcgcollector.com/cards/9299/persian-steam-siege-89-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 89
+    },
+    {
+      "id": 9300,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Aipom",
+      "number": "90",
+      "number_value": 90,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f7/d4/7e/f7d47ee484a1af03720e3c10f24d1053dc280075361de778add1550ce6492148.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/68/ab/55/68ab55cb41dcde6cd7219ee689a50fae81afed5ef7f382e7fd679d6552f7b8ca.jpg",
+      "image_path": "images/cards/1171/90-9300.webp",
+      "image_sha256": "fac98e7ff35c178989fdb1169ec3ee00bf60dbb6eb1db32d5ea5ac8543813055",
+      "image_bytes": 193276,
+      "source_url": "https://www.tcgcollector.com/cards/9300/aipom-steam-siege-90-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 90
+    },
+    {
+      "id": 9301,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Ambipom",
+      "number": "91",
+      "number_value": 91,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f7/ee/e7/f7eee765dd7afb38ea2d79e3df11208a81d5c56c56b265ea7ce6aff1b1d3982e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a1/e8/ad/a1e8ade822cd3c2ef2d20057fc4ba39348160f63853937b90c01d3ab3ed80400.jpg",
+      "image_path": "images/cards/1171/91-9301.webp",
+      "image_sha256": "77057e28843b2bf741683200a97b25772a01df2fe50ebc0a91a476319a672c04",
+      "image_bytes": 164117,
+      "source_url": "https://www.tcgcollector.com/cards/9301/ambipom-steam-siege-91-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 91
+    },
+    {
+      "id": 9302,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Rufflet",
+      "number": "92",
+      "number_value": 92,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/c0/9a/34/c09a34a17ee360994471687394445548269a09b6205742d13a773303e7ffbdcb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/13/9d/97/139d9771c5458b93cd7268d4ab8baaa24827dd4007f378da8160320919a32a1b.jpg",
+      "image_path": "images/cards/1171/92-9302.webp",
+      "image_sha256": "888e942568b0fadcba23ee2baec7aa2edb6e75ae622acf35e4446db58e422f87",
+      "image_bytes": 148843,
+      "source_url": "https://www.tcgcollector.com/cards/9302/rufflet-steam-siege-92-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 92
+    },
+    {
+      "id": 9303,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Braviary",
+      "number": "93",
+      "number_value": 93,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/59/3c/e2/593ce2ca6a0d5687634b8d9dfb9ec5ed93abda3aec832600e819414479a690c5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f9/1d/e8/f91de804f910f660d63bb78df2d6997b705023d97f37a3bbb6ffdaf3141d620e.jpg",
+      "image_path": "images/cards/1171/93-9303.webp",
+      "image_sha256": "da4a603878b3ddd016f30ef4c45741adfc0088c760d39bebb26f12938dcfce2b",
+      "image_bytes": 174999,
+      "source_url": "https://www.tcgcollector.com/cards/9303/braviary-steam-siege-93-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 93
+    },
+    {
+      "id": 9304,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Fletchling",
+      "number": "94",
+      "number_value": 94,
+      "printed_total": 114,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/71/50/e6/7150e69b9fd430039dc7094136cc09535730ed566cc0a411ef1deeab9ff78460.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f5/fd/4d/f5fd4d02d189dcab9d9f6c71386e1d6656433310fa9d4777c366836010f5d35b.jpg",
+      "image_path": "images/cards/1171/94-9304.webp",
+      "image_sha256": "2f7c18863fa65c9402ff218dc75767d621769832e3371f64591858f0f235ef95",
+      "image_bytes": 179425,
+      "source_url": "https://www.tcgcollector.com/cards/9304/fletchling-steam-siege-94-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 94
+    },
+    {
+      "id": 9305,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Fletchinder",
+      "number": "95",
+      "number_value": 95,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/79/78/1e/79781e6b87ad811a9dcfcbba41e8b5cefbc38f530214546e18733f0bd6e13d4e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b5/3f/22/b53f227ff23edd29f182a8dbd7760aec1859e501f0d6eb3b60c268ad11745da7.jpg",
+      "image_path": "images/cards/1171/95-9305.webp",
+      "image_sha256": "c6cb82e1dc1860f09ba71551846c8d66be4f345fd181c86839aab16845c3f59f",
+      "image_bytes": 187359,
+      "source_url": "https://www.tcgcollector.com/cards/9305/fletchinder-steam-siege-95-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 95
+    },
+    {
+      "id": 9306,
+      "set_id": 1171,
+      "set_ids": [
+        1171,
+        1273
+      ],
+      "name": "Talonflame",
+      "number": "96",
+      "number_value": 96,
+      "printed_total": 114,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/66/78/b3/6678b3bf1fdda3a4b151e78e34074c630ae5d01c9999b3e8fbbe2e0503a0d3ea.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cc/32/f6/cc32f6a5e7e0f782ba1c911c810afc3072be2ef0ed9b4b6737040d663486a8ca.jpg",
+      "image_path": "images/cards/1171/96-9306.webp",
+      "image_sha256": "27896e94328164172cc55146680279d1ac069ded7ce466d810e7b231583a3e89",
+      "image_bytes": 177813,
+      "source_url": "https://www.tcgcollector.com/cards/9306/talonflame-steam-siege-96-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 96
+    },
+    {
+      "id": 9307,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Hawlucha",
+      "number": "97",
+      "number_value": 97,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/da/bc/5b/dabc5be9cb13a427e82c957ee0f03975c01d6c4e2352e434f305987e5966d09c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/62/fc/11/62fc11a1930f3d9d6f284c5828566426f883ad2e92892f4aa3974e5e283bdfb0.jpg",
+      "image_path": "images/cards/1171/97-9307.webp",
+      "image_sha256": "b2a98151cc94b29ba18a8125d4773460c35ba21531662e1d1a2170b66c002555",
+      "image_bytes": 190710,
+      "source_url": "https://www.tcgcollector.com/cards/9307/hawlucha-steam-siege-97-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 97
+    },
+    {
+      "id": 9308,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Armor Fossil Shieldon",
+      "number": "98",
+      "number_value": 98,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/fd/5b/87/fd5b8797ca02f5513e590d4c1cff95e8e06cc441e64d40549c192b730dde68cf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4c/fc/c7/4cfcc7c6e54872ade458d836715d8227cff69d6ced105572adf8571eb7534228.jpg",
+      "image_path": "images/cards/1171/98-9308.webp",
+      "image_sha256": "cb533a1ecc7bc3253756228ae6a7cc21d8beb6c7680bc20b02f7052697939d55",
+      "image_bytes": 179910,
+      "source_url": "https://www.tcgcollector.com/cards/9308/armor-fossil-shieldon-steam-siege-98-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 98
+    },
+    {
+      "id": 9309,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Captivating Poké Puff",
+      "number": "99",
+      "number_value": 99,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ca/f5/8e/caf58effc76541f3cae321d64f7bbaf27faea0a90bece32f78d10b9397851347.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ae/70/c6/ae70c631ea90553033cf4677cb523b979b2faf0bf4d4ebae8558740e8ee3f857.jpg",
+      "image_path": "images/cards/1171/99-9309.webp",
+      "image_sha256": "b31f21a25e18894121c605d4a65bc2d5cab1a1be0811a0d475863178a2af4234",
+      "image_bytes": 155859,
+      "source_url": "https://www.tcgcollector.com/cards/9309/captivating-poke-puff-steam-siege-99-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 99
+    },
+    {
+      "id": 9310,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Claw Fossil Anorith",
+      "number": "100",
+      "number_value": 100,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/5d/a4/11/5da4114490325c832e4f77351830865a2c3ab7231515b416975b6bfc7d86e448.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/97/5a/9e/975a9e275cc9ff23a205c7836b5908a6edf5f095aad1eb512986ebc580cea555.jpg",
+      "image_path": "images/cards/1171/100-9310.webp",
+      "image_sha256": "f18f3d6e169019b5d55fc79ac9f6ecd91c933c9ddf0fb0cffaa012e39b86e721",
+      "image_bytes": 164478,
+      "source_url": "https://www.tcgcollector.com/cards/9310/claw-fossil-anorith-steam-siege-100-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 100
+    },
+    {
+      "id": 9511,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Gardevoir Spirit Link",
+      "number": "101",
+      "number_value": 101,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/62/c4/4b/62c44bacbdaac8012e9d098825f4bbdb41ebbffd46def4f19777724358210216.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f7/7c/1e/f77c1ec8a0c92e0fa70a730f16e215614cdab4ad102d643f9094dd9f0f28b1a6.jpg",
+      "image_path": "images/cards/1171/101-9511.webp",
+      "image_sha256": "cec61fe44167006f47fe08df18918039e053e5fd7f115e2ad18688e5e7f82ba5",
+      "image_bytes": 170120,
+      "source_url": "https://www.tcgcollector.com/cards/9511/gardevoir-spirit-link-steam-siege-101-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 101
+    },
+    {
+      "id": 9312,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Greedy Dice",
+      "number": "102",
+      "number_value": 102,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/60/92/da/6092da01e805d8c541109444825f5a9f079678dbcbfc142ba1f33e17f4006120.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6c/75/30/6c753097b10b4dc066f2275634855f2451b00dc0244866778fd588b6fe003f63.jpg",
+      "image_path": "images/cards/1171/102-9312.webp",
+      "image_sha256": "07acc9eaf39dd4ae49e1fc5719e4b7605213a21292e79245b686c39461971194",
+      "image_bytes": 145438,
+      "source_url": "https://www.tcgcollector.com/cards/9312/greedy-dice-steam-siege-102-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 102
+    },
+    {
+      "id": 9313,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Ninja Boy",
+      "number": "103",
+      "number_value": 103,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/8d/d0/79/8dd07943e748a998579130fc13945356675364d10e964a6c5216bfcf65016976.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/31/6e/5f/316e5fa05b3a160cec96536b91477b49c18afc1258a70b34c2135d57e783d26f.jpg",
+      "image_path": "images/cards/1171/103-9313.webp",
+      "image_sha256": "d49cd3f1aa3d5209712f7380ee4eef45fcbe7a1d7414600e0c7a195d532625b7",
+      "image_bytes": 181764,
+      "source_url": "https://www.tcgcollector.com/cards/9313/ninja-boy-steam-siege-103-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 103
+    },
+    {
+      "id": 9314,
+      "set_id": 1171,
+      "set_ids": [
+        1171,
+        1271,
+        1273
+      ],
+      "name": "Pokémon Ranger",
+      "number": "104",
+      "number_value": 104,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ca/7e/89/ca7e89ab1aba43d1a0b3c70417f3f3913f45e27859c404588ba81290e03e286f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9d/a8/5e/9da85ed8d05688ba41cac66609be5a65f6a32fa3ad609518a7a84cbea4021eb4.jpg",
+      "image_path": "images/cards/1171/104-9314.webp",
+      "image_sha256": "7e4db504b0102ae7ac7798160af1ba0cd777f1033bdc9fcdf39307c2e7a0f06b",
+      "image_bytes": 180902,
+      "source_url": "https://www.tcgcollector.com/cards/9314/pokemon-ranger-steam-siege-104-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 104
+    },
+    {
+      "id": 9315,
+      "set_id": 1171,
+      "set_ids": [
+        1171,
+        1270
+      ],
+      "name": "Special Charge",
+      "number": "105",
+      "number_value": 105,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/dc/e1/6f/dce16f9d5695d1da16c7d8aca52e22d8e7b20dccbba7d9b52e7b145c2355d768.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d5/01/8c/d5018c1b7ccacaac8bed080b853fcd9407d9f50d9070633ca235eb9ebaf67461.jpg",
+      "image_path": "images/cards/1171/105-9315.webp",
+      "image_sha256": "83210bdff2f756b4863216f96923efccbae6a251c80d6f98e06d465f19fcf4aa",
+      "image_bytes": 167158,
+      "source_url": "https://www.tcgcollector.com/cards/9315/special-charge-steam-siege-105-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 105
+    },
+    {
+      "id": 9508,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Steelix Spirit Link",
+      "number": "106",
+      "number_value": 106,
+      "printed_total": 114,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/80/0f/58/800f582ca48e1d99c86747722356612333eb4f3088c4b6b9b1cebe8ae2b1669e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6a/bc/06/6abc0605e62d787cde2bb267298f74a00ff44a093b33c3f8b01fe7bc0ee1e490.jpg",
+      "image_path": "images/cards/1171/106-9508.webp",
+      "image_sha256": "652f2946fbe201b70fcea790b479c6fc4b413e275d381c2f720d96fd2a33940a",
+      "image_bytes": 191070,
+      "source_url": "https://www.tcgcollector.com/cards/9508/steelix-spirit-link-steam-siege-106-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 106
+    },
+    {
+      "id": 9317,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Volcanion-EX",
+      "number": "107",
+      "number_value": 107,
+      "printed_total": 114,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/0e/2d/63/0e2d63be8debc2146f506faddc1d1d5c0e8d9b49d2a0f171163859f705f489bb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c5/65/1f/c5651f0507dc98989ac8b70d5deef4935092430089eba7cfc8055b5cbafb50eb.jpg",
+      "image_path": "images/cards/1171/107-9317.webp",
+      "image_sha256": "fb0bb08b5634c7bfee847cf2bff3f8f24829153f465055ade984ce92e988aef4",
+      "image_bytes": 240539,
+      "source_url": "https://www.tcgcollector.com/cards/9317/volcanion-ex-steam-siege-107-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 107
+    },
+    {
+      "id": 9318,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Steelix-EX",
+      "number": "108",
+      "number_value": 108,
+      "printed_total": 114,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/8a/7f/31/8a7f3159ac2f1ff1d147e9cc4d53bb54a92132252dc9d514756b3cbb7c230906.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7c/1b/ce/7c1bced0a193a70faf1e7eeeb897b094c115579f9935c926c5c3c9fc25228a5d.jpg",
+      "image_path": "images/cards/1171/108-9318.webp",
+      "image_sha256": "3d8f2d8bda0aff7a0690063c90379ae9aff1aa8840370b26d65a4a0098f982ce",
+      "image_bytes": 183639,
+      "source_url": "https://www.tcgcollector.com/cards/9318/steelix-ex-steam-siege-108-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 108
+    },
+    {
+      "id": 9319,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "M Steelix-EX",
+      "number": "109",
+      "number_value": 109,
+      "printed_total": 114,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/0d/58/f6/0d58f67f99e8d84b3ad83886c9941cbaa0ab0f34177d9d2ebac7a333bf51ab4f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2f/74/7c/2f747c33fbbd86ea14f8bb7abbb6f678473ea0af03766b99aa0d61d92e7b94cc.jpg",
+      "image_path": "images/cards/1171/109-9319.webp",
+      "image_sha256": "97b4407ae0ae1688eac028754f43ac856f96c5f2b17f25e2d9669a79661eb4ec",
+      "image_bytes": 261222,
+      "source_url": "https://www.tcgcollector.com/cards/9319/m-steelix-ex-steam-siege-109-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 109
+    },
+    {
+      "id": 9320,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Magearna-EX",
+      "number": "110",
+      "number_value": 110,
+      "printed_total": 114,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/1d/70/b9/1d70b9ad0417a1b6d930bc51f0694d1c57b51e480d1758dfcaaa535651cb47b8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fa/24/eb/fa24eb69b323ce36125060b0c1d421ad53b9f9421fee0bad83fc7283d4225832.jpg",
+      "image_path": "images/cards/1171/110-9320.webp",
+      "image_sha256": "1ef8cf0f6e87a407b69784f693f7e3d452358eb8546e42de676d27f9549d1523",
+      "image_bytes": 218285,
+      "source_url": "https://www.tcgcollector.com/cards/9320/magearna-ex-steam-siege-110-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 110
+    },
+    {
+      "id": 9321,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Gardevoir-EX",
+      "number": "111",
+      "number_value": 111,
+      "printed_total": 114,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/10/4c/09/104c09881984c453415bdc836955c309da91d91356834feb4afdde7a290d44d2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/25/a8/0e/25a80ed9bb389e0a6d4e08630fbba4ecd9c7a9e5ff7426d647fb86471cf542b5.jpg",
+      "image_path": "images/cards/1171/111-9321.webp",
+      "image_sha256": "a10af1c5edb1b0c869b33abb168b702966fdf65e6dcc2910d64e8c637a5b200e",
+      "image_bytes": 160455,
+      "source_url": "https://www.tcgcollector.com/cards/9321/gardevoir-ex-steam-siege-111-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 111
+    },
+    {
+      "id": 9322,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "M Gardevoir-EX",
+      "number": "112",
+      "number_value": 112,
+      "printed_total": 114,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/68/57/eb/6857eb214a881c5565a32f967f3504af0acbb4827eabbea2d85b0204215be335.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7c/50/46/7c5046c4eafcd0ca469a46d92fbe92ad1d8a8360c5db26dc5cce2d3c43638220.jpg",
+      "image_path": "images/cards/1171/112-9322.webp",
+      "image_sha256": "25e3008745178fbc37bdf7ea4a58d84c5608cb350d096c15ecca03fc9dd706d0",
+      "image_bytes": 229384,
+      "source_url": "https://www.tcgcollector.com/cards/9322/m-gardevoir-ex-steam-siege-112-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 112
+    },
+    {
+      "id": 9323,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Pokémon Ranger",
+      "number": "113",
+      "number_value": 113,
+      "printed_total": 114,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/1e/d4/f3/1ed4f3b25692756998e286de5f24c208ce21b1a70674e0487c998f9d875c3cad.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/51/61/cf/5161cf5a6f8e2a0fff1df6c4aee738f725bde6915008b706da4f400c214d5208.jpg",
+      "image_path": "images/cards/1171/113-9323.webp",
+      "image_sha256": "ff997f1698501ad32c92b4f9775bef4d50e920e739643c4554150bfff0e4d659",
+      "image_bytes": 159070,
+      "source_url": "https://www.tcgcollector.com/cards/9323/pokemon-ranger-steam-siege-113-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 113
+    },
+    {
+      "id": 9324,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Professor Sycamore",
+      "number": "114",
+      "number_value": 114,
+      "printed_total": 114,
+      "rarity": "Rare Ultra",
+      "image_url": "https://static.tcgcollector.com/content/images/35/68/7c/35687c8bb49a8b85d285441af24fe2ec94973661869bca1aed10d4aa82e25c84.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0b/f1/b7/0bf1b7d8405f4d822972bb5fea62c5e7e8e832bc0abf29f8249a545c8415b354.jpg",
+      "image_path": "images/cards/1171/114-9324.webp",
+      "image_sha256": "c41b3a1ba2fcdf80490d7f525e80d33471db59761bb1dc5d89a206cf19e7441a",
+      "image_bytes": 174089,
+      "source_url": "https://www.tcgcollector.com/cards/9324/professor-sycamore-steam-siege-114-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 114
+    },
+    {
+      "id": 9512,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Volcanion-EX",
+      "number": "115",
+      "number_value": 115,
+      "printed_total": 114,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/32/70/be/3270be674f1ebe79f90580eae4cf50f9d8e31868e1a5a0da62fd4899ef4798a2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1e/bd/dd/1ebddd7ea5b9b82a308540d434dab02b27c9aa1a6f0ebc29aa75b23e8262adc4.jpg",
+      "image_path": "images/cards/1171/115-9512.webp",
+      "image_sha256": "1477075dc74a6e2954e7b0b7758788a0fb15d3b348b20ee91d402b456616f032",
+      "image_bytes": 228899,
+      "source_url": "https://www.tcgcollector.com/cards/9512/volcanion-ex-steam-siege-115-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 115
+    },
+    {
+      "id": 9486,
+      "set_id": 1171,
+      "set_ids": [
+        1171
+      ],
+      "name": "Gardevoir-EX",
+      "number": "116",
+      "number_value": 116,
+      "printed_total": 114,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/be/08/3d/be083d70a62bcdf61aad8cfe8017a562333b7f8de4aead990b9831a7e606db01.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a1/a6/0a/a1a60ab19ed2897de95a0401f74c96d4a173e60d4e397f480b7f873e4c750678.jpg",
+      "image_path": "images/cards/1171/116-9486.webp",
+      "image_sha256": "fe5516ab00beef0d39881531cf87ba8da2b2783232beea8b39dab05604abfb7e",
+      "image_bytes": 196499,
+      "source_url": "https://www.tcgcollector.com/cards/9486/gardevoir-ex-steam-siege-116-114",
+      "scraped_at": "2026-10-18T22:23:15Z",
+      "position": 116
+    }
+  ]
+}

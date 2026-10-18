@@ -1,0 +1,1262 @@
+{
+  "set": {
+    "id": 113,
+    "language": "en",
+    "name": "Fossil",
+    "code": "FO",
+    "series": "Original Series",
+    "release_date": "1999-10-10",
+    "date_text": "Oct 10, 1999",
+    "card_count": 62,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/b4/f8/08/b4f808b73117ecfc528f67beafe9e99b20d913f1db38a85240e49ba8d56443f1.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/06/32/3a/06323af65c3ec956d3fcbf53d5fb38a97f436325f99579b49c1f78ea893f5ac4.svg",
+    "logo_path": "images/sets/113-logo.webp",
+    "symbol_path": "images/sets/113-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/113/fossil",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 62
+  },
+  "cards": [
+    {
+      "id": 8,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Aerodactyl",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 62,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/e4/3b/a7/e43ba74903a66129a90b785172aee72e21bb2e9b83a076f8629fdb5b17a4a1ab.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/79/86/13/79861307f0457f3b83a3082235817545e101a820ebce06c76c54ef9de48a3539.jpg",
+      "image_path": "images/cards/113/1-8.webp",
+      "image_sha256": "3972248ff0d4e350b5d084c3a2feff90b42cc8d25ba16bf6b169f915ff043d21",
+      "image_bytes": 100626,
+      "source_url": "https://www.tcgcollector.com/cards/8/aerodactyl-fossil-1-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 1
+    },
+    {
+      "id": 58,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Articuno",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 62,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/d1/76/f1/d176f1df12c79c7987b978f6cb4f91524eb4a559aad4def469bdaabee769021c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/33/1d/4f/331d4fd82b6c47a49a44846129acf82881889079e13c80224c1f24f266077a55.jpg",
+      "image_path": "images/cards/113/2-58.webp",
+      "image_sha256": "1eac6da8b634121415d3f37e0d23be0f620901c82a63ff13e1d9fb32af832798",
+      "image_bytes": 125265,
+      "source_url": "https://www.tcgcollector.com/cards/58/articuno-fossil-2-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 2
+    },
+    {
+      "id": 390,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Ditto",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 62,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/68/b1/71/68b1719d38dec024a66f093bb56604dabf4fb73f5363da046cf026e014e33405.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/82/23/24/822324a4e3b89c7b8f7e7c0b8ff3e5c3a8471b54278c2b4968e6f15a2c325514.jpg",
+      "image_path": "images/cards/113/3-390.webp",
+      "image_sha256": "49bbf5a1b0bc50d75f454335dcf5394bfd0b57701af3038b16b8e3b73d5b97a9",
+      "image_bytes": 95397,
+      "source_url": "https://www.tcgcollector.com/cards/390/ditto-fossil-3-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 3
+    },
+    {
+      "id": 408,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Dragonite",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 62,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/0f/18/2c/0f182c68973e74bda318718f4e69c5245e20b881f9343813807c4a6792709238.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7f/cb/5b/7fcb5b2022539d8273970817c326db8ed7790f1821d88ca310913ea99912ed1e.jpg",
+      "image_path": "images/cards/113/4-408.webp",
+      "image_sha256": "bfd44229d3b09cc7fd6ec9afce4cb0ebd7ae5f2c1e86633920ae1e594e3a2838",
+      "image_bytes": 106221,
+      "source_url": "https://www.tcgcollector.com/cards/408/dragonite-fossil-4-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 4
+    },
+    {
+      "id": 610,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Gengar",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 62,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/e1/ef/c3/e1efc32fa28078b1ca788a1b3f166b7d9ee468aff44811d57a836f158d881732.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/87/e4/c5/87e4c55e0025e0a39b3ca31c1f624a68d80b21e85b07c4544d8f35d8856297fc.jpg",
+      "image_path": "images/cards/113/5-610.webp",
+      "image_sha256": "887a75d91a94acf3b2677eb89d6b70064d45075266135b4ddea75170c86449ab",
+      "image_bytes": 127819,
+      "source_url": "https://www.tcgcollector.com/cards/610/gengar-fossil-5-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 5
+    },
+    {
+      "id": 715,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Haunter",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 62,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/54/0b/10/540b10d1fa1729decaa7c05ba79a4c7ea425c47c076274abefc805bb5475ff1a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c0/7e/dd/c07edd248816c0ce0a78a68ee819933c89775388f3f1d4dc1b7e37225f0931b8.jpg",
+      "image_path": "images/cards/113/6-715.webp",
+      "image_sha256": "e8b89ec11c73db765c1fa3c3adfde287e093fe16bb47aee50c9846175369cf2c",
+      "image_bytes": 97323,
+      "source_url": "https://www.tcgcollector.com/cards/715/haunter-fossil-6-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 6
+    },
+    {
+      "id": 735,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Hitmonlee",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 62,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/bb/e3/9f/bbe39fa28d2ebb57c170a499c3980d008b2ceccde456fb500c54bdefa1338eac.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1a/60/fb/1a60fb1d8407b0348e7554df3fc8a14b93cc8f2fb8d97ef7de0e063bb80f0138.jpg",
+      "image_path": "images/cards/113/7-735.webp",
+      "image_sha256": "7de3bc84af7d85ddbb8b9ba08067b05119a8fa4c88a14dd671773129493d34a2",
+      "image_bytes": 97109,
+      "source_url": "https://www.tcgcollector.com/cards/735/hitmonlee-fossil-7-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 7
+    },
+    {
+      "id": 780,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Hypno",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 62,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/d0/b4/c2/d0b4c2cbcd2dbad176d9596079ee6becb1cecd2e5d3b91b8427dffb8aba5a192.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9a/36/99/9a36997015a6be7c6bf74a8ea9218fb99e76d5e66aa7590de2159401030c17d2.jpg",
+      "image_path": "images/cards/113/8-780.webp",
+      "image_sha256": "9c04387e4fb9ac881c519a18ac35d6c9f0e58809f780a01cff6c390c1cb1ee8d",
+      "image_bytes": 125064,
+      "source_url": "https://www.tcgcollector.com/cards/780/hypno-fossil-8-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 8
+    },
+    {
+      "id": 824,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Kabutops",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 62,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/c3/60/f4/c360f45cb64648580f8a73016a326a442d8cc976b2c7156da6f188c7b5e31065.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/17/da/37/17da37256c9ab9e628b86ac567a54d5d6bd2965e2de031795897cb7752e710f9.jpg",
+      "image_path": "images/cards/113/9-824.webp",
+      "image_sha256": "4ecf333cd1cae760591f2337750a295d3bf061aa2f64c565ba6af43bafea4623",
+      "image_bytes": 105098,
+      "source_url": "https://www.tcgcollector.com/cards/824/kabutops-fossil-9-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 9
+    },
+    {
+      "id": 893,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Lapras",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 62,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/19/3c/96/193c96d775ad1da16fe062a8a438f3916d0789e0193bb9af0008b62ca232f2ea.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8d/93/74/8d93740ca3d91144d9c99c2799bd865b2df143a23c3d6d46339c480370f75f8b.jpg",
+      "image_path": "images/cards/113/10-893.webp",
+      "image_sha256": "c49a80f375ee1815e6d67195f543d3a0c5d825898f5d6f9bcb4ac3d0e8787246",
+      "image_bytes": 103677,
+      "source_url": "https://www.tcgcollector.com/cards/893/lapras-fossil-10-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 10
+    },
+    {
+      "id": 1038,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Magneton",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 62,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/78/7c/05/787c05ebc7592fb7055f3a8a5bfd11c4c18d3c33cf3e2d1942f6346a4a16a817.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e2/4e/e2/e24ee2228b8728d00c4ae16e987e4f4ec556d12436cace2eb6cd702b493775ea.jpg",
+      "image_path": "images/cards/113/11-1038.webp",
+      "image_sha256": "82344cc0d10cf176f6cc108de32b4c72d9aba2e24b534b4af00c15c708946af2",
+      "image_bytes": 109111,
+      "source_url": "https://www.tcgcollector.com/cards/1038/magneton-fossil-11-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 11
+    },
+    {
+      "id": 1170,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Moltres",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 62,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/bc/5a/cd/bc5acd1b62a1e0b8005329531f0138badf236997400d5c2850b2d29be97eb37c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2c/32/92/2c32925ef2ee85a7c4c804ef876ff618a133bf8a73ad6feb3c2930847b2e6981.jpg",
+      "image_path": "images/cards/113/12-1170.webp",
+      "image_sha256": "cbcfde5ddd58c97d1bf0a56b88bd66c31a650c0aafd50e12408a5c249183a622",
+      "image_bytes": 97629,
+      "source_url": "https://www.tcgcollector.com/cards/1170/moltres-fossil-12-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 12
+    },
+    {
+      "id": 1188,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Muk",
+      "number": "13",
+      "number_value": 13,
+      "printed_total": 62,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/df/97/c7/df97c738c1f756c8e1a7db02dbb3d64de26a277aa68750c063e719c7eadd109f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/13/e2/05/13e205425917442eb439b44fe3663abd606fb9857522e8081de4ab266789271d.jpg",
+      "image_path": "images/cards/113/13-1188.webp",
+      "image_sha256": "4a17c34128c4d6f534b93f0419f98d6b64d853222f63754ca81378c703787cb2",
+      "image_bytes": 100929,
+      "source_url": "https://www.tcgcollector.com/cards/1188/muk-fossil-13-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 13
+    },
+    {
+      "id": 1446,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Raichu",
+      "number": "14",
+      "number_value": 14,
+      "printed_total": 62,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/e9/57/71/e9577172495c0ec4d8d8fa961c0d9efb1281e3017cb77f80b4e423a9e7506454.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f0/73/f4/f073f40ab73e90ccefedddd74099ef51309fea560ad36fb135433372d4e72dcf.jpg",
+      "image_path": "images/cards/113/14-1446.webp",
+      "image_sha256": "e04ad10fb9844ab6356efb36fcf848999565434f7b12873e73c39c551d10d4e9",
+      "image_bytes": 99921,
+      "source_url": "https://www.tcgcollector.com/cards/1446/raichu-fossil-14-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 14
+    },
+    {
+      "id": 1962,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Zapdos",
+      "number": "15",
+      "number_value": 15,
+      "printed_total": 62,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/e9/c8/6e/e9c86e561a18e8afcdf62ffc867509e61fce350fcbea43edb609b3f098fbb73e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f5/e9/21/f5e92139a5a2f49487f0c2579a872f2aec3646c2a00c504d65b1917d9eb72dad.jpg",
+      "image_path": "images/cards/113/15-1962.webp",
+      "image_sha256": "b79eaaf823020b6ff4ac87ee9b00e35ce0d4a42028d0971b4846c9714158a5b9",
+      "image_bytes": 96539,
+      "source_url": "https://www.tcgcollector.com/cards/1962/zapdos-fossil-15-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 15
+    },
+    {
+      "id": 11,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Aerodactyl",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 62,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/3e/2d/fb/3e2dfb5a40e28b1d7094910f9c58e4e98b91d3e7ab151f22202f0e377ecc23ae.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/48/3e/02/483e02079980e1425e6046dda657bef98538b089808eef193dcaf2500360cd50.jpg",
+      "image_path": "images/cards/113/16-11.webp",
+      "image_sha256": "33fced75ed11a9f35490cfd17646f7228dcaec6114619189c0559ea092a73f0b",
+      "image_bytes": 109433,
+      "source_url": "https://www.tcgcollector.com/cards/11/aerodactyl-fossil-16-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 16
+    },
+    {
+      "id": 62,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Articuno",
+      "number": "17",
+      "number_value": 17,
+      "printed_total": 62,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/bc/3c/da/bc3cda034d33fc91e3b1aab7b110164bd4dc75fcbb5fb6b519b57ca1afd1a604.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bc/5b/30/bc5b30b560b996e847b402c119cf6e07aa35f48ced25649a785ab7efca9c5f48.jpg",
+      "image_path": "images/cards/113/17-62.webp",
+      "image_sha256": "ec824849257fc155cd689b49b0445f48868223336114d6532272c72a1cb327bd",
+      "image_bytes": 126790,
+      "source_url": "https://www.tcgcollector.com/cards/62/articuno-fossil-17-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 17
+    },
+    {
+      "id": 391,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Ditto",
+      "number": "18",
+      "number_value": 18,
+      "printed_total": 62,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/c6/d8/aa/c6d8aac03342471ced2112b7b35e252bb6dfe56e9fea8c6d40287124b453a092.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/98/f2/2a/98f22a25819d7a540ae682a2106d8380b6512b9855230a87b05475c2c277aa2a.jpg",
+      "image_path": "images/cards/113/18-391.webp",
+      "image_sha256": "87e9a728b7a4d44011608e20c6461cd1b045b966c05b7233cb8092657ff23af3",
+      "image_bytes": 103198,
+      "source_url": "https://www.tcgcollector.com/cards/391/ditto-fossil-18-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 18
+    },
+    {
+      "id": 411,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Dragonite",
+      "number": "19",
+      "number_value": 19,
+      "printed_total": 62,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/22/78/7e/22787e819dbf88a000ff3bfb5c47a24b550883cb0ecadf023c1680148cebe499.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/37/80/ff/3780ff1e55257ba93e10b36451c7fec4d074f005c78dcbcdbff766a02b04bdf6.jpg",
+      "image_path": "images/cards/113/19-411.webp",
+      "image_sha256": "08e936410c640b477e827e10fe1ce117e32445bfe3634633eda5e31e4de37460",
+      "image_bytes": 104447,
+      "source_url": "https://www.tcgcollector.com/cards/411/dragonite-fossil-19-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 19
+    },
+    {
+      "id": 615,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Gengar",
+      "number": "20",
+      "number_value": 20,
+      "printed_total": 62,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ab/75/a4/ab75a42351cc7e37901b78a94e66d9e91c1e9c4a0a7de5c987afbc9a9b61abae.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e5/4b/a3/e54ba3ebed884b4c30c2780f6dd0db3039350b49b2c0f27ac44b93d6aad9731f.jpg",
+      "image_path": "images/cards/113/20-615.webp",
+      "image_sha256": "118cb55cf626e1fccaa733a3c350b06e4fd60363daca8bd9fb0c87b67d68ba93",
+      "image_bytes": 117523,
+      "source_url": "https://www.tcgcollector.com/cards/615/gengar-fossil-20-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 20
+    },
+    {
+      "id": 716,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Haunter",
+      "number": "21",
+      "number_value": 21,
+      "printed_total": 62,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/07/9e/23/079e23e115df44fa692d394d3a64b26d982674d8385068baf791e5e8a963d5f7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3b/6c/ba/3b6cba658ce763237b6025437ec6c70edada85fdb5c11e37e034dbc55fb48ebc.jpg",
+      "image_path": "images/cards/113/21-716.webp",
+      "image_sha256": "bb2cf7ce83893dec9664ba26284e90e7d0789135d9ac910a99b699b863fada11",
+      "image_bytes": 106886,
+      "source_url": "https://www.tcgcollector.com/cards/716/haunter-fossil-21-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 21
+    },
+    {
+      "id": 737,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Hitmonlee",
+      "number": "22",
+      "number_value": 22,
+      "printed_total": 62,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/bc/5f/7b/bc5f7ba21a21773875aee6acb5ebef35ac47dbcb872c3d4709596c86a801c32e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5c/b0/37/5cb03759ac2874becefd6a31302d5a15f1dcc7dccbb7d653e40d50a0d7b4fbd3.jpg",
+      "image_path": "images/cards/113/22-737.webp",
+      "image_sha256": "558641a2f81fa1d0123d266e0b8f8d6cdb2296abcc47b106a287c8f8f1080cdf",
+      "image_bytes": 112422,
+      "source_url": "https://www.tcgcollector.com/cards/737/hitmonlee-fossil-22-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 22
+    },
+    {
+      "id": 783,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Hypno",
+      "number": "23",
+      "number_value": 23,
+      "printed_total": 62,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/2d/66/ba/2d66ba189abaac7f6312a5fd8617dabe4246d25224fe9404ee8350fcca86c005.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cb/09/a8/cb09a8fc846980d44d7a4ff7f2490488bbb98e3aedbdacc22dc0c49224471957.jpg",
+      "image_path": "images/cards/113/23-783.webp",
+      "image_sha256": "509ca945b181448c7179c23e5c808338f54fdcddf8e891f6760546f11fe5288f",
+      "image_bytes": 115962,
+      "source_url": "https://www.tcgcollector.com/cards/783/hypno-fossil-23-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 23
+    },
+    {
+      "id": 827,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Kabutops",
+      "number": "24",
+      "number_value": 24,
+      "printed_total": 62,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/13/48/da/1348da9b89e780a5e698cfa348000126d14a7107d5a2ac4e1acd740dd8f0ba01.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/71/66/10/7166108c56c587293a79a4d57f3b0446fb6b1723c849cb80481e7cd6cec607a1.jpg",
+      "image_path": "images/cards/113/24-827.webp",
+      "image_sha256": "686aa875db71a661f5f23174a7d5c5df587cb84ffc7d9abd81dac189e868b7c6",
+      "image_bytes": 124459,
+      "source_url": "https://www.tcgcollector.com/cards/827/kabutops-fossil-24-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 24
+    },
+    {
+      "id": 895,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Lapras",
+      "number": "25",
+      "number_value": 25,
+      "printed_total": 62,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/47/10/7a/47107a02bce650c3e2699fd5d32d53495cfdc05104320bd29a06715b507e9670.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/22/e1/2c/22e12cdc009db9c161bdc5d08ebf762e8442676fc39c805f1a173cf12a746174.jpg",
+      "image_path": "images/cards/113/25-895.webp",
+      "image_sha256": "f8c8e1077d3cd241567af1168f0ec15032de3c0668ff89c44933a61aac9b818b",
+      "image_bytes": 109697,
+      "source_url": "https://www.tcgcollector.com/cards/895/lapras-fossil-25-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 25
+    },
+    {
+      "id": 1043,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Magneton",
+      "number": "26",
+      "number_value": 26,
+      "printed_total": 62,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/58/fd/98/58fd98c4a2484c6470d542669d02943e00d66df0b01ca91fab1991b03844614a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d6/dc/9c/d6dc9cfe2693773243b0f61a394522141d77cfabfa94205d226aec3ea10e1dda.jpg",
+      "image_path": "images/cards/113/26-1043.webp",
+      "image_sha256": "3ac31beaf2c91bfe400f8e94cdaa619fa4978a7c2e07ac95e1526e7c6dbae51b",
+      "image_bytes": 129861,
+      "source_url": "https://www.tcgcollector.com/cards/1043/magneton-fossil-26-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 26
+    },
+    {
+      "id": 1174,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Moltres",
+      "number": "27",
+      "number_value": 27,
+      "printed_total": 62,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/85/5a/d0/855ad0ad7416477a668d3651142876a8581eec1d70dcfae0613af482a8db1eaa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/73/50/13/7350136880eee60258f29394a8ea171cb645590fd516128960522fb87d8d6b8f.jpg",
+      "image_path": "images/cards/113/27-1174.webp",
+      "image_sha256": "0a873c87411dab3802032820df06bdd40bffa624fdb8bb8032c66f7fef67e93b",
+      "image_bytes": 108404,
+      "source_url": "https://www.tcgcollector.com/cards/1174/moltres-fossil-27-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 27
+    },
+    {
+      "id": 1192,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Muk",
+      "number": "28",
+      "number_value": 28,
+      "printed_total": 62,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/7e/05/f3/7e05f3f5db1841f94c4ffd697763d827121091a90a7f133be9a212bee4f1a400.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d5/e5/52/d5e55246a506be8edd710011b7546b6d650d6b98db8c2c8f6668927302cdc420.jpg",
+      "image_path": "images/cards/113/28-1192.webp",
+      "image_sha256": "b6c9db7837c95aeec528cb259f107ea644715c68805ba923569420736db7a9de",
+      "image_bytes": 109826,
+      "source_url": "https://www.tcgcollector.com/cards/1192/muk-fossil-28-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 28
+    },
+    {
+      "id": 1451,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Raichu",
+      "number": "29",
+      "number_value": 29,
+      "printed_total": 62,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/e7/a2/48/e7a248ad805668dc58a5387300148796924b21861aa1f33cb4264e180abb2cdf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e3/1d/bc/e31dbcc138ff83f1af338c2893fcd3125ca2f03a492593689b48d9415e96476d.jpg",
+      "image_path": "images/cards/113/29-1451.webp",
+      "image_sha256": "65d025615c64409f7d0a73911769e318880622a860afb700d86d38ca73a079fa",
+      "image_bytes": 110399,
+      "source_url": "https://www.tcgcollector.com/cards/1451/raichu-fossil-29-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 29
+    },
+    {
+      "id": 1966,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Zapdos",
+      "number": "30",
+      "number_value": 30,
+      "printed_total": 62,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/8f/c4/ca/8fc4ca2eb9bb0408a4b4d31cf8df012fb24f31019add77545f1ca5e7877ff3ea.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6a/74/85/6a74855ad028118559af29590fc61fba584845890061a38d7a73c60f53d7d2fc.jpg",
+      "image_path": "images/cards/113/30-1966.webp",
+      "image_sha256": "4d53947fcdebdda12b3378c01ac194b15efcbf40787cd5f9d91cff62ecd4c76c",
+      "image_bytes": 114592,
+      "source_url": "https://www.tcgcollector.com/cards/1966/zapdos-fossil-30-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 30
+    },
+    {
+      "id": 39,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Arbok",
+      "number": "31",
+      "number_value": 31,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/35/4d/c8/354dc8aeab09f6fa000d744b9e2b361a17c006aa03e05cb5c52530d2473cf3f9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b0/10/ce/b010ce126a1802a9748dd6ebae663edfe60c382d536b12bd561dff406acc784c.jpg",
+      "image_path": "images/cards/113/31-39.webp",
+      "image_sha256": "e837dfbe5d7472d339df520d2c7debc28f7dc98502ac674d7410d2af6225822b",
+      "image_bytes": 114983,
+      "source_url": "https://www.tcgcollector.com/cards/39/arbok-fossil-31-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 31
+    },
+    {
+      "id": 249,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Cloyster",
+      "number": "32",
+      "number_value": 32,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/94/5e/75/945e757420199b0eb0a264ef5d6843adab821ebddc667f45583e4af90348519d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4c/aa/4b/4caa4b1ac56d2d62730a5361727561b0aa34d2c07af3f63425e128f5be370253.jpg",
+      "image_path": "images/cards/113/32-249.webp",
+      "image_sha256": "b08d170b2d0923e37e988aa155338adb9694c1cde3a5ae0106fadc30ccd8526b",
+      "image_bytes": 123595,
+      "source_url": "https://www.tcgcollector.com/cards/249/cloyster-fossil-32-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 32
+    },
+    {
+      "id": 604,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Gastly",
+      "number": "33",
+      "number_value": 33,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/53/a0/77/53a0770f89913ebd4d28759b58c923519ae91438e4d29764289bfc9905273eaf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/99/ac/43/99ac43aadecf9c03e9dcfc786cb4deb356f9fcb1f2b894e737acbe884046ee6c.jpg",
+      "image_path": "images/cards/113/33-604.webp",
+      "image_sha256": "0d7cb4d8cd6abb51cade7d187f096311eae23cef8889cfbd8657600bfb7f790a",
+      "image_bytes": 104817,
+      "source_url": "https://www.tcgcollector.com/cards/604/gastly-fossil-33-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 33
+    },
+    {
+      "id": 653,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Golbat",
+      "number": "34",
+      "number_value": 34,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/af/4c/52/af4c5271f16a09fc6cbe60d3189e7751862ff22da56f4d53cf21f1b9a9ff1f6f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/87/64/9b/87649b1a5d6bffca6b4acbb498ce6c7ad25f6978384169cf2a9810eb2baf0b55.jpg",
+      "image_path": "images/cards/113/34-653.webp",
+      "image_sha256": "b2573eda9d5ddff5bc71d7c06558dce4f146162a00e9cd101af9eca55491532a",
+      "image_bytes": 110931,
+      "source_url": "https://www.tcgcollector.com/cards/653/golbat-fossil-34-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 34
+    },
+    {
+      "id": 662,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Golduck",
+      "number": "35",
+      "number_value": 35,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d9/ba/6a/d9ba6a3ebfb12b593d2b5dd28cf12ee237e7261dc193271ca55f643bf6feb0a1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6d/44/99/6d449987dfc96b4c4b80ac602cd840188687dfe9db01944e8f0a6b74bae1f961.jpg",
+      "image_path": "images/cards/113/35-662.webp",
+      "image_sha256": "88fc4cce7901fc8bfa36c6d282275810cbd100ba32a003a479ce65b91e841362",
+      "image_bytes": 131584,
+      "source_url": "https://www.tcgcollector.com/cards/662/golduck-fossil-35-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 35
+    },
+    {
+      "id": 668,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Golem",
+      "number": "36",
+      "number_value": 36,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/7f/d3/b7/7fd3b7475280aecdb5f5457fb8e2acb1949c4353319c733006d2af2b892ede05.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8d/60/8d/8d608d77385c5d9c84a06187daf4e3cbd5a8d3e53d0a9a94744795871eba6aa7.jpg",
+      "image_path": "images/cards/113/36-668.webp",
+      "image_sha256": "97f600f7258113068da3fb4ff471eae59eaa0a97e70e2519b127f8c0181d3563",
+      "image_bytes": 107868,
+      "source_url": "https://www.tcgcollector.com/cards/668/golem-fossil-36-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 36
+    },
+    {
+      "id": 684,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Graveler",
+      "number": "37",
+      "number_value": 37,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/5b/22/8d/5b228d2fbe1dfa10916f9616a97d01506aa0e6bf2729dba46c23520d62b37278.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1a/e1/dc/1ae1dcd500bd5727bed5207ac9f44870054f4c103348b761ce156706bc295031.jpg",
+      "image_path": "images/cards/113/37-684.webp",
+      "image_sha256": "285372f3a670fb850200d6c6312b106755302bc8c82430ed5714a44c6018389e",
+      "image_bytes": 124665,
+      "source_url": "https://www.tcgcollector.com/cards/684/graveler-fossil-37-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 37
+    },
+    {
+      "id": 851,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Kingler",
+      "number": "38",
+      "number_value": 38,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/7f/fb/ef/7ffbef1472607e8384a8f3ada4152e9696e9be516a9560521da19c5304ee48e5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c5/fd/93/c5fd93f4914f04c0bdf5649d84e6380c9c5e0613dcff39ff2972059ac7e24aa2.jpg",
+      "image_path": "images/cards/113/38-851.webp",
+      "image_sha256": "fe5efa60fbcb247a662818122d5f363bc0c6b55e403f3547ee078f2cefbaee97",
+      "image_bytes": 125771,
+      "source_url": "https://www.tcgcollector.com/cards/851/kingler-fossil-38-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 38
+    },
+    {
+      "id": 1020,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Magmar",
+      "number": "39",
+      "number_value": 39,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/c2/be/09/c2be09677dc8652ad011030f68ebb276170cc2511c6b36a66792d2adc9bbbcbe.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ce/a8/91/cea8911f4022ec3d6a9a978ca65589c1fede437a1b0a94e2fbda132cdc13c597.jpg",
+      "image_path": "images/cards/113/39-1020.webp",
+      "image_sha256": "520af80422977a3b50906eaeade661f1171b5349c168b678fa055a72480eb93d",
+      "image_bytes": 115797,
+      "source_url": "https://www.tcgcollector.com/cards/1020/magmar-fossil-39-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 39
+    },
+    {
+      "id": 1275,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Omastar",
+      "number": "40",
+      "number_value": 40,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/6f/8d/40/6f8d40af9dfc155d5ecdef68d368e7963abec494cfdddd0eaf18f65057037b03.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2b/16/5f/2b165f173d0b914509dd2d9e7ffa2598c0ef9a83b5b9e67982de3ebbb6660e05.jpg",
+      "image_path": "images/cards/113/40-1275.webp",
+      "image_sha256": "35fd9554ec746a4405d4ef135e3c643a944c9014a396143e4c1fd54dcdfe012e",
+      "image_bytes": 133228,
+      "source_url": "https://www.tcgcollector.com/cards/1275/omastar-fossil-40-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 40
+    },
+    {
+      "id": 1557,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Sandslash",
+      "number": "41",
+      "number_value": 41,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/4c/a3/32/4ca3323521a88ab5a7926893f81bfb4aefe354347a8c6a1359155ddeea12d486.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/88/33/b3/8833b3bf8d2cadaee6379e4eca06c903facb0cda7b390b2e37e7c01de964c4e9.jpg",
+      "image_path": "images/cards/113/41-1557.webp",
+      "image_sha256": "0eefbdd1ac4b937ed82ce911f418425eef879be45f6aa1ae876b6ece022b0868",
+      "image_bytes": 128203,
+      "source_url": "https://www.tcgcollector.com/cards/1557/sandslash-fossil-41-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 41
+    },
+    {
+      "id": 1577,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Seadra",
+      "number": "42",
+      "number_value": 42,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/73/28/36/7328363879bb1d34c791c50a691d2592a38701bdf762931d64d1765d82275b65.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fd/63/d2/fd63d252647683022da9996c9a48b9af06bd9170e620515892a996b978bd9fef.jpg",
+      "image_path": "images/cards/113/42-1577.webp",
+      "image_sha256": "206bf9b6185218a9809a83aeefee540424ddc74c2d22e25245458bd5ae269878",
+      "image_bytes": 123915,
+      "source_url": "https://www.tcgcollector.com/cards/1577/seadra-fossil-42-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 42
+    },
+    {
+      "id": 1644,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Slowbro",
+      "number": "43",
+      "number_value": 43,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/42/1a/07/421a0798d5f20bbd013cbcfe22e5206eaf94cc1d6eb30beee4d73b49f4769cfe.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cc/50/52/cc5052ec5e8afe792631635731fa873d393745e61b973e37e22c7670c25ae9f5.jpg",
+      "image_path": "images/cards/113/43-1644.webp",
+      "image_sha256": "71e108662ed9af32795b7af8cf6333ecc9603c65ede61ee2ddc04601532b51ec",
+      "image_bytes": 114579,
+      "source_url": "https://www.tcgcollector.com/cards/1644/slowbro-fossil-43-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 43
+    },
+    {
+      "id": 1767,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Tentacruel",
+      "number": "44",
+      "number_value": 44,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/4b/34/1b/4b341b9adc673f70ded64e91dc39604c649db254c255793578f0e650d45cae14.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/23/40/42/2340426c83fc242ec2e50d14746cc2f5a62f56576f4a8181c1bfd90121e289c7.jpg",
+      "image_path": "images/cards/113/44-1767.webp",
+      "image_sha256": "db6fba36d60064c8913e9e1c2624354237dfb37b1ca093e3f48a5bdf9ecb1054",
+      "image_bytes": 131107,
+      "source_url": "https://www.tcgcollector.com/cards/1767/tentacruel-fossil-44-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 44
+    },
+    {
+      "id": 1934,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Weezing",
+      "number": "45",
+      "number_value": 45,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d4/40/37/d44037dc6f9ba6dc125d878b59f9f0482cda4ceff177eccdf8bf4e4ed08b6700.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b0/71/a7/b071a7607be124566ae088118565685679837550f6bdb4fdf00fd052fbf10c8f.jpg",
+      "image_path": "images/cards/113/45-1934.webp",
+      "image_sha256": "0b587acbc060f979189c01e14e4229d27487de703e0ceb5d89159b0f97e2d76d",
+      "image_bytes": 111653,
+      "source_url": "https://www.tcgcollector.com/cards/1934/weezing-fossil-45-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 45
+    },
+    {
+      "id": 446,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Ekans",
+      "number": "46",
+      "number_value": 46,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ff/a6/2f/ffa62f2393586c94476aec5e448139ab6ad6361268f88190731581aa7b91ee57.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/29/89/fb/2989fb0c1063983a98bae8557af96659ae4520d31a8f26d8d6b5e4fbd959c295.jpg",
+      "image_path": "images/cards/113/46-446.webp",
+      "image_sha256": "5a7e379eb064378bdcb925de8f81a309e1bb4f2718c4d6486dcabfe29c087d6f",
+      "image_bytes": 101592,
+      "source_url": "https://www.tcgcollector.com/cards/446/ekans-fossil-46-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 46
+    },
+    {
+      "id": 618,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Geodude",
+      "number": "47",
+      "number_value": 47,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/47/67/28/476728baf102f5ed27f8316ec433420b1ffe0304f8ef1480bd6254f2fee3c3f7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/49/67/a5/4967a54f6c15ad5d0440e1f9cd6359122453cec0c228c1a2da0626dbbbe6564d.jpg",
+      "image_path": "images/cards/113/47-618.webp",
+      "image_sha256": "3a45c9c24f3ab9601f849e03377af909a5e5b432dda16681607a02a1154dc106",
+      "image_bytes": 109047,
+      "source_url": "https://www.tcgcollector.com/cards/618/geodude-fossil-47-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 47
+    },
+    {
+      "id": 689,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Grimer",
+      "number": "48",
+      "number_value": 48,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/13/a2/b9/13a2b946e067cf5244a63763c252952fa66171b6108086c057cabbdabf192523.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b3/25/31/b3253163bf8fa4a321c51d5e59fcd9adee39d2b86779758e95ae5e22cafa450d.jpg",
+      "image_path": "images/cards/113/48-689.webp",
+      "image_sha256": "fc20fca323b1fae8f9082f28d24cec959676ad068cee6a884c05322ece120513",
+      "image_bytes": 107234,
+      "source_url": "https://www.tcgcollector.com/cards/689/grimer-fossil-48-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 48
+    },
+    {
+      "id": 754,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Horsea",
+      "number": "49",
+      "number_value": 49,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/98/e9/47/98e947c5c4869a4869f00d2a20a8709192c14299fa4362861cc71758e44427da.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9a/8c/81/9a8c81b23d594b9800488938e528394ed5b7a32afdc6a10093ac46bc2ebf5536.jpg",
+      "image_path": "images/cards/113/49-754.webp",
+      "image_sha256": "d7a576d7f0ce4b18678459c38c5350faa52deff93a78a886fcce7a4ad9c5c822",
+      "image_bytes": 114380,
+      "source_url": "https://www.tcgcollector.com/cards/754/horsea-fossil-49-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 49
+    },
+    {
+      "id": 821,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Kabuto",
+      "number": "50",
+      "number_value": 50,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/fd/fc/70/fdfc70e33edac15742586392b64b8c9532515ec8ace6672c72cbead17e108236.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4b/05/e9/4b05e939af2bcc91281742666eef0daa9432d43e8302f0e38b16d0d4110e72fe.jpg",
+      "image_path": "images/cards/113/50-821.webp",
+      "image_sha256": "f81e21d3b808faeee629288485e37eefa70a2e9068f625862a64432637e63e8c",
+      "image_bytes": 116454,
+      "source_url": "https://www.tcgcollector.com/cards/821/kabuto-fossil-50-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 50
+    },
+    {
+      "id": 880,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Krabby",
+      "number": "51",
+      "number_value": 51,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/20/dd/6d/20dd6d31fc285fd13c01702b77f56b46dc49c4f44755035f3bb8b986fc7a67b8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c4/ca/08/c4ca08ad9c90d6526d5f2471d58006d08fb34c5e2aad0d413a694a4bd1de1c71.jpg",
+      "image_path": "images/cards/113/51-880.webp",
+      "image_sha256": "e6bb4dd5de4233c1bef0a66319a89e3cb1280ec25350b9cc1ae18f8be1e468bc",
+      "image_bytes": 111795,
+      "source_url": "https://www.tcgcollector.com/cards/880/krabby-fossil-51-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 51
+    },
+    {
+      "id": 1269,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Omanyte",
+      "number": "52",
+      "number_value": 52,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/54/fb/50/54fb50e70d8d1bdad18ed3e9ca357a35d2b7d5c47cb232ce4850922b957427e0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5c/75/31/5c7531078b6efc8d850826cbca13f29d943eb140c3254c4a4b56db4a01fbb235.jpg",
+      "image_path": "images/cards/113/52-1269.webp",
+      "image_sha256": "e394ffbcc594b3bd2f8152fbc53cc2fd41165f9630861514fdf48a899683e47a",
+      "image_bytes": 120677,
+      "source_url": "https://www.tcgcollector.com/cards/1269/omanyte-fossil-52-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 52
+    },
+    {
+      "id": 1425,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Psyduck",
+      "number": "53",
+      "number_value": 53,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/31/36/4f/31364f97ae9b41f976176a57e1e5b8a8025851aa2284be90f8148645dc52ef8e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3b/82/59/3b8259113d8400fac8970e1771d9a1a8156a2f638111719982a0e72e07953821.jpg",
+      "image_path": "images/cards/113/53-1425.webp",
+      "image_sha256": "cdf3f08505323a93299caeb169f6df5d04f0aa68d1f4d61286b3590f3b595dbd",
+      "image_bytes": 110789,
+      "source_url": "https://www.tcgcollector.com/cards/1425/psyduck-fossil-53-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 53
+    },
+    {
+      "id": 1605,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Shellder",
+      "number": "54",
+      "number_value": 54,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/39/90/19/399019aaac63c8a2657eb304dad88e713daf548a4734e1f5380aedd05cf4aa68.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8a/29/c7/8a29c78313f8452261ff59a11f23be86e7488716619af87757b7e08babf502f1.jpg",
+      "image_path": "images/cards/113/54-1605.webp",
+      "image_sha256": "46a222312603d9dc0ec4778927f040ca9c718737f7b03af680bb4c61c8fe044c",
+      "image_bytes": 110874,
+      "source_url": "https://www.tcgcollector.com/cards/1605/shellder-fossil-54-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 54
+    },
+    {
+      "id": 1649,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Slowpoke",
+      "number": "55",
+      "number_value": 55,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/40/fd/13/40fd133f7c6d1384c02b9bc488324126d74096a21bc75cc925ee3f5eb9bd70c6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/23/0f/93/230f9306f1f662fac4b5277a71fb9847fe7ec7efa8040b4a9202909590af94b6.jpg",
+      "image_path": "images/cards/113/55-1649.webp",
+      "image_sha256": "617c2315e8c64a516a87d6717b9578799e0772f56b563b3b8bd3728847dedcac",
+      "image_bytes": 106915,
+      "source_url": "https://www.tcgcollector.com/cards/1649/slowpoke-fossil-55-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 55
+    },
+    {
+      "id": 1761,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Tentacool",
+      "number": "56",
+      "number_value": 56,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/eb/6e/df/eb6edffbd92e7b343c61c226a6009a7da0841794420b6f73c7183af6c6c49ac0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/35/83/43/358343bca3701e44a583fa6ae90a577d228731e16e33f3ed4209e7115aa6b303.jpg",
+      "image_path": "images/cards/113/56-1761.webp",
+      "image_sha256": "2acdc17be1a543f75a60a09b60a5bcc947ffc4e1055d50b9ad56d739ab468ea4",
+      "image_bytes": 113191,
+      "source_url": "https://www.tcgcollector.com/cards/1761/tentacool-fossil-56-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 56
+    },
+    {
+      "id": 1971,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Zubat",
+      "number": "57",
+      "number_value": 57,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a5/e4/e2/a5e4e24e041281b9bdf4a040ef5d8a4a601522394202e75db85dc969a8e706bf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f5/cb/5f/f5cb5fd002946a4dd49029277b9ac99d161455f85d465b47b9929e45b828f3d7.jpg",
+      "image_path": "images/cards/113/57-1971.webp",
+      "image_sha256": "30f03adf729e26543f9a14f44cac310c23c882854e7ac498c435f7361328001e",
+      "image_bytes": 109747,
+      "source_url": "https://www.tcgcollector.com/cards/1971/zubat-fossil-57-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 57
+    },
+    {
+      "id": 1179,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Mr. Fuji",
+      "number": "58",
+      "number_value": 58,
+      "printed_total": 62,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/1f/ef/0a/1fef0a2ba6afc6ded81b878cd58e0318e4e2ceeaf6f16960f25a10bc0bbba270.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/de/0b/94/de0b94f9f2a0512f05eef31880d7f3db23910719a43646e58b03535010471a98.jpg",
+      "image_path": "images/cards/113/58-1179.webp",
+      "image_sha256": "4c8b0da043c51019306a80254b8dfb7c928380d925fb253cef1de2158f09e84c",
+      "image_bytes": 83695,
+      "source_url": "https://www.tcgcollector.com/cards/1179/mr-fuji-fossil-58-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 58
+    },
+    {
+      "id": 483,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Energy Search",
+      "number": "59",
+      "number_value": 59,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/05/45/33/05453390216a2150a0f3acea1fea8b479efb7e79b16f8d51a5874a535bf91134.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3e/2c/2e/3e2c2ef9aeafec50c985aa94b44824de9bfab0fd3ecd50b741ee70b7e138e224.jpg",
+      "image_path": "images/cards/113/59-483.webp",
+      "image_sha256": "318b312d2c186572a2eab77de238be50e136506b8c8129531696af64101d085d",
+      "image_bytes": 84923,
+      "source_url": "https://www.tcgcollector.com/cards/483/energy-search-fossil-59-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 59
+    },
+    {
+      "id": 601,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Gambler",
+      "number": "60",
+      "number_value": 60,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a5/cc/15/a5cc15ec8f8297a6138ffb37785398699af80b654df4ae00ffd09cf70c3daa79.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/16/d8/e5/16d8e5f92020f5d3ac7eb1a79cbf174efc81890f1919e0b84542c39d1aa11b63.jpg",
+      "image_path": "images/cards/113/60-601.webp",
+      "image_sha256": "924faca09a3f022387077f4929299d132b9b8e6387d70f49afeb34876c42b999",
+      "image_bytes": 78698,
+      "source_url": "https://www.tcgcollector.com/cards/601/gambler-fossil-60-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 60
+    },
+    {
+      "id": 1482,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Recycle",
+      "number": "61",
+      "number_value": 61,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/19/46/65/1946659ec56580eb8ee7c9bf5ef6498bf10b5dbc9fa3b431a1ad0a879e769c5f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2c/b3/fa/2cb3fa50a260c1beb969ef6018bb3739abff615b170d7ad08ca1d26d163b4cb2.jpg",
+      "image_path": "images/cards/113/61-1482.webp",
+      "image_sha256": "6aff73f114457d6a031d55d68f7270481401da40e177be0a4491cb5fee784ad4",
+      "image_bytes": 80170,
+      "source_url": "https://www.tcgcollector.com/cards/1482/recycle-fossil-61-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 61
+    },
+    {
+      "id": 1200,
+      "set_id": 113,
+      "set_ids": [
+        113
+      ],
+      "name": "Mysterious Fossil",
+      "number": "62",
+      "number_value": 62,
+      "printed_total": 62,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/51/45/fe/5145fe1127acc4f041a4556796da83ef4d59925b1d2129614a7bd261cc5b2bce.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/20/64/4c/20644c7ff21240a22ba3c7f2e7b15f8bcb380bb91c13305b6fd553daa420f678.jpg",
+      "image_path": "images/cards/113/62-1200.webp",
+      "image_sha256": "2dde9bc8f06d15f04c730438d685884054e567e0c77d53ee5e8719ab9b797dae",
+      "image_bytes": 110956,
+      "source_url": "https://www.tcgcollector.com/cards/1200/mysterious-fossil-fossil-62-62",
+      "scraped_at": "2026-10-18T22:26:42Z",
+      "position": 62
+    }
+  ]
+}

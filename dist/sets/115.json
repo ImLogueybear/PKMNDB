@@ -1,0 +1,1682 @@
+{
+  "set": {
+    "id": 115,
+    "language": "en",
+    "name": "Team Rocket",
+    "code": "TR",
+    "series": "Original Series",
+    "release_date": "2000-04-24",
+    "date_text": "Apr 24, 2000",
+    "card_count": 83,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/e6/4c/f8/e64cf8259039b5b79ff4976b54db72be3ae3d1bef632d1459ab5e9710781a33e.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/2a/83/14/2a83149bb02bab46b2ea67bbd991f975ca2e98176550816ee844ea27eec298c9.svg",
+    "logo_path": "images/sets/115-logo.webp",
+    "symbol_path": "images/sets/115-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/115/team-rocket",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 83
+  },
+  "cards": [
+    {
+      "id": 287,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Alakazam",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/50/a4/39/50a43951756e97efb60292bb37ac3004de40fd72cfa950109223bb70ec0ec0e2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d2/5c/10/d25c10123829d11969784dad794bb3f2c33e5a9c99024412c764c1580b3dc89a.jpg",
+      "image_path": "images/cards/115/1-287.webp",
+      "image_sha256": "e79d1ecb7cd33aabbe8a91ba19362d2f43fa70006b0f37f6d2c9a7f5e054a5fa",
+      "image_bytes": 110204,
+      "source_url": "https://www.tcgcollector.com/cards/287/dark-alakazam-team-rocket-1-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 1
+    },
+    {
+      "id": 290,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Arbok",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/d0/c5/4b/d0c54b70bb85735e20c76621c2e7ab93494fc93de99ad225e613953f83612a49.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a0/73/78/a07378439dff8527735bb17c8f4578aded6984eb16a1a3c95c711276ac2cb0d8.jpg",
+      "image_path": "images/cards/115/2-290.webp",
+      "image_sha256": "136b9531618cddb22479169fb804375e738a3bc7ef8427b11438d1eb53b6aa79",
+      "image_bytes": 119185,
+      "source_url": "https://www.tcgcollector.com/cards/290/dark-arbok-team-rocket-2-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 2
+    },
+    {
+      "id": 293,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Blastoise",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/2e/43/ca/2e43ca5691e7cce7d528bcc14f50cc6e5e51b75ebdb8fdbc706f7d303f863542.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e6/22/9f/e6229f92232313613f4df5ca3d31857327b1611b74be12bd48b914c7013e87b8.jpg",
+      "image_path": "images/cards/115/3-293.webp",
+      "image_sha256": "4eabc4c42b2ef6474012a193a7c8ba79f446c887245915f6a08757fca042b680",
+      "image_bytes": 123175,
+      "source_url": "https://www.tcgcollector.com/cards/293/dark-blastoise-team-rocket-3-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 3
+    },
+    {
+      "id": 296,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Charizard",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/f0/36/03/f03603c56e86fd68ca396d4ea27da3b2766ff5a203b6b8e78d8f4797a881da32.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ec/5c/6c/ec5c6c672bc6e6df6fb19515af00b7f6776b9908ef2bd515cc2d1c3f859233aa.jpg",
+      "image_path": "images/cards/115/4-296.webp",
+      "image_sha256": "7f69e351307ba8d534b09578966a6048d47c3146a8433178733aa1aa224df47b",
+      "image_bytes": 102128,
+      "source_url": "https://www.tcgcollector.com/cards/296/dark-charizard-team-rocket-4-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 4
+    },
+    {
+      "id": 304,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Dragonite",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/c5/5c/42/c55c428d3d400fc06b387dd7a7acb0d0c9bf6287abcd0f6aee1084cddfdeb652.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/05/93/89/0593893f83ffa815a377afbd87143b5b7b10e64c25963a38afb4811c74a22daa.jpg",
+      "image_path": "images/cards/115/5-304.webp",
+      "image_sha256": "f7f8d7ffa9261945ce7c970ee80f45b4ff60e876d5db522c4b86422053dc5a39",
+      "image_bytes": 121126,
+      "source_url": "https://www.tcgcollector.com/cards/304/dark-dragonite-team-rocket-5-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 5
+    },
+    {
+      "id": 307,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Dugtrio",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/6a/a1/c3/6aa1c3120d4b8c091bc9c5777e30ff12888e56c1bbc4339de2f81adcfda0bf2b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/69/d2/68/69d2684b62c0016480bd9c254c577aab482fc851ed90cd75b2ff752aaa31d57d.jpg",
+      "image_path": "images/cards/115/6-307.webp",
+      "image_sha256": "624e50800b860e6ef78fbe0b23eea27b25a143fedc8120de095c0b28f054e848",
+      "image_bytes": 115111,
+      "source_url": "https://www.tcgcollector.com/cards/307/dark-dugtrio-team-rocket-6-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 6
+    },
+    {
+      "id": 318,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Golbat",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/c3/34/dc/c334dcaa4f0714531a2092b314fc2860374fa4f952f723d7266c54d543a5e91b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b5/a7/e5/b5a7e53c78c40393f46c44c883959615d9e47aee6133dd9020a7d6b1611d4063.jpg",
+      "image_path": "images/cards/115/7-318.webp",
+      "image_sha256": "8628f0d413c3ef824631721f936420b2a500416603d096b82f2932790530eb0d",
+      "image_bytes": 116917,
+      "source_url": "https://www.tcgcollector.com/cards/318/dark-golbat-team-rocket-7-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 7
+    },
+    {
+      "id": 321,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Gyarados",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/f9/2d/88/f92d88e2330cae29163386b3d10009b5ac908815e0b622de2b386a0d1c97775e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ec/d7/0d/ecd70d651f2fe3318927210bc7bd17ed155c1dc5b3ccff159467f5b064524aa6.jpg",
+      "image_path": "images/cards/115/8-321.webp",
+      "image_sha256": "8f94634407a2d89189c5344c0957215ca76e6d112b7ca9215d049023451803f7",
+      "image_bytes": 137523,
+      "source_url": "https://www.tcgcollector.com/cards/321/dark-gyarados-team-rocket-8-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 8
+    },
+    {
+      "id": 325,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Hypno",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/18/54/cd/1854cd16ab4463aaac12dbeee693b89fbdaffc6f7abff0a94ef089abb2512d2e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8a/5b/f0/8a5bf0a97e967c17c62a86b277e6216ef353c2d86341e58174465916adabb9bd.jpg",
+      "image_path": "images/cards/115/9-325.webp",
+      "image_sha256": "75d4ebe7d65c1d4ad37780b3738f460a6b2c634ef0611c9b32372bf64e403a3a",
+      "image_bytes": 109637,
+      "source_url": "https://www.tcgcollector.com/cards/325/dark-hypno-team-rocket-9-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 9
+    },
+    {
+      "id": 329,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Machamp",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/d5/ed/11/d5ed1125dce33a8d8f5d39537b9de77ada03ff200475fda35844c12102fce8a7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/21/17/f8/2117f83c2a628799bd24472c1d5436080e42296f4cc7b1cd2cfc09723619ea57.jpg",
+      "image_path": "images/cards/115/10-329.webp",
+      "image_sha256": "a611e765932b316cd3562ee6b225f974a627f9fd64af7bdcac7cc0d471e2c270",
+      "image_bytes": 106254,
+      "source_url": "https://www.tcgcollector.com/cards/329/dark-machamp-team-rocket-10-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 10
+    },
+    {
+      "id": 333,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Magneton",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/ba/a5/ea/baa5eaa9fb7aa98661e7e592ef3a8ab7285381225408000de9b10822f3db3ce1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8a/f9/25/8af925fdcd56a4316ef87963a22ae104a70ca7d9f303fac21a47288e8c3b02f5.jpg",
+      "image_path": "images/cards/115/11-333.webp",
+      "image_sha256": "e10253a67c34de93c4f1accbcf789597f7af601219bd855a94fb1cfad2450dea",
+      "image_bytes": 130792,
+      "source_url": "https://www.tcgcollector.com/cards/333/dark-magneton-team-rocket-11-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 11
+    },
+    {
+      "id": 352,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Slowbro",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/26/32/2e/26322e17de8227da30c774d40131ec4377f223a76d98763900369d61d201929c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d0/3b/ed/d03bed538bd82b17a4e0575034c19ae9e869e4fffeefa5a4d1b6afd8a7985c1c.jpg",
+      "image_path": "images/cards/115/12-352.webp",
+      "image_sha256": "26be56b8e42ba2e03fd1bd26954a2abb3ae24e09c9943065f8708b45dfbaabf5",
+      "image_bytes": 104469,
+      "source_url": "https://www.tcgcollector.com/cards/352/dark-slowbro-team-rocket-12-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 12
+    },
+    {
+      "id": 361,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Vileplume",
+      "number": "13",
+      "number_value": 13,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/44/8c/57/448c57aeec53da677cfbba004a406f9d388ac2435c8f6d380b96489f1dad0716.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0b/75/42/0b754204f9abe1d29b15d49205a750b9c50adc572996ee7ad8f7734d0758d891.jpg",
+      "image_path": "images/cards/115/13-361.webp",
+      "image_sha256": "99376e2cf3830d72c37202bdf27af98d4966a7e5a2ff24de3a00d2229e4559ee",
+      "image_bytes": 116422,
+      "source_url": "https://www.tcgcollector.com/cards/361/dark-vileplume-team-rocket-13-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 13
+    },
+    {
+      "id": 365,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Weezing",
+      "number": "14",
+      "number_value": 14,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/98/13/e7/9813e7b59f65cec4b9570f33777a9021d0a5c1866f4ad667ac710151a9b6fd12.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0b/65/d0/0b65d0cf3baf3bd6222f86c416f4afef391ed676db4f03fabdc10a042c8c12c0.jpg",
+      "image_path": "images/cards/115/14-365.webp",
+      "image_sha256": "2ebdcf98998317cf1f1b5df1dc665aa74cf1432a8be7cbbe9517ddbe6ad4312e",
+      "image_bytes": 130097,
+      "source_url": "https://www.tcgcollector.com/cards/365/dark-weezing-team-rocket-14-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 14
+    },
+    {
+      "id": 727,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Here Comes Team Rocket!",
+      "number": "15",
+      "number_value": 15,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/93/16/e7/9316e7155c05502ea547b4a470e3f0addd9aa21325f8bd6c45c2859eab77e798.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bb/69/46/bb69463d001ec06b8d00fad92935954e8e5cf468e806efd78891414a785c1b22.jpg",
+      "image_path": "images/cards/115/15-727.webp",
+      "image_sha256": "fb2d1bd5336c36110d9cf0288e0e9b466462ea86ffdf64e26e3836e7006c3973",
+      "image_bytes": 85527,
+      "source_url": "https://www.tcgcollector.com/cards/727/here-comes-team-rocket-team-rocket-15-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 15
+    },
+    {
+      "id": 1508,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Rocket's Sneak Attack",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/5c/d0/ef/5cd0ef1c2eb5ffe4788e14a4aba7cb8b81c4a9c147afe7c025cee06d3de0ae3c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3c/48/78/3c4878635332936048f39c0c91450beec32cde2bab763715f4b47da064ec1125.jpg",
+      "image_path": "images/cards/115/16-1508.webp",
+      "image_sha256": "fad40f0761ad7323e6a93bde3add26a20f366bae046ee7305a1a2e27cbbf32f0",
+      "image_bytes": 87506,
+      "source_url": "https://www.tcgcollector.com/cards/1508/rockets-sneak-attack-team-rocket-16-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 16
+    },
+    {
+      "id": 1458,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Rainbow Energy",
+      "number": "17",
+      "number_value": 17,
+      "printed_total": 82,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/a3/99/30/a399306f23184c8cd265464edebf9eb548ae2e5feb7f76ca33f55aa23fbe7b19.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8c/4b/12/8c4b12f56e924ebe8f6c69575cba2bdec583e346d438990835ae11a7426ae165.jpg",
+      "image_path": "images/cards/115/17-1458.webp",
+      "image_sha256": "81fbfd5afa1cf66405fcfeec365208ee7493044f350f25f39e081277ff85d592",
+      "image_bytes": 100837,
+      "source_url": "https://www.tcgcollector.com/cards/1458/rainbow-energy-team-rocket-17-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 17
+    },
+    {
+      "id": 288,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Alakazam",
+      "number": "18",
+      "number_value": 18,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/4f/bb/56/4fbb566809c777f6eee853fc2185b0b8eb772b632d79c61f225e896be9e56fbf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9f/7a/5f/9f7a5f0019d6e4fb6a5f9364f18764f1bec53f3f5811678967d6abe63a7380d9.jpg",
+      "image_path": "images/cards/115/18-288.webp",
+      "image_sha256": "d2ff697dc5836342fc0d7d4cdd3e0b60ac34b6931892e26ed4f774d0a6525f69",
+      "image_bytes": 124455,
+      "source_url": "https://www.tcgcollector.com/cards/288/dark-alakazam-team-rocket-18-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 18
+    },
+    {
+      "id": 291,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Arbok",
+      "number": "19",
+      "number_value": 19,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/85/68/ce/8568cef0233cebaa15290cf1cd5aa04da47ccdcb89cf17f1596c7e64d7cd196a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0b/fe/74/0bfe74af5318616f8616a556cc3fd025d93b14463622981875de6eff23bb5c8b.jpg",
+      "image_path": "images/cards/115/19-291.webp",
+      "image_sha256": "00978f43870ee053bd22e07109ab293db0f773e5c4a9003cb1c291017e1b289c",
+      "image_bytes": 147742,
+      "source_url": "https://www.tcgcollector.com/cards/291/dark-arbok-team-rocket-19-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 19
+    },
+    {
+      "id": 295,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Blastoise",
+      "number": "20",
+      "number_value": 20,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/1d/7b/d0/1d7bd05a0277655e2d979f2596382fe64ebd5259b3fba26a5406f181dec0d3bb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3e/97/ff/3e97ff3deca077749899874dd79a0e93b4fb8abb381f648de2077c68d5ee54ce.jpg",
+      "image_path": "images/cards/115/20-295.webp",
+      "image_sha256": "9967d9541e4b4a560f967e13a8d4380383d2a06ad08c2a11da15be57dae14393",
+      "image_bytes": 122033,
+      "source_url": "https://www.tcgcollector.com/cards/295/dark-blastoise-team-rocket-20-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 20
+    },
+    {
+      "id": 297,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Charizard",
+      "number": "21",
+      "number_value": 21,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f6/a3/3b/f6a33bb1739fc1f3d80eebfca4f739834c91a98062f2bcd8d46e38767292a863.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/23/fb/da/23fbda2e35640da4c57dbffe1b24e10dfc8adfc3325864e985538f0d62abf562.jpg",
+      "image_path": "images/cards/115/21-297.webp",
+      "image_sha256": "bf9e8c8c6f73ea65752b095ffbe1d2b2bbc8364fe28a0a009de0260a7bd2b704",
+      "image_bytes": 103674,
+      "source_url": "https://www.tcgcollector.com/cards/297/dark-charizard-team-rocket-21-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 21
+    },
+    {
+      "id": 306,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Dragonite",
+      "number": "22",
+      "number_value": 22,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/65/39/a8/6539a817507511661ed7abc2ba97257e7de8484d890255dd6d51cce38f9fa2c6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c9/80/86/c980866bf9e4b2de6e8761b0236b55c4668e2306ea11e4dee71950e251262e18.jpg",
+      "image_path": "images/cards/115/22-306.webp",
+      "image_sha256": "5051c29b5aae846bf4d560df6ac8946e6045dacb74d051b83cb1b68b09c516a5",
+      "image_bytes": 123151,
+      "source_url": "https://www.tcgcollector.com/cards/306/dark-dragonite-team-rocket-22-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 22
+    },
+    {
+      "id": 308,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Dugtrio",
+      "number": "23",
+      "number_value": 23,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/70/60/2e/70602effca3f4525177c47c520ac4715206130725f8540e9345da99819e24f61.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2b/d2/81/2bd281d0d534edd02a463e6b791b9ad38fe2d0151dda42835ba1e0a9c29da04d.jpg",
+      "image_path": "images/cards/115/23-308.webp",
+      "image_sha256": "a7c202e4e25adffbdb1132cff99c2d9f6aaa9cccfe37e0c3667ed9da6b0cd637",
+      "image_bytes": 120530,
+      "source_url": "https://www.tcgcollector.com/cards/308/dark-dugtrio-team-rocket-23-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 23
+    },
+    {
+      "id": 319,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Golbat",
+      "number": "24",
+      "number_value": 24,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/3e/03/50/3e03505215649ec0a2cc286bfa65dd6ebffda6abbb1c2394dc80f9bb9f48eb99.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d7/4c/83/d74c83338c189dad18e40cd62f5467b405a86f4502e98b63488cfa94134bff9f.jpg",
+      "image_path": "images/cards/115/24-319.webp",
+      "image_sha256": "3371c71ef3282b403ef9b9f1500e2b8f731acb56d4faadff3471a5940fbe19bb",
+      "image_bytes": 114981,
+      "source_url": "https://www.tcgcollector.com/cards/319/dark-golbat-team-rocket-24-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 24
+    },
+    {
+      "id": 322,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Gyarados",
+      "number": "25",
+      "number_value": 25,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/9a/af/b9/9aafb9680bb3c4a5942ed790d35f3ca3519da7269229149f4e455ea038e5b68e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/72/e7/fe/72e7fe6420a7b83f2f2afd80db219b108c8b91ef889cd3402c0f209587025da4.jpg",
+      "image_path": "images/cards/115/25-322.webp",
+      "image_sha256": "2f3be827ed57796c8e07f2107a69f7b20c887b224ad4d5e1e75beceec9c680d9",
+      "image_bytes": 127232,
+      "source_url": "https://www.tcgcollector.com/cards/322/dark-gyarados-team-rocket-25-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 25
+    },
+    {
+      "id": 326,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Hypno",
+      "number": "26",
+      "number_value": 26,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/b9/6e/44/b96e4431215001448801e448f6eb781a74a1bf8baa5b17cdce50bb5031b69d3e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d8/b8/1b/d8b81baa6d967b16cddf62614fe5ccc61af28c102d4a17f8f5066a435fe4acf0.jpg",
+      "image_path": "images/cards/115/26-326.webp",
+      "image_sha256": "00d3b42f311b7ad249e9676ca8bab224bcee5522b1482f5884e6664d44237596",
+      "image_bytes": 115800,
+      "source_url": "https://www.tcgcollector.com/cards/326/dark-hypno-team-rocket-26-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 26
+    },
+    {
+      "id": 330,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Machamp",
+      "number": "27",
+      "number_value": 27,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/a1/06/48/a10648d31f23a27048ed3202907d89bf4afe39b2a98c2ac95cb9186a1ac72cf3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2c/5f/d1/2c5fd17338776980c65f7d750344f88f119ca8cc0a9128bee3da9616fc2de638.jpg",
+      "image_path": "images/cards/115/27-330.webp",
+      "image_sha256": "c529c526aad1373968b0ae271bd2c43065b4b9a35433cec8d8c06d6999c81b69",
+      "image_bytes": 106917,
+      "source_url": "https://www.tcgcollector.com/cards/330/dark-machamp-team-rocket-27-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 27
+    },
+    {
+      "id": 334,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Magneton",
+      "number": "28",
+      "number_value": 28,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/9c/0c/07/9c0c0770f7b0c8d467b2c2fa2820d98b01167af55794d95695b0d6ef47c322a1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b6/00/6c/b6006c88ae982bcabbf622d1e91d089ac49535b8dbe220e95d5e336679386056.jpg",
+      "image_path": "images/cards/115/28-334.webp",
+      "image_sha256": "1c5f14fc1104aa87e7bf49feea99590180d74c7ef84c467cbec597f65b21098b",
+      "image_bytes": 116829,
+      "source_url": "https://www.tcgcollector.com/cards/334/dark-magneton-team-rocket-28-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 28
+    },
+    {
+      "id": 353,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Slowbro",
+      "number": "29",
+      "number_value": 29,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/93/79/19/9379196d12a1e057e2b3fd5477bd046e1fb80a0284b953600931307eb7c3a77d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2b/b1/f0/2bb1f08300ae6a3733c99f333312472128bb0539ce806ef42f53e1142990ae21.jpg",
+      "image_path": "images/cards/115/29-353.webp",
+      "image_sha256": "bafd32468a573f53eee775187d6bf7aa6d01dee109487bfe7e88419113ee1d3b",
+      "image_bytes": 102225,
+      "source_url": "https://www.tcgcollector.com/cards/353/dark-slowbro-team-rocket-29-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 29
+    },
+    {
+      "id": 362,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Vileplume",
+      "number": "30",
+      "number_value": 30,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/dc/c1/aa/dcc1aabcb4f257a7a894e6a844d1f81a1e83a40079ae66333cc76e1a9eea8415.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0a/05/e0/0a05e02037bd3a2646560a05141492d02d25306c74701d06fd0e3ce3f4e3857e.jpg",
+      "image_path": "images/cards/115/30-362.webp",
+      "image_sha256": "1f213bbacc95827c55186d44c436522f45091ca6a974ff90f81a0a53ac09d13c",
+      "image_bytes": 106297,
+      "source_url": "https://www.tcgcollector.com/cards/362/dark-vileplume-team-rocket-30-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 30
+    },
+    {
+      "id": 366,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Weezing",
+      "number": "31",
+      "number_value": 31,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/d6/e4/0b/d6e40b9b1cc8393c5b9e1f92b42248d5c04aed5bad86d54a0e73c69722e47faa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ec/72/9d/ec729d2df87194a5906d64009bfcf0084c5ae21c45be254fd37db69dd0a750f2.jpg",
+      "image_path": "images/cards/115/31-366.webp",
+      "image_sha256": "764c0b56a918f562b3a19fcd291e6324faca3036fa098842e3b3dc09acaa4a65",
+      "image_bytes": 117985,
+      "source_url": "https://www.tcgcollector.com/cards/366/dark-weezing-team-rocket-31-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 31
+    },
+    {
+      "id": 298,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Charmeleon",
+      "number": "32",
+      "number_value": 32,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b8/c8/25/b8c825701bc18d3d6ff6212b5ceec5a3f0a9f61cfdfb93ed802be9b026644cb8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c2/0d/c9/c20dc9a4dd95a73f842115943dcc18595f30ffec9187ab7d706f66de8e7f1156.jpg",
+      "image_path": "images/cards/115/32-298.webp",
+      "image_sha256": "e7ea199d7b854be08867b77deafdbb2f636f9301210d18f6224ab7b39a60899a",
+      "image_bytes": 110214,
+      "source_url": "https://www.tcgcollector.com/cards/298/dark-charmeleon-team-rocket-32-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 32
+    },
+    {
+      "id": 302,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Dragonair",
+      "number": "33",
+      "number_value": 33,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f5/c9/f2/f5c9f235435acf352a2c959da749187bf1cca0a84d73deee15068c481e3aba6d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/98/6e/e5/986ee52cbe3c8335559fe31835f2996358dbc8ff04adeb9ed09152f80aa8b1d4.jpg",
+      "image_path": "images/cards/115/33-302.webp",
+      "image_sha256": "13612fa45dc6d3d2b86464fe158b6708d138a8bc58d275c19d589e19d108a7b0",
+      "image_bytes": 111525,
+      "source_url": "https://www.tcgcollector.com/cards/302/dark-dragonair-team-rocket-33-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 33
+    },
+    {
+      "id": 309,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Electrode",
+      "number": "34",
+      "number_value": 34,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/2d/de/63/2dde635be4e3c74a0cfbe61d8912fb000fdc3b344025cf6d354e13b4b88d8606.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/47/57/6c/47576c27cd334defe6943ea5982b14622b24665467267e36019c5e04e311e255.jpg",
+      "image_path": "images/cards/115/34-309.webp",
+      "image_sha256": "ec28fb9b8c94ae6fef50896ba01583520d95a41fa68069bb9bd0c2e0b096249e",
+      "image_bytes": 109840,
+      "source_url": "https://www.tcgcollector.com/cards/309/dark-electrode-team-rocket-34-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 34
+    },
+    {
+      "id": 314,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Flareon",
+      "number": "35",
+      "number_value": 35,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/5d/d4/30/5dd430d06ccbca5bd9c15b0109b7559221bd4a15b68a94c8f8bc13409c616dea.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b6/7c/96/b67c963159ea2c953468d17224ad4919722a8063ba6f64327ec4da217f50638d.jpg",
+      "image_path": "images/cards/115/35-314.webp",
+      "image_sha256": "4ace1ef497d3e02c63b09cd5b668a383f092258e15d0397d216bfbccc3623d7e",
+      "image_bytes": 113518,
+      "source_url": "https://www.tcgcollector.com/cards/314/dark-flareon-team-rocket-35-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 35
+    },
+    {
+      "id": 317,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Gloom",
+      "number": "36",
+      "number_value": 36,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/e3/df/04/e3df04874896b85aeba3a76e47b70854263abbf8ae3b174993ee71bc97a3451e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/48/e0/58/48e0586c45400146724916ba3490e83f9c98be1d75a39da032a9e6a2222f9922.jpg",
+      "image_path": "images/cards/115/36-317.webp",
+      "image_sha256": "705f97f82630a0b90d91f7aeba809ce3f8f1a2843953beb8390808e4c151bb79",
+      "image_bytes": 110921,
+      "source_url": "https://www.tcgcollector.com/cards/317/dark-gloom-team-rocket-36-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 36
+    },
+    {
+      "id": 320,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Golduck",
+      "number": "37",
+      "number_value": 37,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/26/84/4c/26844c2baf4d2636da2bef15667cdf7f3cfd8a106f7ab2f6171044f19c416e4c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a3/0d/0c/a30d0cfaf9a5a8bbf62317198b30a24e2cefb8266692302ebd13054d4d0fd423.jpg",
+      "image_path": "images/cards/115/37-320.webp",
+      "image_sha256": "6dc21a066cdf7b4b0eacb290087b49af825a1f4f511c465d50160e2ead06f4c9",
+      "image_bytes": 124489,
+      "source_url": "https://www.tcgcollector.com/cards/320/dark-golduck-team-rocket-37-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 37
+    },
+    {
+      "id": 327,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Jolteon",
+      "number": "38",
+      "number_value": 38,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/29/82/b9/2982b94ea9850967c0f705f5cfefed446479ff98c800c11b135eaaf2c6977be8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/07/3a/44/073a44db25955178580a5b8a6ec9af2974f3649a71de6e0ca4128d1810856661.jpg",
+      "image_path": "images/cards/115/38-327.webp",
+      "image_sha256": "8fdf6058928cbb7b8e8eebdf659714e01605f7f6f41ab35150e9f92ccc5e19fb",
+      "image_bytes": 115368,
+      "source_url": "https://www.tcgcollector.com/cards/327/dark-jolteon-team-rocket-38-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 38
+    },
+    {
+      "id": 328,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Kadabra",
+      "number": "39",
+      "number_value": 39,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f5/28/f8/f528f821683930fc0700886f09d764d0b87d2c52d5954fe6e2d3afcd10b6b297.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1f/27/8a/1f278aa9c66188bc9ccdf8c618333647cda0200760db06b3540ec175654eaf28.jpg",
+      "image_path": "images/cards/115/39-328.webp",
+      "image_sha256": "ecefaa2f382d4b5b4616e5bbd20c1d4e0dbdfaf8a2486674fa399a58e129c791",
+      "image_bytes": 118451,
+      "source_url": "https://www.tcgcollector.com/cards/328/dark-kadabra-team-rocket-39-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 39
+    },
+    {
+      "id": 331,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Machoke",
+      "number": "40",
+      "number_value": 40,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/5b/64/b9/5b64b94860aaa04f609109eaeedbdc228e82064cbd52d98d93666b38a1cab2fc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1b/60/95/1b6095b70cfefde020ef9215d81004594c1b70e04d35570927e4abbcb033029b.jpg",
+      "image_path": "images/cards/115/40-331.webp",
+      "image_sha256": "3086b2b8b9c2755b659c5018172a964b980866b98d384eb7abf3fa74e528fd50",
+      "image_bytes": 118928,
+      "source_url": "https://www.tcgcollector.com/cards/331/dark-machoke-team-rocket-40-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 40
+    },
+    {
+      "id": 335,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Muk",
+      "number": "41",
+      "number_value": 41,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/bb/d1/1f/bbd11fe14e15eb9084ad9425d7f36f8d617736fdb03bf46bee4b905c0e8194a5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/33/03/f3/3303f38d4f221110123049c3e8796706d1b7e31db4337197944c9e89b59da448.jpg",
+      "image_path": "images/cards/115/41-335.webp",
+      "image_sha256": "731ef88d3ce89371306212c242ffc471fb2b167cf26216f684847140709133e0",
+      "image_bytes": 104785,
+      "source_url": "https://www.tcgcollector.com/cards/335/dark-muk-team-rocket-41-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 41
+    },
+    {
+      "id": 341,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Persian",
+      "number": "42",
+      "number_value": 42,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/1b/53/cc/1b53ccb078eb34082ccd26a57d9dfee15123c7f087fa8cf9074f730a36c9f45d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/09/09/f2/0909f280883c7bba0291b9e2ffbcb1d76e67f82db10f2ad99523c16e4808fa56.jpg",
+      "image_path": "images/cards/115/42-341.webp",
+      "image_sha256": "4350508ae612aca56b687a5b43e593ba6ff590d1b638a154cf2963779acf092c",
+      "image_bytes": 104727,
+      "source_url": "https://www.tcgcollector.com/cards/341/dark-persian-team-rocket-42-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 42
+    },
+    {
+      "id": 343,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Primeape",
+      "number": "43",
+      "number_value": 43,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f3/ea/31/f3ea315468ab87343240e551721af3b32cf0e9e41d3fd58b6c3425a12c5b6299.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/00/1a/19/001a19e47ac9b110fc2b6ea953f8bb7e69e9492b04b00c247fcf24bf98b06222.jpg",
+      "image_path": "images/cards/115/43-343.webp",
+      "image_sha256": "f202b9e2ef2b7781990e4dbdd11c08a74e199323a1597c3125f028381e82e486",
+      "image_bytes": 114732,
+      "source_url": "https://www.tcgcollector.com/cards/343/dark-primeape-team-rocket-43-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 43
+    },
+    {
+      "id": 348,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Rapidash",
+      "number": "44",
+      "number_value": 44,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/a6/cc/98/a6cc987c4a74ab4c0ae64eed9d63cef14f37436bca796d3f0423a76d0dd42e4a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/15/9b/3c/159b3c26c8fbd0639f20fbcf384fb31126cda073d9cb7175b81c331049e33269.jpg",
+      "image_path": "images/cards/115/44-348.webp",
+      "image_sha256": "a3811074c15149ea82e9bc2a441de61199551bd2e3f4fea93d89c3403ad29c24",
+      "image_bytes": 111380,
+      "source_url": "https://www.tcgcollector.com/cards/348/dark-rapidash-team-rocket-44-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 44
+    },
+    {
+      "id": 359,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Vaporeon",
+      "number": "45",
+      "number_value": 45,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/46/24/5a/46245afc8280098c303ae380ca1fbf3e3039a598078167353ee7c7d8b33fcf02.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/02/c8/ce/02c8ce56e18dd911e42a01d9145db397caa16e548625f72b51ce3256da6667de.jpg",
+      "image_path": "images/cards/115/45-359.webp",
+      "image_sha256": "f72e68373badb2da4694ebdb2dcf8db2756562df542a7f99d62414b958cd5bc3",
+      "image_bytes": 121453,
+      "source_url": "https://www.tcgcollector.com/cards/359/dark-vaporeon-team-rocket-45-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 45
+    },
+    {
+      "id": 364,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Wartortle",
+      "number": "46",
+      "number_value": 46,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/90/1f/f9/901ff9e75543fc6cc6a06f0fc40060594499dd47c4005ac661df87435e474cad.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d8/ec/0d/d8ec0db910820cddb2a84d6f85a8ec7bea12ee5bb4d0250a9d2250970a7c2a16.jpg",
+      "image_path": "images/cards/115/46-364.webp",
+      "image_sha256": "3f7d9ac60eb405c896e74b641ae2d31df59138f4f1fde0a490169e28a7113473",
+      "image_bytes": 121269,
+      "source_url": "https://www.tcgcollector.com/cards/364/dark-wartortle-team-rocket-46-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 46
+    },
+    {
+      "id": 1014,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Magikarp",
+      "number": "47",
+      "number_value": 47,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/e1/f8/f2/e1f8f230ff209737cd5de970f577d4c22ac799da55e61f5f9effa79704183f2e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7e/37/0f/7e370f3a5801c1f04807fd25ac6299680b8458b7265031502eea68e2d040b6f2.jpg",
+      "image_path": "images/cards/115/47-1014.webp",
+      "image_sha256": "e08917adf431d95f84c053625aacb732f85decb4f1a0808d933420d766afa10c",
+      "image_bytes": 108416,
+      "source_url": "https://www.tcgcollector.com/cards/1014/magikarp-team-rocket-47-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 47
+    },
+    {
+      "id": 1394,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Porygon",
+      "number": "48",
+      "number_value": 48,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/bf/73/99/bf7399e9bd5229fc7f7c8d22313bf93173e0f680c464f60da32b9be9c5248ad3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/98/5b/f5/985bf53fc756c11048aa28ca274150c13d31f2a33c1a46008f3a564e37e080f0.jpg",
+      "image_path": "images/cards/115/48-1394.webp",
+      "image_sha256": "333265c10189f07127e84bf4ec988d6de6b18319d8bd8a07ed2dde86033041e8",
+      "image_bytes": 109576,
+      "source_url": "https://www.tcgcollector.com/cards/1394/porygon-team-rocket-48-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 48
+    },
+    {
+      "id": 4,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Abra",
+      "number": "49",
+      "number_value": 49,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/c2/e7/01/c2e701d735721bb700c5a8179c09a3f7832a19057e5731dfb9c409e6c290dc1b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9b/e4/db/9be4dbade9d9bbafac511f116932fc500da59163eb93d841c7d1724dc254ee6d.jpg",
+      "image_path": "images/cards/115/49-4.webp",
+      "image_sha256": "429d5dadda93e193d3c6d7f452c1b1585a52f2ec9417a9828e71ebc447250760",
+      "image_bytes": 118157,
+      "source_url": "https://www.tcgcollector.com/cards/4/abra-team-rocket-49-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 49
+    },
+    {
+      "id": 218,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Charmander",
+      "number": "50",
+      "number_value": 50,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/d1/63/4c/d1634cc20d6de43c4e054c0bb6273ccca6c08b7bd79192de533d0187aa320481.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/90/c4/10/90c41048f7f04dd37fbc4255e03144ec630bfb8219395f3d12d0924a53c53038.jpg",
+      "image_path": "images/cards/115/50-218.webp",
+      "image_sha256": "ebd4aa903745a568700b7225cdc45b2e99b3fecd2a64cec399f85233c8c3f42d",
+      "image_bytes": 101737,
+      "source_url": "https://www.tcgcollector.com/cards/218/charmander-team-rocket-50-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 50
+    },
+    {
+      "id": 349,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Raticate",
+      "number": "51",
+      "number_value": 51,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/8b/a2/b6/8ba2b618962e42f366ab8564c90e96ff1bc626340e9adf4cc88dad854f4f7f99.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/16/9f/53/169f53ac2b17feaa30f7d9f5d80c6e536c9beca0c30151d3aa1e9ad03f55e38b.jpg",
+      "image_path": "images/cards/115/51-349.webp",
+      "image_sha256": "3dafdc1e3259ab56ab389d7894286d0bcb57350ce01e7dec342d2f518f5fd5fe",
+      "image_bytes": 116029,
+      "source_url": "https://www.tcgcollector.com/cards/349/dark-raticate-team-rocket-51-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 51
+    },
+    {
+      "id": 388,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Diglett",
+      "number": "52",
+      "number_value": 52,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e4/8f/6a/e48f6a97e3f3fc4a254305d46f19dc736c5660a48de9d1ab4efd8ff6a2f3f26b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/61/f5/fd/61f5fdc261e4fd99c80d336a5208d52e6007cc4cc37304daf2766ec987e3fbae.jpg",
+      "image_path": "images/cards/115/52-388.webp",
+      "image_sha256": "a6787348dab4e0043a932b62d2708d02721f68cf198e64d64bdcea461720a76d",
+      "image_bytes": 108784,
+      "source_url": "https://www.tcgcollector.com/cards/388/diglett-team-rocket-52-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 52
+    },
+    {
+      "id": 415,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dratini",
+      "number": "53",
+      "number_value": 53,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/74/fb/4e/74fb4ee16a0db2abe3a1a3d26c4629d2ed7388d6e737c0f3ff331d1bcc78fd96.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/db/d2/40/dbd240da1094aa3ebe3e3f07fbd9681a7e0c62aea09ffae9d27807efc18f3e37.jpg",
+      "image_path": "images/cards/115/53-415.webp",
+      "image_sha256": "7874295b487107bc1968b74eed91fe31ef8597781191a53fa0fc58d48edb1e8f",
+      "image_bytes": 90427,
+      "source_url": "https://www.tcgcollector.com/cards/415/dratini-team-rocket-53-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 53
+    },
+    {
+      "id": 421,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Drowzee",
+      "number": "54",
+      "number_value": 54,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/70/7b/3c/707b3c84897ece7346b00db5a821ee2206c51630311703a6914f1ebdc123bb0a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3e/3a/ba/3e3abac980bbb6ae04cb39a39575d225a7bfce0d14c657838f70d1767304549c.jpg",
+      "image_path": "images/cards/115/54-421.webp",
+      "image_sha256": "37388464ea54eb7ccc6408ebcf4168be7b2a7f13a8729c3f6f3d888ff510d6ea",
+      "image_bytes": 103178,
+      "source_url": "https://www.tcgcollector.com/cards/421/drowzee-team-rocket-54-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 54
+    },
+    {
+      "id": 443,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Eevee",
+      "number": "55",
+      "number_value": 55,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/83/5e/89/835e89d3a086107b74f43f2a58a5c3e237629818fb19b71f1413858ed630f79d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/25/51/43/2551436cf96bcb04653d6d59099da11fdfcf2d9e3f522f48b6ed9a1e30326729.jpg",
+      "image_path": "images/cards/115/55-443.webp",
+      "image_sha256": "3e5b84f0174a6eae6b90b4fc04e89f24a9770bad1bcead3fbb4ab91e9d763196",
+      "image_bytes": 106237,
+      "source_url": "https://www.tcgcollector.com/cards/443/eevee-team-rocket-55-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 55
+    },
+    {
+      "id": 447,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Ekans",
+      "number": "56",
+      "number_value": 56,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/51/58/24/515824d5c0c07e7d23cd21b0203f4040d4c43ee96b51f970192410e392850d5b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a9/06/81/a90681d6694b65a942f312a35ba283c5302c19dda7a738642e52e8c5b5a9237d.jpg",
+      "image_path": "images/cards/115/56-447.webp",
+      "image_sha256": "efb5bc2e2f201f46385b05e6e11d8541fc86f51532c8bad573afb052882a8318",
+      "image_bytes": 100700,
+      "source_url": "https://www.tcgcollector.com/cards/447/ekans-team-rocket-56-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 56
+    },
+    {
+      "id": 690,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Grimer",
+      "number": "57",
+      "number_value": 57,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/b7/43/d9/b743d9994f99b61c0c9005f4760be38d45c5f724dbd6393b11b997693a00ce11.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bf/20/d3/bf20d3e149dc0734845a1cee5fb683f2524e8116f2b61da386dd5e7e00f0db79.jpg",
+      "image_path": "images/cards/115/57-690.webp",
+      "image_sha256": "92b3430343c739741cdae8c9ffcf04672e413c7172c37266fdd6bf4fc1f709cd",
+      "image_bytes": 108514,
+      "source_url": "https://www.tcgcollector.com/cards/690/grimer-team-rocket-57-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 57
+    },
+    {
+      "id": 858,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Koffing",
+      "number": "58",
+      "number_value": 58,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/14/01/a9/1401a9640fa130ad94fd930f75c8abfc274fa11274fd64a85c9fc8bb26ec84d9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fe/07/db/fe07dba1c1ef33ebd297908572628cb85cfd5b02652a754ddfeeaa1b87e28d82.jpg",
+      "image_path": "images/cards/115/58-858.webp",
+      "image_sha256": "368a02a40368bb8ce8c29ee8ce65ef41d46a55487165434dac2b28c8e86f78f7",
+      "image_bytes": 103419,
+      "source_url": "https://www.tcgcollector.com/cards/858/koffing-team-rocket-58-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 58
+    },
+    {
+      "id": 997,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Machop",
+      "number": "59",
+      "number_value": 59,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/0f/3a/9f/0f3a9ffedfda547f1957be8f635bdb5cfad15d57ea3730d8126570cb9fb92acd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8d/f5/41/8df54101c2178dfe6424db8f1fc2d048d0f78bea105d37fab3f1bb70ed9d528b.jpg",
+      "image_path": "images/cards/115/59-997.webp",
+      "image_sha256": "2d5a3b74fc61ded97925f8c40861ac13df80d51b303be8226543941dc8af1186",
+      "image_bytes": 97025,
+      "source_url": "https://www.tcgcollector.com/cards/997/machop-team-rocket-59-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 59
+    },
+    {
+      "id": 1029,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Magnemite",
+      "number": "60",
+      "number_value": 60,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/46/42/6b/46426b1c82a6066b8fee085f1da3a9abbacf1d504fcdc27eab4b21d7f89f7038.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/80/99/11/809911967027b5352b98427d8ef28c69ad0798f788f74eb343fee2a0e0a2d8a1.jpg",
+      "image_path": "images/cards/115/60-1029.webp",
+      "image_sha256": "8c28cb7e732927bc79aa4813d613e404418b4b959e42cac9ef3a2d3afb79e722",
+      "image_bytes": 97184,
+      "source_url": "https://www.tcgcollector.com/cards/1029/magnemite-team-rocket-60-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 60
+    },
+    {
+      "id": 1056,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Mankey",
+      "number": "61",
+      "number_value": 61,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/c8/da/8e/c8da8e965363375075d32ab5e71e62e70b01312f3d937a438990f98a8679d366.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/84/ba/34/84ba34688050e2219725f8d2980cc0cce454e2f3c5e84134b125560f0fba1238.jpg",
+      "image_path": "images/cards/115/61-1056.webp",
+      "image_sha256": "2d0d00f92503125776949291946cc605300ba94f69f5893d6f974af55054af28",
+      "image_bytes": 105530,
+      "source_url": "https://www.tcgcollector.com/cards/1056/mankey-team-rocket-61-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 61
+    },
+    {
+      "id": 1097,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Meowth",
+      "number": "62",
+      "number_value": 62,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/0c/49/35/0c493551ce35ac3c95a27318838df826ebccb4fef4998e763a4027ae33de669a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/27/39/01/273901b63041233c31383e2cd6203bd4c894fd861482a3237811f3df218645ad.jpg",
+      "image_path": "images/cards/115/62-1097.webp",
+      "image_sha256": "35edc480cf26944fc907e512a3dcc6af19be5c451a49fe22b7609c8129c371d7",
+      "image_bytes": 104903,
+      "source_url": "https://www.tcgcollector.com/cards/1097/meowth-team-rocket-62-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 62
+    },
+    {
+      "id": 1263,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Oddish",
+      "number": "63",
+      "number_value": 63,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/6b/84/83/6b848321c2f9754bf4a710449ebefcca6a8112128591d3532cf368110c7384f0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/88/5b/70/885b70ce2b9314ea2abba48d498cf0b7b124baccaa6d2585d17cbc01e46d823d.jpg",
+      "image_path": "images/cards/115/63-1263.webp",
+      "image_sha256": "e6596c96b34370ddd8ccba41ad94d98480bb3d62e54929cf8170eafae5eb54f6",
+      "image_bytes": 104452,
+      "source_url": "https://www.tcgcollector.com/cards/1263/oddish-team-rocket-63-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 63
+    },
+    {
+      "id": 1386,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Ponyta",
+      "number": "64",
+      "number_value": 64,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/cd/ff/24/cdff24d5e21ddedd3c0a18eeb4ada401747b5deb5cb49ddfd7e6291aa4023602.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bb/f2/81/bbf281325dcd87ce6b861b9e841a5ca07ae0f5581ccf511f2371468d2b5ccdec.jpg",
+      "image_path": "images/cards/115/64-1386.webp",
+      "image_sha256": "f3186349c4209b57c8d68fcfac3f246a0e1744b737d01bde76018e639d8334e8",
+      "image_bytes": 97489,
+      "source_url": "https://www.tcgcollector.com/cards/1386/ponyta-team-rocket-64-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 64
+    },
+    {
+      "id": 1426,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Psyduck",
+      "number": "65",
+      "number_value": 65,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/de/ad/5b/dead5b767222b8207fc2c1621e18ca4a2f6ed128a1f52377aa5c7c1b356e90fd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b0/5d/8a/b05d8aa4816e558035d5fa08ec6b26c4f7c3895dd95b233d9e83229ec38acb95.jpg",
+      "image_path": "images/cards/115/65-1426.webp",
+      "image_sha256": "a9dcdcaee703172337f793c8ff9dac171a7cbce21a858dd91ddb623c5a15d389",
+      "image_bytes": 111294,
+      "source_url": "https://www.tcgcollector.com/cards/1426/psyduck-team-rocket-65-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 65
+    },
+    {
+      "id": 1476,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Rattata",
+      "number": "66",
+      "number_value": 66,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/d0/14/82/d0148276ada6bd8fb7b75c6430cb5c20ef26cefd343ef3c4f94532faf2a4d472.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9e/8c/71/9e8c7182f3917a79eceae4228025ccb7fa396410d07579743bf0061b12d8c109.jpg",
+      "image_path": "images/cards/115/66-1476.webp",
+      "image_sha256": "f6897aca520078f54a80fabed96133023c2581eeb7480515d74e6ceb8dec656b",
+      "image_bytes": 104401,
+      "source_url": "https://www.tcgcollector.com/cards/1476/rattata-team-rocket-66-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 66
+    },
+    {
+      "id": 1650,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Slowpoke",
+      "number": "67",
+      "number_value": 67,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/10/1d/5d/101d5daa234d7b3671b581254327d4ca05fd61cf8f461852a0c23858b0de8d9b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/45/91/9c/45919ce6892c186f7def5bf14c08406d15611bede400dff89850a52ad7b4bdb3.jpg",
+      "image_path": "images/cards/115/67-1650.webp",
+      "image_sha256": "bd3b39f4dad5f86eddac34bcfea14165f35213fe228edc5bfa9bf50b9a8b31f4",
+      "image_bytes": 101055,
+      "source_url": "https://www.tcgcollector.com/cards/1650/slowpoke-team-rocket-67-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 67
+    },
+    {
+      "id": 1691,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Squirtle",
+      "number": "68",
+      "number_value": 68,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/23/d0/41/23d041d06497910a86ea613115e3106046cd265025e753bc502d5d675bffbe0f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5e/f8/98/5ef8980d9cd388d347299f7e61753996a55397165c863fb2d94f1f2e64e4eb53.jpg",
+      "image_path": "images/cards/115/68-1691.webp",
+      "image_sha256": "69678189b71eaa2cdbe40e91165835cc855c20fec63420200f482477280f2eba",
+      "image_bytes": 110205,
+      "source_url": "https://www.tcgcollector.com/cards/1691/squirtle-team-rocket-68-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 68
+    },
+    {
+      "id": 1898,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Voltorb",
+      "number": "69",
+      "number_value": 69,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/df/59/87/df598770a36c19dcfbb7f7b0817f119f724f8248fe6148fed5de005a1124a498.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a7/07/dc/a707dc954ce83dff9fc02475cc030b691d6c46bc9fb2f6b60c3fb9313eb78f7b.jpg",
+      "image_path": "images/cards/115/69-1898.webp",
+      "image_sha256": "9b0575eb3fa95047c33b0b44421330cdb18fbe285469918b0b3485c1862cbeff",
+      "image_bytes": 89547,
+      "source_url": "https://www.tcgcollector.com/cards/1898/voltorb-team-rocket-69-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 69
+    },
+    {
+      "id": 1973,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Zubat",
+      "number": "70",
+      "number_value": 70,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/73/8d/b5/738db5366dacc1a01c701058684ed2bd7318499834c4f634e3deb4513d4b961a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3b/63/5c/3b635cd3e93fa9b960699d6575e3ccdc04f0a08f34cef3b52c91ca8318fe456a.jpg",
+      "image_path": "images/cards/115/70-1973.webp",
+      "image_sha256": "ae217066ce39e556cdc3c5776d3d042ca108c13f898d0f92b70c47c9780ff984",
+      "image_bytes": 99047,
+      "source_url": "https://www.tcgcollector.com/cards/1973/zubat-team-rocket-70-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 70
+    },
+    {
+      "id": 728,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Here Comes Team Rocket!",
+      "number": "71",
+      "number_value": 71,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/9e/ab/1f/9eab1faa0166f07679042db20f8206d79c6ad1a8e87ccd7cb66c65f4420b14ac.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5c/7a/cb/5c7acbb089fab44ff6ba4ce31d25f4ec53d888b242a45f38f36470effc8fabb7.jpg",
+      "image_path": "images/cards/115/71-728.webp",
+      "image_sha256": "483fec0f2ed317ff7f4c8dc13dd66e3e519bff2123b8d054b5e5eb7aa0a01b02",
+      "image_bytes": 89377,
+      "source_url": "https://www.tcgcollector.com/cards/728/here-comes-team-rocket-team-rocket-71-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 71
+    },
+    {
+      "id": 1509,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Rocket's Sneak Attack",
+      "number": "72",
+      "number_value": 72,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ee/b5/92/eeb592e98590a94be01701041aa76402b2ff815e522c22287a43a4233fa364a6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3d/5c/67/3d5c67f1801f347cfc53ff94ebd0fd4160e4faf35e9b207f64d874ecc70055ed.jpg",
+      "image_path": "images/cards/115/72-1509.webp",
+      "image_sha256": "61fc91074d69f3d7c7940f920fc6f11775b6e4d10791705774ac242a57ea0766",
+      "image_bytes": 91136,
+      "source_url": "https://www.tcgcollector.com/cards/1509/rockets-sneak-attack-team-rocket-72-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 72
+    },
+    {
+      "id": 1769,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "The Boss's Way",
+      "number": "73",
+      "number_value": 73,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/75/80/87/758087d4f4c6022aab9f4504cba269ad41149f7b4c41347fadc6e725af58d882.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b0/ee/2f/b0ee2fba63199d267c8f5f026b5aa729b25de06469519b8e99d1a85527138160.jpg",
+      "image_path": "images/cards/115/73-1769.webp",
+      "image_sha256": "f5039126b16928335e44c5c683243730fa6656b21f01a79cb1d72e159908af06",
+      "image_bytes": 90509,
+      "source_url": "https://www.tcgcollector.com/cards/1769/the-bosss-way-team-rocket-73-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 73
+    },
+    {
+      "id": 201,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Challenge!",
+      "number": "74",
+      "number_value": 74,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/fb/48/39/fb48395bfeb9981671c4b0faf38fdee80e2dcaed7c26985e867faf916e0eb598.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/55/6e/1e/556e1ef05ab50cbb3e6c469b369abb6c13239fbd029b98a0fd5124b686a21fb4.jpg",
+      "image_path": "images/cards/115/74-201.webp",
+      "image_sha256": "53919f9c39f0398eadfd29a5ad6d8da50a71e217122cef8b1ebb47190a3a0dd1",
+      "image_bytes": 109186,
+      "source_url": "https://www.tcgcollector.com/cards/201/challenge-team-rocket-74-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 74
+    },
+    {
+      "id": 385,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Digger",
+      "number": "75",
+      "number_value": 75,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ef/b7/35/efb73503dbbc0594a77c39840bf8e864e5189a2dec5f6841564d729f37cad477.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5d/b3/71/5db371b5fd2a157a588ef344ed6be648c1f756d54f892edd4153fe555653f2f7.jpg",
+      "image_path": "images/cards/115/75-385.webp",
+      "image_sha256": "8e9e2ef06c8e5c6d95c54c495215f8d0148afe26e387c05481084de82073aba2",
+      "image_bytes": 101483,
+      "source_url": "https://www.tcgcollector.com/cards/385/digger-team-rocket-75-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 75
+    },
+    {
+      "id": 789,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Imposter Oak's Revenge",
+      "number": "76",
+      "number_value": 76,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/45/58/d3/4558d3ceb982eee69668e6c1cb835b804052b6d02a17ed8f5469fddcc1cc6f0f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9f/b9/2a/9fb92a37f54f5ddf338f22e66ceaa23040c5ab5302365b3261097b1d9b51128d.jpg",
+      "image_path": "images/cards/115/76-789.webp",
+      "image_sha256": "cc13b6d99dbebaa5bc2b85570eac163756eddb547631fc84ca405307b5ab4c4d",
+      "image_bytes": 97672,
+      "source_url": "https://www.tcgcollector.com/cards/789/imposter-oaks-revenge-team-rocket-76-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 76
+    },
+    {
+      "id": 1237,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Nightly Garbage Run",
+      "number": "77",
+      "number_value": 77,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/fd/23/d7/fd23d7c80213d1a0f67b63336ff5a48c5d3353ba2cd9eac03dd2d66b1c77806f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ed/c9/c0/edc9c0f91e3729eeaf7e3c7f9eb740be9833a7898581b92424e59e5d83d8638a.jpg",
+      "image_path": "images/cards/115/77-1237.webp",
+      "image_sha256": "868a7270503890b88e3d083080ffe998e1b60a10e591eccad82cb2c374a1c764",
+      "image_bytes": 109751,
+      "source_url": "https://www.tcgcollector.com/cards/1237/nightly-garbage-run-team-rocket-77-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 77
+    },
+    {
+      "id": 674,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Goop Gas Attack",
+      "number": "78",
+      "number_value": 78,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/bc/32/40/bc324070aa1b9dc8cf791c98d2f3a19d63d10eb1034a44cfa74ba00bde1f43aa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b3/b2/4b/b3b24bc0db1c0664f88933927d75b663c2c2d39f8e78af2c4688ed196a341859.jpg",
+      "image_path": "images/cards/115/78-674.webp",
+      "image_sha256": "a1fc2b6cfc77f2e87f2792e5d0e7d4b5544b7da92c79e20500aac7022b979085",
+      "image_bytes": 86676,
+      "source_url": "https://www.tcgcollector.com/cards/674/goop-gas-attack-team-rocket-78-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 78
+    },
+    {
+      "id": 1642,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Sleep!",
+      "number": "79",
+      "number_value": 79,
+      "printed_total": 82,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/d0/9f/7c/d09f7cd859b15b0dbde602fdb487ca4228857c42a881cb33042f5a0c2c1a0cff.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/05/a4/15/05a4157940eb909c0a660a707bc901959f042cef6b38804f84c98f0e57f3a156.jpg",
+      "image_path": "images/cards/115/79-1642.webp",
+      "image_sha256": "6871c02ec378fe7b475add24a64206cf323f1e8ad1b5557885443ca1b7df9d3e",
+      "image_bytes": 93157,
+      "source_url": "https://www.tcgcollector.com/cards/1642/sleep-team-rocket-79-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 79
+    },
+    {
+      "id": 1459,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Rainbow Energy",
+      "number": "80",
+      "number_value": 80,
+      "printed_total": 82,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/e8/75/2a/e8752a70f25be84d206ae2cd431f9d66ee65ed11237c58f8e3b53d2c6108b153.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d3/1b/13/d31b13cb67f3c9b95e60a2a5cde73cdacf8292b634c5dfb14bb2e2c2d9f22ae3.jpg",
+      "image_path": "images/cards/115/80-1459.webp",
+      "image_sha256": "019ef30aaf949a9a111872e9ce132376c57fc6f161c10f98ea993ac7994e70b2",
+      "image_bytes": 108787,
+      "source_url": "https://www.tcgcollector.com/cards/1459/rainbow-energy-team-rocket-80-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 80
+    },
+    {
+      "id": 597,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Full Heal Energy",
+      "number": "81",
+      "number_value": 81,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ae/ff/ef/aeffeff07d447910b183eee56cfe7260198e882a998b2eef923a19001cb3d448.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/32/3d/26/323d26be05ac9325202d7f85f023bc2027bb681601cb3ddcb9132aa45fdc9cf8.jpg",
+      "image_path": "images/cards/115/81-597.webp",
+      "image_sha256": "f5fff4431bfbb99494234a23d44cbd736df2f254ea33160ae04bbde8fb698654",
+      "image_bytes": 94952,
+      "source_url": "https://www.tcgcollector.com/cards/597/full-heal-energy-team-rocket-81-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 81
+    },
+    {
+      "id": 1404,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Potion Energy",
+      "number": "82",
+      "number_value": 82,
+      "printed_total": 82,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/3e/9a/e4/3e9ae42d971d42f6bac61ac605888c9ff0e5838053aa2cb5121dea3677c28fbf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/99/92/f5/9992f581c6c65f47589c0c90b6153cc8b1d8ec869275edde5270b3a3d8dabc6e.jpg",
+      "image_path": "images/cards/115/82-1404.webp",
+      "image_sha256": "7b2453fbf16c9ff5443fad0ee9ac87416be6cc843e54d1df6c76294c268d6a9b",
+      "image_bytes": 102113,
+      "source_url": "https://www.tcgcollector.com/cards/1404/potion-energy-team-rocket-82-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 82
+    },
+    {
+      "id": 347,
+      "set_id": 115,
+      "set_ids": [
+        115
+      ],
+      "name": "Dark Raichu",
+      "number": "83",
+      "number_value": 83,
+      "printed_total": 82,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/3c/16/c7/3c16c7bdf63c1ad441488f5a1d66e2d710d3bf385f510bd7cb0979b83604aae5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/90/75/30/90753069410e753ccdc873d5bfe349264d8298c331c9c407604f00f921137d62.jpg",
+      "image_path": "images/cards/115/83-347.webp",
+      "image_sha256": "a797609e61abee0a17c97c49bd250e8fc4da22b155594588500c36318515cc47",
+      "image_bytes": 108348,
+      "source_url": "https://www.tcgcollector.com/cards/347/dark-raichu-team-rocket-83-82",
+      "scraped_at": "2026-10-18T22:26:38Z",
+      "position": 83
+    }
+  ]
+}

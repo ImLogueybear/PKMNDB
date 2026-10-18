@@ -1,0 +1,262 @@
+{
+  "set": {
+    "id": 1194,
+    "language": "en",
+    "name": "McDonald's Collection 2015",
+    "code": "M15",
+    "series": "McDonald's Series",
+    "release_date": "2015-11-27",
+    "date_text": "Nov 27, 2015",
+    "card_count": 12,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/fd/b3/34/fdb3346e310988487294da8c7827b5f6859fb2b0978eff7f57da334abe32c685.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/52/43/9c/52439c4bbedb9b928ef18bc46523b3276158d0373d7bfe882a64490762a222fc.svg",
+    "logo_path": "images/sets/1194-logo.webp",
+    "symbol_path": "images/sets/1194-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/1194/mcdonalds-collection-2015",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 12
+  },
+  "cards": [
+    {
+      "id": 11835,
+      "set_id": 1194,
+      "set_ids": [
+        1194
+      ],
+      "name": "Treecko",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/77/be/51/77be512633d92aae13931b0e115825d74531a2199bd10c7a54f5534c3465d006.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/29/70/e3/2970e3b64f0ab317d3e67f0f1677b8816e72915d264d1bc13880a5f2d29b5758.jpg",
+      "image_path": "images/cards/1194/1-11835.webp",
+      "image_sha256": "b263025fb71e227893f6590e5586c7a99c261f712c3e797e20abf73a909abfd7",
+      "image_bytes": 39282,
+      "source_url": "https://www.tcgcollector.com/cards/11835/treecko-mcdonalds-collection-2015-1-12",
+      "scraped_at": "2026-10-18T22:23:23Z",
+      "position": 1
+    },
+    {
+      "id": 11836,
+      "set_id": 1194,
+      "set_ids": [
+        1194
+      ],
+      "name": "Lotad",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/97/35/70/97357030fafdd2fcf39980fbe8c746926d908ff7dde295b098808885ac1c8347.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a1/4d/1a/a14d1a9477a449f8b4be334b8898a92534815ca280c91f81a26d7aa019456e3c.jpg",
+      "image_path": "images/cards/1194/2-11836.webp",
+      "image_sha256": "d8d418f9402d36e25a640888ffdb4f5d0305cb47ab3d99420c8b3d932dce67d3",
+      "image_bytes": 36057,
+      "source_url": "https://www.tcgcollector.com/cards/11836/lotad-mcdonalds-collection-2015-2-12",
+      "scraped_at": "2026-10-18T22:23:23Z",
+      "position": 2
+    },
+    {
+      "id": 11837,
+      "set_id": 1194,
+      "set_ids": [
+        1194
+      ],
+      "name": "Torchic",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/d4/c5/ce/d4c5ce3f7d785ad0f8c4b64a9df41cfac02ed5a8fd26c0e9a8de0a89be426283.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ff/d3/2d/ffd32dde8d48dcb3f4a3959b53fa6d4a36c8937244f53de48c4eb29eae9f8519.jpg",
+      "image_path": "images/cards/1194/3-11837.webp",
+      "image_sha256": "a006a06b813157252222b3db52690878162e63da04202c8f3b74bcd6fb8a70f8",
+      "image_bytes": 39606,
+      "source_url": "https://www.tcgcollector.com/cards/11837/torchic-mcdonalds-collection-2015-3-12",
+      "scraped_at": "2026-10-18T22:23:23Z",
+      "position": 3
+    },
+    {
+      "id": 11838,
+      "set_id": 1194,
+      "set_ids": [
+        1194
+      ],
+      "name": "Staryu",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/1e/b3/c9/1eb3c9c4c0ffcac6af84fea3323b33e90027907b38142281142d1427fca14dda.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e3/96/5a/e3965afb68880e043b6619f09dbb0961a423433edcc574d32fcc313f4d1f0b01.jpg",
+      "image_path": "images/cards/1194/4-11838.webp",
+      "image_sha256": "9e9f8e58e66e7c8acd89c8139aadddc9afe9f37dff8ce1563ee47f1ade6aad32",
+      "image_bytes": 42890,
+      "source_url": "https://www.tcgcollector.com/cards/11838/staryu-mcdonalds-collection-2015-4-12",
+      "scraped_at": "2026-10-18T22:23:23Z",
+      "position": 4
+    },
+    {
+      "id": 11903,
+      "set_id": 1194,
+      "set_ids": [
+        1194
+      ],
+      "name": "Mudkip",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/b3/8a/e5/b38ae56078cc1768d3b68f09a3548409a13fa1c95c869c22c66fd9daabbedcc2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1d/6c/7f/1d6c7f59aa91926564a085013550510e17c7443803a99ca7094cce7f51e2759f.jpg",
+      "image_path": "images/cards/1194/5-11903.webp",
+      "image_sha256": "f32d01a7d8aaf6112d8a08c26daf3302404e31583e9a1d0df5e316b54e8f9ce8",
+      "image_bytes": 39275,
+      "source_url": "https://www.tcgcollector.com/cards/11903/mudkip-mcdonalds-collection-2015-5-12",
+      "scraped_at": "2026-10-18T22:23:23Z",
+      "position": 5
+    },
+    {
+      "id": 11947,
+      "set_id": 1194,
+      "set_ids": [
+        1194
+      ],
+      "name": "Pikachu",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/89/bf/4d/89bf4d962a84d6cc1ac64bf8895fa6cafc5f29cff8bbb43b6e9b7d523b37ec13.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fe/bb/d8/febbd8157702f2585827944965e06fb4f4f6d3d47c121d61edd2977061dc0b0c.jpg",
+      "image_path": "images/cards/1194/6-11947.webp",
+      "image_sha256": "0d49679e055bd052226876daa5ef30214e6ed781d54a4e7235066f968b923f7e",
+      "image_bytes": 70665,
+      "source_url": "https://www.tcgcollector.com/cards/11947/pikachu-mcdonalds-collection-2015-6-12",
+      "scraped_at": "2026-10-18T22:23:23Z",
+      "position": 6
+    },
+    {
+      "id": 11948,
+      "set_id": 1194,
+      "set_ids": [
+        1194
+      ],
+      "name": "Electrike",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/20/62/99/206299c51c4536f439f1f4c9df20f343d2ade85d7fe99c3b8597f27ad100ef5a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/df/70/5b/df705b116b09ab99f9ad466ab3bb4e4604a52978c4c582a49b65c59f88ca1696.jpg",
+      "image_path": "images/cards/1194/7-11948.webp",
+      "image_sha256": "cfdce518668fb4581eb70c4d49018e1bfe229a2b4c2a4c970bf90b8bc2b951ff",
+      "image_bytes": 319779,
+      "source_url": "https://www.tcgcollector.com/cards/11948/electrike-mcdonalds-collection-2015-7-12",
+      "scraped_at": "2026-10-18T22:23:23Z",
+      "position": 7
+    },
+    {
+      "id": 11949,
+      "set_id": 1194,
+      "set_ids": [
+        1194
+      ],
+      "name": "Rhyhorn",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/6a/89/f2/6a89f28e209ed893f0bbde09d4654e557d9dbfea7d9e817dbeebfe5b0fc6d1d4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d0/25/7d/d0257d18933c08aab6f3cbf787f5cd60a6d9836fa2aee096e97fc74316ba218c.jpg",
+      "image_path": "images/cards/1194/8-11949.webp",
+      "image_sha256": "acafd02a538741735823293bc6f37952b05745e68de612ed8a699f6df7633189",
+      "image_bytes": 42726,
+      "source_url": "https://www.tcgcollector.com/cards/11949/rhyhorn-mcdonalds-collection-2015-8-12",
+      "scraped_at": "2026-10-18T22:23:23Z",
+      "position": 8
+    },
+    {
+      "id": 11950,
+      "set_id": 1194,
+      "set_ids": [
+        1194
+      ],
+      "name": "Meditite",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/06/0a/3f/060a3f02bf15ed2293e052366163ac851586fecc31ed1958124091daf2b59d11.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/05/c2/4f/05c24f7dd1b2bc794bcf5d4b68d9b979dba5784b4315ee0c6d00187a6a843421.jpg",
+      "image_path": "images/cards/1194/9-11950.webp",
+      "image_sha256": "35fa00efca8a041192600234e9f8be08b7a133defad341115938ebc44f526905",
+      "image_bytes": 38197,
+      "source_url": "https://www.tcgcollector.com/cards/11950/meditite-mcdonalds-collection-2015-9-12",
+      "scraped_at": "2026-10-18T22:23:23Z",
+      "position": 9
+    },
+    {
+      "id": 11951,
+      "set_id": 1194,
+      "set_ids": [
+        1194
+      ],
+      "name": "Marill",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/52/a2/a2/52a2a24a49e32728392d58924820a222d4d5026e7c1fa5b337eb9bb9749c03a8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/52/a2/a2/52a2a24a49e32728392d58924820a222d4d5026e7c1fa5b337eb9bb9749c03a8.jpg",
+      "image_path": "images/cards/1194/10-11951.webp",
+      "image_sha256": "d6e55a8bb57757fc9968df26b4b03a421cf584f82137dca1ea030cc7d3ff37b4",
+      "image_bytes": 39701,
+      "source_url": "https://www.tcgcollector.com/cards/11951/marill-mcdonalds-collection-2015-10-12",
+      "scraped_at": "2026-10-18T22:23:23Z",
+      "position": 10
+    },
+    {
+      "id": 11952,
+      "set_id": 1194,
+      "set_ids": [
+        1194
+      ],
+      "name": "Zigzagoon",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/38/f0/74/38f074f0f964c2c20d3d1fffc42c8ae34f88d41ef55752b8970a709b372691c1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3e/1c/cb/3e1ccb64ac6b9f0e786f956f3f522f05bd12564867d2593fff1615781752dee8.jpg",
+      "image_path": "images/cards/1194/11-11952.webp",
+      "image_sha256": "9713567681b931d28f4ecf1595f57fbe222fd2d0473fcef8d0c08d5a86088d24",
+      "image_bytes": 44730,
+      "source_url": "https://www.tcgcollector.com/cards/11952/zigzagoon-mcdonalds-collection-2015-11-12",
+      "scraped_at": "2026-10-18T22:23:23Z",
+      "position": 11
+    },
+    {
+      "id": 11953,
+      "set_id": 1194,
+      "set_ids": [
+        1194
+      ],
+      "name": "Skitty",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 12,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/a0/87/93/a087935e49938fb9c77d8a8157cc9eb46b303cfe6919da8d0b7b7e2b120b8687.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/93/c7/43/93c7436da291f07b8c89549a0dc2011d72d1330e73b63eb70358d3d3d5ec718a.jpg",
+      "image_path": "images/cards/1194/12-11953.webp",
+      "image_sha256": "2521a43bb7ce3424bf83e30391556d2ffa4b096cd4fded669b6a39b00c060407",
+      "image_bytes": 45213,
+      "source_url": "https://www.tcgcollector.com/cards/11953/skitty-mcdonalds-collection-2015-12-12",
+      "scraped_at": "2026-10-18T22:23:23Z",
+      "position": 12
+    }
+  ]
+}

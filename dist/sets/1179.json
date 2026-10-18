@@ -1,0 +1,4245 @@
+{
+  "set": {
+    "id": 1179,
+    "language": "en",
+    "name": "XY Promos",
+    "code": "XYP",
+    "series": "XY Series",
+    "release_date": "2013-09-30",
+    "date_text": "Sep 30, 2013",
+    "card_count": 211,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/47/a5/da/47a5da1a03b2ccb144e97e05d60d327358d5343be44f086b208e4ebebb020437.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/c2/c2/22/c2c22245cf5455798866335ac31028d8e720abc742a9308e310a42dd9bcc9cbd.svg",
+    "logo_path": "images/sets/1179-logo.webp",
+    "symbol_path": "images/sets/1179-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/1179/xy-promos",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 211
+  },
+  "cards": [
+    {
+      "id": 7237,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Chespin",
+      "number": "XY01",
+      "number_value": 1,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/9a/8c/9d/9a8c9db04382b26a166ec459c130c04fa4ee4a5378fa79114bd3a7d301732948.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/14/70/6b/14706bf03f62c2806998eca8cb8830821a3f9bdc246a35d56c0577732be67d48.jpg",
+      "image_path": "images/cards/1179/XY01-7237.webp",
+      "image_sha256": "dbc66d32910315c5da5051af9902a1786121f8ce8100a3bf08f3c7402df50931",
+      "image_bytes": 157534,
+      "source_url": "https://www.tcgcollector.com/cards/7237/chespin-xy-promos-xy01",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 1
+    },
+    {
+      "id": 7238,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Fennekin",
+      "number": "XY02",
+      "number_value": 2,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/c3/ed/e5/c3ede57d3003ba8a7b730b368615bdced61b7c12293e917ffc75306ceb5721ca.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2a/b1/1d/2ab11d1445d3e0b88be28d7be6ca3bcc2516c1d7ed057e5e65ae4d70e501d772.jpg",
+      "image_path": "images/cards/1179/XY02-7238.webp",
+      "image_sha256": "fc1dde15f41f624553596bdac1e243260a40b1e16b90da74b25c64edc68f76bf",
+      "image_bytes": 141786,
+      "source_url": "https://www.tcgcollector.com/cards/7238/fennekin-xy-promos-xy02",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 2
+    },
+    {
+      "id": 7239,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Froakie",
+      "number": "XY03",
+      "number_value": 3,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/33/77/e6/3377e62201a3d239eb2a4fceec69cceb022b2620cf3dfc56363c9f3e1a71362d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0f/7e/7b/0f7e7b4bd618834acd95a326532bd1a9f437a4590e7d8e87cf89c7646c20ee1c.jpg",
+      "image_path": "images/cards/1179/XY03-7239.webp",
+      "image_sha256": "f2a8599fd6b7e2140497be3893b206b297663812a21f1d921e406af7cc81168a",
+      "image_bytes": 155189,
+      "source_url": "https://www.tcgcollector.com/cards/7239/froakie-xy-promos-xy03",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 3
+    },
+    {
+      "id": 7240,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Sylveon",
+      "number": "XY04",
+      "number_value": 4,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/3b/2e/40/3b2e40a5958528d6b9c2e6f55d01ad1494584b9896aff46c456f09bd91430bfc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5e/2c/38/5e2c3831c19da30994cf61c79076112e7a70b621d3c1e9f4a47bbdcff413ceb6.jpg",
+      "image_path": "images/cards/1179/XY04-7240.webp",
+      "image_sha256": "72dfa8e9984e48af4ef391d4b1eae0162a789ca69c9d1b2a0601981362878369",
+      "image_bytes": 206672,
+      "source_url": "https://www.tcgcollector.com/cards/7240/sylveon-xy-promos-xy04",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 4
+    },
+    {
+      "id": 7241,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Xerneas",
+      "number": "XY05",
+      "number_value": 5,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/ca/6e/57/ca6e5758a22faa44dbfd7e200de18130248ee104f8fda681cc037a4360321aab.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d8/c2/af/d8c2af4fef4d0a931e69f9d50a150cd7c31bb8304880c4315d871b38dcdbdd46.jpg",
+      "image_path": "images/cards/1179/XY05-7241.webp",
+      "image_sha256": "5b5709a8cf150fcfba3af2df46ee82761eee198560fb9a584638bdb512de2094",
+      "image_bytes": 195319,
+      "source_url": "https://www.tcgcollector.com/cards/7241/xerneas-xy-promos-xy05",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 5
+    },
+    {
+      "id": 7242,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Yveltal",
+      "number": "XY06",
+      "number_value": 6,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/a1/6e/ce/a16ece7afc80140e1155b0d155447188c3f856fe7c3a88646066d34f34bd46b6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b8/d3/b2/b8d3b2b74e2da11e7ea4377c95efaa9ad49fb4e55e36c0f906bbdc6766213319.jpg",
+      "image_path": "images/cards/1179/XY06-7242.webp",
+      "image_sha256": "64dc8989cbc520a0f7f9356eb7ae77f301caa6d7065253f758926303cbd436e1",
+      "image_bytes": 165400,
+      "source_url": "https://www.tcgcollector.com/cards/7242/yveltal-xy-promos-xy06",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 6
+    },
+    {
+      "id": 7243,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Xerneas-EX",
+      "number": "XY07",
+      "number_value": 7,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/8c/e0/f5/8ce0f57dfd7cac430b9e9c12e71de33a62498f0a185db1019ff8137745b3ecce.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/48/5a/fe/485afebde2da4600bea686066eaafb19950b990e044877b46956aec7861fc102.jpg",
+      "image_path": "images/cards/1179/XY07-7243.webp",
+      "image_sha256": "90503830ad1b3980ea7ad7fe528f869e6980038f37ea716e7a96fc57a4aca4ae",
+      "image_bytes": 230499,
+      "source_url": "https://www.tcgcollector.com/cards/7243/xerneas-ex-xy-promos-xy07",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 7
+    },
+    {
+      "id": 7244,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Yveltal-EX",
+      "number": "XY08",
+      "number_value": 8,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/fa/47/57/fa4757e1171532f765623760cb1f3b5deb3b9c24b44c6836a0ae4500bb1b08f5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/16/a0/d6/16a0d68a277bf47088e2bbeaed4bea6639bce8e3bedb50cdfb8c197f80743043.jpg",
+      "image_path": "images/cards/1179/XY08-7244.webp",
+      "image_sha256": "dfc9606a2ad36ef908379b3a68a65782a79d79c628865811761369b72f050e7e",
+      "image_bytes": 220858,
+      "source_url": "https://www.tcgcollector.com/cards/7244/yveltal-ex-xy-promos-xy08",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 8
+    },
+    {
+      "id": 7644,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Garchomp-EX",
+      "number": "XY09",
+      "number_value": 9,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/81/3a/ce/813ace3333b431e6b72f19f30335b2be7f542f2a4f286dba028b713198ddb0e9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9e/fc/ff/9efcff1977b02da9f9ea4192547655b38b5cac3c0014bdf7d7e7ec7180cdf31e.jpg",
+      "image_path": "images/cards/1179/XY09-7644.webp",
+      "image_sha256": "65e6f3cee68235d86557fd6742d1159faefbbabb2bd97b172cda7a84d9bc2773",
+      "image_bytes": 199599,
+      "source_url": "https://www.tcgcollector.com/cards/7644/garchomp-ex-xy-promos-xy09",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 9
+    },
+    {
+      "id": 7645,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Dragalge",
+      "number": "XY10",
+      "number_value": 10,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/a6/b4/2f/a6b42fab779fd9388541b0a444583a2d5f631cae7f79775e189a7fd951371f68.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bc/af/4d/bcaf4dbf281ab4bd3ad92e6316a5158dfdf96ef40d1ecd9763cec5ef882bc021.jpg",
+      "image_path": "images/cards/1179/XY10-7645.webp",
+      "image_sha256": "83e0c5394830c07ad3e9256ae0b68ff4c9cc8ef9eb4658cdc3c12241b05b9031",
+      "image_bytes": 189678,
+      "source_url": "https://www.tcgcollector.com/cards/7645/dragalge-xy-promos-xy10",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 10
+    },
+    {
+      "id": 7646,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Skiddo",
+      "number": "XY11",
+      "number_value": 11,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/c4/28/78/c42878323785dce5f9fc1a5351d8f89088ac6619ae3175f343b6f352c7d3e281.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f4/16/80/f4168004f52c67ce41925c6edbdc4c4df65986e4f36ff548d04ed4f88c705597.jpg",
+      "image_path": "images/cards/1179/XY11-7646.webp",
+      "image_sha256": "e88a581b837eed7dbf16b6540b0072b49b644cba2b1178a183271945e94bd8d5",
+      "image_bytes": 167548,
+      "source_url": "https://www.tcgcollector.com/cards/7646/skiddo-xy-promos-xy11",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 11
+    },
+    {
+      "id": 7647,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Honedge",
+      "number": "XY12",
+      "number_value": 12,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/dd/1d/6f/dd1d6f587bfaf6a5792ab78ab6449a89b7152579a31534ace877dde3c00973cf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ed/01/f8/ed01f8358de754624070b78210325960cd6199207ddb71697345a4eb4c5f485f.jpg",
+      "image_path": "images/cards/1179/XY12-7647.webp",
+      "image_sha256": "3b1a6aa23d7aeb132444d940805493367d7624dd5b8ab57e62550509cbfbdc32",
+      "image_bytes": 242733,
+      "source_url": "https://www.tcgcollector.com/cards/7647/honedge-xy-promos-xy12",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 12
+    },
+    {
+      "id": 7648,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Machamp",
+      "number": "XY13",
+      "number_value": 13,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/e5/ad/13/e5ad13b3074c2c0f9303b81cb11315fcef57a6792d2fb87942e7d6306ba92cd8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dc/6b/47/dc6b478531c720a0aa7441163c90c4f5b4ec86f41c23be160ae94e65df0f9a78.jpg",
+      "image_path": "images/cards/1179/XY13-7648.webp",
+      "image_sha256": "9cafa04e22aa7fcbcbbce32dcef087a40359bf54f073a956c367cd9753ed5ea0",
+      "image_bytes": 220086,
+      "source_url": "https://www.tcgcollector.com/cards/7648/machamp-xy-promos-xy13",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 13
+    },
+    {
+      "id": 7649,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Trevenant",
+      "number": "XY14",
+      "number_value": 14,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/65/d5/1a/65d51a953466cd0440cac84f7276b7aa669c97bca7caf14e46b2c115b2e48b8a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/75/28/e9/7528e96420d89430f86d46e5e0011241eebb97e1d7cd72f7f71b8d1e135a24a0.jpg",
+      "image_path": "images/cards/1179/XY14-7649.webp",
+      "image_sha256": "d67d3ff3821e0b8e5be8cc8fd80131deb8ddd0af2c8f631ec4db452743635493",
+      "image_bytes": 160944,
+      "source_url": "https://www.tcgcollector.com/cards/7649/trevenant-xy-promos-xy14",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 14
+    },
+    {
+      "id": 7650,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Slurpuff",
+      "number": "XY15",
+      "number_value": 15,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/fb/71/34/fb7134063cd3e463dcb47408a194ff0ab17dfd897d53f1986458e8c65666328f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e6/b5/ab/e6b5ab6041b452b4a16cda592cfb46b364ce0dffcd48493e76ca364462659af8.jpg",
+      "image_path": "images/cards/1179/XY15-7650.webp",
+      "image_sha256": "b6df25a0a84bdbdc74f329e3564f1dfcf607011993650dc6870e6c9ba2dcf9e9",
+      "image_bytes": 189570,
+      "source_url": "https://www.tcgcollector.com/cards/7650/slurpuff-xy-promos-xy15",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 15
+    },
+    {
+      "id": 7651,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Gogoat",
+      "number": "XY16",
+      "number_value": 16,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/fc/a4/29/fca429b922b8a1121c9a5fb63971bb7a0bf47c9977cf57539013a6d3ad6cf55d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/99/e5/29/99e5295b5036950a6f038aebdabc9d3b227e8f57ebe600dd2fb06a32fecde2dc.jpg",
+      "image_path": "images/cards/1179/XY16-7651.webp",
+      "image_sha256": "0c2baa7c2b6644c1abf38943bdbe049509c31d099a7ab57b4a753e175a1cac90",
+      "image_bytes": 174196,
+      "source_url": "https://www.tcgcollector.com/cards/7651/gogoat-xy-promos-xy16",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 16
+    },
+    {
+      "id": 7652,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Charizard-EX",
+      "number": "XY17",
+      "number_value": 17,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/b9/4d/ec/b94deccd582973fcadd425dc94a594fda43134bf5aca80661ad81247ae9d14ee.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7a/6c/24/7a6c24a54588d63bdf79b9a5c95ced1f8a58a985f181461aa73d895aeaa8f39b.jpg",
+      "image_path": "images/cards/1179/XY17-7652.webp",
+      "image_sha256": "d92721d86fc386d147f7fcca1a1b58f56410cae5612b02ca5eaa0acf5cdd03e4",
+      "image_bytes": 204860,
+      "source_url": "https://www.tcgcollector.com/cards/7652/charizard-ex-xy-promos-xy17",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 17
+    },
+    {
+      "id": 7653,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Chesnaught-EX",
+      "number": "XY18",
+      "number_value": 18,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/25/d5/d0/25d5d0032c0a79c726d3553e575fe274614c75c685f6c5c2eb4c27130a1fbe4d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e4/37/eb/e437ebe25dc186bba99c0f640073249a9bbaefbebe8ff1a8da905ad5ea55ed78.jpg",
+      "image_path": "images/cards/1179/XY18-7653.webp",
+      "image_sha256": "6f77a447a9724cdb6146da9639b6ac3ebb46f06be3a8f9f0b37ea0377d7dfa1b",
+      "image_bytes": 225282,
+      "source_url": "https://www.tcgcollector.com/cards/7653/chesnaught-ex-xy-promos-xy18",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 18
+    },
+    {
+      "id": 7654,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Delphox-EX",
+      "number": "XY19",
+      "number_value": 19,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/6d/a0/9e/6da09e378179a207782e7615abf672e8d590f170112cd0427416368e50c2d20a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f7/27/21/f72721bbc08a985d55a2326d01e2969ab4ca49edd5892325434c9729a337a958.jpg",
+      "image_path": "images/cards/1179/XY19-7654.webp",
+      "image_sha256": "e25e16a9953ae7f45bdce2f91d61765a15b36c29c239fbdab6a01f1028c964e3",
+      "image_bytes": 224409,
+      "source_url": "https://www.tcgcollector.com/cards/7654/delphox-ex-xy-promos-xy19",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 19
+    },
+    {
+      "id": 7655,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Greninja-EX",
+      "number": "XY20",
+      "number_value": 20,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/3c/69/6f/3c696fbfe9d7c60318b56f6a30ed6f6f8f2b8eccb94a2d2bcf0cc799171092c4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/af/19/5a/af195ab47320579c4d5259ea91b3c7d9e5cdf1684808422ac7fcc211fe2dc402.jpg",
+      "image_path": "images/cards/1179/XY20-7655.webp",
+      "image_sha256": "f822ee040f88e0ca0b85407c93b80fa4acde7301058012c5177fd847df15772e",
+      "image_bytes": 240550,
+      "source_url": "https://www.tcgcollector.com/cards/7655/greninja-ex-xy-promos-xy20",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 20
+    },
+    {
+      "id": 7778,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Bronzong",
+      "number": "XY21",
+      "number_value": 21,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/3f/a2/6c/3fa26c6d0cce3c5496d897b9b077a96647bddeb5d92d8501429b360a15e8d255.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5f/81/c8/5f81c8f38ed132d4888cbe257c16cea0c1f49228193e2934b58043db8dcb9b27.jpg",
+      "image_path": "images/cards/1179/XY21-7778.webp",
+      "image_sha256": "f3fa59ea8a19b4516e71241b20fe1c363e0363d6c41254d5e6a5c6eab769b187",
+      "image_bytes": 233764,
+      "source_url": "https://www.tcgcollector.com/cards/7778/bronzong-xy-promos-xy21",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 21
+    },
+    {
+      "id": 7779,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Darkrai",
+      "number": "XY22",
+      "number_value": 22,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/0f/73/d4/0f73d427d4204bf3198f1de4cf0bcba8353c8ae00ae3534b3d6be71ba11d39f0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/15/16/a9/1516a9e64d04890167d7bcb44677ab3d65b83e2d611bbc90f84e7e6644d3a98e.jpg",
+      "image_path": "images/cards/1179/XY22-7779.webp",
+      "image_sha256": "9355dc69e00acb364531ce941c98bf82f12dfc0b0c80e476613c9a96376cdc86",
+      "image_bytes": 175684,
+      "source_url": "https://www.tcgcollector.com/cards/7779/darkrai-xy-promos-xy22",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 22
+    },
+    {
+      "id": 7780,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Shiftry",
+      "number": "XY23",
+      "number_value": 23,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/65/67/79/6567795eb8ea887d6d79209d8fdd0fb3b8707d1131f42e70ec54c302acd8d486.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b7/04/b5/b704b53523667f59506611ba2017fba146afb5cb5c8c85808d49ac73fe9c8049.jpg",
+      "image_path": "images/cards/1179/XY23-7780.webp",
+      "image_sha256": "ef86f32171b400ec9be9ae23e9623327680f36700cc8af7fdf13ebc8bca113f5",
+      "image_bytes": 202596,
+      "source_url": "https://www.tcgcollector.com/cards/7780/shiftry-xy-promos-xy23",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 23
+    },
+    {
+      "id": 8422,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Greninja",
+      "number": "XY24",
+      "number_value": 24,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/cd/47/24/cd4724364d120bd1db4eeffda78b4f01dbc85ec4a93ee73632a94068561b4e3d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e7/c3/27/e7c327379bb052da30cfe44054d77c695ef4b24f4f0eff0bed394a334689e666.jpg",
+      "image_path": "images/cards/1179/XY24-8422.webp",
+      "image_sha256": "07e47950d404c18d14686b32b4d86256f7cc4728e7c3ff6fe549d4ac51db1707",
+      "image_bytes": 192135,
+      "source_url": "https://www.tcgcollector.com/cards/8422/greninja-xy-promos-xy24",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 24
+    },
+    {
+      "id": 7781,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Krookodile-EX",
+      "number": "XY25",
+      "number_value": 25,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/41/3b/da/413bda8b0431a6f3623f0ddb43e01d91263603a461bfb00907be2c552245b244.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9e/c8/9a/9ec89a7e32c962c1e5a65b3f4c43b08f712b3414cb41cbe0e90617e6c50d75cc.jpg",
+      "image_path": "images/cards/1179/XY25-7781.webp",
+      "image_sha256": "c06bddc280ad25222092569e655c11e0777dfe719dfca45f5c3061c715546397",
+      "image_bytes": 236522,
+      "source_url": "https://www.tcgcollector.com/cards/7781/krookodile-ex-xy-promos-xy25",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 25
+    },
+    {
+      "id": 7782,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Pyroar",
+      "number": "XY26",
+      "number_value": 26,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/1a/8b/44/1a8b44da513e36961199f081f669b69b5e38efa5c174f091a3cdfc6eed58c7b4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/03/ef/0f/03ef0f8dd59bf31897eda650af7d71067b8cdfb05497ab03d0d02ce580b68c1c.jpg",
+      "image_path": "images/cards/1179/XY26-7782.webp",
+      "image_sha256": "ee81b4633f739cf413df8e29839c6bd4b1f753baa248e2e698b83cd33ff70c2b",
+      "image_bytes": 172704,
+      "source_url": "https://www.tcgcollector.com/cards/7782/pyroar-xy-promos-xy26",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 26
+    },
+    {
+      "id": 7783,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Champions Festival",
+      "number": "XY27",
+      "number_value": 27,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/ec/2f/28/ec2f28c631841ece6ed8594313cb07f42775a00da9d22b3b64bac9257b85e0c1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cd/59/23/cd592319d70cdc0a7701d1549c4176864b565da18710e813ae19666d0f9ac082.jpg",
+      "image_path": "images/cards/1179/XY27-7783.webp",
+      "image_sha256": "9f815c315e5c4ccc550d21fafca61e3fc2fe577b30e405ee5001d3966ba3b2b3",
+      "image_bytes": 194013,
+      "source_url": "https://www.tcgcollector.com/cards/7783/champions-festival-xy-promos-xy27",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 27
+    },
+    {
+      "id": 7784,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Venusaur-EX",
+      "number": "XY28",
+      "number_value": 28,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/40/d9/62/40d962bf3ce4c9856268c31075d00efa49588aa64aa6d3dc65f5a28035c1de40.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9b/8d/d7/9b8dd73e83844cb2daac646f5208d7d67a8ebc050b187c12ea0da7b8a4394d9e.jpg",
+      "image_path": "images/cards/1179/XY28-7784.webp",
+      "image_sha256": "9b652539b4d8953edf018f0d59cbc765f0b6ee6bce69eec493bd1e8310f031fb",
+      "image_bytes": 205055,
+      "source_url": "https://www.tcgcollector.com/cards/7784/venusaur-ex-xy-promos-xy28",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 28
+    },
+    {
+      "id": 7785,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Charizard-EX",
+      "number": "XY29",
+      "number_value": 29,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/05/39/ee/0539eec9adda92719d5344ea62ba7084b2e7df23fbf4d91ed071bf4e559f8792.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/eb/3a/83/eb3a83b477eed79aaea6f5fdd506fc521de90ba034bfe504c10d9700624a6ae7.jpg",
+      "image_path": "images/cards/1179/XY29-7785.webp",
+      "image_sha256": "dfb7c61329828067ead9f453c6068bac0f3731f1f1854fb1a1c377c4e4a25c66",
+      "image_bytes": 224257,
+      "source_url": "https://www.tcgcollector.com/cards/7785/charizard-ex-xy-promos-xy29",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 29
+    },
+    {
+      "id": 7786,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Blastoise-EX",
+      "number": "XY30",
+      "number_value": 30,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/b8/c9/c9/b8c9c9383f31eaebe1c25ea965b523604b43bae4e64268752c0b03e1301280e6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4e/cf/79/4ecf797384fdba1706d67437c9f9cbb7e840e7ddfc2e46646d8ef94a6be28ca2.jpg",
+      "image_path": "images/cards/1179/XY30-7786.webp",
+      "image_sha256": "82c20576282734a6f73b9cdcde4c0285fc2c0ed43508dfb40f18f44c3202ff71",
+      "image_bytes": 231194,
+      "source_url": "https://www.tcgcollector.com/cards/7786/blastoise-ex-xy-promos-xy30",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 30
+    },
+    {
+      "id": 7787,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Xerneas",
+      "number": "XY31",
+      "number_value": 31,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/13/15/ac/1315ac5d0260628a76de429e36ac58d5b9849c65941f1b96f45bc83149140a3d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/87/71/93/877193cfd427ea19af30fbe99d8324aebdc0ff040e75e423fa4b73e3ef9fc5b5.jpg",
+      "image_path": "images/cards/1179/XY31-7787.webp",
+      "image_sha256": "a1e4f4db2f18bb7afb8191bd24881282d7b19841e58422f7a7f351e1093b1a1b",
+      "image_bytes": 187582,
+      "source_url": "https://www.tcgcollector.com/cards/7787/xerneas-xy-promos-xy31",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 31
+    },
+    {
+      "id": 7788,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Yveltal",
+      "number": "XY32",
+      "number_value": 32,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/0d/ba/74/0dba74ef0ac98edc56b04a1627179f958ea2d89dfc3ac60ddec93b175a83e3e8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/57/08/b7/5708b7b14d736956f91709fbde33f784f6c6f11dca8528ed9a82a8581fabab3d.jpg",
+      "image_path": "images/cards/1179/XY32-7788.webp",
+      "image_sha256": "9a8f79158b7680d695ec76beb7ef7d7eb9d514b8413f18667f7c495330f8fe4a",
+      "image_bytes": 169350,
+      "source_url": "https://www.tcgcollector.com/cards/7788/yveltal-xy-promos-xy32",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 32
+    },
+    {
+      "id": 7789,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Trevor",
+      "number": "XY33",
+      "number_value": 33,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/a6/c7/b9/a6c7b975abfb784dd92d9011cfb980956e4a214f69d62b86ce34b99fbba7024c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f4/6b/de/f46bdec012ba4aebb86f470d76eda6e8916931ffe28fcb6d022330e6760d2c43.jpg",
+      "image_path": "images/cards/1179/XY33-7789.webp",
+      "image_sha256": "11d12cb50966cb49ded833a0c356a9830ed92ee9049f972965bbe5824b976978",
+      "image_bytes": 169420,
+      "source_url": "https://www.tcgcollector.com/cards/7789/trevor-xy-promos-xy33",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 33
+    },
+    {
+      "id": 7790,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Metagross-EX",
+      "number": "XY34",
+      "number_value": 34,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/7e/5e/a7/7e5ea7fe481dc56969ad1ec8ce01a68d76ff9b0537a22b9c1a6bb06a6ec76136.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/12/3c/19/123c196eb69e551d145de97ab6617d085fe092409dd1a1a721675054e5c8d3f2.jpg",
+      "image_path": "images/cards/1179/XY34-7790.webp",
+      "image_sha256": "bfe5117f16e7a163d89e39ded63bcfdf55f913637dc9910331c12dc8d7492511",
+      "image_bytes": 254325,
+      "source_url": "https://www.tcgcollector.com/cards/7790/metagross-ex-xy-promos-xy34",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 34
+    },
+    {
+      "id": 7791,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "M Metagross-EX",
+      "number": "XY35",
+      "number_value": 35,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/21/24/6d/21246da3ffca7130ac7afd20fc112f9fff76367208d42cd670ce197a51bb4f48.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2a/63/a1/2a63a1fab79ffd91855b786005c0662568959b809e6b6dd3fb999290b44c6352.jpg",
+      "image_path": "images/cards/1179/XY35-7791.webp",
+      "image_sha256": "15e0a82ad98d90acb670b85dc67d3628aac6cf87699fe8383136978e58cffce3",
+      "image_bytes": 254671,
+      "source_url": "https://www.tcgcollector.com/cards/7791/m-metagross-ex-xy-promos-xy35",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 35
+    },
+    {
+      "id": 7792,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Treecko",
+      "number": "XY36",
+      "number_value": 36,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/42/65/42/4265424fdd91b123551897902ba4be9cad9555466dcb734ab1c39383a70fd342.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/62/1b/84/621b8468c5e10a87f29e79ef58eb143c5033378b2d53e890d8e5900c64f9b1bd.jpg",
+      "image_path": "images/cards/1179/XY36-7792.webp",
+      "image_sha256": "bff6f394d4ab74911d4ef48276df2ca2412c8afa633996c6191f2e26abf12dd1",
+      "image_bytes": 154910,
+      "source_url": "https://www.tcgcollector.com/cards/7792/treecko-xy-promos-xy36",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 36
+    },
+    {
+      "id": 7793,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Torchic",
+      "number": "XY37",
+      "number_value": 37,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/06/8c/ba/068cbae0b26fd46fb47cbb58189803acd0990388f86c51665f22b3e7186033f1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ab/e1/db/abe1db22ac66d7b24700400b5d144182d817a045f5e79c4a98eb6c1451a261a8.jpg",
+      "image_path": "images/cards/1179/XY37-7793.webp",
+      "image_sha256": "b45ce4cb5bb40b8f35c9785cdcd860e9c2faacc06ff281658ee945de98b57b95",
+      "image_bytes": 138905,
+      "source_url": "https://www.tcgcollector.com/cards/7793/torchic-xy-promos-xy37",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 37
+    },
+    {
+      "id": 7794,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Mudkip",
+      "number": "XY38",
+      "number_value": 38,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/88/11/1a/88111a1eefd6bf2702b9b9c8098dd5f247ad789365bfaf7d315740f7b410ca62.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f3/b3/eb/f3b3ebbd170a4347056be3431c59d31efa502ea001f457ebc849557f779d9f5c.jpg",
+      "image_path": "images/cards/1179/XY38-7794.webp",
+      "image_sha256": "4f84c7a4e7ce099b2fcf72e81ff1a20bd8f3dc3e780bda9623de111b29311c95",
+      "image_bytes": 149806,
+      "source_url": "https://www.tcgcollector.com/cards/7794/mudkip-xy-promos-xy38",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 38
+    },
+    {
+      "id": 7795,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Kingdra",
+      "number": "XY39",
+      "number_value": 39,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/42/c9/2b/42c92b1f6d88048cdae27e643f01611576dd2badcf0b25d7be3621d675e24e66.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8a/5a/30/8a5a308f29edcccecea4166898335220494a5b8fb2e811f1babf2937f0e7ba88.jpg",
+      "image_path": "images/cards/1179/XY39-7795.webp",
+      "image_sha256": "180d742b1f55e1259872d948dbdc4fb62a4051c9bf8f23208f85a6a53b257764",
+      "image_bytes": 227148,
+      "source_url": "https://www.tcgcollector.com/cards/7795/kingdra-xy-promos-xy39",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 39
+    },
+    {
+      "id": 7796,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Ditto",
+      "number": "XY40",
+      "number_value": 40,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/85/d4/67/85d4677587c7d19b623c1583ee24aa60c57b146e113274c41ff7c7621e5b77b7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e0/5c/2c/e05c2cf2125394486c19f7902a2579854099c4594f3b8a583a266d7143e5194d.jpg",
+      "image_path": "images/cards/1179/XY40-7796.webp",
+      "image_sha256": "8782b32bcbbf577d88bf4b45f222fbc5c1423bf14748b852ad05626f42bce3cf",
+      "image_bytes": 194714,
+      "source_url": "https://www.tcgcollector.com/cards/7796/ditto-xy-promos-xy40",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 40
+    },
+    {
+      "id": 7797,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Kyogre-EX",
+      "number": "XY41",
+      "number_value": 41,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/3f/a5/36/3fa5363cd66ca632680c9362b906c5bac44996e40c3ccad1f0301457f2965486.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/15/cc/ed/15cced393f740c7ab43eb3beea694c61f9132072d1456ee9547c6b00a9327ba2.jpg",
+      "image_path": "images/cards/1179/XY41-7797.webp",
+      "image_sha256": "57ad42990ae5e1f078213e36eb6c2e9eaa8dd976d45886c39e7095da5890511a",
+      "image_bytes": 229555,
+      "source_url": "https://www.tcgcollector.com/cards/7797/kyogre-ex-xy-promos-xy41",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 41
+    },
+    {
+      "id": 7798,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Groudon-EX",
+      "number": "XY42",
+      "number_value": 42,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/f6/bc/d5/f6bcd5c122f4028cae7526ed047608bdd3b4e47f3236caa457ae3d5955b2f5ab.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/08/13/ea/0813ea52be6bbf4f3c1e29a5a846ab186b775e76d2ef723a301407ce6429b813.jpg",
+      "image_path": "images/cards/1179/XY42-7798.webp",
+      "image_sha256": "d69f6f58c070cc6ac372c25a630a0dc48642391770288f0c0f65dedcad4a5de2",
+      "image_bytes": 226323,
+      "source_url": "https://www.tcgcollector.com/cards/7798/groudon-ex-xy-promos-xy42",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 42
+    },
+    {
+      "id": 7799,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Diancie-EX",
+      "number": "XY43",
+      "number_value": 43,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/77/6a/fd/776afd974c64d1d6014226756b1b7fb28e04bb15bc7402e9fd2b7db3a7596f8a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e0/31/e7/e031e78a82251ffac37304a7c37ce1d795b74e03879bb580c0bc1dc66d73874c.jpg",
+      "image_path": "images/cards/1179/XY43-7799.webp",
+      "image_sha256": "e8f50ff880062251e4755ab539d708fa34fe339f2fde656557f8d4759547084d",
+      "image_bytes": 199299,
+      "source_url": "https://www.tcgcollector.com/cards/7799/diancie-ex-xy-promos-xy43",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 43
+    },
+    {
+      "id": 7800,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "M Diancie-EX",
+      "number": "XY44",
+      "number_value": 44,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/c6/99/22/c69922fdf11f950e832567558db3e728cfbef7da0ed463a0cc799fa4bfcef815.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8e/ce/2f/8ece2f848697b0cd719632076517f3c617dd86be357aa440fea6c654570e6a7a.jpg",
+      "image_path": "images/cards/1179/XY44-7800.webp",
+      "image_sha256": "ed6b7a297cdc35819860f2d7475c8736a8213850211e98ddb7fd1ef61b039133",
+      "image_bytes": 242108,
+      "source_url": "https://www.tcgcollector.com/cards/7800/m-diancie-ex-xy-promos-xy44",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 44
+    },
+    {
+      "id": 7801,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Gallade-EX",
+      "number": "XY45",
+      "number_value": 45,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/70/01/73/700173a9ef48e07c18975b6f5faf12be5f14f4f18170160ee866c88d5997947d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/42/25/54/4225547498fa49c954b149e71e154684e9d9390a0d28c9bea8d121d1ad0db975.jpg",
+      "image_path": "images/cards/1179/XY45-7801.webp",
+      "image_sha256": "95f7093947f31b7e0fb14498003e0cae4497c1e3038f2e7f6b7ce4e121b69a68",
+      "image_bytes": 164803,
+      "source_url": "https://www.tcgcollector.com/cards/7801/gallade-ex-xy-promos-xy45",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 45
+    },
+    {
+      "id": 7802,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Altaria",
+      "number": "XY46",
+      "number_value": 46,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/0e/ea/9d/0eea9de822db05d84a4379f7ae98a9811a59ed4e813fdc37c887097801cdaaa6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/56/e8/16/56e816c4d461297cd63b5412b2f9ad7f93d6d08b1ce7f7f3f789c00958fd89f1.jpg",
+      "image_path": "images/cards/1179/XY46-7802.webp",
+      "image_sha256": "4cb474afed339bd8de27cfcadf1a9d4b18fd6bed0c8d1a653bf893dfd725bc47",
+      "image_bytes": 184235,
+      "source_url": "https://www.tcgcollector.com/cards/7802/altaria-xy-promos-xy46",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 46
+    },
+    {
+      "id": 7803,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Heliolisk",
+      "number": "XY47",
+      "number_value": 47,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/27/ed/90/27ed900228231baf1aa03c3ba1f6bd586d09d0aa987e19a97a8881cdab608c52.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1c/0b/51/1c0b51832f174f9120274ff27d95170aa4b219182273f72b064f4662e6a6c8fd.jpg",
+      "image_path": "images/cards/1179/XY47-7803.webp",
+      "image_sha256": "9cd8d6c8f86560c8852fe647698c75d4bbf88d9d64fcdac6d7582b17e284447e",
+      "image_bytes": 191294,
+      "source_url": "https://www.tcgcollector.com/cards/7803/heliolisk-xy-promos-xy47",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 47
+    },
+    {
+      "id": 7804,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Meowstic",
+      "number": "XY48",
+      "number_value": 48,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/2c/c9/1b/2cc91bea456fb4216f04571c1c5d7ea0aaca185a3e7bfa1b083d36f85d01c0a3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bf/dc/07/bfdc073898476c72bb75e007dd868e638da7b98bf867cf41693db65bc56ee65e.jpg",
+      "image_path": "images/cards/1179/XY48-7804.webp",
+      "image_sha256": "32a07209b8a2b7695fc2f215b57de3a70559be4dcf230adb841750422daab99e",
+      "image_bytes": 173947,
+      "source_url": "https://www.tcgcollector.com/cards/7804/meowstic-xy-promos-xy48",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 48
+    },
+    {
+      "id": 7805,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Regirock",
+      "number": "XY49",
+      "number_value": 49,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/97/19/9a/97199a3644f881d9ee360718c70fa0f1df5f09634a665643c21e364b3281d97f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/60/13/94/601394022d542eec0d3c12e6fc5e7fd49172f9b2e0b4be5cdd4b7a34ef46d5bb.jpg",
+      "image_path": "images/cards/1179/XY49-7805.webp",
+      "image_sha256": "879994509ec3fa3b0db94dd18d1ec74bf7f0304f5b8e76f2c0fcb2aadffc4bde",
+      "image_bytes": 158754,
+      "source_url": "https://www.tcgcollector.com/cards/7805/regirock-xy-promos-xy49",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 49
+    },
+    {
+      "id": 7806,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Pangoro",
+      "number": "XY50",
+      "number_value": 50,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/60/00/63/600063754746c426067e4b78311c09b08ad81c1323d70703553977d4a5c2b855.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/98/e7/47/98e747a26c1d7aea9ed48ed80c9d16a5805e4388b5b4a114f6bbe54c0dc63264.jpg",
+      "image_path": "images/cards/1179/XY50-7806.webp",
+      "image_sha256": "ec6c83016526df51e47c10f76ec3692fc7fb34e59fc5bc2655a184afbde20728",
+      "image_bytes": 195198,
+      "source_url": "https://www.tcgcollector.com/cards/7806/pangoro-xy-promos-xy50",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 50
+    },
+    {
+      "id": 7807,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Kyogre",
+      "number": "XY51",
+      "number_value": 51,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/bb/17/5f/bb175f27d0615db9ff04e9b5f176c8283e84327f3e8726105bbfff4f2d26607a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8b/f1/42/8bf1421bb6f419fdec7575fb71a1a36e94dd7f55aabe9e09e85fa852d249e1e3.jpg",
+      "image_path": "images/cards/1179/XY51-7807.webp",
+      "image_sha256": "7ed742ed730026a43acbb7db82544ac71b157d6c2857bad70d256ff909cad8a5",
+      "image_bytes": 199936,
+      "source_url": "https://www.tcgcollector.com/cards/7807/kyogre-xy-promos-xy51",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 51
+    },
+    {
+      "id": 7808,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Groudon",
+      "number": "XY52",
+      "number_value": 52,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/b5/c1/99/b5c1993ab33219afc39efc75f6b4cbdfa729803a9b07dfab0535264de1d06ac2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/27/b5/64/27b564b663f170e248947646029c90063311738031b6ac9449401663a8f5171c.jpg",
+      "image_path": "images/cards/1179/XY52-7808.webp",
+      "image_sha256": "673bc839fe7529f4d6a8e9c8a61907e0f417a20fc16594191312c9dfd871732f",
+      "image_bytes": 207276,
+      "source_url": "https://www.tcgcollector.com/cards/7808/groudon-xy-promos-xy52",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 52
+    },
+    {
+      "id": 7809,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Sceptile-EX",
+      "number": "XY53",
+      "number_value": 53,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/61/f6/f2/61f6f27c7c12c305f70df2474ad92b01f632d6b70b2aba5ad54b294764b1816b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6a/04/ee/6a04eecb4653e6782d3c39749536b0a4ba18e83a398313a4278b8d7f89a083d2.jpg",
+      "image_path": "images/cards/1179/XY53-7809.webp",
+      "image_sha256": "5430597692e7c986f293d0d9bdde2e877f346ad45f7a5b9aaffd2fe9f2713e49",
+      "image_bytes": 200798,
+      "source_url": "https://www.tcgcollector.com/cards/7809/sceptile-ex-xy-promos-xy53",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 53
+    },
+    {
+      "id": 7810,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Blaziken-EX",
+      "number": "XY54",
+      "number_value": 54,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/93/1c/e0/931ce06f2f18518e3cf4622e2431ccd318464f1b2e2858df72f0f8d436bf1760.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/35/bf/c9/35bfc9135db8cf4407ffaf2ea8b736e5a5c7e00db3800ac90c18b223967315ea.jpg",
+      "image_path": "images/cards/1179/XY54-7810.webp",
+      "image_sha256": "ae01cadd8af2cee990178dab28850c00dd7bab165b1c02ca3c462bd33f1e0d7f",
+      "image_bytes": 207594,
+      "source_url": "https://www.tcgcollector.com/cards/7810/blaziken-ex-xy-promos-xy54",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 54
+    },
+    {
+      "id": 7811,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Swampert-EX",
+      "number": "XY55",
+      "number_value": 55,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/1f/f4/de/1ff4de6dfd01ca4fe8aab4fbc2006e3246105cfb47ae395ac6c84ab1c9c0de20.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/94/54/9f/94549fd1264567089d4bbb6c3d267fe56a791dfee869546ecc93b3715088c6b9.jpg",
+      "image_path": "images/cards/1179/XY55-7811.webp",
+      "image_sha256": "f2f064e5a2cd1ee786a1a1433aca37a071aa332ee93f501dafcf70f8f9a6927b",
+      "image_bytes": 229549,
+      "source_url": "https://www.tcgcollector.com/cards/7811/swampert-ex-xy-promos-xy55",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 55
+    },
+    {
+      "id": 7812,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Blissey",
+      "number": "XY56",
+      "number_value": 56,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/6f/79/cf/6f79cff47bc0d70de2998d8d420c90a17817d5da23faaa31ada4536fa80845a9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/61/f0/56/61f05677e31bdb42a4fcb9c72f3c5217604b9c900412473f53bcdb687b53123d.jpg",
+      "image_path": "images/cards/1179/XY56-7812.webp",
+      "image_sha256": "a7279b2c9bb72760a41d17f66e1204236318a4295f986f7f2ffd1dcc11aec503",
+      "image_bytes": 179094,
+      "source_url": "https://www.tcgcollector.com/cards/7812/blissey-xy-promos-xy56",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 56
+    },
+    {
+      "id": 7813,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Fearow",
+      "number": "XY57",
+      "number_value": 57,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/23/66/d5/2366d5ad19755003f538f2c7b093763ac74fc58288c954e1c816153b8d8672ee.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4b/57/f8/4b57f8da50a65b99276e83e30e52025898787f0f5a874e82a2951d9861686146.jpg",
+      "image_path": "images/cards/1179/XY57-7813.webp",
+      "image_sha256": "fe5cbc2ce19d2dc58f19bee31eb5059490cd27f1b9f3914c94f26917ebb15bf9",
+      "image_bytes": 168009,
+      "source_url": "https://www.tcgcollector.com/cards/7813/fearow-xy-promos-xy57",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 57
+    },
+    {
+      "id": 7814,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Malamar",
+      "number": "XY58",
+      "number_value": 58,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/a4/6d/1e/a46d1e9d21619bea0ba802b4dcbe1e074fad1ce618cab13d3eda6e86d9a3711e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4e/6e/a6/4e6ea61542d330b637796d2f3f4344d9dca3b4031106ee49bfa176bcad08483c.jpg",
+      "image_path": "images/cards/1179/XY58-7814.webp",
+      "image_sha256": "c5360c732e86a7dc946bdb67977ebf09f8d3f40ac7049ca45f3e2b0d28e31f8d",
+      "image_bytes": 184606,
+      "source_url": "https://www.tcgcollector.com/cards/7814/malamar-xy-promos-xy58",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 58
+    },
+    {
+      "id": 7815,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Salamence",
+      "number": "XY59",
+      "number_value": 59,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/3b/4e/da/3b4eda288c35379d1f86c4df54c0198afe699465a07b41ef611a4b34624f6985.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c1/86/f7/c186f79301f6c510981ac2a699bdbf53440e54eaf4b56f068964a28f0cc3ca60.jpg",
+      "image_path": "images/cards/1179/XY59-7815.webp",
+      "image_sha256": "b5cb0b978214ed193edcdaf5a087780e5877fb9552bd61516f2c7375f95d1162",
+      "image_bytes": 191994,
+      "source_url": "https://www.tcgcollector.com/cards/7815/salamence-xy-promos-xy59",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 59
+    },
+    {
+      "id": 7816,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Gyarados",
+      "number": "XY60",
+      "number_value": 60,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/2a/78/8e/2a788e27e5a8ee62e9d4d4846bb8050306097801b0ac71a835240a419e717219.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/46/c2/00/46c200329f6aad8777cdd5d6cbfd8ae774befd6c49c09f047fddc8dd0efdf52c.jpg",
+      "image_path": "images/cards/1179/XY60-7816.webp",
+      "image_sha256": "7ae9a305a7ce9bfdde75c7e3bdb5126f4f1e8b19d60f2b7c0e5155d597e2eb4f",
+      "image_bytes": 223534,
+      "source_url": "https://www.tcgcollector.com/cards/7816/gyarados-xy-promos-xy60",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 60
+    },
+    {
+      "id": 7817,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Flygon-EX",
+      "number": "XY61",
+      "number_value": 61,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/35/53/15/355315b272d6c73c0ff22ea6285c3ea6b536f8ec58e02cae269f216e665c9630.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bb/a8/e9/bba8e9a2b1b4b88ac0cb7f000b1c31e7b834ea0f2c77b0d0f63218aa43eda756.jpg",
+      "image_path": "images/cards/1179/XY61-7817.webp",
+      "image_sha256": "ab0fa08a891e08ad0f20d83d1a26f87cb615dd479a0685aafcfd352e719de1b7",
+      "image_bytes": 214770,
+      "source_url": "https://www.tcgcollector.com/cards/7817/flygon-ex-xy-promos-xy61",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 61
+    },
+    {
+      "id": 7818,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Absol-EX",
+      "number": "XY62",
+      "number_value": 62,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/97/39/53/97395355358d6e4c14d9e214a34123e59f2dfcb278cbe34c0d2c7bf076f854c7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/30/0a/3c/300a3c00f3dd1c4d40541f1885f53dd371b38b62e1ae3f125a6ab58bdc296e4c.jpg",
+      "image_path": "images/cards/1179/XY62-7818.webp",
+      "image_sha256": "98ac71a723d118658a267fc351cc0823d83b7a271649f730f0d7325a1c88697d",
+      "image_bytes": 190181,
+      "source_url": "https://www.tcgcollector.com/cards/7818/absol-ex-xy-promos-xy62",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 62
+    },
+    {
+      "id": 7819,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "M Absol-EX",
+      "number": "XY63",
+      "number_value": 63,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/57/44/dd/5744dd4a2fbe7ce44775fbc441920e4e589e71b2cc6821c3a20b0c8222e2935d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/db/7a/48/db7a489e8c743782b0c34f4a6ece30ad5627b94846e895f81bdac49e781eddd5.jpg",
+      "image_path": "images/cards/1179/XY63-7819.webp",
+      "image_sha256": "8904f0ae13b69a7ce8f76723804fde7956f7b40ea2ef05e4e891ee9bb1a3923b",
+      "image_bytes": 237664,
+      "source_url": "https://www.tcgcollector.com/cards/7819/m-absol-ex-xy-promos-xy63",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 63
+    },
+    {
+      "id": 7820,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Rayquaza",
+      "number": "XY64",
+      "number_value": 64,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/ee/fa/8f/eefa8f7492386abb9017664815700c6e74dbea595af33977511e4de2b875ccbb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fd/33/ad/fd33ad2ea861c0b95e835cb2e334913c3d3a8f630338a2486c642d5dcff9bd78.jpg",
+      "image_path": "images/cards/1179/XY64-7820.webp",
+      "image_sha256": "22beb1e4003e27504625c7a3468bffe3833d486875815086f8890c9ba2ea7408",
+      "image_bytes": 177344,
+      "source_url": "https://www.tcgcollector.com/cards/7820/rayquaza-xy-promos-xy64",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 64
+    },
+    {
+      "id": 7821,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Latios",
+      "number": "XY65",
+      "number_value": 65,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/37/e1/fa/37e1fa6835f31634d3fae3b314680168e5d60ff868ef593d4839b3678267cfbf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2d/4b/12/2d4b124d94c0f3aeef558ad00aba63cbf68c0754111fa8664397beab79dba518.jpg",
+      "image_path": "images/cards/1179/XY65-7821.webp",
+      "image_sha256": "0e31ed8ac39b62b24798e6699770ec3274d4fb949c28e756f05753e721dcf492",
+      "image_bytes": 155242,
+      "source_url": "https://www.tcgcollector.com/cards/7821/latios-xy-promos-xy65",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 65
+    },
+    {
+      "id": 7822,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Rayquaza-EX",
+      "number": "XY66",
+      "number_value": 66,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/3d/d9/57/3dd9577fad9e479d189b617bd39b9bd6fd5fa2a5c92f1a9056efa145f92b9399.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f3/55/9a/f3559aeb5d2d5e3ec0529bf89e1e95fd6b24e8d4def8d21665e8a07d9f2b6325.jpg",
+      "image_path": "images/cards/1179/XY66-7822.webp",
+      "image_sha256": "49d483043b958678616fce37c49a9b063943fd418ca5af5205059104ca3b0f4a",
+      "image_bytes": 250975,
+      "source_url": "https://www.tcgcollector.com/cards/7822/rayquaza-ex-xy-promos-xy66",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 66
+    },
+    {
+      "id": 8400,
+      "set_id": 1179,
+      "set_ids": [
+        1179,
+        1280
+      ],
+      "name": "Jirachi",
+      "number": "XY67",
+      "number_value": 67,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/e9/a6/08/e9a608ba41053f5bff109b8846aa918182c50c7849dd8eeb552480bd442b05e9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/23/37/1c/23371c19585fe7c97b9e06038632b454633724d22fb4572f3696b17941903353.jpg",
+      "image_path": "images/cards/1179/XY67-8400.webp",
+      "image_sha256": "10f439cda43b5d06156d1d2c4fed304860a643cfb9789d402cc974856f9b9712",
+      "image_bytes": 225568,
+      "source_url": "https://www.tcgcollector.com/cards/8400/jirachi-xy-promos-xy67",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 67
+    },
+    {
+      "id": 8401,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Chesnaught",
+      "number": "XY68",
+      "number_value": 68,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/96/1d/15/961d1568409ec6ad20af6daa628ec573cedc36b6f6673a40fc50d6a5bd181018.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5b/7b/33/5b7b33d94db94ae612c2b9bf3440a234013e5cdca0549a30ecd2a1efab8b6750.jpg",
+      "image_path": "images/cards/1179/XY68-8401.webp",
+      "image_sha256": "f669a1a180a348915fb9f6ff3dc10c56daf17f5fc51a7e0f187252e64a6bb5fd",
+      "image_bytes": 201921,
+      "source_url": "https://www.tcgcollector.com/cards/8401/chesnaught-xy-promos-xy68",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 68
+    },
+    {
+      "id": 7823,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Rayquaza-EX",
+      "number": "XY69",
+      "number_value": 69,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/55/28/e1/5528e12234166759c70d42e0ef6b63db388c3fe88ca014d836cb33dc1a35ab77.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1c/a7/33/1ca7336fc9f067cee48ed88eb7b5586712ab4428ec7ac9c678adc6cd88d7979f.jpg",
+      "image_path": "images/cards/1179/XY69-7823.webp",
+      "image_sha256": "a8fa7af2d150d52c538ef0a0b0221d7ff8a7ffb896f9b8df273ebd5999d31383",
+      "image_bytes": 258192,
+      "source_url": "https://www.tcgcollector.com/cards/7823/rayquaza-ex-xy-promos-xy69",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 69
+    },
+    {
+      "id": 7824,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Tyrantrum-EX",
+      "number": "XY70",
+      "number_value": 70,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/08/fd/18/08fd18d543d66fd8fbc9b2d35420f71a202538955ab60cb43d40b89af0ebd375.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5e/b1/93/5eb19300b1c6ff19f49b2b7eb33277385603f96848c5d1897593210c269f61ec.jpg",
+      "image_path": "images/cards/1179/XY70-7824.webp",
+      "image_sha256": "0ea1ef9664e43291473ece47395de8b38d04c91ffee61d513eec422070fd1ddb",
+      "image_bytes": 209987,
+      "source_url": "https://www.tcgcollector.com/cards/7824/tyrantrum-ex-xy-promos-xy70",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 70
+    },
+    {
+      "id": 7825,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Hoopa-EX",
+      "number": "XY71",
+      "number_value": 71,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/b7/5c/f5/b75cf5be6034e86dc38020602f7edfa404ca745199c5e508403961f8fa11405e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3e/46/27/3e46276d08d2bf39faa17c18d9d684827ae86d0ac6cf2d85000b088e2cc131ee.jpg",
+      "image_path": "images/cards/1179/XY71-7825.webp",
+      "image_sha256": "24a5f5a49ceb2f534209af733047fe4ba41bbd415c24aafcea7fda814dfcafe7",
+      "image_bytes": 220566,
+      "source_url": "https://www.tcgcollector.com/cards/7825/hoopa-ex-xy-promos-xy71",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 71
+    },
+    {
+      "id": 7826,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Latios-EX",
+      "number": "XY72",
+      "number_value": 72,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/5c/d0/f5/5cd0f54f61c04f55be5515f2eb4be678151593cba762f36078bb8958c2028120.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/16/9c/9e/169c9ee1f6218261a73b9b46ec1d057bb3df63f3e8a458a586d058709388b8bd.jpg",
+      "image_path": "images/cards/1179/XY72-7826.webp",
+      "image_sha256": "44ae36f2b941695cd4208b6842fc8d03cdcd91e2fdef09c387a321dffbcf4630",
+      "image_bytes": 204133,
+      "source_url": "https://www.tcgcollector.com/cards/7826/latios-ex-xy-promos-xy72",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 72
+    },
+    {
+      "id": 7827,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Rayquaza-EX",
+      "number": "XY73",
+      "number_value": 73,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/9c/65/cb/9c65cbb553124e4e57c8d41256c474d25652c49e455c7e40d0ec88c15617099f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d7/ab/99/d7ab99f89c854a3531babfb0c928a23e1497bf71490c27465868e2e2ddeb79f6.jpg",
+      "image_path": "images/cards/1179/XY73-7827.webp",
+      "image_sha256": "603aa7139ae05f78168553f698c23779299a337315ea86fdbb6aac706b1c3340",
+      "image_bytes": 228963,
+      "source_url": "https://www.tcgcollector.com/cards/7827/rayquaza-ex-xy-promos-xy73",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 73
+    },
+    {
+      "id": 8402,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Reshiram",
+      "number": "XY74",
+      "number_value": 74,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/04/40/98/0440982153bbc3209f1a0b901f7323045be9084dd168515f4236b51637f53f48.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/78/90/81/789081fee4d1f53c385a751c1c0e58deaed98253f34020bb5d37253f67bd0e4a.jpg",
+      "image_path": "images/cards/1179/XY74-8402.webp",
+      "image_sha256": "ba916c6c5ba46724d08621015d2a7ac62d9a981199c89dc5d8018afeb50d4141",
+      "image_bytes": 172049,
+      "source_url": "https://www.tcgcollector.com/cards/8402/reshiram-xy-promos-xy74",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 74
+    },
+    {
+      "id": 8403,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Palkia",
+      "number": "XY75",
+      "number_value": 75,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/64/41/4c/64414cb6afa6768f47bc6a4b631008381920334ad5e0e4d192c6a74cc68b3783.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/15/72/7d/15727dca364e22512c8369196f20038f5b0d4bdfa66b8af324a35ecea6e0f867.jpg",
+      "image_path": "images/cards/1179/XY75-8403.webp",
+      "image_sha256": "c7b1d4a76d07b9acc53d0ed71ed9032342497bc94e56d4d3884d6b50c80dea44",
+      "image_bytes": 205078,
+      "source_url": "https://www.tcgcollector.com/cards/8403/palkia-xy-promos-xy75",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 75
+    },
+    {
+      "id": 8404,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Zekrom",
+      "number": "XY76",
+      "number_value": 76,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/37/d3/49/37d3496db2418965f2c0e68e4fdd6aa24bfb5ecbd2ec43e30dd05c9df6ab6f03.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1a/dd/ff/1addff5a53346de1cf8cc2543f1e196fbcb2d504ee6de5d069ee9f46f83eaa4d.jpg",
+      "image_path": "images/cards/1179/XY76-8404.webp",
+      "image_sha256": "7d6f861e9e6f7edc437f21f50c4415e2dd471bc6792cdcb46a4290a5fe0a820d",
+      "image_bytes": 199800,
+      "source_url": "https://www.tcgcollector.com/cards/8404/zekrom-xy-promos-xy76",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 76
+    },
+    {
+      "id": 8405,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Dialga",
+      "number": "XY77",
+      "number_value": 77,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/69/d0/81/69d081b8a43d1daecfd04d3f9224dbf8a998281353c82fb3a80b4be62d48fa0e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b6/87/f9/b687f954068247e330999b0e76b4f6ea422ea011923aa49668f625763d46468c.jpg",
+      "image_path": "images/cards/1179/XY77-8405.webp",
+      "image_sha256": "24feb255b18f4daf5cc623b5d429cede4e626824ddcc1b001e324452828c40e3",
+      "image_bytes": 198699,
+      "source_url": "https://www.tcgcollector.com/cards/8405/dialga-xy-promos-xy77",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 77
+    },
+    {
+      "id": 8406,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Latias",
+      "number": "XY78",
+      "number_value": 78,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/a4/af/a2/a4afa2e07ec358853e0145453a9ef8ad5d94fae5b06c4538f5fe0a2746a6e9fa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bb/a2/2c/bba22ce06ffb27781a6cd7445630c2b64b08191b8de5bca3e8aac17f68d0a7e4.jpg",
+      "image_path": "images/cards/1179/XY78-8406.webp",
+      "image_sha256": "8391e05601d7a3b9d9efbf1ea923617bce954998d8dac0fef77bd7af75f27a41",
+      "image_bytes": 186138,
+      "source_url": "https://www.tcgcollector.com/cards/8406/latias-xy-promos-xy78",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 78
+    },
+    {
+      "id": 8407,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Latios",
+      "number": "XY79",
+      "number_value": 79,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/be/26/73/be26730431801683cea6aed717e542ca29f35b5f45f0b48045d8424caf66fb36.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8f/a6/13/8fa6132b4a99e571bdd7185f32653619e888725d0f83648f585b0a8a3b268fed.jpg",
+      "image_path": "images/cards/1179/XY79-8407.webp",
+      "image_sha256": "531fcf59053e1674a6cd7b503b39eb2b6b4f27c72e959292af29b3070deea10f",
+      "image_bytes": 177034,
+      "source_url": "https://www.tcgcollector.com/cards/8407/latios-xy-promos-xy79",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 79
+    },
+    {
+      "id": 8408,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Black Kyurem",
+      "number": "XY80",
+      "number_value": 80,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/8d/62/2b/8d622bb06216dbae5c68f1c89792362a62584487e4f1ceded07271bdeebfd198.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/48/87/bd/4887bd80f487c5102bc202258cb51d2ca3436530a2fa57d527db37fbe55d9576.jpg",
+      "image_path": "images/cards/1179/XY80-8408.webp",
+      "image_sha256": "8954efa7a0a123f642a1a05ab28271989614756135ee8e98631d40d5f7932992",
+      "image_bytes": 196915,
+      "source_url": "https://www.tcgcollector.com/cards/8408/black-kyurem-xy-promos-xy80",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 80
+    },
+    {
+      "id": 8409,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "White Kyurem",
+      "number": "XY81",
+      "number_value": 81,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/fb/50/4f/fb504f80f91804030c21305799a5718f3751ef4593cbfcac6dff94a753088540.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c3/13/13/c31313bacac27cb1d601952c82e1f0757424167ef8f477192f293f41238fa815.jpg",
+      "image_path": "images/cards/1179/XY81-8409.webp",
+      "image_sha256": "f7f27bca451790ba7b1365519a8a9415e29b94b0294d2b364a3304f663b7e865",
+      "image_bytes": 190173,
+      "source_url": "https://www.tcgcollector.com/cards/8409/white-kyurem-xy-promos-xy81",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 81
+    },
+    {
+      "id": 8410,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Regigigas",
+      "number": "XY82",
+      "number_value": 82,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/74/0e/4c/740e4ce159bc4fda586cb13f0355cd2e2fdb3bbf147a1d7aa34cf668fc1b830b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2b/05/0a/2b050af4e8d34477c801ecfb3210245c72425983174075c35bc6f134ef004dd4.jpg",
+      "image_path": "images/cards/1179/XY82-8410.webp",
+      "image_sha256": "e514a8ea10bb86acac685e2ed93dea1e1ec6680bc750127085d8b02c654d197a",
+      "image_bytes": 202406,
+      "source_url": "https://www.tcgcollector.com/cards/8410/regigigas-xy-promos-xy82",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 82
+    },
+    {
+      "id": 8411,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Arceus",
+      "number": "XY83",
+      "number_value": 83,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/91/fa/ba/91faba7bee6825850b9d8d27fb30089e3a1fb470d79854f79d5f214f56de12dc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/67/66/0e/67660e94a785572a9d8eadcea79084370f4006d738357020c8bf1c97f877f0ee.jpg",
+      "image_path": "images/cards/1179/XY83-8411.webp",
+      "image_sha256": "781d9ee91b6d81b3316a138175ee655d5fab961519d60f4cef992ee5a7cd9be5",
+      "image_bytes": 175108,
+      "source_url": "https://www.tcgcollector.com/cards/8411/arceus-xy-promos-xy83",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 83
+    },
+    {
+      "id": 8412,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Pikachu-EX",
+      "number": "XY84",
+      "number_value": 84,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/2a/b2/3f/2ab23f34cde04b41235686706ec10fc842bb3e41ed65022bdbd15e928f12756b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bf/68/76/bf6876b5cdb9caa6cf4b44b122519d43d899df328874ded12641487f71e55c08.jpg",
+      "image_path": "images/cards/1179/XY84-8412.webp",
+      "image_sha256": "4ecdd3879d16ac50106bd31aab2f4c8c4a4fbe72820b85d794d34c7dd774179f",
+      "image_bytes": 211752,
+      "source_url": "https://www.tcgcollector.com/cards/8412/pikachu-ex-xy-promos-xy84",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 84
+    },
+    {
+      "id": 8413,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Hoopa-EX",
+      "number": "XY85",
+      "number_value": 85,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/3c/69/ef/3c69efd043923acc0d107ddef39b596c4bdc08982e50ef57b41703bc59542b4d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4e/c0/90/4ec090ff28481adcb119dffaff067b7131f260467856e7665cb6fc215027b969.jpg",
+      "image_path": "images/cards/1179/XY85-8413.webp",
+      "image_sha256": "9f8ed7dbce6ad5fd2db4c20c5fde389fee11016ce48d842d151c659a0b93aac8",
+      "image_bytes": 204053,
+      "source_url": "https://www.tcgcollector.com/cards/8413/hoopa-ex-xy-promos-xy85",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 85
+    },
+    {
+      "id": 8414,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "M Blaziken-EX",
+      "number": "XY86",
+      "number_value": 86,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/29/4d/8d/294d8d5b9a63a17c7a0c0b7882795970ba4ba8f3ce2ee4a3f724ff15c06257a9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/22/80/a3/2280a33bf9d06703f7e68ff8b597890fdece77f27937049dba16260e708e17bc.jpg",
+      "image_path": "images/cards/1179/XY86-8414.webp",
+      "image_sha256": "71ffbfce8949e3d9eeae9b4b3a1c16c95e9a0823cd79da1b54940c50ab927dae",
+      "image_bytes": 238353,
+      "source_url": "https://www.tcgcollector.com/cards/8414/m-blaziken-ex-xy-promos-xy86",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 86
+    },
+    {
+      "id": 8415,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "M Swampert-EX",
+      "number": "XY87",
+      "number_value": 87,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/08/02/6d/08026d45cc1a5b71fd691709cb29ca92ad896948147664d311490b01fb843fa0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/13/28/5c/13285c946a3ad9aabb3d08abac03892773d4205f68917ea94dacc968e323f730.jpg",
+      "image_path": "images/cards/1179/XY87-8415.webp",
+      "image_sha256": "a6e6506a3f4c093c8c05e73a574f04b5a68ed265a175c4716d4a285e86525590",
+      "image_bytes": 252898,
+      "source_url": "https://www.tcgcollector.com/cards/8415/m-swampert-ex-xy-promos-xy87",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 87
+    },
+    {
+      "id": 8416,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Chespin",
+      "number": "XY88",
+      "number_value": 88,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/b0/aa/e7/b0aae7bace2455c3e37ef39288199d15eccbc15cedf89277e3ccacee5ca07b17.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b0/7f/fc/b07ffc834a1057d83db8937dc2ef4e0f738a23435d63613da8ab8ddf7c0064d5.jpg",
+      "image_path": "images/cards/1179/XY88-8416.webp",
+      "image_sha256": "51b7635b3ac0dc8f64b7352cf371b0a0810cffeffda035cc10d2eb43587764c0",
+      "image_bytes": 142849,
+      "source_url": "https://www.tcgcollector.com/cards/8416/chespin-xy-promos-xy88",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 88
+    },
+    {
+      "id": 8417,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Pikachu",
+      "number": "XY89",
+      "number_value": 89,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/f3/67/84/f367849d96ba053e0dbe9036579ba0a9d15130e52887bf2c1ff4bbe4acc1e9a7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6c/11/03/6c1103c5b594a95574c8e0082918c6afbb5aa9534a9f5d314a225e6a4f12efb5.jpg",
+      "image_path": "images/cards/1179/XY89-8417.webp",
+      "image_sha256": "a8324501a6027d83129a192337005bb279f6d59bb416f6b4047dca4c72691da7",
+      "image_bytes": 190167,
+      "source_url": "https://www.tcgcollector.com/cards/8417/pikachu-xy-promos-xy89",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 89
+    },
+    {
+      "id": 8418,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Hoopa",
+      "number": "XY90",
+      "number_value": 90,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/0a/d2/53/0ad2539af041d9eed5261b8ed4aa914bb8b7fc30047145d4d7512bcb5610a9d2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/eb/49/ad/eb49adae5bc42f65d4aaf6ecb2f476c372711fe50c983d7afcf9fd8be00969eb.jpg",
+      "image_path": "images/cards/1179/XY90-8418.webp",
+      "image_sha256": "3b4a1dda2404a312dab028c73beb853f95daa00fdea2d755e3b0b602ff42ad83",
+      "image_bytes": 168306,
+      "source_url": "https://www.tcgcollector.com/cards/8418/hoopa-xy-promos-xy90",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 90
+    },
+    {
+      "id": 8419,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Champions Festival",
+      "number": "XY91",
+      "number_value": 91,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/ed/6d/5c/ed6d5c6778dd67b5d8cd37930746bb8a3465dedcf80e19044b653dfedafb1812.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/83/bf/ab/83bfab2ac46e0e60914689c562668df537df4768b1b742fa838ce8ea5e1c64ac.jpg",
+      "image_path": "images/cards/1179/XY91-8419.webp",
+      "image_sha256": "19b29353a88b4881fef95fbf69e92e6943c78f3cb0e4b16f34408dd6c0abaa2c",
+      "image_bytes": 194489,
+      "source_url": "https://www.tcgcollector.com/cards/8419/champions-festival-xy-promos-xy91",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 91
+    },
+    {
+      "id": 8420,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Sableye",
+      "number": "XY92",
+      "number_value": 92,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/1d/ab/ba/1dabbabe383942df10d4bdc77c1287d4684955b492af9ee010c4edda97555eb2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4e/b8/71/4eb8716253e7a39121adaeb8bd843efd9a439126b7944d475b2aaf134de126d7.jpg",
+      "image_path": "images/cards/1179/XY92-8420.webp",
+      "image_sha256": "1012d90bc97fc2302eb1b2348fc12d6d8c416d834575edd7ebb9964f3037cecf",
+      "image_bytes": 155320,
+      "source_url": "https://www.tcgcollector.com/cards/8420/sableye-xy-promos-xy92",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 92
+    },
+    {
+      "id": 8421,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Celebi",
+      "number": "XY93",
+      "number_value": 93,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/28/26/e7/2826e77178e80570c1a471a846ac2440217462a13a8743026c67df7d2febb639.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a7/45/0d/a7450de80536dc2863ec493a3ed1e834061072fac7de3d3eb4bfecbecb76d6e8.jpg",
+      "image_path": "images/cards/1179/XY93-8421.webp",
+      "image_sha256": "79841afd1acc075bec549ce639c9fbf3cbfda11cbf36975f1059fc83968333d1",
+      "image_bytes": 205105,
+      "source_url": "https://www.tcgcollector.com/cards/8421/celebi-xy-promos-xy93",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 93
+    },
+    {
+      "id": 8548,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Trevenant",
+      "number": "XY94",
+      "number_value": 94,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/52/0c/83/520c8329514d9fabe3c22be83ff41615045f73b8d7a8175984f8f8fbf3c00c99.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b1/00/78/b10078cbd0456046ace63cbea7d1cff54182e69a6916e2891dac38a4ff74f77b.jpg",
+      "image_path": "images/cards/1179/XY94-8548.webp",
+      "image_sha256": "37333f96024ed033a5ebe712e5f3b0f48e2516105a97af75a59625d60da5e9c6",
+      "image_bytes": 203456,
+      "source_url": "https://www.tcgcollector.com/cards/8548/trevenant-xy-promos-xy94",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 94
+    },
+    {
+      "id": 8549,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Pikachu",
+      "number": "XY95",
+      "number_value": 95,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/23/fc/5d/23fc5d2fb52f4ef36f023d4574fb73c8591d2985a8ee266b87a8f1af505d602f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2f/d9/9e/2fd99e0bb06ae6cf8fb4e7de3b0dba2e61c662d8f83a09f2c0980c751cce050f.jpg",
+      "image_path": "images/cards/1179/XY95-8549.webp",
+      "image_sha256": "6fe4c40a5e027684fd249c716e6c23ab544852ae92994b70d731417e52202581",
+      "image_bytes": 208090,
+      "source_url": "https://www.tcgcollector.com/cards/8549/pikachu-xy-promos-xy95",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 95
+    },
+    {
+      "id": 8550,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Umbreon",
+      "number": "XY96",
+      "number_value": 96,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/cb/b7/de/cbb7de75e9e6de0a67393a8d1b7af2bf0a626f27d9f94279195ee23fa5e2772c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b5/a2/49/b5a249aec2136e452b408ffcb6609d5eaacd1509a4e7279fcea1d5cbf528ec21.jpg",
+      "image_path": "images/cards/1179/XY96-8550.webp",
+      "image_sha256": "3766abe167801c350ac45ee9fba1544f9fbf9fee1466a2c948b7f5afbe2acbd3",
+      "image_bytes": 166086,
+      "source_url": "https://www.tcgcollector.com/cards/8550/umbreon-xy-promos-xy96",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 96
+    },
+    {
+      "id": 8551,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Aerodactyl-EX",
+      "number": "XY97",
+      "number_value": 97,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/a7/07/9f/a7079f524b246ed4b2ad4c5264926c4fe00c5f45ef8d38c9fea32a47a15878e0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/13/ff/64/13ff6473d48c5f70d35567ae762f4259aab4655229022d47ccfc1b841b258560.jpg",
+      "image_path": "images/cards/1179/XY97-8551.webp",
+      "image_sha256": "d267a4839a77658c5ebf964cb392e075cd0950076e199dd0ebcc63deb4362dea",
+      "image_bytes": 221269,
+      "source_url": "https://www.tcgcollector.com/cards/8551/aerodactyl-ex-xy-promos-xy97",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 97
+    },
+    {
+      "id": 8552,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "M Aerodactyl-EX",
+      "number": "XY98",
+      "number_value": 98,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/ed/e4/c9/ede4c9027900cec1acb2b9a197715edc2698f87517c97d22395daaed8c019d8f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dd/f1/1e/ddf11e9eddcdc03789c13d01e4a8f950cac874d2416582092bafa582487125a7.jpg",
+      "image_path": "images/cards/1179/XY98-8552.webp",
+      "image_sha256": "856b4b83f03d198e381a8eb06f875b2c4100cf2fe11407f7ca7d682cd7b86748",
+      "image_bytes": 239671,
+      "source_url": "https://www.tcgcollector.com/cards/8552/m-aerodactyl-ex-xy-promos-xy98",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 98
+    },
+    {
+      "id": 8553,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Aerodactyl Spirit Link",
+      "number": "XY99",
+      "number_value": 99,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/d3/a0/7c/d3a07c356fd160ea6761fa0ad1d1dbe2f4f242b1215a70a552b870a5e9fa4447.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f4/9a/94/f49a943c47aece043f39275de07ae04ad915f9f5472a7f74063e6e159517d8e5.jpg",
+      "image_path": "images/cards/1179/XY99-8553.webp",
+      "image_sha256": "e2d3e8c54fff36f80daff5aefc1ab9c49092a0a8e8e02dd6150406e531f19064",
+      "image_bytes": 191649,
+      "source_url": "https://www.tcgcollector.com/cards/8553/aerodactyl-spirit-link-xy-promos-xy99",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 99
+    },
+    {
+      "id": 8423,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Mewtwo",
+      "number": "XY100",
+      "number_value": 100,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/94/d6/eb/94d6ebdfee20e66d05ce20a6b4c6488523ee01688805d6f2127712671944449f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/56/d4/2e/56d42efc20bf8b47668f243625dec1ff18469a4e9dff915412ff0a7184669bcc.jpg",
+      "image_path": "images/cards/1179/XY100-8423.webp",
+      "image_sha256": "e22c61cfbd0348fddd501367406eff14c12be44a171c915bcfde857a5bfa9a68",
+      "image_bytes": 154194,
+      "source_url": "https://www.tcgcollector.com/cards/8423/mewtwo-xy-promos-xy100",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 100
+    },
+    {
+      "id": 8424,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Mewtwo",
+      "number": "XY101",
+      "number_value": 101,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/5e/e3/e4/5ee3e4e710e55d359e2367737d864f4e93a298720c614e7a59cc28c4b1b703a4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/45/c1/c1/45c1c1672b7b147371219a0328ca1d3028d942c344e4bd6df294ff4fc3dd0963.jpg",
+      "image_path": "images/cards/1179/XY101-8424.webp",
+      "image_sha256": "7921e8946388eb124061c1aeb2e524e619bd1e7e95f92d223f1494b7529cb745",
+      "image_bytes": 157437,
+      "source_url": "https://www.tcgcollector.com/cards/8424/mewtwo-xy-promos-xy101",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 101
+    },
+    {
+      "id": 8554,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Aurorus-EX",
+      "number": "XY102",
+      "number_value": 102,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/72/d3/e4/72d3e4fbd1b63d614beb001b18fece43a71db4939c560bbdcd294289bec43a8f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7c/d8/52/7cd852e8ded122d6b5e6a8d2d15d19344861b30efd5b5d3b1203707d12211688.jpg",
+      "image_path": "images/cards/1179/XY102-8554.webp",
+      "image_sha256": "bd8101f26faeddc9cad630c1ab7b520da2f176d9aa41db1fb2e4d1783bd0d6c8",
+      "image_bytes": 199450,
+      "source_url": "https://www.tcgcollector.com/cards/8554/aurorus-ex-xy-promos-xy102",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 102
+    },
+    {
+      "id": 9578,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Mawile-EX",
+      "number": "XY103",
+      "number_value": 103,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/f1/a4/ba/f1a4ba334a634603cf271eba99d9d6bfdb481412c40cd56b0cca2995e54c30cb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ed/16/cd/ed16cdacbb04e39f1f5750608579c4cad3996f6dfab5110529c25450b869b1ba.jpg",
+      "image_path": "images/cards/1179/XY103-9578.webp",
+      "image_sha256": "57ac819d9d2fa79fb4c77fa4a2ec25062ed6067f1f46aa6d7bb4d76212fdeec0",
+      "image_bytes": 173068,
+      "source_url": "https://www.tcgcollector.com/cards/9578/mawile-ex-xy-promos-xy103",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 103
+    },
+    {
+      "id": 9582,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "M Mawile-EX",
+      "number": "XY104",
+      "number_value": 104,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/ed/1b/ae/ed1bae3f635bdfe122db28baf31facfe96ae7e867dd716923e146472270d29ec.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/89/64/0c/89640cabf19d76e267179b1c570dda70772716fceba0e353d1dea8b2371f4e1e.jpg",
+      "image_path": "images/cards/1179/XY104-9582.webp",
+      "image_sha256": "2f4333a53b29950dcfc8f22c94746d8a3b030c4efa84512b0dca66bc9e2c6106",
+      "image_bytes": 223751,
+      "source_url": "https://www.tcgcollector.com/cards/9582/m-mawile-ex-xy-promos-xy104",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 104
+    },
+    {
+      "id": 9583,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Mawile Spirit Link",
+      "number": "XY105",
+      "number_value": 105,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/07/a5/f2/07a5f22a213e6ba07015ab6952f747e5b31d7c6503b4001593781c15c57273a0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/13/4c/7a/134c7a3a207885a036da348f5a7738879c246b0dd55b7cce9fc9c95bdea6de9d.jpg",
+      "image_path": "images/cards/1179/XY105-9583.webp",
+      "image_sha256": "f2075a0a5b2b82263fc6059a89d95df17b8c0ebfa23641b012b72135ed6c51e7",
+      "image_bytes": 184040,
+      "source_url": "https://www.tcgcollector.com/cards/9583/mawile-spirit-link-xy-promos-xy105",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 105
+    },
+    {
+      "id": 8555,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Gyarados-EX",
+      "number": "XY106",
+      "number_value": 106,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/be/96/1d/be961d673ae35fb03457fa36a0a468909aa637509376afe7db1abb0bfc4450e8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1a/ed/ba/1aedbab03be1e582e39fa41523075b3fb6027f23611b29650b8827df3914f968.jpg",
+      "image_path": "images/cards/1179/XY106-8555.webp",
+      "image_sha256": "377b1074e07d5d08e72433e7c54ed3edd0be5a3a712b099adba8d664e6bc51b2",
+      "image_bytes": 239854,
+      "source_url": "https://www.tcgcollector.com/cards/8555/gyarados-ex-xy-promos-xy106",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 106
+    },
+    {
+      "id": 8556,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Mewtwo-EX",
+      "number": "XY107",
+      "number_value": 107,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/e5/06/9f/e5069f7e73e5bb360f85f1cf276d2a78312b0145d3f1c55c0056e729924b71f0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/88/47/17/884717bb86b1795ed3bf2a0e9dca46db383376e3d216e559555cbd3331c2aff5.jpg",
+      "image_path": "images/cards/1179/XY107-8556.webp",
+      "image_sha256": "9b89a0993923a6122ef901394d538646d56dd493b184b5f2716c921db1e3f7d0",
+      "image_bytes": 206925,
+      "source_url": "https://www.tcgcollector.com/cards/8556/mewtwo-ex-xy-promos-xy107",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 107
+    },
+    {
+      "id": 8557,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Machamp-EX",
+      "number": "XY108",
+      "number_value": 108,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/46/5d/b4/465db44c826288fdf94016785862f230e4b2e0c8d34133c424c4b47766f9235a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d4/91/12/d49112e7bcb4511d34df8c94027b45902f30b3052914bbb4aff545820449d7ee.jpg",
+      "image_path": "images/cards/1179/XY108-8557.webp",
+      "image_sha256": "255546c34724c253f899ecf29884d282b7df95e7bfc57954876a1ebc5a7d6b50",
+      "image_bytes": 216182,
+      "source_url": "https://www.tcgcollector.com/cards/8557/machamp-ex-xy-promos-xy108",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 108
+    },
+    {
+      "id": 8558,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Gyarados",
+      "number": "XY109",
+      "number_value": 109,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/17/05/02/170502fc683c989264d3bca6641539ab08aa84515d5e5d8d8a05ad5bc00f1d7a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/56/8c/e7/568ce7a26c6b5d696c12baa4413328d9e4402642d9b738ee1758fa2d56b5cb46.jpg",
+      "image_path": "images/cards/1179/XY109-8558.webp",
+      "image_sha256": "0fc47ada7b129e910ab8261dfc2ef94d62769be330dc8371c2c9de8fe463fe52",
+      "image_bytes": 204901,
+      "source_url": "https://www.tcgcollector.com/cards/8558/gyarados-xy-promos-xy109",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 109
+    },
+    {
+      "id": 8559,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Mew",
+      "number": "XY110",
+      "number_value": 110,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/19/cd/09/19cd09ad2d9cea2266df3261018a9bb0d73c04afb76e927d87af8c1fedf4be9b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/44/22/30/4422304edb1336ab155d92f16601b7ef84c7a13d2d116a13333f22ce731b0db1.jpg",
+      "image_path": "images/cards/1179/XY110-8559.webp",
+      "image_sha256": "f6925453025243fcccb337d4024e1d764f6d023823a5545f0257bca8f16f6ef6",
+      "image_bytes": 149414,
+      "source_url": "https://www.tcgcollector.com/cards/8559/mew-xy-promos-xy110",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 110
+    },
+    {
+      "id": 8560,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Celebi",
+      "number": "XY111",
+      "number_value": 111,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/e9/f7/fb/e9f7fb6206ec95512166cb1b3f40532cb0c405feeded186857860c5e5ce9584c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2a/da/69/2ada692222c444cd5bf27d74df8c8e0ef868af499ae2e3c2a0d4ea029a1fd417.jpg",
+      "image_path": "images/cards/1179/XY111-8560.webp",
+      "image_sha256": "b77dda4747f3b308ec0798c2bf1160a084c65a67ead39773cffae0dbe1c4cae7",
+      "image_bytes": 179128,
+      "source_url": "https://www.tcgcollector.com/cards/8560/celebi-xy-promos-xy111",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 111
+    },
+    {
+      "id": 8561,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Jirachi",
+      "number": "XY112",
+      "number_value": 112,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/40/2e/4e/402e4e672f84480db513f746140686ba643a3dfc8d6324356cdbe7993ff7b9f8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/af/05/a9/af05a9dcea0e63845dec9909f7386fe251009da23cb3880a6d9424a0497273b7.jpg",
+      "image_path": "images/cards/1179/XY112-8561.webp",
+      "image_sha256": "ddc4970a6147dd924e969185dbfb5543657c94037cd9d1a2fcabefa2fc510e40",
+      "image_bytes": 173862,
+      "source_url": "https://www.tcgcollector.com/cards/8561/jirachi-xy-promos-xy112",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 112
+    },
+    {
+      "id": 9584,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Manaphy",
+      "number": "XY113",
+      "number_value": 113,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/44/31/af/4431afba84942d7f3638042240ab0e3a479842bc2493934cc452b2cdebb69754.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/88/88/79/888879cf0cf09b7de2bb31735c0e1954cc184fa91e89641592dc25c6dc517703.jpg",
+      "image_path": "images/cards/1179/XY113-9584.webp",
+      "image_sha256": "ce792dd2715cc53413cbf9a31faa0191fd3f3a0aa156896311ac63f4e0854e55",
+      "image_bytes": 209971,
+      "source_url": "https://www.tcgcollector.com/cards/9584/manaphy-xy-promos-xy113",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 113
+    },
+    {
+      "id": 9604,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Darkrai",
+      "number": "XY114",
+      "number_value": 114,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/60/97/89/609789285ebbf7372f65b8b470ed5e35a0ef315d6a6e08c116b5b630dfa9f2da.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/69/14/a7/6914a7234a884aa6e17f6dda5b263e5360598bcd6321fdb19409ced5847643f5.jpg",
+      "image_path": "images/cards/1179/XY114-9604.webp",
+      "image_sha256": "f5102a6730e0198d144eb4a59cabdecc7a54892b00f8ca1dbbb95256c5c1b6cb",
+      "image_bytes": 176735,
+      "source_url": "https://www.tcgcollector.com/cards/9604/darkrai-xy-promos-xy114",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 114
+    },
+    {
+      "id": 9579,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Shaymin",
+      "number": "XY115",
+      "number_value": 115,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/02/48/14/024814cf640bdeedadf7a82485c60dfdb856d2c6b26a1d3d429c0a582c771b05.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a9/f8/07/a9f8074fc95ff2dad81b67da360c9e4a5ce02bbf021c3edcdb4f9f7dc3d4cf3f.jpg",
+      "image_path": "images/cards/1179/XY115-9579.webp",
+      "image_sha256": "ae20f1cccf5126c88ab3cbe7229af4ce5e7cd0860dd2f7097e302b3db958c890",
+      "image_bytes": 180237,
+      "source_url": "https://www.tcgcollector.com/cards/9579/shaymin-xy-promos-xy115",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 115
+    },
+    {
+      "id": 9605,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Arceus",
+      "number": "XY116",
+      "number_value": 116,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/b0/8d/c6/b08dc61f5713ddae445e925a7ae786dcca6eb195ac1cd7e40e0dd54c3c273187.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ba/06/9c/ba069c504b29bbd8f294055d0a6eee190b4e153a45bb336f13fe94e9ff9a076c.jpg",
+      "image_path": "images/cards/1179/XY116-9605.webp",
+      "image_sha256": "831f218580b1796389b6b854110e8d5bd079e52e0454a89e63346976948cafb9",
+      "image_bytes": 180339,
+      "source_url": "https://www.tcgcollector.com/cards/9605/arceus-xy-promos-xy116",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 116
+    },
+    {
+      "id": 9606,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Victini",
+      "number": "XY117",
+      "number_value": 117,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/f9/a9/74/f9a97495173a3ddc5ad416588cc08a1a69cfa1d5f50e248be84d27f08d09cd1b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/80/c6/61/80c661b712142acb7f8d4712ef6efb5048f965c5e8d1e3fff07332a3e060c574.jpg",
+      "image_path": "images/cards/1179/XY117-9606.webp",
+      "image_sha256": "8a171d7dd4945ec819d94c98d8a49956ea3341e01bbaf25520142e6a3cf473a1",
+      "image_bytes": 147884,
+      "source_url": "https://www.tcgcollector.com/cards/9606/victini-xy-promos-xy117",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 117
+    },
+    {
+      "id": 9581,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Keldeo",
+      "number": "XY118",
+      "number_value": 118,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/bd/29/ab/bd29ab3d6c81169d7c7946beb9246e6123bc8a270e604371198db36f5be82b9f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c5/ed/25/c5ed259af6aa2a7597a9afd7bca4d960ec2284bf0babeef13943fdbd45b87f99.jpg",
+      "image_path": "images/cards/1179/XY118-9581.webp",
+      "image_sha256": "30d4bc6a257fd29895a560b9c43d3f63aed8b79411ea06618e7ba91c23981767",
+      "image_bytes": 196904,
+      "source_url": "https://www.tcgcollector.com/cards/9581/keldeo-xy-promos-xy118",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 118
+    },
+    {
+      "id": 9598,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Genesect",
+      "number": "XY119",
+      "number_value": 119,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/40/48/cb/4048cb9d6a431e7b05a3be7c7c04d7f1d1a87ab8f00d4c5c175b21b9984b3084.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/55/cd/ca/55cdcaf1ec9e486865987fced1721da8bc53b711f7a51839671bafb7e96743da.jpg",
+      "image_path": "images/cards/1179/XY119-9598.webp",
+      "image_sha256": "bf94509949fa44dc30a09b325cea3e481382428eab1067ffdefa3f6bec686554",
+      "image_bytes": 189195,
+      "source_url": "https://www.tcgcollector.com/cards/9598/genesect-xy-promos-xy119",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 119
+    },
+    {
+      "id": 9597,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Meloetta",
+      "number": "XY120",
+      "number_value": 120,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/d2/bb/7a/d2bb7a5bbd36d328ef306d43d54a22152a24f6694f16e789d8ba14f1dde70a97.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ec/56/d4/ec56d421d9d11eec0d0431cadefc40c4e792f06dcf5a992c40fbd5f9e611ace4.jpg",
+      "image_path": "images/cards/1179/XY120-9597.webp",
+      "image_sha256": "fa830d7bf13d1b226938e716ff4a49aa2833d8bdc8ed9982c220dc46b756489c",
+      "image_bytes": 198348,
+      "source_url": "https://www.tcgcollector.com/cards/9597/meloetta-xy-promos-xy120",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 120
+    },
+    {
+      "id": 8562,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Charizard-EX",
+      "number": "XY121",
+      "number_value": 121,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/36/9a/e8/369ae87bddc877234e22a141e523fbd5a6c202c22fc54894ecd0b48a5ecb3857.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bb/e1/63/bbe1637810a78767f7cd047eb6616e03d72b8b40bbc18ebd0c626006b947059e.jpg",
+      "image_path": "images/cards/1179/XY121-8562.webp",
+      "image_sha256": "4f7ce09855b78d43830ba5147c8bc24e848a6636f9126d7205745b88baf0693f",
+      "image_bytes": 171471,
+      "source_url": "https://www.tcgcollector.com/cards/8562/charizard-ex-xy-promos-xy121",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 121
+    },
+    {
+      "id": 9580,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Blastoise-EX",
+      "number": "XY122",
+      "number_value": 122,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/a3/36/a0/a336a0cbda4f708435f8bb9f4428872a8fe63814bf8f73790baf1db9d55a862b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f0/fb/97/f0fb976291ceb4fb7338766bd76da7d549e6dbfe176164a093207126a83e7fe1.jpg",
+      "image_path": "images/cards/1179/XY122-9580.webp",
+      "image_sha256": "4e3d5019222ceb58487f5a916a42abda58ebb216c0fab6a9283e8d030e2b4712",
+      "image_bytes": 203852,
+      "source_url": "https://www.tcgcollector.com/cards/9580/blastoise-ex-xy-promos-xy122",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 122
+    },
+    {
+      "id": 9601,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Venusaur-EX",
+      "number": "XY123",
+      "number_value": 123,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/22/2c/96/222c96de8c2c2cc96b7bb1bafceb97473fc00e0e85e63415577428722b0b3ac3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a8/f4/e2/a8f4e2f3deb74a5856ae6b5c596db3832ed84b04738666a6acf822993dba9916.jpg",
+      "image_path": "images/cards/1179/XY123-9601.webp",
+      "image_sha256": "6b926d4da07331b26a607419ea7e7d3911b8707e3f2f9bd98a162be470454289",
+      "image_bytes": 235680,
+      "source_url": "https://www.tcgcollector.com/cards/9601/venusaur-ex-xy-promos-xy123",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 123
+    },
+    {
+      "id": 9607,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Pikachu-EX",
+      "number": "XY124",
+      "number_value": 124,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/f7/16/20/f716209cc4cd959ddd6a9c3f0a04ecaf533b598ddc0627134b27867e29044ef4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ec/10/6e/ec106e0b70434d608d188d86ab617fc6238dfc118da1c6bd688df16c45f9b3d4.jpg",
+      "image_path": "images/cards/1179/XY124-9607.webp",
+      "image_sha256": "07ed5f2e76e9aff95e89a5482208267bc4753562a94c01a9f534d1994f173f63",
+      "image_bytes": 206682,
+      "source_url": "https://www.tcgcollector.com/cards/9607/pikachu-ex-xy-promos-xy124",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 124
+    },
+    {
+      "id": 9596,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Mewtwo-EX",
+      "number": "XY125",
+      "number_value": 125,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/1a/da/58/1ada582d9831d7d3e1e18a93b1e71771a114d1e29573db98943985678b409070.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/32/ad/c1/32adc1532f7be991f03846eca5f4a071dc2eff59e08a22c2dbf4c33676d3c385.jpg",
+      "image_path": "images/cards/1179/XY125-9596.webp",
+      "image_sha256": "0998123073353f932236f4efe01384c32dd0daee0feb30337e418de2f66e5714",
+      "image_bytes": 210775,
+      "source_url": "https://www.tcgcollector.com/cards/9596/mewtwo-ex-xy-promos-xy125",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 125
+    },
+    {
+      "id": 9599,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Mew-EX",
+      "number": "XY126",
+      "number_value": 126,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/15/89/99/158999b83e271ed71ca6a17364915df117d069df21d90365287d514a595e2b35.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/84/78/91/847891cbfaed38e6d49c62ad370989a8cae97ec12b7b4805ed7c641a0d3bdb95.jpg",
+      "image_path": "images/cards/1179/XY126-9599.webp",
+      "image_sha256": "ba44a88e91c0702c88b00ebb244894dd09aff08e0d9d9db94dfe76cd87d3a86d",
+      "image_bytes": 188940,
+      "source_url": "https://www.tcgcollector.com/cards/9599/mew-ex-xy-promos-xy126",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 126
+    },
+    {
+      "id": 9600,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Moltres",
+      "number": "XY127",
+      "number_value": 127,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/87/64/a3/8764a394b0fe04f06cd090284e6cdfdadb2d03a45db40470ac31a07a3d5fe1c8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/07/95/b5/0795b57e014a92bdc1badbc5d5ab9292b42b0649a548651155ce0416e5a9f7e1.jpg",
+      "image_path": "images/cards/1179/XY127-9600.webp",
+      "image_sha256": "8f76622f71cd405fb3a9a2f9b6b4430ae0316709f788d960164de646602e6bba",
+      "image_bytes": 167516,
+      "source_url": "https://www.tcgcollector.com/cards/9600/moltres-xy-promos-xy127",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 127
+    },
+    {
+      "id": 9608,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "White Kyurem",
+      "number": "XY128",
+      "number_value": 128,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/d2/bc/54/d2bc544b98b4b887a826121a10835e2ca57288536fb1573b2ba7571c7b54c73b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/09/e8/3e/09e83ee425f9ddf6a1ccd0e223423ea7011fee5e135eb65ec6cbe4319632d41d.jpg",
+      "image_path": "images/cards/1179/XY128-9608.webp",
+      "image_sha256": "837b36a53f35ade269a48ab0617a849afc178ed1e1d77d1f8dd12ae84802bd2b",
+      "image_bytes": 193765,
+      "source_url": "https://www.tcgcollector.com/cards/9608/white-kyurem-xy-promos-xy128",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 128
+    },
+    {
+      "id": 9609,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Zygarde",
+      "number": "XY129",
+      "number_value": 129,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/5c/da/39/5cda39c597d75a6f4f36a5250e9ebab1b813feef8ce08978fb256bb299c8710a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5a/45/21/5a4521c937833399713a75ec3731d6206b43774ac565c398a1965245402a4c96.jpg",
+      "image_path": "images/cards/1179/XY129-9609.webp",
+      "image_sha256": "1d6a5c0f298c1be7915cd7ec2248742a692e2b89e45541898749dfa47191f0a5",
+      "image_bytes": 199635,
+      "source_url": "https://www.tcgcollector.com/cards/9609/zygarde-xy-promos-xy129",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 129
+    },
+    {
+      "id": 9610,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Tyranitar",
+      "number": "XY130",
+      "number_value": 130,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/79/a9/15/79a915220321847b4ba3caa82b6e3bf18424eb81a83c5fc3590c53eef662bb18.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3f/1f/c2/3f1fc27178c2e83e70d3ccbf62496e11572f90edffb42ff1e892d1f1cdf95400.jpg",
+      "image_path": "images/cards/1179/XY130-9610.webp",
+      "image_sha256": "4f4e4e415e8aa0d1c1f2db78e2152f8162ca22988a0239f6d7bb2a1f2c2e522c",
+      "image_bytes": 173766,
+      "source_url": "https://www.tcgcollector.com/cards/9610/tyranitar-xy-promos-xy130",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 130
+    },
+    {
+      "id": 9611,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Pansear",
+      "number": "XY131",
+      "number_value": 131,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/55/ca/8f/55ca8f28cb44a29669a44572db9c93a6d21e99d38b6c769bf9aacf39d1794285.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/74/0a/84/740a84cb118bf2f54ad74a812869527225f71112b74c0d6f4bd5e959ae14c3ee.jpg",
+      "image_path": "images/cards/1179/XY131-9611.webp",
+      "image_sha256": "44060eeaef72d4c523798f14634cda8003d4b80044abd542241fad4d16a04206",
+      "image_bytes": 137240,
+      "source_url": "https://www.tcgcollector.com/cards/9611/pansear-xy-promos-xy131",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 131
+    },
+    {
+      "id": 9613,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Gastly",
+      "number": "XY132",
+      "number_value": 132,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/19/2d/0e/192d0ef8c5552c4243ed94a1ca54a46f9e95edbd262f011a38689efd00a2ce5e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fc/24/a7/fc24a7ff0cb95f5d51de7fd2bd8bdf8270559e22f04773384698b500ef005e54.jpg",
+      "image_path": "images/cards/1179/XY132-9613.webp",
+      "image_sha256": "08efe6d4586e64be68ebd8091c1e4dda73284e5e3de55e30e322e1b08a32316c",
+      "image_bytes": 146423,
+      "source_url": "https://www.tcgcollector.com/cards/9613/gastly-xy-promos-xy132",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 132
+    },
+    {
+      "id": 9602,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Ash-Greninja-EX",
+      "number": "XY133",
+      "number_value": 133,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/38/76/fe/3876fe0d11cc160560ce09f8e8cbad9b4691e6a7ad8960aaeac827cf0dfadaa2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2f/1f/8c/2f1f8c1127ab14f7e00a554c7cd889c14d34fe7aefcabf3f9f7f283ed222682e.jpg",
+      "image_path": "images/cards/1179/XY133-9602.webp",
+      "image_sha256": "0e33e7e6c0d88e6434c5b15a7f4b3ec7c6f59f6fca3043d766bbf088776cdf84",
+      "image_bytes": 239034,
+      "source_url": "https://www.tcgcollector.com/cards/9602/ash-greninja-ex-xy-promos-xy133",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 133
+    },
+    {
+      "id": 8563,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Empoleon BREAK",
+      "number": "XY134",
+      "number_value": 134,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/2c/56/05/2c560509ff18a3d8e1cb8d7cd84a9dbcea8a41dfd7e2d756c621ef2c2bd48a32.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/75/73/3e/75733ea2a089aac5ae01d6b644303246ffce5a008401dd79e79d3eb32f866940.jpg",
+      "image_path": "images/cards/1179/XY134-8563.webp",
+      "image_sha256": "6a7958c050dd404221dd32d60e0117e8dc0ba8359d9ad1ef85cc87eea1691a2a",
+      "image_bytes": 197143,
+      "source_url": "https://www.tcgcollector.com/cards/8563/empoleon-break-xy-promos-xy134",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 134
+    },
+    {
+      "id": 8564,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Beheeyem BREAK",
+      "number": "XY135",
+      "number_value": 135,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/b5/67/6a/b5676af93cc39ebb5517e55b898f0de2e4efd331b451dc6f0f84c6ad38411cef.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/32/ed/b9/32edb9eeeb343776058c45050d5dcf4463a1daec806054d64eebea51d2f557b9.jpg",
+      "image_path": "images/cards/1179/XY135-8564.webp",
+      "image_sha256": "80890fa87fecb330538e8dc82d4fb57004cccbfe87ebe06cc1465992d2c7efb0",
+      "image_bytes": 192474,
+      "source_url": "https://www.tcgcollector.com/cards/8564/beheeyem-break-xy-promos-xy135",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 135
+    },
+    {
+      "id": 8565,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Noctowl BREAK",
+      "number": "XY136",
+      "number_value": 136,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/0b/df/8c/0bdf8c0e643024d97a9b5c3ee73b36f87294e30297edc5269921f3edc5408003.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7c/57/57/7c57577bd5fd35a82163443b2c1108592201c8de25895dcb643aa52a5b2333c5.jpg",
+      "image_path": "images/cards/1179/XY136-8565.webp",
+      "image_sha256": "11d69bc125e9c23af59c133239101cc8860661a45c765f848b0e00929031834c",
+      "image_bytes": 206953,
+      "source_url": "https://www.tcgcollector.com/cards/8565/noctowl-break-xy-promos-xy136",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 136
+    },
+    {
+      "id": 9614,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Vivillon",
+      "number": "XY137",
+      "number_value": 137,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/26/97/80/269780b0f041e39f4331cca835cad6b77f150922b6db4ba471b8694a6ab9ad53.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/01/05/98/010598c6512d1cbd0ef5c25b84f52b84a81c9fed7e68a9f89eb603c5f0a74283.jpg",
+      "image_path": "images/cards/1179/XY137-9614.webp",
+      "image_sha256": "8fa1e1b81de2e54a5d0db601d61b5bec705ea4137540188bfd443735a3e88f91",
+      "image_bytes": 189919,
+      "source_url": "https://www.tcgcollector.com/cards/9614/vivillon-xy-promos-xy137",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 137
+    },
+    {
+      "id": 9615,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Froakie",
+      "number": "XY138",
+      "number_value": 138,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/9c/a0/10/9ca010beec57fd4bc737dfe020527045b523068d8df42860ac3ebf391e143251.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4c/c4/4d/4cc44dbefb809d1e25998ddee445593b67a7fbad1745207a5d2c3b34c77dc1ba.jpg",
+      "image_path": "images/cards/1179/XY138-9615.webp",
+      "image_sha256": "d296f8ce520bd82a7f88c934caa0c05119d2b03f856a91c3ece2e3970d98c4cb",
+      "image_bytes": 170250,
+      "source_url": "https://www.tcgcollector.com/cards/9615/froakie-xy-promos-xy138",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 138
+    },
+    {
+      "id": 9617,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Floette",
+      "number": "XY139",
+      "number_value": 139,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/d2/05/e0/d205e08666f52b22e1eb2bf8d6630bb88312371f7dbfbce13c4dc190f23dd1b8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/10/07/6f/10076fe97f0828f9029599c646734aa9b6ad57112040cad60b40230c55738e26.jpg",
+      "image_path": "images/cards/1179/XY139-9617.webp",
+      "image_sha256": "807ce7a4eef263ca0c2afb97b99e3102919c5ec5ded2d876d29cf7fba07c80be",
+      "image_bytes": 184856,
+      "source_url": "https://www.tcgcollector.com/cards/9617/floette-xy-promos-xy139",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 139
+    },
+    {
+      "id": 9618,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Lucario",
+      "number": "XY140",
+      "number_value": 140,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/e6/67/e1/e667e1cd768fd01c2ce799622b39ab35f242ce97df3b31fe1262e4b67d0ea770.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/63/8c/61/638c614524c2d7ffd5e29df27ed2f82fd2ac7e43a5955989ba5c75e55904fa28.jpg",
+      "image_path": "images/cards/1179/XY140-9618.webp",
+      "image_sha256": "f9ac40445b6fa90e0aad75314857392452f066a404f4f065e568fba2907b7ce8",
+      "image_bytes": 214827,
+      "source_url": "https://www.tcgcollector.com/cards/9618/lucario-xy-promos-xy140",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 140
+    },
+    {
+      "id": 9619,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Rayquaza",
+      "number": "XY141",
+      "number_value": 141,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/71/1a/2f/711a2f92b0eb2abc916854a8224403c376c7f0dd8878d6f2767d14b9cd7dacab.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/40/47/ea/4047ea48635e78fe02f3db208ecb5e52dd647187cef1b9c085849e7823d04668.jpg",
+      "image_path": "images/cards/1179/XY141-9619.webp",
+      "image_sha256": "7bdc7f6ac62cecdb274578d3944bc412219d1ee9b25987ab4ec47ea5f9b688a0",
+      "image_bytes": 197505,
+      "source_url": "https://www.tcgcollector.com/cards/9619/rayquaza-xy-promos-xy141",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 141
+    },
+    {
+      "id": 9620,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Azelf",
+      "number": "XY142",
+      "number_value": 142,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/d0/1a/21/d01a2180909d4dce11edebf3936a199c3b2638991c10a5e5bf327a61d1648b39.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/db/bd/8b/dbbd8bca6ad200ddc81dbb9e86aa49430b44af0884cfe1766e60d0ea29cba014.jpg",
+      "image_path": "images/cards/1179/XY142-9620.webp",
+      "image_sha256": "f46318665d66c6ca0017372146a74df1e109bd62ca4b42ad3d37222f62b23ee1",
+      "image_bytes": 175228,
+      "source_url": "https://www.tcgcollector.com/cards/9620/azelf-xy-promos-xy142",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 142
+    },
+    {
+      "id": 8566,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Magikarp",
+      "number": "XY143",
+      "number_value": 143,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/c3/bf/99/c3bf994276b76e3f85b8b4706b739d6b8b3c6de58284e15150fa618a989e9a59.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9c/e5/fe/9ce5fe8313e3b7a897cfce1e774d4ee95b7e03ab3c5d533717c45ed4c759c22c.jpg",
+      "image_path": "images/cards/1179/XY143-8566.webp",
+      "image_sha256": "f30b5b6d9006c263ed66c62b0a72c0e3692b4c86842237181578f465913c6c55",
+      "image_bytes": 170130,
+      "source_url": "https://www.tcgcollector.com/cards/8566/magikarp-xy-promos-xy143",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 143
+    },
+    {
+      "id": 9616,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Yanmega",
+      "number": "XY144",
+      "number_value": 144,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/71/64/b1/7164b1da1fe0ebfc1b7621d3b68c35330bd9e79a34cda155c908c5cae56524b2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/af/ce/8b/afce8b1faadd90993c3303957f71de9bddec24e799aed0f2657246b5d265f831.jpg",
+      "image_path": "images/cards/1179/XY144-9616.webp",
+      "image_sha256": "f65f63209954a17bd6d548d939581db46f1acde5bf9623a2b4a343a30c4ce97f",
+      "image_bytes": 183597,
+      "source_url": "https://www.tcgcollector.com/cards/9616/yanmega-xy-promos-xy144",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 144
+    },
+    {
+      "id": 9621,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Volcanion",
+      "number": "XY145",
+      "number_value": 145,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/2b/d5/c0/2bd5c0d30a998b515e873c28fe3c2e6bd7beaddaf83539ad273748f19f456c7b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/91/22/c2/9122c2f3ee9d03fbc687dbd014eeb32a3d3cc312e7300f347932a12643f167ba.jpg",
+      "image_path": "images/cards/1179/XY145-9621.webp",
+      "image_sha256": "7d6b738c4c6d6927590187bb07976022a01ae4d3f70c176c6b8fb8e053aa05fd",
+      "image_bytes": 176826,
+      "source_url": "https://www.tcgcollector.com/cards/9621/volcanion-xy-promos-xy145",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 145
+    },
+    {
+      "id": 9622,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Clawitzer",
+      "number": "XY146",
+      "number_value": 146,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/87/5d/5c/875d5c19eec17795a65688db6bebe87f9251daf599bd2319565387e8b0c81ea1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/11/9f/5b/119f5baa97a9fcb9a1b9d7237855f4a3f4e117848486e5a441e0163df32df647.jpg",
+      "image_path": "images/cards/1179/XY146-9622.webp",
+      "image_sha256": "e9cdd37b0408da097a988b86447aaee50e0bb7b51de3468715ee2d2de4c910ea",
+      "image_bytes": 173167,
+      "source_url": "https://www.tcgcollector.com/cards/9622/clawitzer-xy-promos-xy146",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 146
+    },
+    {
+      "id": 9623,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Hoopa",
+      "number": "XY147",
+      "number_value": 147,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/e6/76/bd/e676bdb8bcbacf064555e85b3bad55f429e4a406a2d8b102d01c617b39e0bc5a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/14/52/fe/1452fe831cc098c654b3ce93f0497d2a0d11a18c572dd1cdece29d337785fff6.jpg",
+      "image_path": "images/cards/1179/XY147-9623.webp",
+      "image_sha256": "afeb3aa5dc473de24f0c77fb9b3c63fd2b3b0ef2667aa3ef0b0a18b359f6081b",
+      "image_bytes": 182955,
+      "source_url": "https://www.tcgcollector.com/cards/9623/hoopa-xy-promos-xy147",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 147
+    },
+    {
+      "id": 9624,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Shaymin-EX",
+      "number": "XY148",
+      "number_value": 148,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/83/92/fd/8392fdfd7c31102039334d92c0d0ebd6ee29a9741360e5a865bddbec32cbfb42.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9a/2d/4e/9a2d4e4c94e17a7f373368458187ee230fd51d2820531bf161dea03c4695d915.jpg",
+      "image_path": "images/cards/1179/XY148-9624.webp",
+      "image_sha256": "b615faac6a7c3f3d36457d9729d7a5a3881b0c484d929a153dea17073c1c60ee",
+      "image_bytes": 211646,
+      "source_url": "https://www.tcgcollector.com/cards/9624/shaymin-ex-xy-promos-xy148",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 148
+    },
+    {
+      "id": 9625,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Xerneas-EX",
+      "number": "XY149",
+      "number_value": 149,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/b6/c0/e9/b6c0e9a5e976996f32fe66dd1c7fbc59b31400bb2674ef1384f186006776c4d6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/40/b4/79/40b479ac3cdbb6c2aceb577158aa7387cf3ba30393cc9d0c42842d95ae908d0c.jpg",
+      "image_path": "images/cards/1179/XY149-9625.webp",
+      "image_sha256": "c2f552183b426f464aef77fcb7df1377c23f02cc2fe5980e33c7312f000ce8f3",
+      "image_bytes": 204371,
+      "source_url": "https://www.tcgcollector.com/cards/9625/xerneas-ex-xy-promos-xy149",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 149
+    },
+    {
+      "id": 9626,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Yveltal-EX",
+      "number": "XY150",
+      "number_value": 150,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/1c/be/39/1cbe397c378c3992702f3bafb18faf4b4f37ec3c82ba842a301dde5a85e591a5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ce/a1/53/cea1532252ea54c00a5e11423c5a888817154e2f937c5829fd1fcda64aa86e47.jpg",
+      "image_path": "images/cards/1179/XY150-9626.webp",
+      "image_sha256": "b454ccfda7ad796c008c21a359a3190b24ed096134986c84c751f27c82804530",
+      "image_bytes": 211829,
+      "source_url": "https://www.tcgcollector.com/cards/9626/yveltal-ex-xy-promos-xy150",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 150
+    },
+    {
+      "id": 9627,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Zygarde-EX",
+      "number": "XY151",
+      "number_value": 151,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/e9/46/67/e9466741a79b396b4c8d563ce6a79a89aa310990914f3c37b950c4250a99b2ca.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b9/e8/da/b9e8dab06d70026e6092b79b0da4dc5ae7538b2937614706cd80b16f95ece54a.jpg",
+      "image_path": "images/cards/1179/XY151-9627.webp",
+      "image_sha256": "0a8b71c23b8bac6755837e4afd8658c7686f7abf06288d16674f4690ec01a66d",
+      "image_bytes": 243979,
+      "source_url": "https://www.tcgcollector.com/cards/9627/zygarde-ex-xy-promos-xy151",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 151
+    },
+    {
+      "id": 9628,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Zygarde",
+      "number": "XY152",
+      "number_value": 152,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/aa/ba/ff/aabaff61ec395b2c78e6112dd1d2bf19c376166f56c99e48a9e71783000a8910.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/58/c3/37/58c3374906fbd27c946dbc468a254ea596ccd7cffea03b29c838c4c9b6d1c782.jpg",
+      "image_path": "images/cards/1179/XY152-9628.webp",
+      "image_sha256": "955c1d298bb524a62f452212fb6984e5b88853c8cb1b208018ad280ab8cf2d85",
+      "image_bytes": 196565,
+      "source_url": "https://www.tcgcollector.com/cards/9628/zygarde-xy-promos-xy152",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 152
+    },
+    {
+      "id": 9629,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Ho-Oh",
+      "number": "XY153",
+      "number_value": 153,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/45/41/89/454189b9ed7e9c6a93117fc20ae7a82e4e45dd7a2d8569639280a6ac81c92763.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/94/6c/6f/946c6f07cc8f15e7e325a1360da72fc34cc0b7d11b07ad4cc60ada745b22e41a.jpg",
+      "image_path": "images/cards/1179/XY153-9629.webp",
+      "image_sha256": "3282e672345abaab75c2286a1f4c401d6394ece5f1a226041339f77ce4034d44",
+      "image_bytes": 165985,
+      "source_url": "https://www.tcgcollector.com/cards/9629/ho-oh-xy-promos-xy153",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 153
+    },
+    {
+      "id": 9630,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Ho-Oh BREAK",
+      "number": "XY154",
+      "number_value": 154,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/32/00/e3/3200e3431ece09815c8d5c5c8bfeebacbf4cb94d266b74c94525660e3101c9de.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/34/76/40/3476409651d8abfb70cf151ad6a28fd16838e2250241856a5c9be7420ad8a23f.jpg",
+      "image_path": "images/cards/1179/XY154-9630.webp",
+      "image_sha256": "faf27eb4d2ede1d16541e28b69f7fdec446f754f5e99f574448a149f4b919a0b",
+      "image_bytes": 201318,
+      "source_url": "https://www.tcgcollector.com/cards/9630/ho-oh-break-xy-promos-xy154",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 154
+    },
+    {
+      "id": 9631,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Wobbuffet BREAK",
+      "number": "XY155",
+      "number_value": 155,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/3c/77/a6/3c77a614f78d78fe887ec0e51e479e2a37856a3c6ce16fd4aecb042f31912132.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/11/8c/12/118c12ccbcfb6829e425b934d84227d41c5857bbbde1e8547172e40f285d80f5.jpg",
+      "image_path": "images/cards/1179/XY155-9631.webp",
+      "image_sha256": "23bfa9f717944fa0346ce792163b18c63826c7b38ba391c5a7820ad09af8f603",
+      "image_bytes": 188012,
+      "source_url": "https://www.tcgcollector.com/cards/9631/wobbuffet-break-xy-promos-xy155",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 155
+    },
+    {
+      "id": 9632,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Lugia",
+      "number": "XY156",
+      "number_value": 156,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/e0/96/a8/e096a89ece6f52a5619e1f2a7947506c19b612c6209c7e67dad351926ea82a55.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e0/5d/12/e05d125f4a95d336b91d34dd4addcf3543864cf0ddf7910e88b11946ec567fcc.jpg",
+      "image_path": "images/cards/1179/XY156-9632.webp",
+      "image_sha256": "8207e59bec992d0e4d08f6ba959fd3aefcae1ab87dc7db7dc9d9d7a19eb18943",
+      "image_bytes": 173215,
+      "source_url": "https://www.tcgcollector.com/cards/9632/lugia-xy-promos-xy156",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 156
+    },
+    {
+      "id": 9633,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Beedrill-EX",
+      "number": "XY157",
+      "number_value": 157,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/29/2e/79/292e79220be93983287bbc528628d0281ed7a1e2b7974627ce6f28ac76fca230.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f3/d2/f0/f3d2f0fa8142cf1316a5828e56ccca54af99fe56c7ae0378b38ffbddd233be9c.jpg",
+      "image_path": "images/cards/1179/XY157-9633.webp",
+      "image_sha256": "33a09f3b728d270bd53999b9756a3a43247b558f275aa9502814555879a88025",
+      "image_bytes": 194520,
+      "source_url": "https://www.tcgcollector.com/cards/9633/beedrill-ex-xy-promos-xy157",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 157
+    },
+    {
+      "id": 9634,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "M Beedrill-EX",
+      "number": "XY158",
+      "number_value": 158,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/6d/b3/f4/6db3f4dba2ccc3c5207d06efacb1f1f845141ff750a4c225f46a07ac54c155bd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c3/50/d5/c350d5098b7d97bb070cbd8bb892dac6e2c2f1fcb52d744f2812e8c23e9f030e.jpg",
+      "image_path": "images/cards/1179/XY158-9634.webp",
+      "image_sha256": "c83dc47e5007d5f5b52f2f779733412963ad95dd8ce902afe30cb112cfc59244",
+      "image_bytes": 260368,
+      "source_url": "https://www.tcgcollector.com/cards/9634/m-beedrill-ex-xy-promos-xy158",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 158
+    },
+    {
+      "id": 9635,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Beedrill Spirit Link",
+      "number": "XY159",
+      "number_value": 159,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/55/6f/5f/556f5fcbc8fe04336220dc4e01b7f58234f44aea1be3abb4f1eb4e3e304a8959.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/14/75/84/147584c432f4e04de97aba2232f4945ab649b42058d692d5c379591a568f4856.jpg",
+      "image_path": "images/cards/1179/XY159-9635.webp",
+      "image_sha256": "a1c270c130c00dbad427a609cad1e502b5132a62be509a4815c21390ee345276",
+      "image_bytes": 185050,
+      "source_url": "https://www.tcgcollector.com/cards/9635/beedrill-spirit-link-xy-promos-xy159",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 159
+    },
+    {
+      "id": 9636,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Black Kyurem",
+      "number": "XY160",
+      "number_value": 160,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/26/7d/db/267ddbcd8b66a9571a65b043ff53939cd316c4805593088027f8fcca02eae425.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6c/c5/0e/6cc50ea9d3e312dd294ff6221ea21991a58adb85a14a6273420135c4cda5e831.jpg",
+      "image_path": "images/cards/1179/XY160-9636.webp",
+      "image_sha256": "a4d3e57c3193a3185ecc127153e850bdcde636e122573ed0dacdacaa67ac9e97",
+      "image_bytes": 184553,
+      "source_url": "https://www.tcgcollector.com/cards/9636/black-kyurem-xy-promos-xy160",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 160
+    },
+    {
+      "id": 9637,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Braixen",
+      "number": "XY161",
+      "number_value": 161,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/46/2b/e2/462be203c009bb9363dab2c1270738e0e03ce174851d6ef7800cb6d6be1c236d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ea/4a/e1/ea4ae17ff4681b1510e5052bd3ffab789771a39eb34b930af480a528d67ddd46.jpg",
+      "image_path": "images/cards/1179/XY161-9637.webp",
+      "image_sha256": "0cf2bbb8bdae1cc9f9a42f9dbbf206f34628827603928857388b1ac75bc463d7",
+      "image_bytes": 155566,
+      "source_url": "https://www.tcgcollector.com/cards/9637/braixen-xy-promos-xy161",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 161
+    },
+    {
+      "id": 9638,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Greninja",
+      "number": "XY162",
+      "number_value": 162,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/80/ca/85/80ca858a7712e8e4c9f6c8e60b2551adf9d92815d0cbc6652ee5e113da20d8cf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/92/1c/b4/921cb4ae13c4b7111b8a3e9f7ec3a67ffb81925813455fc74cc876d0c69a999d.jpg",
+      "image_path": "images/cards/1179/XY162-9638.webp",
+      "image_sha256": "f47ab34782bec92ef4d0d504774353e31821f91521c7591acf8aa917ef78c975",
+      "image_bytes": 216541,
+      "source_url": "https://www.tcgcollector.com/cards/9638/greninja-xy-promos-xy162",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 162
+    },
+    {
+      "id": 9640,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Weezing",
+      "number": "XY163",
+      "number_value": 163,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/8c/78/19/8c78190decaba259c78ba9d3f2c276dcd6a6e638f3a194b1c761b30aef9ac200.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d1/16/0d/d1160dfd41b44ac68b39b3abacf7eb3277080dca67cd3c45552657705dac9268.jpg",
+      "image_path": "images/cards/1179/XY163-9640.webp",
+      "image_sha256": "5d8f9d702705a6f54cdc183fc61b04d108840bc04afbf452f638a12fa3729c9b",
+      "image_bytes": 159519,
+      "source_url": "https://www.tcgcollector.com/cards/9640/weezing-xy-promos-xy163",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 163
+    },
+    {
+      "id": 9576,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Volcanion",
+      "number": "XY164",
+      "number_value": 164,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/19/a9/a2/19a9a257f9b7ab8fd0ab0028af88c55cb39354ce02db3928bf8f1cee98c89590.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/42/3f/6e/423f6e5d930f507d406562bb60371ceb99d7d66bcb0a78909f61e525716d02da.jpg",
+      "image_path": "images/cards/1179/XY164-9576.webp",
+      "image_sha256": "d8a098abc5a33a4d46693d036efd5004565d5f0c5159500ecb329a8bde5373ff",
+      "image_bytes": 168540,
+      "source_url": "https://www.tcgcollector.com/cards/9576/volcanion-xy-promos-xy164",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 164
+    },
+    {
+      "id": 9641,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Magearna",
+      "number": "XY165",
+      "number_value": 165,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/d4/74/ef/d474ef855149f7e47a5ef67fd0271de5d866dbd37055478e1f5b9a1e1ad6cb52.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d9/60/40/d9604042f54f76535198fe6cf2f8a6ea50d22d7fb1f706f0b0c9b886542decc1.jpg",
+      "image_path": "images/cards/1179/XY165-9641.webp",
+      "image_sha256": "0b1460458acc72c09afb1c924d1995a2a21f7498a0b374916d03bd554851d130",
+      "image_bytes": 237147,
+      "source_url": "https://www.tcgcollector.com/cards/9641/magearna-xy-promos-xy165",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 165
+    },
+    {
+      "id": 9642,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "M Gengar-EX",
+      "number": "XY166",
+      "number_value": 166,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/b3/59/a7/b359a7de40718f7fa5a1e7b0b2f228667349a2abddbec8e55352632c34dc8e0e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/76/67/54/7667544e77004e9d12950ab94623fb34663fc556ee067d88fa16769f771dafe6.jpg",
+      "image_path": "images/cards/1179/XY166-9642.webp",
+      "image_sha256": "f981e71245120b199ac6d835485c7fa3ad88ffd2e95ad1e0b88f12d71cabc2b5",
+      "image_bytes": 205870,
+      "source_url": "https://www.tcgcollector.com/cards/9642/m-gengar-ex-xy-promos-xy166",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 166
+    },
+    {
+      "id": 9643,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Garchomp-EX",
+      "number": "XY167",
+      "number_value": 167,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/d2/cc/3d/d2cc3da8c5bdec9b7dd7be460beabb77bc289b3f2c03e755b8131d4e94f935b7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9f/d4/7a/9fd47a34775d4f3fa18da950b437859238beb0818d518ea78d34f94b15734124.jpg",
+      "image_path": "images/cards/1179/XY167-9643.webp",
+      "image_sha256": "eefe5c041f5dc1668067e30d65ac2ade0bb199268a4b00de28db611fb103d468",
+      "image_bytes": 194739,
+      "source_url": "https://www.tcgcollector.com/cards/9643/garchomp-ex-xy-promos-xy167",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 167
+    },
+    {
+      "id": 9644,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "M Garchomp-EX",
+      "number": "XY168",
+      "number_value": 168,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/0e/ec/39/0eec39fd0752435f0a2108b2642b3e0381c744a486a6c9b32b1c2a0ab5968487.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/97/85/39/978539529450ee2001623cd383340b7228f746c144e20a61802155430ab89206.jpg",
+      "image_path": "images/cards/1179/XY168-9644.webp",
+      "image_sha256": "f3085a8f8ac0d2d06219eedc6ded38e0e43c7e66980f4f5a0e26d1578a8856fd",
+      "image_bytes": 239061,
+      "source_url": "https://www.tcgcollector.com/cards/9644/m-garchomp-ex-xy-promos-xy168",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 168
+    },
+    {
+      "id": 9645,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Garchomp Spirit Link",
+      "number": "XY169",
+      "number_value": 169,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/da/f8/50/daf85072ba63bde6f8f4844a0d2b83b12e186c2adb4d83e27afc715848724f7d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/be/97/31/be973168a53fe48d0c7e1cd983ae2d64fde2866b47c9a0b4b4f185953b1840a5.jpg",
+      "image_path": "images/cards/1179/XY169-9645.webp",
+      "image_sha256": "41c371f986fd52b4918619f5c7542655d9ecd75142c8c10e7e90aa9c56035134",
+      "image_bytes": 185441,
+      "source_url": "https://www.tcgcollector.com/cards/9645/garchomp-spirit-link-xy-promos-xy169",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 169
+    },
+    {
+      "id": 9646,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Salamence-EX",
+      "number": "XY170",
+      "number_value": 170,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/1e/e0/7b/1ee07b1cc168ee293fa9703da47bda81ae212da1cd15914e61b38a454679a53c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/32/a8/8b/32a88bedabe8736ee2ba31ed414357f96c1266c3a85c51f251b1e8efeb264a00.jpg",
+      "image_path": "images/cards/1179/XY170-9646.webp",
+      "image_sha256": "5ee47fff22d54256898ac5bdaeb1fffc0824844c392276ec1c15cb2ee173c91d",
+      "image_bytes": 209706,
+      "source_url": "https://www.tcgcollector.com/cards/9646/salamence-ex-xy-promos-xy170",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 170
+    },
+    {
+      "id": 9647,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "M Salamence-EX",
+      "number": "XY171",
+      "number_value": 171,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/a7/5d/f8/a75df87964e5e3b3084bc425861db0b34dd016d2119f8db2b0a25bdc59c6d8be.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/75/11/70/751170b020ad30fa2a1d2f6fb6e3a5ce63b41b1bde375b979eb825656656df71.jpg",
+      "image_path": "images/cards/1179/XY171-9647.webp",
+      "image_sha256": "4b23f2644291547b94d2edfccd935ae839ea4f94b32203c7bc23eb29b4dc5db0",
+      "image_bytes": 260248,
+      "source_url": "https://www.tcgcollector.com/cards/9647/m-salamence-ex-xy-promos-xy171",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 171
+    },
+    {
+      "id": 9648,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Salamence Spirit Link",
+      "number": "XY172",
+      "number_value": 172,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/24/84/6c/24846cd32d5e6ed80a6a252a85e6faba39abefe2e3ca11e6f5da2c206a1dfe0c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/22/88/fb/2288fb124474b4a0b2fc47cf7a59ee0357feea5b00fedd69195bcb487601cbad.jpg",
+      "image_path": "images/cards/1179/XY172-9648.webp",
+      "image_sha256": "7cdc764ab7d7fe178345377a400d47fc8a857ea10f27d536b24d579fa6c4135b",
+      "image_bytes": 176427,
+      "source_url": "https://www.tcgcollector.com/cards/9648/salamence-spirit-link-xy-promos-xy172",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 172
+    },
+    {
+      "id": 9649,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Volcanion-EX",
+      "number": "XY173",
+      "number_value": 173,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/a8/7c/e8/a87ce872f0a127dd414649565c96d093b89f170931d49f1508fae48e6a9c0095.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9b/0e/0c/9b0e0c81c2ba89b8cd8214ab86702350470cedad243c7cb474573dc3d4af12bd.jpg",
+      "image_path": "images/cards/1179/XY173-9649.webp",
+      "image_sha256": "d76dd38cacb06afc7617674ab447c18593c785ccd1174b30dec1d77291ddad68",
+      "image_bytes": 225271,
+      "source_url": "https://www.tcgcollector.com/cards/9649/volcanion-ex-xy-promos-xy173",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 173
+    },
+    {
+      "id": 9650,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Pikachu-EX",
+      "number": "XY174",
+      "number_value": 174,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/30/39/63/30396325de1456d080d09b5096087e18e4fc7efe33c99ed3b8a0fd36e204e388.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/28/7b/3f/287b3f135855ccc11f4fecb7b1e00f43f0a55f6bd57d4cc9e9260bd1b1d2afea.jpg",
+      "image_path": "images/cards/1179/XY174-9650.webp",
+      "image_sha256": "cb0df273751b804f698cf2fa760afd47010750f6b85299a021f7001f145e7099",
+      "image_bytes": 185172,
+      "source_url": "https://www.tcgcollector.com/cards/9650/pikachu-ex-xy-promos-xy174",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 174
+    },
+    {
+      "id": 9651,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Magearna-EX",
+      "number": "XY175",
+      "number_value": 175,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/15/31/e1/1531e13db2cdc69d2cbf03316079546e33c1ccc0ffef5fcc21e11d9d42977761.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1f/62/69/1f62690a1fa27298d2577aa2fd209d6fc61a80304c1158bdf14ccc4cdffe28d8.jpg",
+      "image_path": "images/cards/1179/XY175-9651.webp",
+      "image_sha256": "ffcda09cb644770c7c45e2c78a50486cfead71377150f08320d5fd930dec88e0",
+      "image_bytes": 259083,
+      "source_url": "https://www.tcgcollector.com/cards/9651/magearna-ex-xy-promos-xy175",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 175
+    },
+    {
+      "id": 9652,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Champions Festival",
+      "number": "XY176",
+      "number_value": 176,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/64/ef/82/64ef82165d05be315516d28ae3e46b11850904c4acbe1c07d3fff1a2049247f8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7b/74/f0/7b74f0013ddb7dcc9e39906cd388f65535c0f1dc26e5267494a12a5b78f94a03.jpg",
+      "image_path": "images/cards/1179/XY176-9652.webp",
+      "image_sha256": "0b30bc073326bedb315aa989fc5f4a46b5a49c535c638c7ea53fd4cb764e8089",
+      "image_bytes": 194932,
+      "source_url": "https://www.tcgcollector.com/cards/9652/champions-festival-xy-promos-xy176",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 176
+    },
+    {
+      "id": 9653,
+      "set_id": 1179,
+      "set_ids": [
+        1179,
+        1275
+      ],
+      "name": "Karen",
+      "number": "XY177",
+      "number_value": 177,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/75/1b/4a/751b4a34317fa5882b1eb242af1878178223055ff0f779b605c3a4b39d6e8abd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f8/cb/53/f8cb5312a8f4375e8e2c073aa113f431d2808de1182aa66f8afa761586875805.jpg",
+      "image_path": "images/cards/1179/XY177-9653.webp",
+      "image_sha256": "b4aa4853df956bbafb234afbcd01fbe95afab06e9ef56fae5791f8364e60497a",
+      "image_bytes": 165662,
+      "source_url": "https://www.tcgcollector.com/cards/9653/karen-xy-promos-xy177",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 177
+    },
+    {
+      "id": 9654,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Absol",
+      "number": "XY178",
+      "number_value": 178,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/aa/7b/e0/aa7be003fd013c41dd892ee588eaf7f3dcefb51ca38897d7189e4fcc527efe8b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a5/51/4d/a5514d8135986fb3b96251cfd87acd6e3aa20624de1678845d717f6563aa3457.jpg",
+      "image_path": "images/cards/1179/XY178-9654.webp",
+      "image_sha256": "e33c283fe708f55b56b86d0b8770ab5ede1f59b8698cd2b6cd2a02de9c0e1df1",
+      "image_bytes": 200634,
+      "source_url": "https://www.tcgcollector.com/cards/9654/absol-xy-promos-xy178",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 178
+    },
+    {
+      "id": 9655,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Snorlax",
+      "number": "XY179",
+      "number_value": 179,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/c6/2b/5c/c62b5c6ff15c5cb61e56189316e8e580905973eceb1384701a5f19d12a829db1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/36/cb/c3/36cbc3243b12544ca7fb2ebcccec97cbc3c869b0b1564a5fa40f03e5970cb03f.jpg",
+      "image_path": "images/cards/1179/XY179-9655.webp",
+      "image_sha256": "3ebf0bc57c58ad14b5c9ffc8b17f0988aa87eb75ac9e18f8f9e245644913ebfb",
+      "image_bytes": 188030,
+      "source_url": "https://www.tcgcollector.com/cards/9655/snorlax-xy-promos-xy179",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 179
+    },
+    {
+      "id": 9656,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Arcanine BREAK",
+      "number": "XY180",
+      "number_value": 180,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/a7/f4/b7/a7f4b7e306df882a02d8432e11e49ddd1ed664fb8c8e0a8cbdb8d2afefeec53d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c3/b8/15/c3b8151ab5d8fc9a7d847a0ca0a4a64fb18f6fc028efa1ede0312561627a81a0.jpg",
+      "image_path": "images/cards/1179/XY180-9656.webp",
+      "image_sha256": "02e0fa35209765c7ab82115c98d0fde083a5c0a8d5a77874f731de0b7cee6957",
+      "image_bytes": 201376,
+      "source_url": "https://www.tcgcollector.com/cards/9656/arcanine-break-xy-promos-xy180",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 180
+    },
+    {
+      "id": 9657,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Crobat BREAK",
+      "number": "XY181",
+      "number_value": 181,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/4d/b4/0c/4db40ca31fefde6faf36a7596f15f4ca49abcbe7d2115161ff8fab4256ed371d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c9/50/94/c95094632e3fabab54a096232cae3489d81cf27cc5b224a58594d8a324de9dfb.jpg",
+      "image_path": "images/cards/1179/XY181-9657.webp",
+      "image_sha256": "3f560fbc88bf9920899147a99af1dcf6ab015d475d71a7b7dac4373647a08d1d",
+      "image_bytes": 178016,
+      "source_url": "https://www.tcgcollector.com/cards/9657/crobat-break-xy-promos-xy181",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 181
+    },
+    {
+      "id": 9658,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Mandibuzz BREAK",
+      "number": "XY182",
+      "number_value": 182,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/3f/3a/6e/3f3a6e70546396fe1f762c4a312db50658ac64ba73e50be81aec34faba99d36b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/84/9e/51/849e5137fcca75d93db6fea28b4abf1e0d39c798924479b8015bf767ea253364.jpg",
+      "image_path": "images/cards/1179/XY182-9658.webp",
+      "image_sha256": "962f1abf7f4d4da408f73aa06d7b4ad93f87cd17dcec6396911826b1140c770e",
+      "image_bytes": 216675,
+      "source_url": "https://www.tcgcollector.com/cards/9658/mandibuzz-break-xy-promos-xy182",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 182
+    },
+    {
+      "id": 9659,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Mewtwo-EX",
+      "number": "XY183",
+      "number_value": 183,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/e4/fe/b0/e4feb088784eec3fe7013d61cc88e83f14ade197032066e51e4d6772609610f3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9b/8d/24/9b8d24a342dfb47b3fb6c668546b81725acf33cedc7feb794020a0ce5ce210ac.jpg",
+      "image_path": "images/cards/1179/XY183-9659.webp",
+      "image_sha256": "710469c727dc51d6e17532097d57f1c94294edb57e962c2e139441406da612a4",
+      "image_bytes": 193169,
+      "source_url": "https://www.tcgcollector.com/cards/9659/mewtwo-ex-xy-promos-xy183",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 183
+    },
+    {
+      "id": 9660,
+      "set_id": 1179,
+      "set_ids": [
+        1179,
+        1275
+      ],
+      "name": "Giratina",
+      "number": "XY184",
+      "number_value": 184,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/ef/e1/48/efe148ce97c5c7a7edb1ae97a1def1f3e7a8c330922941f78f5600af39d5eb20.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4e/65/5d/4e655d6b843a08095a6c6884cdf29a0d37ad23f5126e5d3505689bd75cef0e90.jpg",
+      "image_path": "images/cards/1179/XY184-9660.webp",
+      "image_sha256": "8e84fa27a04e5a0248109a65b007cb07cd000e1f00844e308beaf92b243988c3",
+      "image_bytes": 156853,
+      "source_url": "https://www.tcgcollector.com/cards/9660/giratina-xy-promos-xy184",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 184
+    },
+    {
+      "id": 9661,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Volcanion",
+      "number": "XY185",
+      "number_value": 185,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/4e/50/c0/4e50c0b496bd262883a4afc278ab27bbd6ab1ceca5777872d547d989724ced27.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/eb/db/cd/ebdbcd3938ac1aa369683287e945cee8fbba5138c95076e2250075fd0c4cd7a1.jpg",
+      "image_path": "images/cards/1179/XY185-9661.webp",
+      "image_sha256": "3bb7f91ac386a4028e57b24e81356b2100e6de814210da15c7a8fd645ff29594",
+      "image_bytes": 203063,
+      "source_url": "https://www.tcgcollector.com/cards/9661/volcanion-xy-promos-xy185",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 185
+    },
+    {
+      "id": 9662,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Magearna",
+      "number": "XY186",
+      "number_value": 186,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/ed/71/b5/ed71b5a8093d28636db80051adb603c0e143c199c4e2894290901f3e62e4e3c5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/df/ea/ac/dfeaacde5b79157e87d7ccec8df384a98f456c2450f4eca57f40f6773adf3503.jpg",
+      "image_path": "images/cards/1179/XY186-9662.webp",
+      "image_sha256": "62f90df38da6823357ce93356ba342f0fd66c726b4da053b052931416149170c",
+      "image_bytes": 191262,
+      "source_url": "https://www.tcgcollector.com/cards/9662/magearna-xy-promos-xy186",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 186
+    },
+    {
+      "id": 9663,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Celebi",
+      "number": "XY187",
+      "number_value": 187,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/59/2e/2c/592e2c2a957d96ecb64dade9e7ecab621a465f967e1dea141527bad8384a86cb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/07/af/3f/07af3f8b39a9ca0899f26b298e65606321b24133931c7ecc7e5c04a472d109f5.jpg",
+      "image_path": "images/cards/1179/XY187-9663.webp",
+      "image_sha256": "29c82c1213e539a2a3d4e87dd1f7f36e53d28dd729d3db3d47dfd058e749f2ba",
+      "image_bytes": 198119,
+      "source_url": "https://www.tcgcollector.com/cards/9663/celebi-xy-promos-xy187",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 187
+    },
+    {
+      "id": 9664,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Shaymin",
+      "number": "XY188",
+      "number_value": 188,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/47/97/94/479794c064f139bb5035f90ebb6565eedc032fcb74bfc3c19f524fe0203089a5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/71/7e/cb/717ecbbf9d7f0af1ece11c4ebed5e3bb40305319ac62c802d4c3c5a921638abf.jpg",
+      "image_path": "images/cards/1179/XY188-9664.webp",
+      "image_sha256": "3aea899acaaf871aba182b08676d9a0b3710da444da5ad4fddfff3ebe0f1bf26",
+      "image_bytes": 167192,
+      "source_url": "https://www.tcgcollector.com/cards/9664/shaymin-xy-promos-xy188",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 188
+    },
+    {
+      "id": 9665,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Victini",
+      "number": "XY189",
+      "number_value": 189,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/a6/f6/15/a6f615e3c7cf18a9c9c3e48825c4d8ba5f66542f769b70822f97d778b29d4274.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0e/e7/6a/0ee76a5f754b8e03ae5cc1a07a02c5bf605909e992342f4cae8bd8aa735851fd.jpg",
+      "image_path": "images/cards/1179/XY189-9665.webp",
+      "image_sha256": "a6dbb9d4918f44b04b20e955b90fcc3455acf7e17ec37bba827c0414394b3f08",
+      "image_bytes": 149610,
+      "source_url": "https://www.tcgcollector.com/cards/9665/victini-xy-promos-xy189",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 189
+    },
+    {
+      "id": 9666,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Manaphy",
+      "number": "XY190",
+      "number_value": 190,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/69/f2/c4/69f2c44cdd78140d7deb091012068e284030063342ae1c418e5fc4e70d1da9a0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fc/04/a9/fc04a991764c58fd4d72331b3c2a6b9bf1acd8e7e75664b568643c1601c4d21c.jpg",
+      "image_path": "images/cards/1179/XY190-9666.webp",
+      "image_sha256": "b65909164e01cfe60d2a8ea75797ba51e44bf331c3a2c39485156e164bde0c9a",
+      "image_bytes": 153586,
+      "source_url": "https://www.tcgcollector.com/cards/9666/manaphy-xy-promos-xy190",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 190
+    },
+    {
+      "id": 9667,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Keldeo",
+      "number": "XY191",
+      "number_value": 191,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/19/07/3a/19073a106af05ae9ddb13af103ee131702ebb3e419b8d34f0337cb45d66c4a38.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b2/8c/24/b28c242e82e2900c7d1eb6b1aa0c3cb5cf8a8333990c824910e3270511852cbe.jpg",
+      "image_path": "images/cards/1179/XY191-9667.webp",
+      "image_sha256": "5c2b89853921bbbcf3a6b257dedd701cdcf16699826b1fcc1b88963c04ecc77d",
+      "image_bytes": 169876,
+      "source_url": "https://www.tcgcollector.com/cards/9667/keldeo-xy-promos-xy191",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 191
+    },
+    {
+      "id": 9668,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Mew",
+      "number": "XY192",
+      "number_value": 192,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/e0/bb/25/e0bb25ac7bddba8119756966022926592bd8009b89272ab482874a6f32f5ae5f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/31/86/c0/3186c013317f82fc87b8195fb04f132bf7f444b915031b3ef651073ea5e160d3.jpg",
+      "image_path": "images/cards/1179/XY192-9668.webp",
+      "image_sha256": "cf902f6f72d49162a86b9fa1edc158423e64575279814642c0dffa6b44cbfa68",
+      "image_bytes": 151379,
+      "source_url": "https://www.tcgcollector.com/cards/9668/mew-xy-promos-xy192",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 192
+    },
+    {
+      "id": 9669,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Meloetta",
+      "number": "XY193",
+      "number_value": 193,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/2f/e5/aa/2fe5aa24e9e9ed4850a0c90ca4cccf78cee0ee86f9a023d004fdd7dd3a2ecf73.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3a/51/92/3a51924706824c4c4449f4c65fe2bd92a5798be7cbc3ef69f27b2c721207429c.jpg",
+      "image_path": "images/cards/1179/XY193-9669.webp",
+      "image_sha256": "13f5e2aac09ecf01bd4a157530981f1517584dc61a553d465da2d5453c5245b2",
+      "image_bytes": 155342,
+      "source_url": "https://www.tcgcollector.com/cards/9669/meloetta-xy-promos-xy193",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 193
+    },
+    {
+      "id": 9595,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Darkrai",
+      "number": "XY194",
+      "number_value": 194,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/16/23/59/1623596e51a99579ba5c6aba48b56a71a06f68ee0428298d6526200dd056e617.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/65/c3/a9/65c3a95684c73441216fb817c1bc6b0ddb309db5600f1882e0e9678eb965bba7.jpg",
+      "image_path": "images/cards/1179/XY194-9595.webp",
+      "image_sha256": "df3729fd2529a03a267cbb2893a904a9648f95f96c120ab2d15b368eb72d4dc7",
+      "image_bytes": 168319,
+      "source_url": "https://www.tcgcollector.com/cards/9595/darkrai-xy-promos-xy194",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 194
+    },
+    {
+      "id": 9670,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Jirachi",
+      "number": "XY195",
+      "number_value": 195,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/da/ac/eb/daaceb5ed602df6a989a11d34e245352c5577e857831ea405925dd44913b2256.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b3/ef/e8/b3efe860b6266f7d7fa510babe4c72d5a9c61deaf27868d4969975103c2ed974.jpg",
+      "image_path": "images/cards/1179/XY195-9670.webp",
+      "image_sha256": "c73a1b206b49ddb7646a67281c9688a5e12de49d3b5e072338debf9ceb614878",
+      "image_bytes": 240392,
+      "source_url": "https://www.tcgcollector.com/cards/9670/jirachi-xy-promos-xy195",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 195
+    },
+    {
+      "id": 9671,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Genesect",
+      "number": "XY196",
+      "number_value": 196,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/68/4b/6d/684b6d5ddfa4b49b5280ea37f6f84bf7918866f312ce6085e74dcd94c2105106.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/54/b8/5f/54b85fbe9625736ef2c168ebdb9e9d872e278d26fe47fdc1ab2c27cb23304fae.jpg",
+      "image_path": "images/cards/1179/XY196-9671.webp",
+      "image_sha256": "36c2e0f0b868a50d80e80d46e849713acfa6aeeb9d00f5ee4de28efbc3eb248e",
+      "image_bytes": 230556,
+      "source_url": "https://www.tcgcollector.com/cards/9671/genesect-xy-promos-xy196",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 196
+    },
+    {
+      "id": 9672,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Arceus",
+      "number": "XY197",
+      "number_value": 197,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/01/c8/e7/01c8e75a6628b6e6bf201353b0b1cebdde0f6e635a5008306e96995d4d033815.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/50/4d/c4/504dc480c18b012a09b17108b3643b283faa632617c78a82d3c4f4b1de8b2147.jpg",
+      "image_path": "images/cards/1179/XY197-9672.webp",
+      "image_sha256": "3cdef632da45c77a06e9260dd7df1e7237a7360ac50ddfc325aeb1e4765f2512",
+      "image_bytes": 171891,
+      "source_url": "https://www.tcgcollector.com/cards/9672/arceus-xy-promos-xy197",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 197
+    },
+    {
+      "id": 9673,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "M Camerupt-EX",
+      "number": "XY198",
+      "number_value": 198,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/92/a0/cf/92a0cf738aa82001b9161c0c8c3065c0a67e7cbe70a4a5b22bc47ba00941de38.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/44/9b/24/449b24155b2cab4c8ad0be3da77b8e89ef594df9748a3f8b0bae73d40102e6c0.jpg",
+      "image_path": "images/cards/1179/XY198-9673.webp",
+      "image_sha256": "eda293349caaa75ab5cd6cd40382fff4531013fd028f91e3b67c002431bc2673",
+      "image_bytes": 243273,
+      "source_url": "https://www.tcgcollector.com/cards/9673/m-camerupt-ex-xy-promos-xy198",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 198
+    },
+    {
+      "id": 9674,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Camerupt Spirit Link",
+      "number": "XY199",
+      "number_value": 199,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/d9/07/5d/d9075d8707ad6bf77e9e7352e5918333e74e63d4fd159e1b52abd23e19f7a020.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/13/7d/87/137d873c0207d1463eff5132fc0eed1d931bdbc814310c46d49cb8bb16065717.jpg",
+      "image_path": "images/cards/1179/XY199-9674.webp",
+      "image_sha256": "edb13173254bdbcb9db303cf7b25b73097fe670114a624540a3bc7b058a8ec57",
+      "image_bytes": 179808,
+      "source_url": "https://www.tcgcollector.com/cards/9674/camerupt-spirit-link-xy-promos-xy199",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 199
+    },
+    {
+      "id": 9675,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "M Sharpedo-EX",
+      "number": "XY200",
+      "number_value": 200,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/2c/41/c1/2c41c17ba73ca2c43c7e2ee6fb42647011fed0de6a2eec5e2584579d8fa20b49.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/de/89/c4/de89c4d761ae9ca0348876718e9d2800042a16dad9e03820ec1ce0b6f4fd5eda.jpg",
+      "image_path": "images/cards/1179/XY200-9675.webp",
+      "image_sha256": "7edfebcb2b1936f1c6b829706e47fd7decec71b863abb4957ed84f593b6071b2",
+      "image_bytes": 274209,
+      "source_url": "https://www.tcgcollector.com/cards/9675/m-sharpedo-ex-xy-promos-xy200",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 200
+    },
+    {
+      "id": 9676,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Sharpedo Spirit Link",
+      "number": "XY201",
+      "number_value": 201,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/99/8c/c6/998cc63c7b00e88606bdce15f900b427bbaae01c7325b74d5cc4ef5efad82de2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c7/00/05/c70005b592ad81cd76baabd8367311bff09224cf4f89892ca6129e4519f18259.jpg",
+      "image_path": "images/cards/1179/XY201-9676.webp",
+      "image_sha256": "7b48174c4d6cce17bcdb0accf2b7ca96ee54e0c0ce2a455c47b63d1823b0c0be",
+      "image_bytes": 192626,
+      "source_url": "https://www.tcgcollector.com/cards/9676/sharpedo-spirit-link-xy-promos-xy201",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 201
+    },
+    {
+      "id": 9677,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Pikachu",
+      "number": "XY202",
+      "number_value": 202,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/a3/3d/f5/a33df57b98de510a2804277716400e1763b2d9c65e17e167c9c77856d4fed22a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c2/b0/82/c2b082359b1623a179ed7741ec7cb73a96841fcee54efab27d510871cde9054e.jpg",
+      "image_path": "images/cards/1179/XY202-9677.webp",
+      "image_sha256": "fb65e02334618627587700a653a6a615ec798ec947ee709d6e1409e11daa2335",
+      "image_bytes": 167340,
+      "source_url": "https://www.tcgcollector.com/cards/9677/pikachu-xy-promos-xy202",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 202
+    },
+    {
+      "id": 9678,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Gym Badge",
+      "number": "XY203",
+      "number_value": 203,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/85/95/4d/85954d9e2c56f63e704e3640524e30945d9b1fa8add21152cc31fcbfc983de94.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/43/ce/d4/43ced4cbdb68937be30de46c7225aad758ac23912ba9632b9a90fa3d91b3f49e.jpg",
+      "image_path": "images/cards/1179/XY203-9678.webp",
+      "image_sha256": "1020e69c0f9186a4d9ecb02127e1856d9f1d1e1de9c68aed6869e669a178b95a",
+      "image_bytes": 122348,
+      "source_url": "https://www.tcgcollector.com/cards/9678/gym-badge-xy-promos-xy203",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 203
+    },
+    {
+      "id": 9639,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Gym Badge",
+      "number": "XY204",
+      "number_value": 204,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/b0/d1/9b/b0d19b2b0b68a79beaf9ea1bfc39c6a31da2ae2d2e9904f6351da829d7ac9a34.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/30/8e/bf/308ebfc8f74afbecd2721354be0b8250b405eee0eb13bc138645f3eb337de252.jpg",
+      "image_path": "images/cards/1179/XY204-9639.webp",
+      "image_sha256": "2a3d5a0acec8d5880a7062b7262dfcea61f9512f35e1427389f2a0c240562a21",
+      "image_bytes": 122450,
+      "source_url": "https://www.tcgcollector.com/cards/9639/gym-badge-xy-promos-xy204",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 204
+    },
+    {
+      "id": 9612,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Gym Badge",
+      "number": "XY205",
+      "number_value": 205,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/d1/fb/92/d1fb92c20039d26bc755209e7b65ad1df845fc85003fffa64ff6f94082eb5f0f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8f/f9/69/8ff9696960076f5dcb51e00b02908a3b0a02ef0f68142046effd4cd7711520f7.jpg",
+      "image_path": "images/cards/1179/XY205-9612.webp",
+      "image_sha256": "25207764bc923d48d2d58c3724066591f8c1b8f76f449232b50502ed521b9473",
+      "image_bytes": 130528,
+      "source_url": "https://www.tcgcollector.com/cards/9612/gym-badge-xy-promos-xy205",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 205
+    },
+    {
+      "id": 9603,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Gym Badge",
+      "number": "XY206",
+      "number_value": 206,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/52/c6/21/52c62197a38467e802bb62602078538ba33df0f709149fac62db7a8121ab7557.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/02/b7/16/02b71607da23540f78c960038ba18827bd0480e0dccb0427f87cb4f2374d40c0.jpg",
+      "image_path": "images/cards/1179/XY206-9603.webp",
+      "image_sha256": "af09537ec9ebb9e1f9239c7621d234bba7c3fc0614a1dc1d1efbf04473319f6c",
+      "image_bytes": 127096,
+      "source_url": "https://www.tcgcollector.com/cards/9603/gym-badge-xy-promos-xy206",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 206
+    },
+    {
+      "id": 9577,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Gym Badge",
+      "number": "XY207",
+      "number_value": 207,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/ee/c3/a6/eec3a60e1e6f74579969ac53a177b9fef67f7c64ee546dfc873b5b580285ea3e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/48/9a/31/489a31592810586732e86815ced23be82227a1ccfb0f1172d4acc9c0d9405c5c.jpg",
+      "image_path": "images/cards/1179/XY207-9577.webp",
+      "image_sha256": "653367b24b294b62550bffd98fcc91856176ea9a4996dc4066388f3df3f6004b",
+      "image_bytes": 122867,
+      "source_url": "https://www.tcgcollector.com/cards/9577/gym-badge-xy-promos-xy207",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 207
+    },
+    {
+      "id": 9575,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Gym Badge",
+      "number": "XY208",
+      "number_value": 208,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/09/86/1a/09861ac5b3f87ab1cfb0e095bd378b6967e97fb8e49ceb232f4b54ed8cce2846.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/70/d6/8e/70d68e1673f3905500de41c155742bda98c80b09bdf9d77532255c36565e536c.jpg",
+      "image_path": "images/cards/1179/XY208-9575.webp",
+      "image_sha256": "a7d53e609694e4eb28b1dea49ead77ea8075a557ca95731a892b9c6a87a860c2",
+      "image_bytes": 121995,
+      "source_url": "https://www.tcgcollector.com/cards/9575/gym-badge-xy-promos-xy208",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 208
+    },
+    {
+      "id": 9574,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Gym Badge",
+      "number": "XY209",
+      "number_value": 209,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/1c/60/a5/1c60a5bdca5d38e6e8e9d29fd6584aff22dcebfcd69ade4ad9e8be8940518412.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ce/6d/db/ce6ddb3be0bec3c8c79bc51db4543ee3d0781e07dedc4dbb514aa4653fd8d8b5.jpg",
+      "image_path": "images/cards/1179/XY209-9574.webp",
+      "image_sha256": "926918ee35d47425e53156ddc58061e23a8b094fba3772b749ddc080ae0dfd77",
+      "image_bytes": 127047,
+      "source_url": "https://www.tcgcollector.com/cards/9574/gym-badge-xy-promos-xy209",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 209
+    },
+    {
+      "id": 9573,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Gym Badge",
+      "number": "XY210",
+      "number_value": 210,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/97/45/89/974589e041c335427f55946a70ba4d5d0d10ce711d9d2523809a6003c2e5abfc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/22/e5/8b/22e58b8f83f91a9e8fbf3a787adcf51b2e63f998209140c7330f6d241125806a.jpg",
+      "image_path": "images/cards/1179/XY210-9573.webp",
+      "image_sha256": "b97c821576cf77fed2744b9be9665d23072a763d37bb50b5379d3c752e270325",
+      "image_bytes": 121965,
+      "source_url": "https://www.tcgcollector.com/cards/9573/gym-badge-xy-promos-xy210",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 210
+    },
+    {
+      "id": 9572,
+      "set_id": 1179,
+      "set_ids": [
+        1179
+      ],
+      "name": "Lucario Spirit Link",
+      "number": "XY211",
+      "number_value": 211,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_url": "https://static.tcgcollector.com/content/images/9b/41/a9/9b41a92b16c7c135b475ed5331053299bbc9df53be3edb53944630fd0d3ef056.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e2/e0/b6/e2e0b63fc2f7d0c1e51c58366b8e6def635914a525d95118159ee059722d331e.jpg",
+      "image_path": "images/cards/1179/XY211-9572.webp",
+      "image_sha256": "b2e3b916845ca6631ef1d1ef3998a77edf7f814e74011385f32e97ca2beca8ef",
+      "image_bytes": 186374,
+      "source_url": "https://www.tcgcollector.com/cards/9572/lucario-spirit-link-xy-promos-xy211",
+      "scraped_at": "2026-10-18T22:24:00Z",
+      "position": 211
+    }
+  ]
+}

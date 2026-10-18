@@ -1,0 +1,622 @@
+{
+  "set": {
+    "id": 11103,
+    "language": "en",
+    "name": "BW Trainer Kit (Excadrill)",
+    "code": "TK5E",
+    "series": "Trainer & Deck Kits",
+    "release_date": "2011-09-01",
+    "date_text": "Sep 01, 2011",
+    "card_count": 30,
+    "released": true,
+    "logo_url": null,
+    "symbol_url": "https://static.tcgcollector.com/content/images/9e/43/64/9e4364f7fd2b93541bec9d9f661a8fede753dbd93125fb1f5b790a09df1ee8e6.svg",
+    "logo_path": null,
+    "symbol_path": "images/sets/11103-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/11103/bw-trainer-kit-excadrill",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 30
+  },
+  "cards": [
+    {
+      "id": 7290,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Lillipup (BW Trainer Kit (Excadrill) 1/30)",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/cf/d6/2d/cfd62d6662dced1d56bcf7915ed87e22efca191da0bb164f13bff8b655a87021.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/32/9f/c8/329fc813246e25edeb3de53dfbaa3e4611009b5f393e07dedb42d757ec78324f.jpg",
+      "image_path": "images/cards/11103/1-7290.webp",
+      "image_sha256": "4b046edf6ad2207252dba2ed010548110f0c9931c74dc75a0ebed10e56fad028",
+      "image_bytes": 162363,
+      "source_url": "https://www.tcgcollector.com/cards/7290/lillipup-bw-trainer-kit-excadrill-1-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 1
+    },
+    {
+      "id": 7291,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Fighting Energy (BW Trainer Kit (Excadrill) 2/30)",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/6f/db/7c/6fdb7c8aa5a6db153481efbdf1349fd49b74278a1b36240f5f4f55b30b789db7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b1/43/bd/b143bdcce7a538f14f1feec3df4f0b405f8254a1208beade821ec0e3fef2ae53.jpg",
+      "image_path": "images/cards/11103/2-7291.webp",
+      "image_sha256": "2753614d0a2cc15901a36a19ffe9eaa4c3e4042d4b39022c900ba4e743d03512",
+      "image_bytes": 73760,
+      "source_url": "https://www.tcgcollector.com/cards/7291/fighting-energy-bw-trainer-kit-excadrill-2-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 2
+    },
+    {
+      "id": 7292,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Fighting Energy (BW Trainer Kit (Excadrill) 3/30)",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/75/25/bf/7525bfe8de0bde1685e905e2a284888f7282ad480faff7d23a3443b455f40751.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/79/b7/ca/79b7caa7610d7df8771548781328cdfa00a87e2931d8b31a10188688cf88970c.jpg",
+      "image_path": "images/cards/11103/3-7292.webp",
+      "image_sha256": "7ccf8be2ede1101f809e530dab0f8d3efb6ee048def3201bfa95d0bb80f6440b",
+      "image_bytes": 73743,
+      "source_url": "https://www.tcgcollector.com/cards/7292/fighting-energy-bw-trainer-kit-excadrill-3-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 3
+    },
+    {
+      "id": 7293,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Energy Switch (BW Trainer Kit (Excadrill) 4/30)",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/05/f8/50/05f8502654dae2310045d15d70d43bd52ac112b231eeec90f78fabca83e9c5a6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7f/78/c7/7f78c7eda5064af5ddf64c6a90d51466c64131d565c50a8d336590697ed86a76.jpg",
+      "image_path": "images/cards/11103/4-7293.webp",
+      "image_sha256": "11546629fa5dca7ee864ca973194c768c9f9ab5f88fe845f8bb2f9a9d2fe4e2b",
+      "image_bytes": 152329,
+      "source_url": "https://www.tcgcollector.com/cards/7293/energy-switch-bw-trainer-kit-excadrill-4-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 4
+    },
+    {
+      "id": 7294,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Fighting Energy (BW Trainer Kit (Excadrill) 5/30)",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/95/11/84/951184a4c5f9decb6ae6f5740f54d5d77cbd75ee211621eed42ac56fa6daf47a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ea/cd/3c/eacd3cfa327c927df29b90453ca0b2c65b41ba7ea180f3fc1adddb8db4d9dfc3.jpg",
+      "image_path": "images/cards/11103/5-7294.webp",
+      "image_sha256": "9fbdfb7c1410a1de05c46ae38cd9360b4761d13c30a03c1623256defc961fb5b",
+      "image_bytes": 73773,
+      "source_url": "https://www.tcgcollector.com/cards/7294/fighting-energy-bw-trainer-kit-excadrill-5-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 5
+    },
+    {
+      "id": 7295,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Fighting Energy (BW Trainer Kit (Excadrill) 6/30)",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/97/74/10/9774107b00534fd7c41b1e797f865ffe97e6fc3362ad1ac8d94f97ebf5243dde.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/25/56/85/255685f057088b72676cd0035ad55f4069d8b13ee99070b1b16f0a14e8e2aa79.jpg",
+      "image_path": "images/cards/11103/6-7295.webp",
+      "image_sha256": "9843113629f809c69620adadc58a50a59cde94d99f6f62f6e60b3c3b3caa3770",
+      "image_bytes": 73740,
+      "source_url": "https://www.tcgcollector.com/cards/7295/fighting-energy-bw-trainer-kit-excadrill-6-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 6
+    },
+    {
+      "id": 7296,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Fighting Energy (BW Trainer Kit (Excadrill) 7/30)",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/78/8a/13/788a1394e375b6a52087c86e4dc006af980f49fa439700acdb843b8ff636ff9c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f3/c4/0a/f3c40aa8701040883296b72fbf5655f398447574435a8522833409e0f83b8fd0.jpg",
+      "image_path": "images/cards/11103/7-7296.webp",
+      "image_sha256": "1b1e6bf430b9b2c4dae51c9dc270d561b79628cb0076c9fec2b05cbe0b5f8211",
+      "image_bytes": 73755,
+      "source_url": "https://www.tcgcollector.com/cards/7296/fighting-energy-bw-trainer-kit-excadrill-7-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 7
+    },
+    {
+      "id": 7297,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Fighting Energy (BW Trainer Kit (Excadrill) 8/30)",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/2e/16/b9/2e16b980f8b1c1f772fa5605fbccd9c7082217cd61292053cbf79e3b9c0b188e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9c/63/be/9c63be498184f6286d1ff232026f4624ffaac38578eecbbf5bc40cd452bef924.jpg",
+      "image_path": "images/cards/11103/8-7297.webp",
+      "image_sha256": "021da36ffb6238f506a82bdadfb98c1de934262d1cb7d07bd429493d04a9f6dd",
+      "image_bytes": 73748,
+      "source_url": "https://www.tcgcollector.com/cards/7297/fighting-energy-bw-trainer-kit-excadrill-8-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 8
+    },
+    {
+      "id": 7298,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Fighting Energy (BW Trainer Kit (Excadrill) 9/30)",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/46/d5/23/46d52390a0c392556dc4bf35f2e0fcfc0756e19f411029bb6ce6d07c337ab3b3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/89/95/46/89954648ea9dd0ed9ae2ca4e7f55b52b644018136476a6f5dd73d5a5639b41d2.jpg",
+      "image_path": "images/cards/11103/9-7298.webp",
+      "image_sha256": "34a2e2c338e85a3ee32d4ec212c56758a3d9d5a76d08cc2309f9e3e8e13621db",
+      "image_bytes": 73754,
+      "source_url": "https://www.tcgcollector.com/cards/7298/fighting-energy-bw-trainer-kit-excadrill-9-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 9
+    },
+    {
+      "id": 7299,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Fighting Energy (BW Trainer Kit (Excadrill) 10/30)",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/97/e2/49/97e2490b0830bf19c2a5cde351b6c10663a254fadcaa2ce711cc4b403d7fe883.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8d/11/74/8d11742518be00849680382151d05997a7ef65987f3758677eae546696a63eb2.jpg",
+      "image_path": "images/cards/11103/10-7299.webp",
+      "image_sha256": "436b51c6e87b0b87d9afc1c2dced25fb125fe50caf44bc3618bf2606f73c9ad8",
+      "image_bytes": 73830,
+      "source_url": "https://www.tcgcollector.com/cards/7299/fighting-energy-bw-trainer-kit-excadrill-10-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 10
+    },
+    {
+      "id": 7300,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Timburr (BW Trainer Kit (Excadrill) 11/30)",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/f5/35/21/f535218fcf44535769c391ffc3f69924179786dd7f0e7266c79b9db9d11617bd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/59/7d/e1/597de19cdb50043d85cc9b3292d683244e833d9f485032ea8e3e3e9d130d1387.jpg",
+      "image_path": "images/cards/11103/11-7300.webp",
+      "image_sha256": "ee4969516ff33957c8903becc6e480e268f0ce63ba8d69c85188000a9f97abad",
+      "image_bytes": 164793,
+      "source_url": "https://www.tcgcollector.com/cards/7300/timburr-bw-trainer-kit-excadrill-11-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 11
+    },
+    {
+      "id": 7301,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Audino (BW Trainer Kit (Excadrill) 12/30)",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/a0/e2/95/a0e2958b59d47b21b953448087ea555ada4ae19e51624249b28837b3f2822928.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d4/fb/eb/d4fbeb3cff5f93e65949bbac09310c3bb442076f9e1efa542657bc262ab2b193.jpg",
+      "image_path": "images/cards/11103/12-7301.webp",
+      "image_sha256": "67c450aea372fe135158ab1be25fa88af3f69bc2d61f519b0fa888c9a105b71d",
+      "image_bytes": 167722,
+      "source_url": "https://www.tcgcollector.com/cards/7301/audino-bw-trainer-kit-excadrill-12-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 12
+    },
+    {
+      "id": 7302,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Drilbur (BW Trainer Kit (Excadrill) 13/30)",
+      "number": "13",
+      "number_value": 13,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/ce/63/58/ce635845b637a7f5a84bd109429d9531e93946a0f37fe6ae2ef0314585f7c6e9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f2/d5/a9/f2d5a951041198013f974522cc2d8a2283de4a787eeb5dcb2d2782b5769a195f.jpg",
+      "image_path": "images/cards/11103/13-7302.webp",
+      "image_sha256": "6f1e2f4df4d399ea6d9c73750d23b9ff0ada38985ceace90ff764270f18dba01",
+      "image_bytes": 172930,
+      "source_url": "https://www.tcgcollector.com/cards/7302/drilbur-bw-trainer-kit-excadrill-13-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 13
+    },
+    {
+      "id": 7303,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Gurdurr (BW Trainer Kit (Excadrill) 14/30)",
+      "number": "14",
+      "number_value": 14,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/8b/a3/64/8ba36474c8c3af830c9e0dbe6e7ff98d6bff55274bf3849b9d7d8776749afc9a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2a/7a/e3/2a7ae3ffbd38ad315303f55a2f134bf02901511946b46d397ea54948fd9b3d9e.jpg",
+      "image_path": "images/cards/11103/14-7303.webp",
+      "image_sha256": "5f654999faeb8b9a3eccdc65c6a3755809a953e08e4c3529ac79d6b24ca728ed",
+      "image_bytes": 195031,
+      "source_url": "https://www.tcgcollector.com/cards/7303/gurdurr-bw-trainer-kit-excadrill-14-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 14
+    },
+    {
+      "id": 7304,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Potion (BW Trainer Kit (Excadrill) 15/30)",
+      "number": "15",
+      "number_value": 15,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/f6/36/46/f636469ead3f35c69c0127aee2efd2655ad6469cf27e64d05ad14ce744779dfb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/56/78/32/56783230447f0a9b17810f032751b7dbcd3bcb8424e3fa66570ae30e706fbb1c.jpg",
+      "image_path": "images/cards/11103/15-7304.webp",
+      "image_sha256": "b1c32ccaf22747019a13110c852f289e70cf3833eb209000ddb0cdbc73195587",
+      "image_bytes": 145358,
+      "source_url": "https://www.tcgcollector.com/cards/7304/potion-bw-trainer-kit-excadrill-15-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 15
+    },
+    {
+      "id": 7305,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "PlusPower (BW Trainer Kit (Excadrill) 16/30)",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/d1/c0/1a/d1c01a5fd26f8af3db33f1bfdb1a8fcc588023ef0b228a61afab8dc76eb4ea4e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/57/26/de/5726deea86adb7b6b3e148c514d8a2725362f17f8b8230fff1db173985136056.jpg",
+      "image_path": "images/cards/11103/16-7305.webp",
+      "image_sha256": "9378feb47701a3df4406b2b006e5faebe12d60889445a72e96b7457861b15ddf",
+      "image_bytes": 167644,
+      "source_url": "https://www.tcgcollector.com/cards/7305/pluspower-bw-trainer-kit-excadrill-16-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 16
+    },
+    {
+      "id": 7306,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Excadrill (BW Trainer Kit (Excadrill) 17/30)",
+      "number": "17",
+      "number_value": 17,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/bf/c2/67/bfc2676c332a5fccfe3add56d51749a5502ad5bfd40923b8bf3e683138b1a590.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fe/0b/e9/fe0be9e01a22cb92c2cc1760ea617214e3f7f5ad343363bb52293fdedd9429fa.jpg",
+      "image_path": "images/cards/11103/17-7306.webp",
+      "image_sha256": "1c104f394438743c1eabe168add7fa19c538d7551fad39023925156c7b23d9d6",
+      "image_bytes": 167674,
+      "source_url": "https://www.tcgcollector.com/cards/7306/excadrill-bw-trainer-kit-excadrill-17-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 17
+    },
+    {
+      "id": 7307,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Audino (BW Trainer Kit (Excadrill) 18/30)",
+      "number": "18",
+      "number_value": 18,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/9e/52/4b/9e524bad4b641023522f10ded1fc86f0fb86b4c7e34905e9583993f1f61daaf3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1c/18/46/1c18466fd7c478f2faddc9e02bd16f6be1646abb2f6d6de1b8ccf4d128a73e3e.jpg",
+      "image_path": "images/cards/11103/18-7307.webp",
+      "image_sha256": "3ebc8d4d4f024127b87d93fe6d0d768b5842cacf7263f5aa997466bddc5f2b6d",
+      "image_bytes": 167737,
+      "source_url": "https://www.tcgcollector.com/cards/7307/audino-bw-trainer-kit-excadrill-18-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 18
+    },
+    {
+      "id": 7308,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Herdier (BW Trainer Kit (Excadrill) 19/30)",
+      "number": "19",
+      "number_value": 19,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/3e/ec/56/3eec560d7fac40349baac55c799d205bc32a520bcda587b0ad8b794d7bd6590f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ed/34/65/ed346504268b94b3e0e64287b4cf53caa3ec7934addca77f04d99e2445691333.jpg",
+      "image_path": "images/cards/11103/19-7308.webp",
+      "image_sha256": "c4197aa358e1a78b64b32b3bf4c38537c2f108319b7cc1c5dff45902851ea7bc",
+      "image_bytes": 180074,
+      "source_url": "https://www.tcgcollector.com/cards/7308/herdier-bw-trainer-kit-excadrill-19-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 19
+    },
+    {
+      "id": 7309,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Fighting Energy (BW Trainer Kit (Excadrill) 20/30)",
+      "number": "20",
+      "number_value": 20,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/44/90/9e/44909ea8c88310cc9c47ce416ae4c2c0227f36c83691bc74cfbabceacb581eaf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3b/5d/93/3b5d93101c36b85bfa9409458d58e7dfa126e6dd529034c5461318f4329ec1d7.jpg",
+      "image_path": "images/cards/11103/20-7309.webp",
+      "image_sha256": "a6a611cc08b8eca8486c6fa078c4423c3f1646f6ffa41340af284f47ad7d74f6",
+      "image_bytes": 73862,
+      "source_url": "https://www.tcgcollector.com/cards/7309/fighting-energy-bw-trainer-kit-excadrill-20-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 20
+    },
+    {
+      "id": 7310,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Energy Search (BW Trainer Kit (Excadrill) 21/30)",
+      "number": "21",
+      "number_value": 21,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/ca/22/d0/ca22d02808f5b72676c84b69c9258d01849ae96ac119f81135a91662d8a6c7bc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/54/d3/9c/54d39c307c7081c0edd2f547903ca4fc4550503cc5bd17292f67c8331d1a3b04.jpg",
+      "image_path": "images/cards/11103/21-7310.webp",
+      "image_sha256": "5a0278756b58b7947add338ec76d6c94026c072b9bf68cf752ccc13556b072ba",
+      "image_bytes": 149868,
+      "source_url": "https://www.tcgcollector.com/cards/7310/energy-search-bw-trainer-kit-excadrill-21-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 21
+    },
+    {
+      "id": 7311,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Fighting Energy (BW Trainer Kit (Excadrill) 22/30)",
+      "number": "22",
+      "number_value": 22,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/04/ac/41/04ac41fab72e8bd322a3d8f0964b9bff3f618990fba6ef1e3ae3da76a63f4bf9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7c/dd/3f/7cdd3fd8f7928cdb6781c368946a0371051a922353efcce2c82dddb2be7d084a.jpg",
+      "image_path": "images/cards/11103/22-7311.webp",
+      "image_sha256": "e7f3048e3dfb7dd25c9b85e8ab5400d8603274483c0428456520d67042463de7",
+      "image_bytes": 73876,
+      "source_url": "https://www.tcgcollector.com/cards/7311/fighting-energy-bw-trainer-kit-excadrill-22-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 22
+    },
+    {
+      "id": 7312,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Potion (BW Trainer Kit (Excadrill) 23/30)",
+      "number": "23",
+      "number_value": 23,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/56/4c/76/564c76d974dff68e17d3115e54587b0117ff61275fa6fb5927c8b560dd5325f8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/78/8e/3b/788e3b75d422d38b94f30208ab165c3c5a9e58c069bb755e5e00a614da82fa81.jpg",
+      "image_path": "images/cards/11103/23-7312.webp",
+      "image_sha256": "abd4b3d2cfd61811c4953dcc82ffe1ba3fd6c4b125351ba1d483d74b4294c065",
+      "image_bytes": 145409,
+      "source_url": "https://www.tcgcollector.com/cards/7312/potion-bw-trainer-kit-excadrill-23-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 23
+    },
+    {
+      "id": 7313,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Pokémon Communication (BW Trainer Kit (Excadrill) 24/30)",
+      "number": "24",
+      "number_value": 24,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/d5/90/0d/d5900d0ef42ff96d5ffc19827ecd8b1c37d9eb718ce836d3bbf79ea0e94561c6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/92/28/5f/92285f293377426a11149c0f1b8d43fe708f51d3a423d4a15dba923f14c86675.jpg",
+      "image_path": "images/cards/11103/24-7313.webp",
+      "image_sha256": "472593f8ec71e2e0cc2bb4646d9864104638be2f4b3a3681ed1d630d8408f029",
+      "image_bytes": 163207,
+      "source_url": "https://www.tcgcollector.com/cards/7313/pokemon-communication-bw-trainer-kit-excadrill-24-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 24
+    },
+    {
+      "id": 7314,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Drilbur (BW Trainer Kit (Excadrill) 25/30)",
+      "number": "25",
+      "number_value": 25,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/e1/74/d0/e174d0dee6235f54c633becff6353a0843b9fc8413a16d6c590f137dd394162f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/db/58/8b/db588b19b570d3947720be2b7ed06aa964f88967c8336917b450c5b23e3669a5.jpg",
+      "image_path": "images/cards/11103/25-7314.webp",
+      "image_sha256": "f1304303a89e1dcd513ed8536a0dc35108af67e800adb39901413dbd9d32a2bf",
+      "image_bytes": 172957,
+      "source_url": "https://www.tcgcollector.com/cards/7314/drilbur-bw-trainer-kit-excadrill-25-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 25
+    },
+    {
+      "id": 7315,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Fighting Energy (BW Trainer Kit (Excadrill) 26/30)",
+      "number": "26",
+      "number_value": 26,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/7a/83/e3/7a83e3cbadf2a2f4f872132e40b8db2a2cf4526e7febb9d9a16b4fe848790135.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3e/c2/22/3ec222a3f54318e5adb4ed0c2ed132d14b75bd2f801a048b166f0df579950ad5.jpg",
+      "image_path": "images/cards/11103/26-7315.webp",
+      "image_sha256": "2729fd5ff2ad67be9ee27fee95ee9ee581c7a51cb5ebaf903780a5addb5487cb",
+      "image_bytes": 73867,
+      "source_url": "https://www.tcgcollector.com/cards/7315/fighting-energy-bw-trainer-kit-excadrill-26-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 26
+    },
+    {
+      "id": 7316,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Lillipup (BW Trainer Kit (Excadrill) 27/30)",
+      "number": "27",
+      "number_value": 27,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/49/df/85/49df85033f5d48d60653a3e71a9d0519d791e8e7b731c57a9a517991bf73dbfc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ca/1e/6f/ca1e6fe073f146976e73139b7550300cc6bee54c24c5095c4bf503f9197b4342.jpg",
+      "image_path": "images/cards/11103/27-7316.webp",
+      "image_sha256": "fe8849708af882004fd6293f2c32590f27b2b861e9bace18df8b0c428be14eb7",
+      "image_bytes": 162429,
+      "source_url": "https://www.tcgcollector.com/cards/7316/lillipup-bw-trainer-kit-excadrill-27-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 27
+    },
+    {
+      "id": 7317,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Fighting Energy (BW Trainer Kit (Excadrill) 28/30)",
+      "number": "28",
+      "number_value": 28,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/03/ee/d0/03eed0852825076c9cab7f86c0f5038f7154375930ce6e81c3ed364a600c3fc8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/05/9e/b5/059eb5a6971fe440dba7cd4918eebc0f251458e754daa5123f95a04b513bc36a.jpg",
+      "image_path": "images/cards/11103/28-7317.webp",
+      "image_sha256": "00a1b8b53462fd0b063901d181297c20bd58be35b1b70c36975280dbfd9c71de",
+      "image_bytes": 73864,
+      "source_url": "https://www.tcgcollector.com/cards/7317/fighting-energy-bw-trainer-kit-excadrill-28-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 28
+    },
+    {
+      "id": 7318,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Timburr (BW Trainer Kit (Excadrill) 29/30)",
+      "number": "29",
+      "number_value": 29,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/47/d5/24/47d5243caae8dbe33ac0f01d4ac2dd7984ec90e5eee22105169921d5d8f9d53d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b6/b6/60/b6b660f940a8138b176a32eef5179d0053a52a28bcc9e4e9b3febfb15ed963ed.jpg",
+      "image_path": "images/cards/11103/29-7318.webp",
+      "image_sha256": "685c657068af455fe503f705fde0d158ac3036074a00e0c0ed38ca5c520de2b1",
+      "image_bytes": 164823,
+      "source_url": "https://www.tcgcollector.com/cards/7318/timburr-bw-trainer-kit-excadrill-29-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 29
+    },
+    {
+      "id": 7319,
+      "set_id": 11103,
+      "set_ids": [
+        11103
+      ],
+      "name": "Excadrill (BW Trainer Kit",
+      "number": "30",
+      "number_value": 30,
+      "printed_total": 30,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/eb/32/fa/eb32fa0a4448a2cc00bfffef75ca120d2f23c1bb92ddb00d6d271d1bd2e81edf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/69/2f/e2/692fe22eed17be274efde568bedb950ada1dcd71f01afcd839a27313cbfd7949.jpg",
+      "image_path": "images/cards/11103/30-7319.webp",
+      "image_sha256": "3f9c19ebe9fa53a45e858813a1dbb87be7d5d50e3ddd3661b7363638a964d524",
+      "image_bytes": 167610,
+      "source_url": "https://www.tcgcollector.com/cards/7319/excadrill-bw-trainer-kit-excadrill-30-30",
+      "scraped_at": "2026-10-18T22:24:23Z",
+      "position": 30
+    }
+  ]
+}

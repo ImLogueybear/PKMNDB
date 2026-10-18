@@ -1,0 +1,2523 @@
+{
+  "set": {
+    "id": 1133,
+    "language": "en",
+    "name": "Mysterious Treasures",
+    "code": "MT",
+    "series": "Diamond & Pearl Series",
+    "release_date": "2007-08-22",
+    "date_text": "Aug 22, 2007",
+    "card_count": 124,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/22/13/39/221339e2c8cecf7fc2b07cf4684c4fb24819a8cc5f0004a9b08c08f74a1334f5.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/55/5d/54/555d54628916d6802a1335fd640e8d25842c5f571b2f3f237805dba4565ab760.svg",
+    "logo_path": "images/sets/1133-logo.webp",
+    "symbol_path": "images/sets/1133-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/1133/mysterious-treasures",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 124
+  },
+  "cards": [
+    {
+      "id": 3684,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Aggron",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/44/c1/b8/44c1b85261ce130d540334810c40d25dcf4a48d7bc7a7b51ca4b4cc3dcc8c8dc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a0/08/2a/a0082ae20ae71be296de209f1449743a06e6983bb1b0e8840ec3f71bcfa95b62.jpg",
+      "image_path": "images/cards/1133/1-3684.webp",
+      "image_sha256": "a18d3ed7ad99168aee240885372fbe3152a37f2358dd0995d198e3e417f571f8",
+      "image_bytes": 126067,
+      "source_url": "https://www.tcgcollector.com/cards/3684/aggron-mysterious-treasures-1-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 1
+    },
+    {
+      "id": 3685,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Alakazam",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/6d/5c/8b/6d5c8b7b1aa0fb69cfb48e8b645218af537d98d788c933acaf65ba1b85c9baa7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ec/69/ac/ec69ac12faca5e5c480e3f4a1fdea2c55950153349c07814899bd148ed0b6114.jpg",
+      "image_path": "images/cards/1133/2-3685.webp",
+      "image_sha256": "c8944948f60bdb5d09d417910b2ef921e9af5263df3722d2998bc1527016b6da",
+      "image_bytes": 116357,
+      "source_url": "https://www.tcgcollector.com/cards/3685/alakazam-mysterious-treasures-2-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 2
+    },
+    {
+      "id": 3686,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Ambipom",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/15/25/d0/1525d0d2afec8e79a3e2d09364551732bce10b9b53880bb03c3c48a7f4b7b3e3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2e/20/8c/2e208c11d0ba6d37e20a49eab36a802cfb1ce8b0a38a25cad026e148b95a588a.jpg",
+      "image_path": "images/cards/1133/3-3686.webp",
+      "image_sha256": "7468a26d5ecb9e18a8034e2322ead53e9dccd35d63f6a0a56e8c0f1a8a58c37f",
+      "image_bytes": 107086,
+      "source_url": "https://www.tcgcollector.com/cards/3686/ambipom-mysterious-treasures-3-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 3
+    },
+    {
+      "id": 3687,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1247
+      ],
+      "name": "Azelf",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/28/33/56/28335656286daa6afdd32022a96bdfca2396ac619e74fa1af8ef5c94e9e30608.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d7/87/27/d78727a4639cfec0037dd62d5ba9417c264f1c9f60cad52c854f5fb302bb991d.jpg",
+      "image_path": "images/cards/1133/4-3687.webp",
+      "image_sha256": "8546172925ec48440dbff62801f347949a01aefa0654584ea9ee7f6772ead3b0",
+      "image_bytes": 98174,
+      "source_url": "https://www.tcgcollector.com/cards/3687/azelf-mysterious-treasures-4-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 4
+    },
+    {
+      "id": 3688,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1238
+      ],
+      "name": "Blissey",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/5a/04/79/5a0479869c068b1646eda89d097a1a624d40746738d6e914783e4798cde57e25.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/02/ca/ea/02caea7ce13625a38d60421d477e0f14a6875c0194823ec7375f08f4f09cb79a.jpg",
+      "image_path": "images/cards/1133/5-3688.webp",
+      "image_sha256": "3f811754379032eba99520b9f41e9ba25a23c81d3f15e72343f6b7b6deb8e7e7",
+      "image_bytes": 108063,
+      "source_url": "https://www.tcgcollector.com/cards/3688/blissey-mysterious-treasures-5-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 5
+    },
+    {
+      "id": 3689,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Bronzong",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/bd/cf/a3/bdcfa3649dd2db867df64cefd79ff788fb10c39536dee61b6d25b9c0b38cf3e3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9d/41/5c/9d415c32d9841f9f6c52c03290e14e1f6503c2049c9a75582839060222ca28f0.jpg",
+      "image_path": "images/cards/1133/6-3689.webp",
+      "image_sha256": "b96327c8988f4b3de4a7eab0b086a794e8087a0c42c1648b230871cdff71d2c1",
+      "image_bytes": 130955,
+      "source_url": "https://www.tcgcollector.com/cards/3689/bronzong-mysterious-treasures-6-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 6
+    },
+    {
+      "id": 3690,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Celebi",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/8e/1a/39/8e1a397fcd2bb9b402857ae27ba947154c629f56990b7dc5a67069bc42fd268a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/49/61/93/49619306e71b26cdec511103d928109bbd2aea76c6e54a60eeaa023ff86bec10.jpg",
+      "image_path": "images/cards/1133/7-3690.webp",
+      "image_sha256": "29cd920d074e01991fd7d3387c98dc6b6b2b0459a1bf7e9eb98463bda9047d6e",
+      "image_bytes": 105283,
+      "source_url": "https://www.tcgcollector.com/cards/3690/celebi-mysterious-treasures-7-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 7
+    },
+    {
+      "id": 3691,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Feraligatr",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/ef/5a/0f/ef5a0f3c5e9644ff28673d4db7eca5078c5b0249eb37be8198713d184e03a936.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/13/be/f0/13bef0a14dd53960767cdeb46a357ae558ec38e71350f7d25ffabd334b01d85c.jpg",
+      "image_path": "images/cards/1133/8-3691.webp",
+      "image_sha256": "ef78299aa718994b617dd26a496bb8a1651f6920a745ae28d9d29429ff4957e1",
+      "image_bytes": 110659,
+      "source_url": "https://www.tcgcollector.com/cards/3691/feraligatr-mysterious-treasures-8-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 8
+    },
+    {
+      "id": 3692,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Garchomp",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/62/48/59/624859da607e46c454d70157cca2283d8d4535db30a6b5e0fe4a5d796280cf42.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0b/e4/a3/0be4a3d2f42aefab794b6b6489c2f13b064752c06c656545fd87d0618b6c9290.jpg",
+      "image_path": "images/cards/1133/9-3692.webp",
+      "image_sha256": "cd4d4134907cb70fe368cba92d61deca20001bd41b35ffde196bcbfa0471c8ac",
+      "image_bytes": 119627,
+      "source_url": "https://www.tcgcollector.com/cards/3692/garchomp-mysterious-treasures-9-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 9
+    },
+    {
+      "id": 3693,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Honchkrow",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/85/bb/86/85bb86efd3681758a4f0c43b8c13efbc027693dcd3a3ce834551120e38b56eca.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cd/be/74/cdbe7416aa16bf6e018003837714d4f17f810e578a3394960d5f088e19dfb14d.jpg",
+      "image_path": "images/cards/1133/10-3693.webp",
+      "image_sha256": "9c67bbed57e9635b392fdc4f36c03423bab41d3881d93618c0954bd4b0b473a0",
+      "image_bytes": 113027,
+      "source_url": "https://www.tcgcollector.com/cards/3693/honchkrow-mysterious-treasures-10-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 10
+    },
+    {
+      "id": 3694,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Lumineon",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/54/84/6a/54846af2bae185a13ee11d981ae5cdff26e877b23bd7aae709ff8e0c2cad5708.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/43/d0/35/43d0350f485c882ad6fc3a001e8e73b3a3374f0034deeb1ce450777ad3832a01.jpg",
+      "image_path": "images/cards/1133/11-3694.webp",
+      "image_sha256": "6a28b42d7adac3b1b2e7b85b9c3b6bcf981e3973c7fa7041dd74f4023050deac",
+      "image_bytes": 108354,
+      "source_url": "https://www.tcgcollector.com/cards/3694/lumineon-mysterious-treasures-11-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 11
+    },
+    {
+      "id": 3695,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Magmortar",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/23/02/ca/2302ca8ddb063a02676e52860a1f35033fed49affc2bb137676c85c13be44e6e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/57/9f/f5/579ff589588b3bd24e091fa7c4a7897562ea478e5f803324704d1eb31ba1bd92.jpg",
+      "image_path": "images/cards/1133/12-3695.webp",
+      "image_sha256": "c0ff05dbbfb8e0164bb13af77acbedfdfaefb0263ef38b0b1702aeeb17acb3cc",
+      "image_bytes": 112261,
+      "source_url": "https://www.tcgcollector.com/cards/3695/magmortar-mysterious-treasures-12-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 12
+    },
+    {
+      "id": 3696,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Meganium",
+      "number": "13",
+      "number_value": 13,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/6c/12/76/6c1276f5bbc293254e6a9bde9ceace6ced8bdc57888b948245c75757a7f57697.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e7/27/f5/e727f53a8baee7aa94a12b8ad826544fef5f9ec3fbe192c62a81f4b809dd43b9.jpg",
+      "image_path": "images/cards/1133/13-3696.webp",
+      "image_sha256": "0db62bd5ab62f71ad3605ac58feb84eb5c51320dc3671f8e0116a27be8a3ef45",
+      "image_bytes": 115900,
+      "source_url": "https://www.tcgcollector.com/cards/3696/meganium-mysterious-treasures-13-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 13
+    },
+    {
+      "id": 3697,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1247
+      ],
+      "name": "Mesprit",
+      "number": "14",
+      "number_value": 14,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/de/bb/9d/debb9d9db0c1ee547ed5962863eb1264dc39b19854f5530a9c1911809132dc3d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/92/f5/6e/92f56e124542eba4397432d0a38dfcd52391138a8ef55297bdd195a745a0ff2c.jpg",
+      "image_path": "images/cards/1133/14-3697.webp",
+      "image_sha256": "3d38548ca1c5672c565c363a46dbecd27651883b9a80ef33c993a2c47f2f86a6",
+      "image_bytes": 95418,
+      "source_url": "https://www.tcgcollector.com/cards/3697/mesprit-mysterious-treasures-14-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 14
+    },
+    {
+      "id": 3698,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Raichu",
+      "number": "15",
+      "number_value": 15,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/67/69/32/6769322067a57e5993233217bcf194a205d560f2ffd98850c2f373f0c206a4c5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f2/39/68/f239683e88e17648fdfabd655d786f4434856c00dd2deac897b3ab78a67327cb.jpg",
+      "image_path": "images/cards/1133/15-3698.webp",
+      "image_sha256": "f351021814cc35e2dd004101f6d779791681722420388d586a8694cdbbc5e66d",
+      "image_bytes": 112078,
+      "source_url": "https://www.tcgcollector.com/cards/3698/raichu-mysterious-treasures-15-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 15
+    },
+    {
+      "id": 3699,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Typhlosion",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/2f/51/7e/2f517e4c89cbd677f7d626a7343d4cfd21c52a6464a74a335fca4723cba04d0e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/77/9b/e4/779be47cc09c78cb915b3ee1214abafa09cd5263a8af8c27b37d8f33478413e9.jpg",
+      "image_path": "images/cards/1133/16-3699.webp",
+      "image_sha256": "e1358ebae61cc50b31ff2b06ddd9a1a228448f0f5f45eb68c59a6ecc28d50f78",
+      "image_bytes": 99542,
+      "source_url": "https://www.tcgcollector.com/cards/3699/typhlosion-mysterious-treasures-16-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 16
+    },
+    {
+      "id": 3700,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Tyranitar",
+      "number": "17",
+      "number_value": 17,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/de/c6/17/dec61704c14984acb3ff5093ff11238909101e3ac6ce403d09ca0d9073b6cc3c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3b/30/2f/3b302fa0e4db3c23581e79be64ba0485f832d2d29678499c0f0756a90f6e584a.jpg",
+      "image_path": "images/cards/1133/17-3700.webp",
+      "image_sha256": "4773375a34e324c9a8c45d9c78a7cc4df6ee215cf521ee121ff5b2753b1e9655",
+      "image_bytes": 127622,
+      "source_url": "https://www.tcgcollector.com/cards/3700/tyranitar-mysterious-treasures-17-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 17
+    },
+    {
+      "id": 3701,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Uxie",
+      "number": "18",
+      "number_value": 18,
+      "printed_total": 123,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/df/99/ce/df99ce43963861bc54bebf1c4e750d5d9d3dceac098796f54498810fb3514af2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e6/d1/15/e6d1156858a153b7c18e3bf2cc36e8a9d2a607346cd2dc9bb95dbc9af450200a.jpg",
+      "image_path": "images/cards/1133/18-3701.webp",
+      "image_sha256": "644221f9825929cec7d19c8acc34f0a086938e9d77ded8fc947fc1c2dd2f5db1",
+      "image_bytes": 118563,
+      "source_url": "https://www.tcgcollector.com/cards/3701/uxie-mysterious-treasures-18-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 18
+    },
+    {
+      "id": 3702,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1298
+      ],
+      "name": "Abomasnow",
+      "number": "19",
+      "number_value": 19,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/c0/2f/cd/c02fcd6c126fe008197ba1f44086f33d50fee5231d84718cacbcae3d761d55ff.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7a/e2/4e/7ae24ef44115ffbea441da1503f0bf7e34617092dcd451b80b2d8334f04f2eca.jpg",
+      "image_path": "images/cards/1133/19-3702.webp",
+      "image_sha256": "fa79f5406ae4d46158a6e28f42b995717fcaf231e9b8c61cc357c241a6d0b1e4",
+      "image_bytes": 115890,
+      "source_url": "https://www.tcgcollector.com/cards/3702/abomasnow-mysterious-treasures-19-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 19
+    },
+    {
+      "id": 3703,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Ariados",
+      "number": "20",
+      "number_value": 20,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/48/90/45/489045c81a40786d8ebd176b07e9cee8bf93e13b5ae8fe1d72c493aed7c42c38.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/19/05/e0/1905e086398eb7bed60f4e9b28949c91b7a5222b0e9ec68136bf2887e8509237.jpg",
+      "image_path": "images/cards/1133/20-3703.webp",
+      "image_sha256": "8b8df66d3b709c152ef9d7cde3d848cfb6c713b3326de4eff8c9290511fa11a4",
+      "image_bytes": 109313,
+      "source_url": "https://www.tcgcollector.com/cards/3703/ariados-mysterious-treasures-20-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 20
+    },
+    {
+      "id": 3704,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Bastiodon",
+      "number": "21",
+      "number_value": 21,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/c3/a3/ee/c3a3ee42bc35955b0dd5384bf4d728f2a47a19b6e25c74a1b9200eb227c75bc7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9f/2e/4c/9f2e4ca658793501db14ceeb47e46c8b7b66a2820023c0fc8488b81a2c10eb14.jpg",
+      "image_path": "images/cards/1133/21-3704.webp",
+      "image_sha256": "5080653f360cee3b80dd3ac12ba8f56c97cb05cd37efeac5f6f43a6617f6167d",
+      "image_bytes": 137597,
+      "source_url": "https://www.tcgcollector.com/cards/3704/bastiodon-mysterious-treasures-21-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 21
+    },
+    {
+      "id": 3705,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Chimecho",
+      "number": "22",
+      "number_value": 22,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f4/b1/9a/f4b19a38b356b37e7f9f2359acad6e10d748cea43fafe8324530fb2b0e8107a5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cf/74/6f/cf746fb88f241ab71c4e163b623f67c6d3baf2e71ed8d39b878771f0abdd7dbd.jpg",
+      "image_path": "images/cards/1133/22-3705.webp",
+      "image_sha256": "7247a4ebcdad825c3a7f8d1e09feb71a185d86276efee6c6fe4b016be8e7b50e",
+      "image_bytes": 116757,
+      "source_url": "https://www.tcgcollector.com/cards/3705/chimecho-mysterious-treasures-22-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 22
+    },
+    {
+      "id": 3706,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Crobat",
+      "number": "23",
+      "number_value": 23,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/df/d6/c6/dfd6c6d7cc51f910e97fbfb600b6b3e8e381bfb4d90b267b3a8aa868f920abed.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/93/73/9d/93739de67d38975516f00562a4fe50218a7fa3e433494f1f9e657a9c7bfdf8d1.jpg",
+      "image_path": "images/cards/1133/23-3706.webp",
+      "image_sha256": "03b11f18c907e6e7309decf70d5814d1385de42c3fb8040a75e3b38fb759d985",
+      "image_bytes": 113933,
+      "source_url": "https://www.tcgcollector.com/cards/3706/crobat-mysterious-treasures-23-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 23
+    },
+    {
+      "id": 3707,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Exeggutor",
+      "number": "24",
+      "number_value": 24,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/82/9a/70/829a70fee7eb0af79484767ce1a883d742e8abdff5943f121b02d9b7a89f6475.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/41/01/51/41015188d2a1a0fb5213b92ca2649b68f5bd4ead27554e61e0363dfab2d3cba2.jpg",
+      "image_path": "images/cards/1133/24-3707.webp",
+      "image_sha256": "895141df461dd7fb687a96fd036152b4f33624895f70beea4cecab883dd21337",
+      "image_bytes": 118497,
+      "source_url": "https://www.tcgcollector.com/cards/3707/exeggutor-mysterious-treasures-24-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 24
+    },
+    {
+      "id": 3708,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Glalie",
+      "number": "25",
+      "number_value": 25,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/5b/f2/9f/5bf29f6c904ba991c90022a98e31f181a7fa29626018ff1134db9eb222ff5ee6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fb/e7/d9/fbe7d9b9d4b2c25459e408b9c6a70883c7003e0aad8f823371cadf2700e098e1.jpg",
+      "image_path": "images/cards/1133/25-3708.webp",
+      "image_sha256": "2a16296daa1f62422e98b4b77250fa5b413df3c5a8c4a9216a9141916dbe3dbc",
+      "image_bytes": 125877,
+      "source_url": "https://www.tcgcollector.com/cards/3708/glalie-mysterious-treasures-25-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 25
+    },
+    {
+      "id": 3709,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Gyarados",
+      "number": "26",
+      "number_value": 26,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/23/6d/b6/236db6da8d00e8c18eb5e5bc402f4632bf9d3f4c8e298141aa7411d947fbc055.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1d/4e/06/1d4e06a3745877e3d6679f7e9cd31d69ee9f83cdcc6f57bebec41e73434e7697.jpg",
+      "image_path": "images/cards/1133/26-3709.webp",
+      "image_sha256": "62df530b0f3b70fe3cb0ad3322936cd83f4b9d996f545b8aea82b7e17e0747a8",
+      "image_bytes": 131363,
+      "source_url": "https://www.tcgcollector.com/cards/3709/gyarados-mysterious-treasures-26-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 26
+    },
+    {
+      "id": 3710,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Kricketune",
+      "number": "27",
+      "number_value": 27,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/a4/23/43/a423430ce0e82bf2a66f9b9102a6c6462e6ba0aa9551f7543cfc6b1720b07c07.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b8/18/ba/b818ba74b1dea8ed7b8d23b17a7e4115aa7b063d20f3bc49f7a21aa2134847f3.jpg",
+      "image_path": "images/cards/1133/27-3710.webp",
+      "image_sha256": "d488e35ce4c640fc7d16767f0a8ca77573177b9686e4c12fbc67edcf5fa919d6",
+      "image_bytes": 116382,
+      "source_url": "https://www.tcgcollector.com/cards/3710/kricketune-mysterious-treasures-27-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 27
+    },
+    {
+      "id": 3711,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Manectric",
+      "number": "28",
+      "number_value": 28,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/08/11/74/0811746212dfc0ffc38a67cbdd6b6a73026748978aa148d990e36c407f90da9b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ea/a0/3d/eaa03d139b9fe92de4652cfa3719a4597868ecea12a6c733f56ccf2caada9cbc.jpg",
+      "image_path": "images/cards/1133/28-3711.webp",
+      "image_sha256": "1c8f797648c01dadd0f375ce0d2bbdd7cb09e442773db65070b069502de3c935",
+      "image_bytes": 111189,
+      "source_url": "https://www.tcgcollector.com/cards/3711/manectric-mysterious-treasures-28-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 28
+    },
+    {
+      "id": 3712,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Mantine",
+      "number": "29",
+      "number_value": 29,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/23/9d/76/239d76d29076a31ddf301c4a37214fae8a283de7563a90e2c2a0909fdab39109.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d7/23/0c/d7230ca257ded43cc049ac7bf4d98aaf25bdc995c2c1d24ce05c9450ffa86ebb.jpg",
+      "image_path": "images/cards/1133/29-3712.webp",
+      "image_sha256": "cfd63471193c9f11ae5af4fb2e780f56169e4ae0e9249c67a72ae9c94fe84f73",
+      "image_bytes": 108633,
+      "source_url": "https://www.tcgcollector.com/cards/3712/mantine-mysterious-treasures-29-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 29
+    },
+    {
+      "id": 3713,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Mr. Mime",
+      "number": "30",
+      "number_value": 30,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/2d/58/a5/2d58a55bfe726407b77a30623ef728d1e0626a3146f9ef231c796b187197640f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/af/f0/25/aff025a94c2af790b1acab7221fdca169b15f3e617fe6ba22a120bd9f4e4b610.jpg",
+      "image_path": "images/cards/1133/30-3713.webp",
+      "image_sha256": "b86444265d761f5638f52525b936cb99e6540b7b5077528d71009f5e6f3dd5c4",
+      "image_bytes": 119717,
+      "source_url": "https://www.tcgcollector.com/cards/3713/mr-mime-mysterious-treasures-30-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 30
+    },
+    {
+      "id": 3714,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Nidoqueen",
+      "number": "31",
+      "number_value": 31,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/02/37/93/0237931a97748fd3f0e7071463094537334471a15c05034ba8deebc8b61e0ff0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8c/9c/71/8c9c71388d103953983165fcad8da4000c5a7ae63744058a894ff28b231c0560.jpg",
+      "image_path": "images/cards/1133/31-3714.webp",
+      "image_sha256": "18571a62954373963834d4a628c19b731857ee7ef054c4468ca7e0d2f9e48f8b",
+      "image_bytes": 122228,
+      "source_url": "https://www.tcgcollector.com/cards/3714/nidoqueen-mysterious-treasures-31-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 31
+    },
+    {
+      "id": 3715,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Ninetales",
+      "number": "32",
+      "number_value": 32,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/cc/c7/b5/ccc7b59c268fd81340303e2f55e012456d4aa57f26fbfc51ff4eaa888db5ec4e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/51/7f/c0/517fc00c9e60f4ad3b14e92b941a7cd9c27298fd5ec224f39ca2d8476a203e96.jpg",
+      "image_path": "images/cards/1133/32-3715.webp",
+      "image_sha256": "e4128634cdca3959eabfd3776f75acd3c0d283a2380b7bad9963e3cc3667bac6",
+      "image_bytes": 101941,
+      "source_url": "https://www.tcgcollector.com/cards/3715/ninetales-mysterious-treasures-32-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 32
+    },
+    {
+      "id": 3716,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Rampardos",
+      "number": "33",
+      "number_value": 33,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/38/47/d1/3847d1995438e4d1734ccf0a134fc3320900ffc6408125f533f61451239a49ca.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/84/38/73/843873ba3a126bdc0ff4264e717c811d77e292b79496c5099d73762092a7984d.jpg",
+      "image_path": "images/cards/1133/33-3716.webp",
+      "image_sha256": "d4e42999fb4cc42e9aee5e936722a68a30aa4d44e5d4b8fc6c10049f045622e4",
+      "image_bytes": 113508,
+      "source_url": "https://www.tcgcollector.com/cards/3716/rampardos-mysterious-treasures-33-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 33
+    },
+    {
+      "id": 3717,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Slaking",
+      "number": "34",
+      "number_value": 34,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f2/a7/2e/f2a72ed95bafca3855596f648300a37e9a5578222772540a51f576180616b35e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7c/dc/ad/7cdcad793e85ccf80e76cf4596baf78314a6e63c854230e50c50375b70fa822f.jpg",
+      "image_path": "images/cards/1133/34-3717.webp",
+      "image_sha256": "1777198b6acad311296c93b0e9c197db5671569aa6017d98430c671814cb5537",
+      "image_bytes": 120582,
+      "source_url": "https://www.tcgcollector.com/cards/3717/slaking-mysterious-treasures-34-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 34
+    },
+    {
+      "id": 3718,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Sudowoodo",
+      "number": "35",
+      "number_value": 35,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/00/7e/66/007e66227694860800212c358a7a7e14f555de33be6bd41da839d1dceabc0a1a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b6/dc/d7/b6dcd7d068aefdb08419196fe318b90981406cf17a62423b11223d46825be89d.jpg",
+      "image_path": "images/cards/1133/35-3718.webp",
+      "image_sha256": "4d356fac6b495b832ae7a85aa815dbc565ed09b3ce44c2ea92f12ab6134fa498",
+      "image_bytes": 106219,
+      "source_url": "https://www.tcgcollector.com/cards/3718/sudowoodo-mysterious-treasures-35-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 35
+    },
+    {
+      "id": 3719,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Toxicroak",
+      "number": "36",
+      "number_value": 36,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/3f/85/5b/3f855b1037883f235ab23845e7b7607c783b74b67088a6285a92751c706dc975.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d5/b5/96/d5b596448b2a018ce1d5aaf9375c0bcd7e28892d29d9acb4ded5e7bd1324c2d4.jpg",
+      "image_path": "images/cards/1133/36-3719.webp",
+      "image_sha256": "3a5fc4ef9e61c49d1fbd826bc699788972fca3a9144e34874fe5814d40fde940",
+      "image_bytes": 110487,
+      "source_url": "https://www.tcgcollector.com/cards/3719/toxicroak-mysterious-treasures-36-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 36
+    },
+    {
+      "id": 3720,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Unown I",
+      "number": "37",
+      "number_value": 37,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/02/ba/52/02ba520b1a301a2a1ec5a7d3a79e7536195038b6082587d224fa6ba838c563c2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/05/3d/e0/053de0e04585adbc59bcddcce0036b3589b53bc3a4135e37f49029fd584e69c6.jpg",
+      "image_path": "images/cards/1133/37-3720.webp",
+      "image_sha256": "26b0b766ee6401d6da037fb760500d8aae4feb7c31a1e8c0978700d13c48ea07",
+      "image_bytes": 144172,
+      "source_url": "https://www.tcgcollector.com/cards/3720/unown-i-mysterious-treasures-37-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 37
+    },
+    {
+      "id": 3721,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Ursaring",
+      "number": "38",
+      "number_value": 38,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/db/cb/f8/dbcbf843a2ab24b6e7ea4dfb71053419828d30f2863383cc6cae3e263d631821.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/25/58/f2/2558f215bdabcd47e569b3c09e1e20e748108a3adc9b7ecc4ac1b1d98940f0b3.jpg",
+      "image_path": "images/cards/1133/38-3721.webp",
+      "image_sha256": "add40f38a5058d4f666549aeed2e38ecceebc7528765ee6268b67a14bd151791",
+      "image_bytes": 110617,
+      "source_url": "https://www.tcgcollector.com/cards/3721/ursaring-mysterious-treasures-38-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 38
+    },
+    {
+      "id": 3722,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Walrein",
+      "number": "39",
+      "number_value": 39,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/a2/93/2c/a2932c05996044b88279ad78c62ffb3617dab02703bc30dce12867760950ad13.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/24/9f/3c/249f3ca01ae8a8c87f7713b5596b5ec8a73b28a0e9eef4c38ff6f63a605489f7.jpg",
+      "image_path": "images/cards/1133/39-3722.webp",
+      "image_sha256": "7aa1b3f66d2f678696bea9edbf102883c55214adf3573a3d42dd1e6a6a046a3e",
+      "image_bytes": 119710,
+      "source_url": "https://www.tcgcollector.com/cards/3722/walrein-mysterious-treasures-39-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 39
+    },
+    {
+      "id": 3723,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Whiscash",
+      "number": "40",
+      "number_value": 40,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/c0/e7/7f/c0e77fab7d57df960b14153f3e3af7d3da5d1f8188f9564c2c379be07ebdbc13.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/55/df/7d/55df7d24e70c1a64af580af3dd22891013f4132daf288577979cbebdc0821a7a.jpg",
+      "image_path": "images/cards/1133/40-3723.webp",
+      "image_sha256": "eb8455ead4f368a2b4c334a17a87f8c8256a246654a23849c201fc13f3c289f7",
+      "image_bytes": 117361,
+      "source_url": "https://www.tcgcollector.com/cards/3723/whiscash-mysterious-treasures-40-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 40
+    },
+    {
+      "id": 3724,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Bayleef",
+      "number": "41",
+      "number_value": 41,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/fe/12/a9/fe12a90a7657143614d45f1b07c4d40025283a1c8e12e210f87c8c3d0d1a7738.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8b/16/1b/8b161b23714bc92152256311b69cc9229a4349dfa4310a8b40a44c788fd83441.jpg",
+      "image_path": "images/cards/1133/41-3724.webp",
+      "image_sha256": "fc4c0e9220125a1e1763503f14b7b64943e20817d66e47088cf2ad79d01e7986",
+      "image_bytes": 102668,
+      "source_url": "https://www.tcgcollector.com/cards/3724/bayleef-mysterious-treasures-41-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 41
+    },
+    {
+      "id": 3725,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1298
+      ],
+      "name": "Chingling",
+      "number": "42",
+      "number_value": 42,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/3b/3f/5f/3b3f5f938aa5c5edf84cbb9690ee3bca5b6a75bea34d4d429d1cdff0b5bb2374.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/81/93/f1/8193f1f53f02707725bf4e61f2f65b50f110dd6865bd078598d74b70cc3d20c0.jpg",
+      "image_path": "images/cards/1133/42-3725.webp",
+      "image_sha256": "5e36e145410181c06c5ca062fc83e15676fa160f8125132125fa1e915bb5eaa4",
+      "image_bytes": 112968,
+      "source_url": "https://www.tcgcollector.com/cards/3725/chingling-mysterious-treasures-42-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 42
+    },
+    {
+      "id": 3726,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Cranidos",
+      "number": "43",
+      "number_value": 43,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/c3/17/1a/c3171a854e1dd33583f21dbaaad6fb8226bb5615af1141f08e7b59c20a933c3b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/05/85/2c/05852cd49ff9626abe926418990ca5d260769f1a43a19eb604c094231b052207.jpg",
+      "image_path": "images/cards/1133/43-3726.webp",
+      "image_sha256": "0c31ef9f26c8d8cdfbbd7428cb1a8c68db3888c0bd07e3a14ea46f4b554a2a28",
+      "image_bytes": 107016,
+      "source_url": "https://www.tcgcollector.com/cards/3726/cranidos-mysterious-treasures-43-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 43
+    },
+    {
+      "id": 3727,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Croconaw",
+      "number": "44",
+      "number_value": 44,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/45/ee/5d/45ee5d59bb1a71840859e69ebb12325e8454b644130aecf10c0cf54ee0424e56.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dc/13/a7/dc13a7cd405ebced7a9989fe654661f8287e8ea413cd133abe2645bcf2405d8c.jpg",
+      "image_path": "images/cards/1133/44-3727.webp",
+      "image_sha256": "8a92dcb282d22438067cd4e8f117cc454dfc554ece96075d7965a3fa625d25cd",
+      "image_bytes": 117910,
+      "source_url": "https://www.tcgcollector.com/cards/3727/croconaw-mysterious-treasures-44-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 44
+    },
+    {
+      "id": 3728,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Dewgong",
+      "number": "45",
+      "number_value": 45,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/78/cf/04/78cf04f7c80633f54553457fcb18c1f40d0df644f3088612b8f35d8a6efe6150.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/71/d2/4b/71d24b052059766ba5344f19ede5dc97922ec548da2120a1e5daa72585431e79.jpg",
+      "image_path": "images/cards/1133/45-3728.webp",
+      "image_sha256": "c128e486706dcbfe76c1fadffcf81da4e5c96943d432f0b900d8d10e2056321e",
+      "image_bytes": 116239,
+      "source_url": "https://www.tcgcollector.com/cards/3728/dewgong-mysterious-treasures-45-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 45
+    },
+    {
+      "id": 3729,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Dodrio",
+      "number": "46",
+      "number_value": 46,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/0d/c3/79/0dc379853371bb048a55e8d5e0afb3d4dce50243ae631622e75573d54be223e7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a8/9d/69/a89d69521c2a86ccf2c69d941414c5775fa95ec1f9e6747addfb5ac8bddb635d.jpg",
+      "image_path": "images/cards/1133/46-3729.webp",
+      "image_sha256": "d2e38c89ce356a77e93fe26198a645c6e21283fbdc4c95ef7cd342baab71620d",
+      "image_bytes": 110484,
+      "source_url": "https://www.tcgcollector.com/cards/3729/dodrio-mysterious-treasures-46-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 46
+    },
+    {
+      "id": 3730,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Dunsparce",
+      "number": "47",
+      "number_value": 47,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/c7/ef/f6/c7eff692a15b37b92614aa420877ef94c6d0ac9f13d337b3eb0ae3316c95e013.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/34/24/90/3424900d68a01acdc0cf39b8d9608b888ce22c280d212d980258e83a26626ac3.jpg",
+      "image_path": "images/cards/1133/47-3730.webp",
+      "image_sha256": "cf0693999704810b7a3536c25075957b9c4b96500268821c799f0254622ce9bc",
+      "image_bytes": 101032,
+      "source_url": "https://www.tcgcollector.com/cards/3730/dunsparce-mysterious-treasures-47-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 47
+    },
+    {
+      "id": 3731,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1298
+      ],
+      "name": "Gabite",
+      "number": "48",
+      "number_value": 48,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/53/2b/78/532b7826313aff2afbf4432446fc4fd0a9c09a63a418531337f9d0fdf2e4ca12.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5d/ab/2e/5dab2ea3675c4cbde2fef9c7f3212d4e025c0f77411f1d8b789ffe4026666705.jpg",
+      "image_path": "images/cards/1133/48-3731.webp",
+      "image_sha256": "c25196946c7a7fad301f6252472b57458c89a3103415918fdf1a4e7e5d49931c",
+      "image_bytes": 126985,
+      "source_url": "https://www.tcgcollector.com/cards/3731/gabite-mysterious-treasures-48-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 48
+    },
+    {
+      "id": 3732,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Girafarig",
+      "number": "49",
+      "number_value": 49,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/7e/27/51/7e2751b0d72e47b90723fbdcdbe408a0b28eb09d6a3a45410165a46c7a10a80e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/63/e1/4a/63e14a756829690624306ad7bf5da237b17016847d14cf4f2b4faf334020fd6a.jpg",
+      "image_path": "images/cards/1133/49-3732.webp",
+      "image_sha256": "dcc27a4c4a47f7b34818ebb696a4f0783a787972a53886544b1ba45ee9fdfcc0",
+      "image_bytes": 105319,
+      "source_url": "https://www.tcgcollector.com/cards/3732/girafarig-mysterious-treasures-49-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 49
+    },
+    {
+      "id": 3733,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Golbat",
+      "number": "50",
+      "number_value": 50,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/0a/a1/fd/0aa1fdb8f176732fdf581ea410879e13fdebe0d46e545df0af52ccd5d1135ac1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b6/26/6e/b6266eed75cbe07c146bf863ca0fbd155265e5870ece3c32da4aba6b25c60a07.jpg",
+      "image_path": "images/cards/1133/50-3733.webp",
+      "image_sha256": "fc0857de4d9ccc284afc37493f1cf2ac15788ea2d7a625503fde2a49710f8dca",
+      "image_bytes": 98597,
+      "source_url": "https://www.tcgcollector.com/cards/3733/golbat-mysterious-treasures-50-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 50
+    },
+    {
+      "id": 3734,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Graveler",
+      "number": "51",
+      "number_value": 51,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/23/75/5f/23755f6f9d6ef5fca5e621c52d3288f2683461544b758e30c6df580ed41e2341.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3d/bd/d5/3dbdd59a419c7d5d073c624b07eab9782762947c40c0916fdac47f248d80dd68.jpg",
+      "image_path": "images/cards/1133/51-3734.webp",
+      "image_sha256": "d5c3cbbe11e038068660cab44d81eea47cb9094498ca6ccaf691b4f360c662a8",
+      "image_bytes": 127208,
+      "source_url": "https://www.tcgcollector.com/cards/3734/graveler-mysterious-treasures-51-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 51
+    },
+    {
+      "id": 3735,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1296,
+        1298
+      ],
+      "name": "Happiny",
+      "number": "52",
+      "number_value": 52,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/54/84/f6/5484f6680a81ed07a1256796d49b1fb15d450eda95b6de34b778e2630d2937a1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/28/88/dc/2888dcafae1b10ec1766dc31a6c9fbc2fd44b8bd43ba53a6701201e7f8904c55.jpg",
+      "image_path": "images/cards/1133/52-3735.webp",
+      "image_sha256": "f0f63754ae217eed68ed93d9a570f0447a1bffd1c60c9ca01091e3d0bbef88f7",
+      "image_bytes": 101708,
+      "source_url": "https://www.tcgcollector.com/cards/3735/happiny-mysterious-treasures-52-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 52
+    },
+    {
+      "id": 3736,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Lairon",
+      "number": "53",
+      "number_value": 53,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/19/f0/91/19f0914349c083f664305a99a9b83fb2bb4c01d9680f92f9b2cd33f49348922e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c6/88/41/c688418cfc8463e6b53a1fa63b10b3de04a03638dc03628d4b702b657a315872.jpg",
+      "image_path": "images/cards/1133/53-3736.webp",
+      "image_sha256": "ee34c9a363e00e5b7638f1eaeeb2bf8c0514132410874496ea292dcd34d81a69",
+      "image_bytes": 127817,
+      "source_url": "https://www.tcgcollector.com/cards/3736/lairon-mysterious-treasures-53-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 53
+    },
+    {
+      "id": 3737,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Magmar",
+      "number": "54",
+      "number_value": 54,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/0f/3d/85/0f3d855465ce55c945280473508e35c82d9d7185e1eaecd39e3af6080a7fdef2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e7/99/dd/e799dd8adbbd726ccff75f837b22ccae79e61e47017423eff488642a0868769b.jpg",
+      "image_path": "images/cards/1133/54-3737.webp",
+      "image_sha256": "1567ec2780455c8e09bcf8c98059581ff0f428d20aee3beb0b374e0279cd49b1",
+      "image_bytes": 104689,
+      "source_url": "https://www.tcgcollector.com/cards/3737/magmar-mysterious-treasures-54-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 54
+    },
+    {
+      "id": 3738,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Masquerain",
+      "number": "55",
+      "number_value": 55,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d8/3f/8f/d83f8fe6caf0d292411ba7f6dbdca7d8bacf8586d34ff20a63c0ab91e0f07bd6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/05/a1/fd/05a1fd3a0488b44aa508705b8ed5316f2b9eb654e1195e2446ddf4f1e692c335.jpg",
+      "image_path": "images/cards/1133/55-3738.webp",
+      "image_sha256": "a7a3a166b5cb79386e39afe10308c855f2103c6852a1ea314ed0389132268322",
+      "image_bytes": 111546,
+      "source_url": "https://www.tcgcollector.com/cards/3738/masquerain-mysterious-treasures-55-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 55
+    },
+    {
+      "id": 3739,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Nidorina",
+      "number": "56",
+      "number_value": 56,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/58/1b/9e/581b9eedba79e9b2f11a5398c0ecbcf0369d1700522c754e13377cfdfcce15b1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/00/57/06/0057069905325d346198cb180a354d3802f5151d7faeb8eee76bf1bf3fc0dc9c.jpg",
+      "image_path": "images/cards/1133/56-3739.webp",
+      "image_sha256": "eaf677372e70c201107d2ded155721b07ecf8726d64672ec07943509aa0e6c04",
+      "image_bytes": 100374,
+      "source_url": "https://www.tcgcollector.com/cards/3739/nidorina-mysterious-treasures-56-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 56
+    },
+    {
+      "id": 3740,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Octillery",
+      "number": "57",
+      "number_value": 57,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b4/0d/5f/b40d5f9f6fe701a2daf381c3b43e1bcc19101cb1fb186afea2a5473c150cb64b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/50/32/7a/50327ad7edf25bac387e91805932412dca2bb0e088be1730a84d9c7e0bdc32bc.jpg",
+      "image_path": "images/cards/1133/57-3740.webp",
+      "image_sha256": "5624496b81a63ea7dc6a7d8807e2eb8579c7f7b1edd93bdcaaea7d8588859e84",
+      "image_bytes": 131656,
+      "source_url": "https://www.tcgcollector.com/cards/3740/octillery-mysterious-treasures-57-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 57
+    },
+    {
+      "id": 3741,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Parasect",
+      "number": "58",
+      "number_value": 58,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/3c/9f/ba/3c9fba9fcd2eb3bb582bf81679b19a1032909643238bf58494f5127e45230067.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/54/35/9f/54359ffc1bd40db6103628131b9352a2bb3def2a5f3979f2e752d479b5ef97f1.jpg",
+      "image_path": "images/cards/1133/58-3741.webp",
+      "image_sha256": "93fda5186bafc5cdcc71f32fa5960f3a31461eb80bbfcd1e2c52c011ffc0abc2",
+      "image_bytes": 110323,
+      "source_url": "https://www.tcgcollector.com/cards/3741/parasect-mysterious-treasures-58-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 58
+    },
+    {
+      "id": 3742,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Pupitar",
+      "number": "59",
+      "number_value": 59,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/58/b2/78/58b278a18ee941d73d346111e954e5381407846c9f5d84a807939ccf34c7fd60.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/93/48/2e/93482e9255458cb31e9d9e6962159a76bd20afe7f542dec178880b42cf61b327.jpg",
+      "image_path": "images/cards/1133/59-3742.webp",
+      "image_sha256": "33e3ad05067818f8084508a7a66a1d754b1791f1524e3e8d3f11deb62202611c",
+      "image_bytes": 112251,
+      "source_url": "https://www.tcgcollector.com/cards/3742/pupitar-mysterious-treasures-59-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 59
+    },
+    {
+      "id": 3743,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Quilava",
+      "number": "60",
+      "number_value": 60,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ee/07/ba/ee07ba66d06b70c5921ff09c885a8631e5cd92542a89ffe70e3d8e2b7be5bc89.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5b/c4/fd/5bc4fd9fac45a327138e3c14426aca443021d25743fc7f0e2859494d35925bc5.jpg",
+      "image_path": "images/cards/1133/60-3743.webp",
+      "image_sha256": "9c165dae555863c19f67cbf2c8e1e69e8f80e5a6ed243ab4baf4572063ecd646",
+      "image_bytes": 98797,
+      "source_url": "https://www.tcgcollector.com/cards/3743/quilava-mysterious-treasures-60-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 60
+    },
+    {
+      "id": 3744,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Sandslash",
+      "number": "61",
+      "number_value": 61,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/3f/a2/dd/3fa2dd0e7ee6f48c76c3043c766eb376d8e975f2ab6671d1e85524732c276648.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bc/08/53/bc0853cf087d0381d468d193d30bb5ae91a2bdbaba98cb9f3000eb42eb13315b.jpg",
+      "image_path": "images/cards/1133/61-3744.webp",
+      "image_sha256": "5026066b1cde15e96c3785b57ca6f422b1c4bb46194dc0610ac362f4ec0e2d57",
+      "image_bytes": 101746,
+      "source_url": "https://www.tcgcollector.com/cards/3744/sandslash-mysterious-treasures-61-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 61
+    },
+    {
+      "id": 3745,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Sealeo",
+      "number": "62",
+      "number_value": 62,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d7/92/0e/d7920e4e0e08539ead7161952aa3acfd85ad92e1d60c5c677631794a4bf68927.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e5/8e/6f/e58e6fed366c6bc5e1b7eb84416db8e9e92e45b6a06fc2924a0f8f9cec8068d0.jpg",
+      "image_path": "images/cards/1133/62-3745.webp",
+      "image_sha256": "2480a393928e2c41193592345f35363fb5653515bf0520df3d607e9d1c7f81ba",
+      "image_bytes": 106097,
+      "source_url": "https://www.tcgcollector.com/cards/3745/sealeo-mysterious-treasures-62-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 62
+    },
+    {
+      "id": 3746,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Shieldon",
+      "number": "63",
+      "number_value": 63,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/e0/e1/76/e0e176863284f49cc66a7b01819bce97f06500f000383d19abc191025661801f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c8/33/a9/c833a949903f1664206e167a2c21a08884733edc89ecbfe4f665fffb22528c0b.jpg",
+      "image_path": "images/cards/1133/63-3746.webp",
+      "image_sha256": "9f2efbf1acd44d37138475e37cf91afd923bf85745182da6a1cc37254ac56abd",
+      "image_bytes": 137675,
+      "source_url": "https://www.tcgcollector.com/cards/3746/shieldon-mysterious-treasures-63-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 63
+    },
+    {
+      "id": 3747,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Tropius",
+      "number": "64",
+      "number_value": 64,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d6/96/e7/d696e74a21984914e08fbd7446bbd5f11b847a91f94cb4bb75a278f64142e78c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/09/37/d4/0937d45ec8fe4358a699da118a29d0027353cf70271ce7c2aca187d775e45081.jpg",
+      "image_path": "images/cards/1133/64-3747.webp",
+      "image_sha256": "a0c83da290a9ee992c2be71975324140bb24c9e955cdd6954b07f24bccb86ec2",
+      "image_bytes": 106687,
+      "source_url": "https://www.tcgcollector.com/cards/3747/tropius-mysterious-treasures-64-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 64
+    },
+    {
+      "id": 3748,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Unown E",
+      "number": "65",
+      "number_value": 65,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/14/66/8a/14668a074ba3acd35ff9f926b8072900d6b3972a9bf7f4904f40de80afcd38c2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a0/9f/7b/a09f7b001057b34bcefede7e98a4d4f727a3c6ccb2651fba7e3273ffb20451e9.jpg",
+      "image_path": "images/cards/1133/65-3748.webp",
+      "image_sha256": "042694415e0a9846cf90af67f2750b619b48d57d3a52118837978cd268f8cf52",
+      "image_bytes": 109672,
+      "source_url": "https://www.tcgcollector.com/cards/3748/unown-e-mysterious-treasures-65-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 65
+    },
+    {
+      "id": 3749,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Unown M",
+      "number": "66",
+      "number_value": 66,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/81/45/ca/8145ca425ef07dde29bf8e462ce7fe63859e5299138d0f2b73d22424b7db0cb6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/29/d2/b7/29d2b78269cea96d3c7460cd792e49729e834e6abb6d8e222c1891838bb3b4ff.jpg",
+      "image_path": "images/cards/1133/66-3749.webp",
+      "image_sha256": "a1ba838374ee09d2fab704adfa3909bd35a049cf522bfcc66997f9c1f7926a84",
+      "image_bytes": 117011,
+      "source_url": "https://www.tcgcollector.com/cards/3749/unown-m-mysterious-treasures-66-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 66
+    },
+    {
+      "id": 3750,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Unown T",
+      "number": "67",
+      "number_value": 67,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/cb/dc/31/cbdc31ba1ca125493ae0b8b73daa1eff079732a15f368fbfc85914e76b978e67.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8f/03/f9/8f03f9a28d4534b7907aaa56790154561efd15b5bdf7bd2c0cbff5501982f21e.jpg",
+      "image_path": "images/cards/1133/67-3750.webp",
+      "image_sha256": "f7001c85415e8242b8b1f6a9c378d8eb260f7a677ef8020bdd5f99f609974683",
+      "image_bytes": 108447,
+      "source_url": "https://www.tcgcollector.com/cards/3750/unown-t-mysterious-treasures-67-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 67
+    },
+    {
+      "id": 3751,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Vigoroth",
+      "number": "68",
+      "number_value": 68,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/52/fa/d5/52fad574fe3bd3aa7b7ca67b1ed85f8f92d1a15dfe4cc4dd3fa1acb5c774dcdf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f5/d2/da/f5d2da69c2bd8a2f2e9c8ba9082843932a0b59ebfb51c74fffae417fe4bc4592.jpg",
+      "image_path": "images/cards/1133/68-3751.webp",
+      "image_sha256": "dbde7098fa9a1ecd99f45591d07f6bbd8f0d065c072f221aed6f5611617acaa4",
+      "image_bytes": 105562,
+      "source_url": "https://www.tcgcollector.com/cards/3751/vigoroth-mysterious-treasures-68-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 68
+    },
+    {
+      "id": 3752,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Abra",
+      "number": "69",
+      "number_value": 69,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/cc/74/04/cc7404e87e71ed3f1c2bee7876453a6dba8e80114f3bd9b221878ba1000f605c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b3/bf/86/b3bf867252eef12b9220298f4f7285bd5f19a2c279bf2d9c17b1d311517d2cbf.jpg",
+      "image_path": "images/cards/1133/69-3752.webp",
+      "image_sha256": "e1ec3b56ba54e0079601095683fc6753983f9f5617c5794790f29e0a91fd3728",
+      "image_bytes": 108289,
+      "source_url": "https://www.tcgcollector.com/cards/3752/abra-mysterious-treasures-69-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 69
+    },
+    {
+      "id": 3753,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Aipom",
+      "number": "70",
+      "number_value": 70,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/22/eb/a0/22eba0caeff8ea2f5de474f40b04144abbd8bd25763097c2c234298ee8e20f48.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ab/66/03/ab66033c95904757e1f1ae61545e65531e4d2b6e453446ff30497398b6168354.jpg",
+      "image_path": "images/cards/1133/70-3753.webp",
+      "image_sha256": "3d04eab44bf3085087378eb7d7900723b8354caf4593038647e87b892090da44",
+      "image_bytes": 113207,
+      "source_url": "https://www.tcgcollector.com/cards/3753/aipom-mysterious-treasures-70-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 70
+    },
+    {
+      "id": 3754,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Aron",
+      "number": "71",
+      "number_value": 71,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ae/24/77/ae24773ec3eb758917f5d8d32a2bb27c28d5edb9ed257fa63e108702ad4dddc7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/54/1e/8e/541e8ea03689c14c95ac4c0a8e2ef7da5b450a32110d9727939cfa4dd6d69dce.jpg",
+      "image_path": "images/cards/1133/71-3754.webp",
+      "image_sha256": "b97a3961b3438112f84c8939c076c76b9a834402500b68b7c5974847ed46e754",
+      "image_bytes": 117708,
+      "source_url": "https://www.tcgcollector.com/cards/3754/aron-mysterious-treasures-71-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 71
+    },
+    {
+      "id": 3755,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Barboach",
+      "number": "72",
+      "number_value": 72,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ea/e4/d7/eae4d762770105fb4a7ab7a65067ee92d7648fe4bd4b126a9cb6d4fe1e332c3b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0b/74/fa/0b74fa1b5a20ad88c859d5d3113a49de40c84e6484b09efed4ab36a1ed708170.jpg",
+      "image_path": "images/cards/1133/72-3755.webp",
+      "image_sha256": "9691b8e748c06d30d2ed3e35282368829c537b76659a0c086da5f4cd27136283",
+      "image_bytes": 101499,
+      "source_url": "https://www.tcgcollector.com/cards/3755/barboach-mysterious-treasures-72-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 72
+    },
+    {
+      "id": 9555,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1298
+      ],
+      "name": "Bidoof",
+      "number": "73",
+      "number_value": 73,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ec/83/c3/ec83c3ee6238ead252f1024fc6ca01c98bc18aec4cfe61fd724eae57b3529b07.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/32/e6/47/32e6479887be8f12ec1118c1dff533e4094028e6fa5b26b15ba90a0e5342e726.jpg",
+      "image_path": "images/cards/1133/73-9555.webp",
+      "image_sha256": "156df3cad8599815a0cc534f226bd1a85d6069316b3cf9a1af6b3a375aede497",
+      "image_bytes": 93618,
+      "source_url": "https://www.tcgcollector.com/cards/9555/bidoof-mysterious-treasures-73-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 73
+    },
+    {
+      "id": 3756,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1298
+      ],
+      "name": "Bronzor",
+      "number": "74",
+      "number_value": 74,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/07/52/6e/07526e49cb8502adb44e105dab5faafee628820bef36a7c904c83adabd45b32f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8b/0d/96/8b0d96974e382105c273cd1aef978d0c44ebd30e60f883d65e0e2f186a7dccf1.jpg",
+      "image_path": "images/cards/1133/74-3756.webp",
+      "image_sha256": "16aaf27fa7c6d52756fa1268eb5ddc6c003e3be0e25dca3473a1d3803f1347df",
+      "image_bytes": 120127,
+      "source_url": "https://www.tcgcollector.com/cards/3756/bronzor-mysterious-treasures-74-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 74
+    },
+    {
+      "id": 9556,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Buizel",
+      "number": "75",
+      "number_value": 75,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/4c/6c/9f/4c6c9f444bdfed2b338f48e809f93c8a0ba9b8b54b6b872fc1815292f953ef7f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1b/4c/76/1b4c76568391401a9eb38507caedac3059d2e864dd27b3afa77892618d5249e0.jpg",
+      "image_path": "images/cards/1133/75-9556.webp",
+      "image_sha256": "947b12e49564cc1f2e4a788e77abdcb74779638dc7becfe2dcbd46ea3f87b940",
+      "image_bytes": 100222,
+      "source_url": "https://www.tcgcollector.com/cards/9556/buizel-mysterious-treasures-75-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 75
+    },
+    {
+      "id": 3757,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1238
+      ],
+      "name": "Chansey",
+      "number": "76",
+      "number_value": 76,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/91/2d/28/912d283e41507700c21277021a3c9498a8deb3c04854ede84573c21d34f58820.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d8/34/98/d8349813392a7c2ceb6f1fa2d017e33d0e5d184c1c5bf8ee96d7f1d17781926a.jpg",
+      "image_path": "images/cards/1133/76-3757.webp",
+      "image_sha256": "78fba9c4ad5dd22dfd197b891cfb3447e3f93a123017ba5df6d9a12d418af1cd",
+      "image_bytes": 95910,
+      "source_url": "https://www.tcgcollector.com/cards/3757/chansey-mysterious-treasures-76-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 76
+    },
+    {
+      "id": 3758,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Chikorita",
+      "number": "77",
+      "number_value": 77,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/52/9c/bf/529cbf43d0e942682f945a7cf638d7c00a076eec2bc731bfb38b877d75118f74.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/00/20/90/00209062dd99788ee217629f90c92d5a7aaa12c878fd28ba97646abc6db2faa6.jpg",
+      "image_path": "images/cards/1133/77-3758.webp",
+      "image_sha256": "c31d670675cfcdc687eb4101316d0f024f95b518a6955dab8cc38b1025006c77",
+      "image_bytes": 99907,
+      "source_url": "https://www.tcgcollector.com/cards/3758/chikorita-mysterious-treasures-77-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 77
+    },
+    {
+      "id": 3759,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Croagunk",
+      "number": "78",
+      "number_value": 78,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/21/63/93/2163939aaf0fe3329da27fd1665f93c52f75e31912af02a7d49b7fd278bb3f50.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8b/4b/0f/8b4b0f70821d7160113f108c3507cad243100ad1d7be669d8313139cec554a01.jpg",
+      "image_path": "images/cards/1133/78-3759.webp",
+      "image_sha256": "eb9e6700584a8ba0849350bafcaeb0233a3edc5f9ee84647842637e444f637e0",
+      "image_bytes": 105521,
+      "source_url": "https://www.tcgcollector.com/cards/3759/croagunk-mysterious-treasures-78-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 78
+    },
+    {
+      "id": 3760,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Cyndaquil",
+      "number": "79",
+      "number_value": 79,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/0c/5f/39/0c5f393dfda3597bbb34f8c51dad0f13428ef8241b38707eb7f7b0a7bef9f0ca.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/aa/bf/c0/aabfc05e3b6183ef6f95082a627613605603b04969e75e2d3fd7871ccaffdc8e.jpg",
+      "image_path": "images/cards/1133/79-3760.webp",
+      "image_sha256": "6a7d7cfcd312820ecc232fd04605b2e6b8151c833ae814c511e88b612c450a5b",
+      "image_bytes": 100505,
+      "source_url": "https://www.tcgcollector.com/cards/3760/cyndaquil-mysterious-treasures-79-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 79
+    },
+    {
+      "id": 3761,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Doduo",
+      "number": "80",
+      "number_value": 80,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/3b/e1/b4/3be1b4d9a5a9168322e50530f4b191fa0ba693098c79441136b7063350bd2009.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/81/f0/19/81f0196e1febd9f9d59982d9fb71e6e2924df31d9ee0a1a723b9d16d970c81aa.jpg",
+      "image_path": "images/cards/1133/80-3761.webp",
+      "image_sha256": "c24dec21bb83099078e4fab2b1899d38d51e7cc133849c13383dd33bb272134b",
+      "image_bytes": 96742,
+      "source_url": "https://www.tcgcollector.com/cards/3761/doduo-mysterious-treasures-80-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 80
+    },
+    {
+      "id": 3762,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Electrike",
+      "number": "81",
+      "number_value": 81,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f6/7a/a3/f67aa357cdc30611c931f8615222884caa4a1b201b8e28e2d9a1ae79b0e92e99.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/08/3c/58/083c58ffadfeb7d669e48ef64416995ccb53a2a23a495220870b12f3828e2b35.jpg",
+      "image_path": "images/cards/1133/81-3762.webp",
+      "image_sha256": "08bf8d3d775d0ceb48d8c11b073a369dd0c09651972b2adb60b664b60591b290",
+      "image_bytes": 104586,
+      "source_url": "https://www.tcgcollector.com/cards/3762/electrike-mysterious-treasures-81-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 81
+    },
+    {
+      "id": 3763,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Exeggcute",
+      "number": "82",
+      "number_value": 82,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e4/51/b1/e451b12390631f46f71fe251bf364511d76568b98ff951060d5036b0f36e1b7e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/26/aa/17/26aa17c6868c4e1db664b5fcd49dca82f449c95803b3d24c245ca624c42329cf.jpg",
+      "image_path": "images/cards/1133/82-3763.webp",
+      "image_sha256": "274889444f590d9df25f277978aaa5a8867231c4b381d38774fb50da66e07299",
+      "image_bytes": 127646,
+      "source_url": "https://www.tcgcollector.com/cards/3763/exeggcute-mysterious-treasures-82-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 82
+    },
+    {
+      "id": 3764,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Finneon",
+      "number": "83",
+      "number_value": 83,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f2/40/26/f240260d49165731f600a48d8bdb77758752db1ebadf36f112d66c0b05e7f32c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/37/8e/32/378e323de570e29e76d9810e14a9bd85c17bd421d21b97b79365e28d693cdb56.jpg",
+      "image_path": "images/cards/1133/83-3764.webp",
+      "image_sha256": "c641fcc38857d93b95becd88f32498e14ace115d547699fcecf84e86dcaf9e2b",
+      "image_bytes": 95464,
+      "source_url": "https://www.tcgcollector.com/cards/3764/finneon-mysterious-treasures-83-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 83
+    },
+    {
+      "id": 3765,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Geodude",
+      "number": "84",
+      "number_value": 84,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/4d/69/09/4d6909ba8878dc74425a0cc7de7c4b49762b5055807e3b3c9154f1647a272409.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6e/e2/de/6ee2de500bd19628f3dc83a3d70f62a4f49ce47ebfdf8fb6654dad92f48ced45.jpg",
+      "image_path": "images/cards/1133/84-3765.webp",
+      "image_sha256": "fc3012df82ff77ad71d9b9aa7123d526df24ff463ac0a3ecbda640724413058d",
+      "image_bytes": 107605,
+      "source_url": "https://www.tcgcollector.com/cards/3765/geodude-mysterious-treasures-84-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 84
+    },
+    {
+      "id": 3766,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Gible",
+      "number": "85",
+      "number_value": 85,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/aa/75/2a/aa752a715ea7a5a0e618a90ff9f231dd7bd3bd228d366fa544c9cb0df7425a78.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/df/9f/e2/df9fe2779d9e62c68bf41945cf1778e2e992a6013ddf5861d4fd4638515ea90a.jpg",
+      "image_path": "images/cards/1133/85-3766.webp",
+      "image_sha256": "fe8b192d692f68af5f29219d8cc2fe2f8b5ca007e8adea3b3cf98fa2e4a5d45e",
+      "image_bytes": 107436,
+      "source_url": "https://www.tcgcollector.com/cards/3766/gible-mysterious-treasures-85-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 85
+    },
+    {
+      "id": 3767,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1298
+      ],
+      "name": "Kricketot",
+      "number": "86",
+      "number_value": 86,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/26/4a/1b/264a1b0dc087555a47eba51ed7655928580c87fd9969fd78a471f013815edb32.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/df/5f/ec/df5fecea9180b581bc66950bfcbbc20006cddf49a5eeff7e717928e3f953f6fc.jpg",
+      "image_path": "images/cards/1133/86-3767.webp",
+      "image_sha256": "e9675a4743a7cd6315d80ce819400853da24116990021c2fe17984efa6f9b7ff",
+      "image_bytes": 93473,
+      "source_url": "https://www.tcgcollector.com/cards/3767/kricketot-mysterious-treasures-86-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 86
+    },
+    {
+      "id": 3768,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Larvitar",
+      "number": "87",
+      "number_value": 87,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/89/e4/65/89e4655863655e414a69987f6a8c55631a5c6edc2dc446bddbedb3342784c720.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/46/3d/55/463d559fafc72cd3683e5ff78917576cbf3f6cca53eee75446a33ba420aa75b7.jpg",
+      "image_path": "images/cards/1133/87-3768.webp",
+      "image_sha256": "d4af5b14e2067ad8becb076feb93bf498a1feeac99e988dde3d53648998a57ee",
+      "image_bytes": 119444,
+      "source_url": "https://www.tcgcollector.com/cards/3768/larvitar-mysterious-treasures-87-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 87
+    },
+    {
+      "id": 3769,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Magby",
+      "number": "88",
+      "number_value": 88,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/42/19/19/42191903f3e51ac5018b4e4953f4ad262831f6025f44c2809d89071a9e9d25de.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/40/bd/5c/40bd5cd7d6007ea6c8c42f53f8c79321763b03de668b8cd04996dc9c92c4f82b.jpg",
+      "image_path": "images/cards/1133/88-3769.webp",
+      "image_sha256": "4ad15304e3d3dd8592f2eb0048b12af3fbcb64000b7890730e4facbdc3926fac",
+      "image_bytes": 121597,
+      "source_url": "https://www.tcgcollector.com/cards/3769/magby-mysterious-treasures-88-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 88
+    },
+    {
+      "id": 3770,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Magikarp",
+      "number": "89",
+      "number_value": 89,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/aa/6c/7d/aa6c7d4ef6eb4d1e7ae2107ae9951b8e2a04edb2465001aa2544e49644675463.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/75/79/dc/7579dc6a2dd4836b88f305aa51dfcf002bbfea4a091e0ab1d5c8f7bad664c411.jpg",
+      "image_path": "images/cards/1133/89-3770.webp",
+      "image_sha256": "de763a30d765014e820e49a72a94219de6114dba16572f9f7657e0cf2f1be266",
+      "image_bytes": 113557,
+      "source_url": "https://www.tcgcollector.com/cards/3770/magikarp-mysterious-treasures-89-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 89
+    },
+    {
+      "id": 3771,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Murkrow",
+      "number": "90",
+      "number_value": 90,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/04/40/75/044075f1f36e63dbda4297231fe94470ce0949c984bfc7219fb86366d4f9e63f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f0/c3/df/f0c3dfb65517be57b76078d1ce939008385097c49aab4be2ebfb8fc96c155e3c.jpg",
+      "image_path": "images/cards/1133/90-3771.webp",
+      "image_sha256": "a21e03885c9ae0ebc37b240a1c69f32f188354e162bd885c456f6c03402c570e",
+      "image_bytes": 99155,
+      "source_url": "https://www.tcgcollector.com/cards/3771/murkrow-mysterious-treasures-90-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 90
+    },
+    {
+      "id": 3772,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Nidoran ♀",
+      "number": "91",
+      "number_value": 91,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ed/9e/8b/ed9e8b481de072a739be71f7c3c308c71abe52e95f6fc559efcc988dd49314e1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/df/1a/08/df1a08b219aa25cc931374ebc6c610cbb06709b565f4e1a2cda725187b28eac6.jpg",
+      "image_path": "images/cards/1133/91-3772.webp",
+      "image_sha256": "4022121f8b6ccf7a329ad27b762ae41363e2e2c4a2110c8e5689a2fbc8582bab",
+      "image_bytes": 104704,
+      "source_url": "https://www.tcgcollector.com/cards/3772/nidoran-female-mysterious-treasures-91-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 91
+    },
+    {
+      "id": 3773,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Paras",
+      "number": "92",
+      "number_value": 92,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ac/22/0e/ac220ebd263ef230b0e2a0d5c1eb84359cf024fd94f8ee92cb81320dfeaefbfd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/af/00/02/af0002bc9608172dd861d6eda3e630918472e6a13553324c0e373943dd9d6497.jpg",
+      "image_path": "images/cards/1133/92-3773.webp",
+      "image_sha256": "8e00b48a27ed2a8c0f54f262abc6dfa59394a2069d4d18fe5b913d0f4b760498",
+      "image_bytes": 101343,
+      "source_url": "https://www.tcgcollector.com/cards/3773/paras-mysterious-treasures-92-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 92
+    },
+    {
+      "id": 3774,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Pichu",
+      "number": "93",
+      "number_value": 93,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/7b/fb/77/7bfb77fa6741e25544977a766a41e1ae58df79bed302bed1c7d826192c9fe889.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/08/b4/44/08b444e6586297fb6a0cba1a063d02528244a17faf28c4f35eb6e43640480af9.jpg",
+      "image_path": "images/cards/1133/93-3774.webp",
+      "image_sha256": "bee5955b3a028ed5f85f59e073dca84bfa5dca1d655ef63b2973d0fc35698afd",
+      "image_bytes": 92636,
+      "source_url": "https://www.tcgcollector.com/cards/3774/pichu-mysterious-treasures-93-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 93
+    },
+    {
+      "id": 3775,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1296
+      ],
+      "name": "Pikachu",
+      "number": "94",
+      "number_value": 94,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f2/11/18/f21118d756409250fc90dfc5ac66d2999cd215dd7c0c4d7e9ecf907c0956c00e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/17/36/a5/1736a5f3b808dc737a810fe49bdcb0975a4bfd641322725c8c603b69ef7fd72a.jpg",
+      "image_path": "images/cards/1133/94-3775.webp",
+      "image_sha256": "a04ea59c1cf17e8764c9107917141b7d2b1b90d6699d8a1401396d8c9c507794",
+      "image_bytes": 113044,
+      "source_url": "https://www.tcgcollector.com/cards/3775/pikachu-mysterious-treasures-94-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 94
+    },
+    {
+      "id": 3776,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Remoraid",
+      "number": "95",
+      "number_value": 95,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/44/fc/41/44fc4174c630c0eb769a48e5545022f8b755b0ad80f1385912d97f7df0421a8e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b2/3f/61/b23f6159b1a3ca94b7467fd49ba6e501451c17e6fc24c601dd7115d5e3301915.jpg",
+      "image_path": "images/cards/1133/95-3776.webp",
+      "image_sha256": "e5bfa3021f02bc2eaf20639f74a9cf8278ab0c3c7e1134d100da704b7e6e800a",
+      "image_bytes": 105184,
+      "source_url": "https://www.tcgcollector.com/cards/3776/remoraid-mysterious-treasures-95-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 95
+    },
+    {
+      "id": 3777,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Sandshrew",
+      "number": "96",
+      "number_value": 96,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/45/4e/a4/454ea4225d62cca1a5aa6e3da2a31b0b867722f9f0e850cc64d361c5443853b6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fd/84/4f/fd844fa0b418c9e7a94dd7e8f9cc2cf228a3df60c64ab6a3366440d6545d763a.jpg",
+      "image_path": "images/cards/1133/96-3777.webp",
+      "image_sha256": "8a0c818cbb90e8ec711bd72a71c54404acf88d7a5262094620a5e670d495056d",
+      "image_bytes": 106129,
+      "source_url": "https://www.tcgcollector.com/cards/3777/sandshrew-mysterious-treasures-96-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 96
+    },
+    {
+      "id": 3778,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Seel",
+      "number": "97",
+      "number_value": 97,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/46/c7/ee/46c7ee06d0b2d570e5d8e5e3eff7dac486c21e28cfd27a4691adca697d1ff5ad.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9b/b5/aa/9bb5aa59b943ce8a2a68414f7d97fd81d354c16d7d006dbe678ecffff524879b.jpg",
+      "image_path": "images/cards/1133/97-3778.webp",
+      "image_sha256": "d3462b8d506656d8f4ec197deb468a72e1cf6d8e50262df11c5668a6aa452ed9",
+      "image_bytes": 102230,
+      "source_url": "https://www.tcgcollector.com/cards/3778/seel-mysterious-treasures-97-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 97
+    },
+    {
+      "id": 9557,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1298
+      ],
+      "name": "Shinx",
+      "number": "98",
+      "number_value": 98,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e3/a7/7d/e3a77d828ad94fb821b818804a17e2db901bcc6fed357514b56d95bc750ad3e7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a2/13/7f/a2137fcbbed2ed8ba7e4dcae9a7da06b31cae26372919e0d72b2d510ea33c7b4.jpg",
+      "image_path": "images/cards/1133/98-9557.webp",
+      "image_sha256": "a47747023961eb7752f6a43e95948576168a8f56576903e641821b82c2468a35",
+      "image_bytes": 95968,
+      "source_url": "https://www.tcgcollector.com/cards/9557/shinx-mysterious-treasures-98-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 98
+    },
+    {
+      "id": 3779,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Slakoth",
+      "number": "99",
+      "number_value": 99,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a3/3b/2f/a33b2f44f6c019e1ea8a03255a1348482cbf0512c9f59bb2306a9d587daf4fdc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/79/62/17/796217cacd23460411052b0af5369d70004e82ee4cf9cea91685324094c7465a.jpg",
+      "image_path": "images/cards/1133/99-3779.webp",
+      "image_sha256": "7094223a514f5244e15a1059d961eceb220c291f4f86a6004ccc5468fd024c6c",
+      "image_bytes": 88056,
+      "source_url": "https://www.tcgcollector.com/cards/3779/slakoth-mysterious-treasures-99-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 99
+    },
+    {
+      "id": 3780,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Snorunt",
+      "number": "100",
+      "number_value": 100,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/65/bd/4f/65bd4f938ab7b90756ab4538d7c952c65576c209c0f0df52917fc0467cc24e12.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5a/c1/be/5ac1be6dd0d1e0e282dd6f312a5e35e4c8ed515f7e53b4a6505c20753a831b95.jpg",
+      "image_path": "images/cards/1133/100-3780.webp",
+      "image_sha256": "26df9180352de9a8ba67a69dbecc952dbbef9cc55fc10a3bdd4037f213a00fc5",
+      "image_bytes": 106502,
+      "source_url": "https://www.tcgcollector.com/cards/3780/snorunt-mysterious-treasures-100-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 100
+    },
+    {
+      "id": 3781,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1298
+      ],
+      "name": "Snover",
+      "number": "101",
+      "number_value": 101,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/d9/56/02/d95602aff49d5c72fae64280919849e92cdf2f2763a389dac44c26f354461bdb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3e/a9/d7/3ea9d793b4a58b0ee30072b9e14b716da918df8fc010a48dd910c15ee1e146ee.jpg",
+      "image_path": "images/cards/1133/101-3781.webp",
+      "image_sha256": "a89441371525a9a1462136e5e489de1758c7874bd142beba5910ec8c937400e8",
+      "image_bytes": 100103,
+      "source_url": "https://www.tcgcollector.com/cards/3781/snover-mysterious-treasures-101-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 101
+    },
+    {
+      "id": 3782,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Spheal",
+      "number": "102",
+      "number_value": 102,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/fa/0f/08/fa0f08be4b39791ef270247700a5bb1e4075cca59ea1a6a276f05132cd186b12.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dd/88/6d/dd886d1456546158d9c9f048fd4984e0639ce88b86da6bcd31b3fdf69fd13ea7.jpg",
+      "image_path": "images/cards/1133/102-3782.webp",
+      "image_sha256": "7f9e2d069fcf51c7b1ca9e7c04f4adb11343290ef4b63bcd898d87422f042001",
+      "image_bytes": 103230,
+      "source_url": "https://www.tcgcollector.com/cards/3782/spheal-mysterious-treasures-102-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 102
+    },
+    {
+      "id": 3783,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Spinarak",
+      "number": "103",
+      "number_value": 103,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/fc/06/01/fc06012ee4ba28a188d0a125974913204ad52d2710bd0b6532a402804e022fcb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/22/5b/5f/225b5f021fc02b53582d92e664bbe2a931e64eeb290e6345788de42ccdd16ac9.jpg",
+      "image_path": "images/cards/1133/103-3783.webp",
+      "image_sha256": "2d986e37fa0325d939b46f622a0a9374ae2300b36ca10c18c9b15beb9d59d034",
+      "image_bytes": 111644,
+      "source_url": "https://www.tcgcollector.com/cards/3783/spinarak-mysterious-treasures-103-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 103
+    },
+    {
+      "id": 3784,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Surskit",
+      "number": "104",
+      "number_value": 104,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/5a/7a/39/5a7a396a8f02e1497797804e7cfee8486adc4322f4e7ae28916f5d91aa373bd0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2f/c7/35/2fc735b1c4d13e497ede5e63231e055aa0452eecaa7c14e31b63259163e2430d.jpg",
+      "image_path": "images/cards/1133/104-3784.webp",
+      "image_sha256": "debaea40464681cfd2e755d7dd9de2aafeb39cc8dba9b437963aa322043b3213",
+      "image_bytes": 96877,
+      "source_url": "https://www.tcgcollector.com/cards/3784/surskit-mysterious-treasures-104-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 104
+    },
+    {
+      "id": 3785,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Teddiursa",
+      "number": "105",
+      "number_value": 105,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/42/0c/8c/420c8c7a3402fcd127c9ce0d59ee5f8385577504c88d1dfb8610b8ae4917e339.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/14/06/3d/14063d4ec0618515bcbf393afe5fbd93e2708538290a984357d6dfb674979c2e.jpg",
+      "image_path": "images/cards/1133/105-3785.webp",
+      "image_sha256": "9f0337cb691de4e650f2630a6cc5396268c8d48814fc5ce01dc8f46da1c47b81",
+      "image_bytes": 94402,
+      "source_url": "https://www.tcgcollector.com/cards/3785/teddiursa-mysterious-treasures-105-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 105
+    },
+    {
+      "id": 3786,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Totodile",
+      "number": "106",
+      "number_value": 106,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/38/75/b4/3875b48179e9b561f666e2fe590f168afe4a37302c8a3aa6478fd3e81815ad83.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/16/34/e8/1634e86e5f2289ba7c020f82f78eb6c3476ec76377852c4fb659206a80a5f1f5.jpg",
+      "image_path": "images/cards/1133/106-3786.webp",
+      "image_sha256": "17bcda2f8231b781e7048d672fd996d3953f864ee2564aa89961f6a258d77a45",
+      "image_bytes": 104523,
+      "source_url": "https://www.tcgcollector.com/cards/3786/totodile-mysterious-treasures-106-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 106
+    },
+    {
+      "id": 3787,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Vulpix",
+      "number": "107",
+      "number_value": 107,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ed/83/fe/ed83fe8d9ca6d7d964faba3108daa1b57e82fd7bc370697efd6e10295241f4f3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/24/3f/66/243f66025f94307fdc049799d17996189eb373b4241807ed56ff15f6b0549e21.jpg",
+      "image_path": "images/cards/1133/107-3787.webp",
+      "image_sha256": "14b56e08852c98b636afa16a59b881d0a794742914ee9d0d30616fd20405dd7a",
+      "image_bytes": 91190,
+      "source_url": "https://www.tcgcollector.com/cards/3787/vulpix-mysterious-treasures-107-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 107
+    },
+    {
+      "id": 3788,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Zubat",
+      "number": "108",
+      "number_value": 108,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/48/b0/fd/48b0fd04af7cd3aed9ab2df8e5e9171ef873e4a4fcf15a399a62bca529e19f8b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3c/f1/da/3cf1daba5ecc66e7d14ac4155c4041eef038db2f38abb223f5a9bbaea4fab969.jpg",
+      "image_path": "images/cards/1133/108-3788.webp",
+      "image_sha256": "744b0ed7376c202add7bbd6a94efe4555bef28b86b48717376297faef4ad0b1b",
+      "image_bytes": 94519,
+      "source_url": "https://www.tcgcollector.com/cards/3788/zubat-mysterious-treasures-108-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 108
+    },
+    {
+      "id": 3789,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Bebe's Search",
+      "number": "109",
+      "number_value": 109,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/61/1e/01/611e01446c9d99f5b11a44687ae2962c889b475d9a4302858276ca85bffe214f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f4/78/bd/f478bdef14c16171891ab865cd1409333e20525c90c2772cde6926d05fab22c8.jpg",
+      "image_path": "images/cards/1133/109-3789.webp",
+      "image_sha256": "93aa7b59c7ffc9c505ebe47f97830940c61252a41927a2f77fe564f150894e4b",
+      "image_bytes": 110756,
+      "source_url": "https://www.tcgcollector.com/cards/3789/bebes-search-mysterious-treasures-109-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 109
+    },
+    {
+      "id": 3790,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Dusk Ball",
+      "number": "110",
+      "number_value": 110,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/13/9b/7f/139b7fafd34c2fc4223b29d31c3b75fc6d8680c30163554cae30ecaedc8bf5ab.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ae/ef/a1/aeefa1ecbb02d15aed19bdc441a17329f22a9ec6c0df8c1bf6a56d4dc76ae9c7.jpg",
+      "image_path": "images/cards/1133/110-3790.webp",
+      "image_sha256": "f7e5f8a56d78cf57f33295352b61cd29b68a4875c7bbd9dc87724afbbf92889a",
+      "image_bytes": 85076,
+      "source_url": "https://www.tcgcollector.com/cards/3790/dusk-ball-mysterious-treasures-110-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 110
+    },
+    {
+      "id": 3791,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Fossil Excavator",
+      "number": "111",
+      "number_value": 111,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/af/98/94/af98948acd56606f800fe08b01bb1c26f9af9f296b926e7315f94700a8c24bc8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cd/66/2b/cd662bd96ea976c5a7bc90d6fc621b3d8edb4ef477d8d3faee9e6ad7c936bfc8.jpg",
+      "image_path": "images/cards/1133/111-3791.webp",
+      "image_sha256": "38e27b9bb5df48f1737f47a94be29e30d4adef8f43918fb0231ee9483debe5c5",
+      "image_bytes": 109880,
+      "source_url": "https://www.tcgcollector.com/cards/3791/fossil-excavator-mysterious-treasures-111-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 111
+    },
+    {
+      "id": 3792,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1241
+      ],
+      "name": "Lake Boundary",
+      "number": "112",
+      "number_value": 112,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b3/cd/15/b3cd15da36e25764b32a28e11a152ce54ea656ddb524e19fdca4fbd23583d6bd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/20/e1/f7/20e1f712f1650cfe2d5bc5d6ebcb888f1956dfb6583ebc4dfa550f728637b36e.jpg",
+      "image_path": "images/cards/1133/112-3792.webp",
+      "image_sha256": "7089c16660eb1647a38b5df6f356b29bc4812f5d23607559da3b0730422b315a",
+      "image_bytes": 89317,
+      "source_url": "https://www.tcgcollector.com/cards/3792/lake-boundary-mysterious-treasures-112-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 112
+    },
+    {
+      "id": 3793,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Night Maintenance",
+      "number": "113",
+      "number_value": 113,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/3f/38/3b/3f383b4eb25bd0b9a7ba80e182268b78f2e410e6e2924417caebadeb296cf77f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/14/8f/1d/148f1dca4f277e1229cfa1b67f05702512cef90a72abc047c59a0a401a5f1e73.jpg",
+      "image_path": "images/cards/1133/113-3793.webp",
+      "image_sha256": "934d71fa5864f070d7489033c67cd03a87622f5424e9bd5fa90431e242274c75",
+      "image_bytes": 80857,
+      "source_url": "https://www.tcgcollector.com/cards/3793/night-maintenance-mysterious-treasures-113-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 113
+    },
+    {
+      "id": 3794,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Quick Ball",
+      "number": "114",
+      "number_value": 114,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/8f/0b/b2/8f0bb2009765b5646732aca32ea8136baf6eecdbeb9977438f19474bec68827d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/70/9e/f6/709ef6a7f10ef1f570f7f88a2fafccb31fa6e3101035e5f45543e8a3723cd8ec.jpg",
+      "image_path": "images/cards/1133/114-3794.webp",
+      "image_sha256": "efd654fcb54bfa863af78a805a2a39939596f937d0e4e396455f217c95204b8d",
+      "image_bytes": 93985,
+      "source_url": "https://www.tcgcollector.com/cards/3794/quick-ball-mysterious-treasures-114-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 114
+    },
+    {
+      "id": 3795,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1238,
+        1241
+      ],
+      "name": "Team Galactic's Wager",
+      "number": "115",
+      "number_value": 115,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/85/79/cc/8579ccd2902ea4c981d9eae456904da32527ddc73b461ac156db6a3635eb2dce.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/48/0c/2e/480c2e93634f2f3ea5d164d3d06385d5b457503c2d8fd5217740a9ce008c7272.jpg",
+      "image_path": "images/cards/1133/115-3795.webp",
+      "image_sha256": "1a7d4dccb23b324f0c14fefca6cff9a9531d4da1edf7c421446ab538b87b8ec0",
+      "image_bytes": 103204,
+      "source_url": "https://www.tcgcollector.com/cards/3795/team-galactics-wager-mysterious-treasures-115-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 115
+    },
+    {
+      "id": 3796,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Armor Fossil",
+      "number": "116",
+      "number_value": 116,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/2d/d8/34/2dd8346140ad72504fdabc792e68347a647f1fdcbc6479e0c7439e44f72ed435.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6a/81/b7/6a81b7de405a47d0aae3bbb4a0b84de1d557fd3d7d633c1a21c3e9f8fe028e3d.jpg",
+      "image_path": "images/cards/1133/116-3796.webp",
+      "image_sha256": "267a116dc0d2c16794d3cce1738b3e18ae692d533c8b6c7ee491c9358b357215",
+      "image_bytes": 103232,
+      "source_url": "https://www.tcgcollector.com/cards/3796/armor-fossil-mysterious-treasures-116-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 116
+    },
+    {
+      "id": 3797,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Skull Fossil",
+      "number": "117",
+      "number_value": 117,
+      "printed_total": 123,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/c9/3e/b3/c93eb33990c82b582af4ad492f0dac2bb472716b14206c4179139acb465d43a0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fb/b2/c1/fbb2c1a7cd5080d49cee5ebe2d62eeea1e6b478699bb7429243040fcb3d39dd3.jpg",
+      "image_path": "images/cards/1133/117-3797.webp",
+      "image_sha256": "bb1151024f7eee942cd8349b4ff0c9b07e146d09a2bf778cc0dda8a43f44f30a",
+      "image_bytes": 101860,
+      "source_url": "https://www.tcgcollector.com/cards/3797/skull-fossil-mysterious-treasures-117-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 117
+    },
+    {
+      "id": 3798,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1240,
+        1243
+      ],
+      "name": "Multi Energy",
+      "number": "118",
+      "number_value": 118,
+      "printed_total": 123,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/b1/f1/4f/b1f14ff4ab31a8bb7e91a37b9b5ce3a70ebe8f725c24faf385865cb41cb57fd1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/54/7f/d0/547fd04ecacb8cfb2c2f95642cf4d2b41d015b08f53d5737602885d2e399ed9e.jpg",
+      "image_path": "images/cards/1133/118-3798.webp",
+      "image_sha256": "41f95c4bc45c6a56f0c395d3a3f5c477728e69ecead63a07fca58249fb527870",
+      "image_bytes": 85082,
+      "source_url": "https://www.tcgcollector.com/cards/3798/multi-energy-mysterious-treasures-118-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 118
+    },
+    {
+      "id": 3799,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Darkness Energy",
+      "number": "119",
+      "number_value": 119,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/7c/e0/cf/7ce0cf09af2f477bda7a7ac75487f4c0ac974eb0ff166bc1b2180cf16a396a66.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cf/6a/d8/cf6ad81fa386d85ec7576dc0b3566cbb4fdbc2c00839d5379e4eeb9cdc44bb0c.jpg",
+      "image_path": "images/cards/1133/119-3799.webp",
+      "image_sha256": "a9f3f31140b52aa5226e0d58094915989ca80cc6262d24cdfcf8c4ca62e67a17",
+      "image_bytes": 86433,
+      "source_url": "https://www.tcgcollector.com/cards/3799/darkness-energy-mysterious-treasures-119-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 119
+    },
+    {
+      "id": 3800,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Metal Energy",
+      "number": "120",
+      "number_value": 120,
+      "printed_total": 123,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/50/ba/46/50ba462eb45d0f516369ae6f3e89203851632c615b3e7508f789a04c85c36437.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/77/c1/31/77c1318319932e41e339fc355041d3c4b724830ae42fff3827a067de5cb73c46.jpg",
+      "image_path": "images/cards/1133/120-3800.webp",
+      "image_sha256": "f93edc24c78d0e49c7e331dcffe0e79b79a7f6fdfc216f6d0a632d065ec8ff0e",
+      "image_bytes": 96264,
+      "source_url": "https://www.tcgcollector.com/cards/3800/metal-energy-mysterious-treasures-120-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 120
+    },
+    {
+      "id": 3801,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Electivire LV.X",
+      "number": "121",
+      "number_value": 121,
+      "printed_total": 123,
+      "rarity": "Rare Holo LV.X",
+      "image_url": "https://static.tcgcollector.com/content/images/d3/e0/bd/d3e0bdf0f123902c0dad7e62883d7e449f9beb779affe34d4af8cd1187f9baf8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/83/02/c4/8302c4269bfa21ca1bc3364580cdae5b83a814afee97f793bb308d676ba4842e.jpg",
+      "image_path": "images/cards/1133/121-3801.webp",
+      "image_sha256": "14bd03aa640e657c43dce9e866eeb7800a24b28c858c38ae97e1378d1a31c142",
+      "image_bytes": 122183,
+      "source_url": "https://www.tcgcollector.com/cards/3801/electivire-lv-x-mysterious-treasures-121-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 121
+    },
+    {
+      "id": 3802,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Lucario LV.X",
+      "number": "122",
+      "number_value": 122,
+      "printed_total": 123,
+      "rarity": "Rare Holo LV.X",
+      "image_url": "https://static.tcgcollector.com/content/images/37/58/e0/3758e0ad287e55cb1ea50ba08cefe39984135d3c306602f41e9952db7108841a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9e/fb/8a/9efb8afd5a23d3e5574f5b5d27bb11571318da0752662b7e0d14b7217af70aba.jpg",
+      "image_path": "images/cards/1133/122-3802.webp",
+      "image_sha256": "4c7e666d2c94d9cf96b261663c094e2cdaf166a12be1d6fd75dd3881374547a9",
+      "image_bytes": 138903,
+      "source_url": "https://www.tcgcollector.com/cards/3802/lucario-lv-x-mysterious-treasures-122-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 122
+    },
+    {
+      "id": 3803,
+      "set_id": 1133,
+      "set_ids": [
+        1133
+      ],
+      "name": "Magmortar LV.X",
+      "number": "123",
+      "number_value": 123,
+      "printed_total": 123,
+      "rarity": "Rare Holo LV.X",
+      "image_url": "https://static.tcgcollector.com/content/images/ea/ee/30/eaee30d27bbc531ee4fa241eb97bf87e00813b666ee5a2e8ca01a7c523ba7ab9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/00/3c/53/003c53224643e322a55b8f1feb005cf8c9ba7be15b00405e54c1f18010b447c4.jpg",
+      "image_path": "images/cards/1133/123-3803.webp",
+      "image_sha256": "bb647391cc6a9c30fdb18d51968f2717b6fb4c13dd077cc6a6f0c65cd6327c8e",
+      "image_bytes": 123354,
+      "source_url": "https://www.tcgcollector.com/cards/3803/magmortar-lv-x-mysterious-treasures-123-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 123
+    },
+    {
+      "id": 3804,
+      "set_id": 1133,
+      "set_ids": [
+        1133,
+        1238
+      ],
+      "name": "Time-Space Distortion",
+      "number": "124",
+      "number_value": 124,
+      "printed_total": 123,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/d9/b9/08/d9b908d97b56bb3b3d6b32d28062d7dbb389e6bd29b61f393f1acceebd1f4cc9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/35/14/21/3514214bbc7ca5501cb1245a500eb495e1bfb0901c3d0a3aa59a4efc2aca6f38.jpg",
+      "image_path": "images/cards/1133/124-3804.webp",
+      "image_sha256": "bde35e9671984e14bb28332637e9c8b97a7eac8a7bc6530282049575355a9eaa",
+      "image_bytes": 92654,
+      "source_url": "https://www.tcgcollector.com/cards/3804/time-space-distortion-mysterious-treasures-124-123",
+      "scraped_at": "2026-10-18T22:25:22Z",
+      "position": 124
+    }
+  ]
+}

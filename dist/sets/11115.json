@@ -1,0 +1,122 @@
+{
+  "set": {
+    "id": 11115,
+    "language": "en",
+    "name": "Poké Card Creator Pack",
+    "code": "PCP",
+    "series": "Other",
+    "release_date": "2004-07-01",
+    "date_text": "Jul 01, 2004",
+    "card_count": 5,
+    "released": true,
+    "logo_url": null,
+    "symbol_url": "https://static.tcgcollector.com/content/images/d5/f9/a6/d5f9a61f45620c16464c39b5264e5a6669d644adcee19930e15c9cfdcbedf68e.png",
+    "logo_path": null,
+    "symbol_path": "images/sets/11115-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/11115/poke-card-creator-pack",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 5
+  },
+  "cards": [
+    {
+      "id": 9849,
+      "set_id": 11115,
+      "set_ids": [
+        11115
+      ],
+      "name": "Treecko",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 5,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/99/dd/41/99dd418926c98a7e0535277cc189293a692509d7b3c7b4155bcb60c3b649ff25.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/99/dd/41/99dd418926c98a7e0535277cc189293a692509d7b3c7b4155bcb60c3b649ff25.jpg",
+      "image_path": "images/cards/11115/1-9849.webp",
+      "image_sha256": "13672f8e35a41e9013a16ce4e3d2541a8b69471305694597b84970d56caeb175",
+      "image_bytes": 34526,
+      "source_url": "https://www.tcgcollector.com/cards/9849/treecko-poke-card-creator-pack-1-5",
+      "scraped_at": "2026-10-18T22:26:03Z",
+      "position": 1
+    },
+    {
+      "id": 9850,
+      "set_id": 11115,
+      "set_ids": [
+        11115
+      ],
+      "name": "Wurmple",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 5,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/97/65/ab/9765ab4b33da699e648a780588a188a82e7d4ccdea788e54a5ed85e467f71fc1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/97/65/ab/9765ab4b33da699e648a780588a188a82e7d4ccdea788e54a5ed85e467f71fc1.jpg",
+      "image_path": "images/cards/11115/2-9850.webp",
+      "image_sha256": "32c01c57c47aecea6346450bb769897b8f21ddff6d3c240c1ee1faa423c05f49",
+      "image_bytes": 34222,
+      "source_url": "https://www.tcgcollector.com/cards/9850/wurmple-poke-card-creator-pack-2-5",
+      "scraped_at": "2026-10-18T22:26:03Z",
+      "position": 2
+    },
+    {
+      "id": 9851,
+      "set_id": 11115,
+      "set_ids": [
+        11115
+      ],
+      "name": "Torchic",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 5,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/91/dd/e2/91dde208ded7ee0d2d0624b45f34cab47af518607daf2f34e87d05f8737c6695.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/91/dd/e2/91dde208ded7ee0d2d0624b45f34cab47af518607daf2f34e87d05f8737c6695.jpg",
+      "image_path": "images/cards/11115/3-9851.webp",
+      "image_sha256": "f96e9820552c7cf6bf353954e2c5a421f7421e433168243385110676098a0d82",
+      "image_bytes": 34935,
+      "source_url": "https://www.tcgcollector.com/cards/9851/torchic-poke-card-creator-pack-3-5",
+      "scraped_at": "2026-10-18T22:26:03Z",
+      "position": 3
+    },
+    {
+      "id": 9852,
+      "set_id": 11115,
+      "set_ids": [
+        11115
+      ],
+      "name": "Mudkip",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 5,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/7b/b8/16/7bb816def8d90f1deb46eec298297fe5300e913b8813b87780922f2fa005738b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7b/b8/16/7bb816def8d90f1deb46eec298297fe5300e913b8813b87780922f2fa005738b.jpg",
+      "image_path": "images/cards/11115/4-9852.webp",
+      "image_sha256": "a0d35e19ec5bee39c28bac5581ce499bd9558c5d01a7d1213dc51e5b0533aeea",
+      "image_bytes": 40449,
+      "source_url": "https://www.tcgcollector.com/cards/9852/mudkip-poke-card-creator-pack-4-5",
+      "scraped_at": "2026-10-18T22:26:03Z",
+      "position": 4
+    },
+    {
+      "id": 9853,
+      "set_id": 11115,
+      "set_ids": [
+        11115
+      ],
+      "name": "Pikachu",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 5,
+      "rarity": null,
+      "image_url": "https://static.tcgcollector.com/content/images/88/e9/bb/88e9bb484dcd7cb682ef456983d52838f14f5e171e211520f0748f1ff8b1ed7a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/88/e9/bb/88e9bb484dcd7cb682ef456983d52838f14f5e171e211520f0748f1ff8b1ed7a.jpg",
+      "image_path": "images/cards/11115/5-9853.webp",
+      "image_sha256": "c0298993d16459714be2129dfd57b8801b52f117a0c89bb7eccd225f477ae3a2",
+      "image_bytes": 37374,
+      "source_url": "https://www.tcgcollector.com/cards/9853/pikachu-poke-card-creator-pack-5-5",
+      "scraped_at": "2026-10-18T22:26:03Z",
+      "position": 5
+    }
+  ]
+}

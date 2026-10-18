@@ -1,0 +1,2200 @@
+{
+  "set": {
+    "id": 1131,
+    "language": "en",
+    "name": "EX Power Keepers",
+    "code": "PK",
+    "series": "EX Series",
+    "release_date": "2007-02-14",
+    "date_text": "Feb 14, 2007",
+    "card_count": 108,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/4f/68/3a/4f683a319f350406cf502946b068a36d697d613f1fcea18e5f7b216f00e76fe3.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/40/c7/45/40c745743445a1ed58558922f812b69f15a1d9bb98d1e306a78441b0eb0f3309.svg",
+    "logo_path": "images/sets/1131-logo.webp",
+    "symbol_path": "images/sets/1131-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/1131/ex-power-keepers",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 108
+  },
+  "cards": [
+    {
+      "id": 3429,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Aggron",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/89/01/b6/8901b6f2055e1293b884e660e3e59c736070778a028f9ebc44082d0715e29d85.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6d/46/8f/6d468f99fb24b557ccc4c2aa0c43759122d6faac1696487ed79fe25c162a99c4.jpg",
+      "image_path": "images/cards/1131/1-3429.webp",
+      "image_sha256": "b116d881984ad041a52fd0fff747bfb11cf625adf15a5643a54b67b123c24db8",
+      "image_bytes": 137103,
+      "source_url": "https://www.tcgcollector.com/cards/3429/aggron-ex-power-keepers-1-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 1
+    },
+    {
+      "id": 3430,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Altaria",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/5e/fe/a2/5efea23c20909eaf5c83f05f9cec9977c00a904b4b03fd2e11cb04c06341cb41.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/91/4e/90/914e904d479b2baa95c7d6d8d24290ac236d1680c00563fa54418704b3554bfa.jpg",
+      "image_path": "images/cards/1131/2-3430.webp",
+      "image_sha256": "07000b3ee63682db9c191649d93b0903f05a6aacbf976f1d511c0a5a6f87ad41",
+      "image_bytes": 114612,
+      "source_url": "https://www.tcgcollector.com/cards/3430/altaria-ex-power-keepers-2-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 2
+    },
+    {
+      "id": 3431,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Armaldo",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/02/b1/b0/02b1b08551b252d01a15a2955b5191dc0e71b41e0a2cedc59a32736fde0c21e5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/96/cd/2a/96cd2ae9c0d48ba099f0e23dcc62d911fb263defc3a4ce09e1f125d33a6df8c0.jpg",
+      "image_path": "images/cards/1131/3-3431.webp",
+      "image_sha256": "0e994eb4ee8758966bc5c1c816174330c7a558d192ffecd0abda8b46963c9e3f",
+      "image_bytes": 110631,
+      "source_url": "https://www.tcgcollector.com/cards/3431/armaldo-ex-power-keepers-3-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 3
+    },
+    {
+      "id": 3432,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Banette",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/89/58/be/8958bea15629aff0a6bf9c90516956e2ee008afc60b84b27c38c0912cd4b4d20.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/57/05/e9/5705e98cc9d6331c44c91135ae52c15a163a322cb696f3c1c4661810a2a16379.jpg",
+      "image_path": "images/cards/1131/4-3432.webp",
+      "image_sha256": "b7975095bbb53fd9e0a03826078099e1338dee0e665c8535105524b8c1683a11",
+      "image_bytes": 114186,
+      "source_url": "https://www.tcgcollector.com/cards/3432/banette-ex-power-keepers-4-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 4
+    },
+    {
+      "id": 3433,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Blaziken",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/72/b9/89/72b989f5577a3fff79d973b0fb429ebe010c3d00d903d335574cb063d107445d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d9/28/11/d9281149a7b6a6074c1799667c5a084787d3a380d4baba688bb1472d4f184530.jpg",
+      "image_path": "images/cards/1131/5-3433.webp",
+      "image_sha256": "9f80999f3235e1d61cbbd452f1095d834d56b8a4aa18c36e526b6e389cf3c69e",
+      "image_bytes": 123290,
+      "source_url": "https://www.tcgcollector.com/cards/3433/blaziken-ex-power-keepers-5-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 5
+    },
+    {
+      "id": 3434,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Charizard",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/e9/aa/50/e9aa5000f84e0aecf1da345ec2e075454317b404cbb62cc738a8382c173856ef.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/da/c8/54/dac854e8c093682c3c832fcdf703c1738028a1c914ca1c2d30eb392da5d4b5e5.jpg",
+      "image_path": "images/cards/1131/6-3434.webp",
+      "image_sha256": "e0759385d36ba0448dff2ff5ec36da3620aceb843af72cdb0b3e212045e3c5c1",
+      "image_bytes": 103456,
+      "source_url": "https://www.tcgcollector.com/cards/3434/charizard-ex-power-keepers-6-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 6
+    },
+    {
+      "id": 3435,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Cradily",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/fc/ec/18/fcec1805001194adbfa479b98223dcb17dddc2a48e9ba6327fcc8fa1f89251b2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/31/cc/88/31cc884c239095978191568cfe7bf26454ae8ed4f3eebd64585d2fc824008731.jpg",
+      "image_path": "images/cards/1131/7-3435.webp",
+      "image_sha256": "7c325d2193992771615de68fbf8ab8014dccad4a86ffd9fbba0e4df4ea7b574d",
+      "image_bytes": 118357,
+      "source_url": "https://www.tcgcollector.com/cards/3435/cradily-ex-power-keepers-7-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 7
+    },
+    {
+      "id": 3436,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Delcatty",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/67/83/45/678345f512f6f0df4421b43db98209b5586eff163780961cc5b49f95b8ead8d1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/67/27/01/67270196d1928a6635d8b9cc9736315049b3d8a9b9100eca7ff9207f71482139.jpg",
+      "image_path": "images/cards/1131/8-3436.webp",
+      "image_sha256": "35b5a12be1dce64fc03ae0775dd0bfbdab74ff39e4b8bf77508dd4bcd15aed15",
+      "image_bytes": 109312,
+      "source_url": "https://www.tcgcollector.com/cards/3436/delcatty-ex-power-keepers-8-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 8
+    },
+    {
+      "id": 3437,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Gardevoir",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/9f/90/57/9f90570a67b98c5db772f097d35a6a77da724e9257b6e3f0aec95731c676ee33.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4f/71/20/4f7120f81487a7142359af0d29e566bc62159d3c937cb7670fb5b4821ff3060b.jpg",
+      "image_path": "images/cards/1131/9-3437.webp",
+      "image_sha256": "072a4779a71dbf622cde459ef940bca77f2198cee0bd08c8e3096e5bccbf5e91",
+      "image_bytes": 120391,
+      "source_url": "https://www.tcgcollector.com/cards/3437/gardevoir-ex-power-keepers-9-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 9
+    },
+    {
+      "id": 3438,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Kabutops",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/5b/4f/9a/5b4f9adb7cefec675d2986f4a7415e0ed92d752ad2c8a35927742ed7f1af70a1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f8/2d/e3/f82de3d6cb3edb370eb43b37498028b544d3bad875f955a7d8f327461700d11d.jpg",
+      "image_path": "images/cards/1131/10-3438.webp",
+      "image_sha256": "729de922ece781b33e53f10b1a27be623d0f1436b26581092918dc98821dfc08",
+      "image_bytes": 119779,
+      "source_url": "https://www.tcgcollector.com/cards/3438/kabutops-ex-power-keepers-10-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 10
+    },
+    {
+      "id": 3439,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Machamp",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/1d/8e/4b/1d8e4b818b72179e7224ff283db515548d82ec07b7f020d078c75149c4b88362.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f6/5c/3a/f65c3a386375a807bfef814ceec848a877fc272a432ed6a3497d1c0b2faf77e5.jpg",
+      "image_path": "images/cards/1131/11-3439.webp",
+      "image_sha256": "29b3e7326373ead736db5ac106dc74161560b28700ef84972df2cfad7768cd55",
+      "image_bytes": 122403,
+      "source_url": "https://www.tcgcollector.com/cards/3439/machamp-ex-power-keepers-11-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 11
+    },
+    {
+      "id": 3440,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Raichu",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/33/04/c8/3304c8260da875609c1dee3f848d33eadee41f9a77ca3d464f67794ed8df7572.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/70/7e/b0/707eb06a586df34f1fb80e9d5d999ed52d4aac27ee6fe4d199dcfc40b03a5e75.jpg",
+      "image_path": "images/cards/1131/12-3440.webp",
+      "image_sha256": "cea823c8105f2fc87bd69a105feed2cc4ce3904b4daa99959ea0ffe933b031a0",
+      "image_bytes": 111712,
+      "source_url": "https://www.tcgcollector.com/cards/3440/raichu-ex-power-keepers-12-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 12
+    },
+    {
+      "id": 3441,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Slaking",
+      "number": "13",
+      "number_value": 13,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/70/2f/94/702f94adf7cf3a8aaee4e7a26d43ed5aeec35984e6a989a0ca9f326f0930394b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/65/dc/8e/65dc8e523d379c90b4fa3718edeeec32d4ac083a56fde8cb17efa8b3f4f605db.jpg",
+      "image_path": "images/cards/1131/13-3441.webp",
+      "image_sha256": "0cf65dee19f7b9f8aaa39ea8d733fdc62705009c303ab1e447f2be6039583d84",
+      "image_bytes": 106819,
+      "source_url": "https://www.tcgcollector.com/cards/3441/slaking-ex-power-keepers-13-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 13
+    },
+    {
+      "id": 3442,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Dusclops",
+      "number": "14",
+      "number_value": 14,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ca/c9/7e/cac97e417311cddfe206f23d6d745a97539f797d540b5c0fb5c499ad25c05555.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/30/e5/83/30e583980cdb0946fcd68c1790489872edad873b8c7cf57ec70933615c97d3a3.jpg",
+      "image_path": "images/cards/1131/14-3442.webp",
+      "image_sha256": "7cfcefcc7fe58bff94f5b921f06b7d474da375dd848aecf36d4c18969a70ba58",
+      "image_bytes": 106232,
+      "source_url": "https://www.tcgcollector.com/cards/3442/dusclops-ex-power-keepers-14-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 14
+    },
+    {
+      "id": 3443,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Lanturn",
+      "number": "15",
+      "number_value": 15,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/11/14/14/111414967b6c48df499f25241fa012344efddb86aba6b238982fe52bc3fc5b23.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0d/5a/68/0d5a68c874b507d5bbfffa47d1855a37661128d69fcd5b1be97a39756a24d644.jpg",
+      "image_path": "images/cards/1131/15-3443.webp",
+      "image_sha256": "7c7d353becdccebe1e30f08b2f8597e0f5694a47be5d86b750902d1ce8b0bd6e",
+      "image_bytes": 111448,
+      "source_url": "https://www.tcgcollector.com/cards/3443/lanturn-ex-power-keepers-15-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 15
+    },
+    {
+      "id": 3444,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Magneton",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/62/c2/f2/62c2f2f8fb68f3c7a340991e5cc7e54b54db17cf16e961f64ad33397cd54aa89.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9e/4d/b9/9e4db99abae2c6893cae88dc383a5edd12056cffce6cf613283b9bd201c0925b.jpg",
+      "image_path": "images/cards/1131/16-3444.webp",
+      "image_sha256": "88846570c69a17ab7355238d9f6a285a13596997ac9e6ef4d3b59dff8a05f337",
+      "image_bytes": 116548,
+      "source_url": "https://www.tcgcollector.com/cards/3444/magneton-ex-power-keepers-16-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 16
+    },
+    {
+      "id": 3445,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Mawile",
+      "number": "17",
+      "number_value": 17,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ca/14/86/ca148677ad9cff47def1928be111ecfec70f48b4741e191d764636d19cb5f660.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b7/0a/87/b70a8732f52ae6d14770cfa035eaaf2a60aed7c3c29441932b1ca9d5c2a5c684.jpg",
+      "image_path": "images/cards/1131/17-3445.webp",
+      "image_sha256": "b16b4b39bedcce772f5a2d3e97a29c7bd05f9793765361a2d82b0b192e70cd3e",
+      "image_bytes": 128132,
+      "source_url": "https://www.tcgcollector.com/cards/3445/mawile-ex-power-keepers-17-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 17
+    },
+    {
+      "id": 3446,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Mightyena",
+      "number": "18",
+      "number_value": 18,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/a4/76/19/a47619265f471922d745831825a868d00d953011e5f2fc9ad6bba996962c570d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/62/29/18/62291886b5b00f708269658f1a5eca476948afbcd1174d1fef502a07925ff3b2.jpg",
+      "image_path": "images/cards/1131/18-3446.webp",
+      "image_sha256": "9757ea3b2bc6a6f9e9df8aee7d67195f9d47a0a2fe0709b9c621cce6ee3288ad",
+      "image_bytes": 100739,
+      "source_url": "https://www.tcgcollector.com/cards/3446/mightyena-ex-power-keepers-18-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 18
+    },
+    {
+      "id": 3447,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Ninetales",
+      "number": "19",
+      "number_value": 19,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/4c/d5/0d/4cd50d30f693a7e133c66fb82732e5f5a94f5c8bc5916d6e6d9eb35d430044c5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/23/c9/5c/23c95c527c3b7c6d4616f49a8c531451e5af9330f29a561ed1789077fb1dbec5.jpg",
+      "image_path": "images/cards/1131/19-3447.webp",
+      "image_sha256": "ef0bbb5beddb4958ceda22ec939306ebc2bb6068d203abbb10e5f9edcd26f2ce",
+      "image_bytes": 122163,
+      "source_url": "https://www.tcgcollector.com/cards/3447/ninetales-ex-power-keepers-19-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 19
+    },
+    {
+      "id": 3448,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Omastar",
+      "number": "20",
+      "number_value": 20,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/c1/a2/cc/c1a2cc95de2cfe30343905501a9329a9f981c581e865da1adc2ff7d2e5f949dc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/29/14/e3/2914e34bfb79270953b700142460ffa86da87635b6335367fb1c4655cdc9e2ed.jpg",
+      "image_path": "images/cards/1131/20-3448.webp",
+      "image_sha256": "f8609b19cc711d7ef8a1b8b902654f2edb9cb4073ecd7f6f1872dae5a73cf68a",
+      "image_bytes": 113381,
+      "source_url": "https://www.tcgcollector.com/cards/3448/omastar-ex-power-keepers-20-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 20
+    },
+    {
+      "id": 3449,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Pichu",
+      "number": "21",
+      "number_value": 21,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/9b/e5/f3/9be5f3715b28ba887296191686caa13eb3ee16085520e7ded29731a3df00f3af.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9c/7f/b0/9c7fb0988ad49061d49569eec5d066b7d63200e6b47a119ea12cf0d0ad418edb.jpg",
+      "image_path": "images/cards/1131/21-3449.webp",
+      "image_sha256": "bfe3a91bcf546cded0a996cd0d0dc010003566c2956cccd8f6cc8d851e36196b",
+      "image_bytes": 108758,
+      "source_url": "https://www.tcgcollector.com/cards/3449/pichu-ex-power-keepers-21-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 21
+    },
+    {
+      "id": 3450,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Sableye",
+      "number": "22",
+      "number_value": 22,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/04/1a/7f/041a7fa91a1531430bc3c7a7ee5427395de55227e68c81c06985d7e0f727d007.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d0/a8/92/d0a89287f4a8b1d0616c308a63b7771eff92eeeedb73381fb906360783d2ba28.jpg",
+      "image_path": "images/cards/1131/22-3450.webp",
+      "image_sha256": "c7628e4c084788b9e6e283693b435722d1281d8ae3acc9ace4c3721a0c000193",
+      "image_bytes": 100622,
+      "source_url": "https://www.tcgcollector.com/cards/3450/sableye-ex-power-keepers-22-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 22
+    },
+    {
+      "id": 3451,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Seviper",
+      "number": "23",
+      "number_value": 23,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/81/63/eb/8163eb674f2e771e2733273659091520069d6b5051d433fd3b47bc58a00a94c1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c7/5c/f9/c75cf97660531dc38b670cf5e1a86eaef7cb085489790d2f8dd38def55fce504.jpg",
+      "image_path": "images/cards/1131/23-3451.webp",
+      "image_sha256": "fd72fb40654c8acf1cd1faa29c8c54a940287f72452269343e15ef9a27ecb5de",
+      "image_bytes": 99423,
+      "source_url": "https://www.tcgcollector.com/cards/3451/seviper-ex-power-keepers-23-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 23
+    },
+    {
+      "id": 3452,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Wobbuffet",
+      "number": "24",
+      "number_value": 24,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/82/4f/bd/824fbdf8a769aba368633908bbe6503d671635c4ba747cf31a37b786359713c7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1f/34/27/1f342720fad763e8c3011845575fc44f3231370a33b2ade178c62d86d9ad5c02.jpg",
+      "image_path": "images/cards/1131/24-3452.webp",
+      "image_sha256": "e1f459002cc066fedf826addf6f516db7be66eaf7d70f5dab8a574ce4fea120b",
+      "image_bytes": 103568,
+      "source_url": "https://www.tcgcollector.com/cards/3452/wobbuffet-ex-power-keepers-24-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 24
+    },
+    {
+      "id": 3453,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Zangoose",
+      "number": "25",
+      "number_value": 25,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/58/4b/a9/584ba975023df1dddbdbc345353bd11883aeaa59434b9008d823bc9f3bf8d9cc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7d/3f/8e/7d3f8e5ef76a238101ec058e1e007a38ceb1c6a1f7c0c65f81d154108fc17000.jpg",
+      "image_path": "images/cards/1131/25-3453.webp",
+      "image_sha256": "f145b9abb282b788d3e747bac14afeca278a8e2c8ff56046c68861ff60ccfbe7",
+      "image_bytes": 105725,
+      "source_url": "https://www.tcgcollector.com/cards/3453/zangoose-ex-power-keepers-25-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 25
+    },
+    {
+      "id": 3454,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Anorith",
+      "number": "26",
+      "number_value": 26,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/0c/4a/d6/0c4ad6822ebcedaaea0d7f811d7176cc9431bc8fbaae3d05080af9e0e43d7e45.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f4/45/6a/f4456a6f9c68663fa33a7654c965d1a6e31a62f544fa36aa1b05d9aed04a5d2a.jpg",
+      "image_path": "images/cards/1131/26-3454.webp",
+      "image_sha256": "60ef9f99d563d420a147173cf22f2bf94073bdb512950cde390dd530f4d59e94",
+      "image_bytes": 117408,
+      "source_url": "https://www.tcgcollector.com/cards/3454/anorith-ex-power-keepers-26-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 26
+    },
+    {
+      "id": 3455,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Cacturne",
+      "number": "27",
+      "number_value": 27,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/43/f6/9f/43f69f9d5cf4cb873f2adfa1ac0a49655ace5c1c2c7318fcb6f0396a155ca485.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5f/07/2d/5f072d85db6a7428614ddfb112f8adbf49316b5903c0b7446838ffbf73dfb9b0.jpg",
+      "image_path": "images/cards/1131/27-3455.webp",
+      "image_sha256": "c3491468e3a2786c7a8d0799dbd56d3954f63404845d3314491340d8c6336906",
+      "image_bytes": 105341,
+      "source_url": "https://www.tcgcollector.com/cards/3455/cacturne-ex-power-keepers-27-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 27
+    },
+    {
+      "id": 3456,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Charmeleon",
+      "number": "28",
+      "number_value": 28,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f2/ff/ef/f2ffef65313885930acd98b0c070ffcc2761792f0ea8321e281f7a9026731d59.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/62/0f/1a/620f1ae0def14fb8714f13d2fc2936a4540c67131bce4275665d787e6812813d.jpg",
+      "image_path": "images/cards/1131/28-3456.webp",
+      "image_sha256": "b882315e81386fea5e7ae75ec9556331d5f5083bdb83282baf0ff019259134c9",
+      "image_bytes": 110549,
+      "source_url": "https://www.tcgcollector.com/cards/3456/charmeleon-ex-power-keepers-28-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 28
+    },
+    {
+      "id": 3457,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Combusken",
+      "number": "29",
+      "number_value": 29,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/1d/53/d1/1d53d1232accc15e73db8c5130e590de31caa9b4163d2055c6405f3223a006c9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a8/10/59/a81059d98b5e81dcc891cc12ed98452dd5ad5019c62db558b86d06665929e0f1.jpg",
+      "image_path": "images/cards/1131/29-3457.webp",
+      "image_sha256": "338c350cce08c47b9ffcd5cc99fc87961a33cf62bd48753c7cc7c29708fe5911",
+      "image_bytes": 103451,
+      "source_url": "https://www.tcgcollector.com/cards/3457/combusken-ex-power-keepers-29-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 29
+    },
+    {
+      "id": 3458,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Glalie",
+      "number": "30",
+      "number_value": 30,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/02/70/b7/0270b7ca9f5c6f64abae384f01083f8ca6d77f49369384477916bc10d8819a7b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/59/bd/06/59bd06c0b1afc31cfff34a97a0f4d2fcb2047934e218baeeba09aa1edbf43cc1.jpg",
+      "image_path": "images/cards/1131/30-3458.webp",
+      "image_sha256": "cf345a7508b4be52d2158d90572a07d3848e2d806ddc9fb762fe80128a8f3577",
+      "image_bytes": 131302,
+      "source_url": "https://www.tcgcollector.com/cards/3458/glalie-ex-power-keepers-30-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 30
+    },
+    {
+      "id": 3459,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Kirlia",
+      "number": "31",
+      "number_value": 31,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b4/22/6b/b4226b712fe3060eed4c17cf3ec767390d6837ae0f62c73401a4c294082ed1d2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fb/7c/e7/fb7ce7f8e3d1204055208bd381b7215509aa4293a82b4925e71df32458076d31.jpg",
+      "image_path": "images/cards/1131/31-3459.webp",
+      "image_sha256": "d94e886e10be32b291ee97602a5220200da5197b53aee4a830100c95255c2d5c",
+      "image_bytes": 106346,
+      "source_url": "https://www.tcgcollector.com/cards/3459/kirlia-ex-power-keepers-31-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 31
+    },
+    {
+      "id": 3460,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Lairon",
+      "number": "32",
+      "number_value": 32,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/55/de/90/55de903882d5bb66b8d21839c56302ba134dd2d22422816fdd4341127a2d1f4b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1d/34/99/1d3499e11d293cef7a65fe74bf92c33fc4c2f12eeeecbbd5e1c3ed530cae0ca4.jpg",
+      "image_path": "images/cards/1131/32-3460.webp",
+      "image_sha256": "d80f5878699b0cd03a373d01cdbb03e9b9ef97984eefaff2e32e17c4e41c07e0",
+      "image_bytes": 124984,
+      "source_url": "https://www.tcgcollector.com/cards/3460/lairon-ex-power-keepers-32-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 32
+    },
+    {
+      "id": 3461,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Machoke",
+      "number": "33",
+      "number_value": 33,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/13/67/a4/1367a4f68ff90bb67ef330249540bdaa14d45aba1355a39343d01fcc168c50e7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/72/0f/74/720f744ea9ef966e0c7289b4c0ba7e1a087cb1aa68e5e17dca770f7d31e9cf6b.jpg",
+      "image_path": "images/cards/1131/33-3461.webp",
+      "image_sha256": "4589b658511b377b15af1886bdc028c837225668a24bd24727803df5f6bc319e",
+      "image_bytes": 106071,
+      "source_url": "https://www.tcgcollector.com/cards/3461/machoke-ex-power-keepers-33-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 33
+    },
+    {
+      "id": 3462,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Medicham",
+      "number": "34",
+      "number_value": 34,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/08/0d/cd/080dcd71a4fb32a704b73833a13eea24714fcd70629fa7092982f406b44c3a1c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ba/ad/24/baad244a068ca43b990fc10f2d8f4b1b1d208da11d9be63c7febd2dcef01a72a.jpg",
+      "image_path": "images/cards/1131/34-3462.webp",
+      "image_sha256": "ea2211662114ed160c6d7d14f38e89030fbbc3f2f78c54f3588ddd4ee53d1667",
+      "image_bytes": 117516,
+      "source_url": "https://www.tcgcollector.com/cards/3462/medicham-ex-power-keepers-34-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 34
+    },
+    {
+      "id": 3463,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Metang",
+      "number": "35",
+      "number_value": 35,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/3d/22/71/3d227180297ffe49d5a9fa12be799624da2682d54f0eacade82118721eaf9798.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e0/63/18/e063188d03f27d8a343a084b2cab35fd196a0ed892e5d4cc636a719e2dbd7497.jpg",
+      "image_path": "images/cards/1131/35-3463.webp",
+      "image_sha256": "6559fcfa7a3eb99274008e0161c218caad0a71bfbcc353885ec2ea7bd110906a",
+      "image_bytes": 127860,
+      "source_url": "https://www.tcgcollector.com/cards/3463/metang-ex-power-keepers-35-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 35
+    },
+    {
+      "id": 3464,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Nuzleaf",
+      "number": "36",
+      "number_value": 36,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/45/e0/8f/45e08f934d1c7417f88dd4ca1c403115157fc4dfdcb14e2d9945e0690b89768d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/34/97/e1/3497e1c6db77106fc30cec1c4187707fa3daa9b8c0fe431f6e695eb460dc0e85.jpg",
+      "image_path": "images/cards/1131/36-3464.webp",
+      "image_sha256": "3e11069dd4716ee0010b6420ef69d1241ee6bd6964125780e61d6a0264157c55",
+      "image_bytes": 102461,
+      "source_url": "https://www.tcgcollector.com/cards/3464/nuzleaf-ex-power-keepers-36-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 36
+    },
+    {
+      "id": 3465,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Sealeo",
+      "number": "37",
+      "number_value": 37,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/05/d2/5d/05d25dc7e88a9c8de6b78990043b9aa335260708e64b444b261c1189a1dc7a00.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b4/29/6a/b4296aa28e97c5d1d6737d25ccad12ddcc433783c155062bce04fb991175ff2b.jpg",
+      "image_path": "images/cards/1131/37-3465.webp",
+      "image_sha256": "dbcae6adffb8c6ade604fd8116c115d60f5480f5723a4024bd9694e6e498c231",
+      "image_bytes": 97112,
+      "source_url": "https://www.tcgcollector.com/cards/3465/sealeo-ex-power-keepers-37-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 37
+    },
+    {
+      "id": 3466,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Sharpedo",
+      "number": "38",
+      "number_value": 38,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/44/18/9f/44189fff1196d372335b8c15e29805fb47bb2d48075e24ef5ef46f6d1efeb97d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a3/27/a8/a327a84f69a6cc7900263290d95c8c8a7864d75ea4ca525e94e7dc750d82d3b1.jpg",
+      "image_path": "images/cards/1131/38-3466.webp",
+      "image_sha256": "79d9f9b57f0c3b7651c905363ed83a368c7715b65000700044803c7c979b3e82",
+      "image_bytes": 92885,
+      "source_url": "https://www.tcgcollector.com/cards/3466/sharpedo-ex-power-keepers-38-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 38
+    },
+    {
+      "id": 3467,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Shelgon",
+      "number": "39",
+      "number_value": 39,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/18/04/79/180479e709d1471183d2ba562e1a8431741ec38f82d325d9324e0c9f6a9fd930.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f9/58/b0/f958b02549009d52f2d43df08354fec828e7f42bf8a1e0c3c6d77f12ac1f72a0.jpg",
+      "image_path": "images/cards/1131/39-3467.webp",
+      "image_sha256": "26b0f2cb32de35cc97e561882d9ed6079cb18eb502ae66f5f75ef3d555735c13",
+      "image_bytes": 98511,
+      "source_url": "https://www.tcgcollector.com/cards/3467/shelgon-ex-power-keepers-39-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 39
+    },
+    {
+      "id": 3468,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Vibrava",
+      "number": "40",
+      "number_value": 40,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/e4/e4/86/e4e486548089ccf4f39c86f878a88182a2222490a84f6d5a0018a0c1e1357e24.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9c/3b/cb/9c3bcbf681f2948db80d1829834b076ff36a2727f0c5c005fb31ec72fcd7e8bf.jpg",
+      "image_path": "images/cards/1131/40-3468.webp",
+      "image_sha256": "06e85e0eabb69d6df4d361e607a4d44eee2f6b5954fc9885de7a91a58ae9e968",
+      "image_bytes": 102744,
+      "source_url": "https://www.tcgcollector.com/cards/3468/vibrava-ex-power-keepers-40-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 40
+    },
+    {
+      "id": 3469,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Vigoroth",
+      "number": "41",
+      "number_value": 41,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/63/1c/ea/631cea69bc445866e1af7a492fb0ee78e366d98302edd2cab27cd01cc8dd8cca.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fb/4a/ec/fb4aec55f6e42ff147a645d5957a1cb05912deb50f35bfd34897eafd6e61db10.jpg",
+      "image_path": "images/cards/1131/41-3469.webp",
+      "image_sha256": "f2fdf016536f1e29765ab731774ffb851289c9dce74c39424cc4593ad0236948",
+      "image_bytes": 109276,
+      "source_url": "https://www.tcgcollector.com/cards/3469/vigoroth-ex-power-keepers-41-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 41
+    },
+    {
+      "id": 3470,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Aron",
+      "number": "42",
+      "number_value": 42,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/97/57/39/975739576182e5586358bfefed47befbd347a86f34c3a9d183eb4ba127601657.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ca/e3/7b/cae37b4d53e8e34e2143676b24b3a8e7076935293d1a52dc8f1ee24dab871452.jpg",
+      "image_path": "images/cards/1131/42-3470.webp",
+      "image_sha256": "ad13c2856644cb8ed6be790306081682437efbb5ed1e6ea87ed6161acfb911cf",
+      "image_bytes": 128392,
+      "source_url": "https://www.tcgcollector.com/cards/3470/aron-ex-power-keepers-42-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 42
+    },
+    {
+      "id": 3471,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Bagon",
+      "number": "43",
+      "number_value": 43,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/be/94/29/be9429fdc0b332d9ba0fd67d467cf9bd920251cd765ee505f0181bbdaf2858c8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/54/94/47/54944712f45c97ddf923d0e8a5134959d7b46e82c18f175b724cff62117797b7.jpg",
+      "image_path": "images/cards/1131/43-3471.webp",
+      "image_sha256": "abf710f6f429d4d9a6ba426430d474c59796d5a6a91581f69acb4b0425df5a20",
+      "image_bytes": 99872,
+      "source_url": "https://www.tcgcollector.com/cards/3471/bagon-ex-power-keepers-43-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 43
+    },
+    {
+      "id": 3472,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Baltoy",
+      "number": "44",
+      "number_value": 44,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/41/2d/a1/412da125276c32582ca6d7c0f942788e7fd6e512864c58adaf4d283ee7c20693.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/77/8e/dd/778eddd78d577da0d7caa05bfc539d1723a756e1789940e9eed69848c7217bca.jpg",
+      "image_path": "images/cards/1131/44-3472.webp",
+      "image_sha256": "e393c0c84b45a63b3a56b2a8777b8b8c410411dbe78a8670e21adfb7bb466154",
+      "image_bytes": 100528,
+      "source_url": "https://www.tcgcollector.com/cards/3472/baltoy-ex-power-keepers-44-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 44
+    },
+    {
+      "id": 3473,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Beldum",
+      "number": "45",
+      "number_value": 45,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f0/1f/ab/f01fab091a65a34cb54cbffffc2ffac28dcdd90493560acfd1d9090572acdf0e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/10/c0/61/10c061b509b9b0b0781a12cb41923af63e315e5772a585d9b6266f89e2a02fe4.jpg",
+      "image_path": "images/cards/1131/45-3473.webp",
+      "image_sha256": "de247e589e7b556bcff6b9c33313b4768f637fcd7932677096cb72013fd001dc",
+      "image_bytes": 122327,
+      "source_url": "https://www.tcgcollector.com/cards/3473/beldum-ex-power-keepers-45-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 45
+    },
+    {
+      "id": 3474,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Cacnea",
+      "number": "46",
+      "number_value": 46,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/6f/80/e6/6f80e6c4a9aaae0c6bd1703832206c2f5f0adada0ddd8e27753f7616a8d55cda.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cb/99/d3/cb99d31a464f40c68d511e024be022cee748ba9ad99c0a946b7ea2f151ccbc50.jpg",
+      "image_path": "images/cards/1131/46-3474.webp",
+      "image_sha256": "cca9e4576f8f518f3350a349954cf60db3b03c421ba792e854e73238fc96d63e",
+      "image_bytes": 111699,
+      "source_url": "https://www.tcgcollector.com/cards/3474/cacnea-ex-power-keepers-46-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 46
+    },
+    {
+      "id": 3475,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Carvanha",
+      "number": "47",
+      "number_value": 47,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/2a/cc/b6/2accb67f37aeb42f6cc97b71a7c6d6760f1e2bf9e4a0ed61869242609e00c8b1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/92/8f/ab/928fab4a9eb47b7e1e624fdf81e57acddcf21aa0a235e78f04ee42af49b8e393.jpg",
+      "image_path": "images/cards/1131/47-3475.webp",
+      "image_sha256": "c55753f2e8c1d041131cf4290c9879c568fad9537b5124e49a5e09d6102d590f",
+      "image_bytes": 94207,
+      "source_url": "https://www.tcgcollector.com/cards/3475/carvanha-ex-power-keepers-47-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 47
+    },
+    {
+      "id": 3476,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Charmander",
+      "number": "48",
+      "number_value": 48,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/df/c5/1b/dfc51b4038b5896bfe2b14ce04c70efcd5d37b3410fc6245f06e0c235441a304.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9f/46/a0/9f46a0bece89182655d6931c1e2559372c3626c12adc2b4bbabda374a6b87c96.jpg",
+      "image_path": "images/cards/1131/48-3476.webp",
+      "image_sha256": "08709333baf5f8e81b8b20ef5436e60fb4bffff41d9be4d0a264936fd38c4a8f",
+      "image_bytes": 104762,
+      "source_url": "https://www.tcgcollector.com/cards/3476/charmander-ex-power-keepers-48-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 48
+    },
+    {
+      "id": 3477,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Chinchou",
+      "number": "49",
+      "number_value": 49,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/4a/d2/a2/4ad2a2d0f25e7873ca3de4c3dd07b74d1d86644da029d367a748e94687beadd8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ee/7e/84/ee7e848281a2e337385445eab703c2820b47816c1306041320b12bb31fc15941.jpg",
+      "image_path": "images/cards/1131/49-3477.webp",
+      "image_sha256": "cae4dead9ad9f06c0f0f0770ca8c944f26a6b64bb2cca5caec97c831a51ec960",
+      "image_bytes": 95923,
+      "source_url": "https://www.tcgcollector.com/cards/3477/chinchou-ex-power-keepers-49-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 49
+    },
+    {
+      "id": 3478,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Duskull",
+      "number": "50",
+      "number_value": 50,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/2d/73/bf/2d73bf468552ad2ef1ff242bc4e61000ad9e82419ec5615b9144d9982412723e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e9/e9/4d/e9e94d1eadad6b20c0de9eff8242c2e260e8a7e5d2c4ef60ed2d30343c47ed30.jpg",
+      "image_path": "images/cards/1131/50-3478.webp",
+      "image_sha256": "017a49a451bc7a054ae86e6083b86be2093c373e9b60adb94d82a08620f77a7a",
+      "image_bytes": 96885,
+      "source_url": "https://www.tcgcollector.com/cards/3478/duskull-ex-power-keepers-50-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 50
+    },
+    {
+      "id": 3479,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Kabuto",
+      "number": "51",
+      "number_value": 51,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/84/ee/4b/84ee4b93cf3b76622563475905d27a7ded6ee80aca9cf932f4446ad0ca2c8c9c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7a/b5/17/7ab517a4d27eeef0f50a93e8db882523c41c677cc0bf265f638118f918b41c52.jpg",
+      "image_path": "images/cards/1131/51-3479.webp",
+      "image_sha256": "c951e79a9b5b5e81876b588d50a7acba6297c9fbd77f69cd1eb4e921dd4948c8",
+      "image_bytes": 107864,
+      "source_url": "https://www.tcgcollector.com/cards/3479/kabuto-ex-power-keepers-51-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 51
+    },
+    {
+      "id": 3480,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Lileep",
+      "number": "52",
+      "number_value": 52,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/c8/5b/0b/c85b0ba3c60c79677c3b5c6d0b2969572f17eb97902e681f47d2bba4c8c50ac1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/94/4d/d2/944dd23d1ee1d0891f586e12f7bb9cb4d974a5af79bf31c25ec177c89b714d69.jpg",
+      "image_path": "images/cards/1131/52-3480.webp",
+      "image_sha256": "77c320a89c7057894971d88d029884de76ac83194386ba1b2713df7d3115e055",
+      "image_bytes": 105391,
+      "source_url": "https://www.tcgcollector.com/cards/3480/lileep-ex-power-keepers-52-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 52
+    },
+    {
+      "id": 3481,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Machop",
+      "number": "53",
+      "number_value": 53,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/61/a2/98/61a2988c15df21522da766815fc2197f26e1ad5946d43b29711c5ec7a360c346.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e6/c6/3f/e6c63f1910ec9a36634d875295cdabcd570b839f24b3ba8afd70efc5037beb7c.jpg",
+      "image_path": "images/cards/1131/53-3481.webp",
+      "image_sha256": "72ee17bc867fc7d2f792ce4253624b801ff54c461ea78410a1b382266e317a90",
+      "image_bytes": 109858,
+      "source_url": "https://www.tcgcollector.com/cards/3481/machop-ex-power-keepers-53-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 53
+    },
+    {
+      "id": 3482,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Magnemite",
+      "number": "54",
+      "number_value": 54,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/71/e2/99/71e2995c2f80056a0d97d60cc7d6375bb99e0a184bc43816bd43eb36ab12d3b5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d0/28/df/d028dfb622e4b316ebbe36fca1f0603ebe4833e4161c60afd7b7648b97b7b568.jpg",
+      "image_path": "images/cards/1131/54-3482.webp",
+      "image_sha256": "e912024fc7bb44b1c5c4d98b599a0b7c75aad77189714265684cd1cb4595f237",
+      "image_bytes": 100163,
+      "source_url": "https://www.tcgcollector.com/cards/3482/magnemite-ex-power-keepers-54-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 54
+    },
+    {
+      "id": 3483,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Meditite",
+      "number": "55",
+      "number_value": 55,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/72/a5/59/72a5592e35de6dfc10a033c0df2d80e2bcfdb826781c70efe2e12ae6d6a493c3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/42/04/ce/4204ce0bd6f3ae4d152eb466673b594f521dbb812d0f0a5164a3f707c3da5ea2.jpg",
+      "image_path": "images/cards/1131/55-3483.webp",
+      "image_sha256": "6519a1fc1b2d850995550eec5edd855528434a4d5c20d0531931d304bfe9ba56",
+      "image_bytes": 113573,
+      "source_url": "https://www.tcgcollector.com/cards/3483/meditite-ex-power-keepers-55-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 55
+    },
+    {
+      "id": 3484,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Omanyte",
+      "number": "56",
+      "number_value": 56,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ac/4f/27/ac4f27f88aba061f601aa8d278baa857a056985d1b107e427b24c38fa2d51616.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/83/49/71/834971aee1b49c2cf8db32111b1019135451eefcc06145676d292e0a884a0a6d.jpg",
+      "image_path": "images/cards/1131/56-3484.webp",
+      "image_sha256": "5cb09b8dffee51448e2db9091583da17f9fbeb60931f932e042364709befc2db",
+      "image_bytes": 113297,
+      "source_url": "https://www.tcgcollector.com/cards/3484/omanyte-ex-power-keepers-56-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 56
+    },
+    {
+      "id": 3485,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Pikachu",
+      "number": "57",
+      "number_value": 57,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f6/6a/b9/f66ab93f98f524a51c37678a702dd2eadc8c789e5850ff96770262111b8d4e9a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/de/3c/d5/de3cd599149705fb6d251ee6442bc089a56950523d2b125b0a12296d5e05e797.jpg",
+      "image_path": "images/cards/1131/57-3485.webp",
+      "image_sha256": "63d5fd53d717763e4fde6fa3ed4cea50567f61902c740a42009a18de137a97b1",
+      "image_bytes": 125532,
+      "source_url": "https://www.tcgcollector.com/cards/3485/pikachu-ex-power-keepers-57-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 57
+    },
+    {
+      "id": 3486,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Poochyena",
+      "number": "58",
+      "number_value": 58,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/39/c2/97/39c297412e5c3d5489bd17bed1de912538561dd3f9a0292e07bbf259d6409ee4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/85/da/59/85da59f641164df51700bf8170ab7071b2969eee72cb740e379dd304854f99bc.jpg",
+      "image_path": "images/cards/1131/58-3486.webp",
+      "image_sha256": "c2f686a8916c132e08b9120f7f165c15e31d68881c2c070f65c7f5fa485201d5",
+      "image_bytes": 95341,
+      "source_url": "https://www.tcgcollector.com/cards/3486/poochyena-ex-power-keepers-58-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 58
+    },
+    {
+      "id": 3487,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Ralts",
+      "number": "59",
+      "number_value": 59,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/8a/a4/a8/8aa4a809954c2265a1e61c2df54b31a1ba91de500be75f0ffd477394f9c27d1d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5b/50/e6/5b50e6d15bdac623be0d666494a9796d9e4db0d4a80a8cb10f20303402d60d93.jpg",
+      "image_path": "images/cards/1131/59-3487.webp",
+      "image_sha256": "d88b4c0ae3b2e5253daf7e31a7c530dc7f753c9c258394c94cdb4214369ea62b",
+      "image_bytes": 104495,
+      "source_url": "https://www.tcgcollector.com/cards/3487/ralts-ex-power-keepers-59-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 59
+    },
+    {
+      "id": 3488,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Seedot",
+      "number": "60",
+      "number_value": 60,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a0/ef/b4/a0efb4d9986fa0568cdd8e1ed26ca0305e9e47e2d42bd52745dae2d38980b3fa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9b/77/17/9b77177c3d55af1eab0f8a602e6800f9be29a80ba060e8f7d723f7bf943c90c0.jpg",
+      "image_path": "images/cards/1131/60-3488.webp",
+      "image_sha256": "2049ea36bc3b76fb977a6a9da94aea2cf8e3dcfca79da46efee4f24b521e8cbd",
+      "image_bytes": 100816,
+      "source_url": "https://www.tcgcollector.com/cards/3488/seedot-ex-power-keepers-60-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 60
+    },
+    {
+      "id": 3489,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Shuppet",
+      "number": "61",
+      "number_value": 61,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/39/91/88/3991883499e66a5aad06fadd110d1f7d1814bf826090a91f9b119b22518da886.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/eb/98/92/eb9892a2ad673fcb46ddf0a808994559ddf1c00783aff7353006d84a80b5aa02.jpg",
+      "image_path": "images/cards/1131/61-3489.webp",
+      "image_sha256": "d77528cb150270b500c35397134c8b860a8b2ddb3e4b146fbf08dc4415e66a92",
+      "image_bytes": 94297,
+      "source_url": "https://www.tcgcollector.com/cards/3489/shuppet-ex-power-keepers-61-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 61
+    },
+    {
+      "id": 3490,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Skitty",
+      "number": "62",
+      "number_value": 62,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/8d/08/ae/8d08ae0de28857092003748187927d99ef1ae1faf92900adb29c29bbe2b9add4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f6/57/2a/f6572a01bdf39b33c35726b6c34fc6a4e06d2dd9fe14fabaaddf1e3ff9ec8559.jpg",
+      "image_path": "images/cards/1131/62-3490.webp",
+      "image_sha256": "f8fe9855a0fe6e12d21782782c6b6d6da106a8dc509ae33524a28e8986b7d43d",
+      "image_bytes": 125287,
+      "source_url": "https://www.tcgcollector.com/cards/3490/skitty-ex-power-keepers-62-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 62
+    },
+    {
+      "id": 3491,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Slakoth",
+      "number": "63",
+      "number_value": 63,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/6a/b5/77/6ab57708aa5f15cc2d7f08c83a87ef31b2b20ad87ae78171040f89fb786c63be.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8a/e8/fc/8ae8fcb2d41e5ab20d1ef475eb324582bd4b9a2eff7af1eb184c2a00e20c3f60.jpg",
+      "image_path": "images/cards/1131/63-3491.webp",
+      "image_sha256": "e2a394667948e1bf1b5cbefede7a20f0f27779c762ab9e4166dc7d6e18bd7c71",
+      "image_bytes": 103176,
+      "source_url": "https://www.tcgcollector.com/cards/3491/slakoth-ex-power-keepers-63-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 63
+    },
+    {
+      "id": 3492,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Snorunt",
+      "number": "64",
+      "number_value": 64,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/87/8c/7a/878c7ae5455c5e1263d77d9684136b2b5ff82dbb0751447b6df0e5ee95e6d79d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9a/79/4f/9a794f8b8eca6e50eba405d47c52143a40cdacd952dbac9f43463f6a2ad32d10.jpg",
+      "image_path": "images/cards/1131/64-3492.webp",
+      "image_sha256": "41ca1d016ad57eaba230351b06e9ec7978950bde6047c00f7c9c4f216770bd83",
+      "image_bytes": 112626,
+      "source_url": "https://www.tcgcollector.com/cards/3492/snorunt-ex-power-keepers-64-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 64
+    },
+    {
+      "id": 3493,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Spheal",
+      "number": "65",
+      "number_value": 65,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/5c/f7/1c/5cf71cf4a8506b755df847eeb98ff1a617745f178c521a1ad3033544c062ae88.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/13/2b/02/132b0208f2b13da25c3e8778b0ba4107a9916150891940b21d76cb9235bfd921.jpg",
+      "image_path": "images/cards/1131/65-3493.webp",
+      "image_sha256": "5910f4e6cf05ed70dcc12ddfea0b784589d29d16bd3554292a92a09fa46f7e8a",
+      "image_bytes": 99444,
+      "source_url": "https://www.tcgcollector.com/cards/3493/spheal-ex-power-keepers-65-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 65
+    },
+    {
+      "id": 3494,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Swablu",
+      "number": "66",
+      "number_value": 66,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/b9/3c/95/b93c95c63ea4cb7a8aeaee8b27d1a5123db17065d609bddb1983bf78855125b9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6b/27/4e/6b274ec36713716130c2df86bf80aec45c77baf2461a8e98eeece7809c0b56f7.jpg",
+      "image_path": "images/cards/1131/66-3494.webp",
+      "image_sha256": "c647f0e855476674ca037ab440ae8e2ba62ca5905a764d7655ebae746e14cf4d",
+      "image_bytes": 98613,
+      "source_url": "https://www.tcgcollector.com/cards/3494/swablu-ex-power-keepers-66-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 66
+    },
+    {
+      "id": 3495,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Torchic",
+      "number": "67",
+      "number_value": 67,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/34/aa/6b/34aa6bc38b7adea8797573ed1aa643f5acd6b0c4bba11f23c289df6a522d60d3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/55/58/3e/55583e15ae91721317f853796a758e82088ab6e6a06c2512a2304c74171c95e2.jpg",
+      "image_path": "images/cards/1131/67-3495.webp",
+      "image_sha256": "d60332d57c5c3f6d0b1d12d7bfaeaa4a9a1427364a003f959d0dec0f1427fbe0",
+      "image_bytes": 99428,
+      "source_url": "https://www.tcgcollector.com/cards/3495/torchic-ex-power-keepers-67-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 67
+    },
+    {
+      "id": 3496,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Trapinch",
+      "number": "68",
+      "number_value": 68,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e4/12/8a/e4128a7e9d0968ae977a31f72f47196080ee2332568808a886ea7438e21d10c3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/65/16/79/651679664e9472cb33d16cd54e24db3a884fa871ba5ceef975c078676da2f2df.jpg",
+      "image_path": "images/cards/1131/68-3496.webp",
+      "image_sha256": "db03716b550112cd29d3097a6d3eb83e0adca0be515e68a27a023f79b132dbde",
+      "image_bytes": 104871,
+      "source_url": "https://www.tcgcollector.com/cards/3496/trapinch-ex-power-keepers-68-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 68
+    },
+    {
+      "id": 3497,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Vulpix",
+      "number": "69",
+      "number_value": 69,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/58/ad/88/58ad88b5a8a7779bcfb9984574cbe79a9b3436c0af97b1312d16e341dbc800f3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f3/c0/2a/f3c02adbf0fb33f017ec2dd9d31993084b1fc5dadbc695d018a07e1fa0d190d1.jpg",
+      "image_path": "images/cards/1131/69-3497.webp",
+      "image_sha256": "2dcd0f235f0a407d06c32c24bc5b4eacabf9274fb4b56fb04112981ed077ee5f",
+      "image_bytes": 104873,
+      "source_url": "https://www.tcgcollector.com/cards/3497/vulpix-ex-power-keepers-69-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 69
+    },
+    {
+      "id": 3498,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Wynaut",
+      "number": "70",
+      "number_value": 70,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/39/0b/71/390b71ebf88f50cc2cd0a9d018191bbdf1c505ac227237b086231502d4e9ebbb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b9/a7/e3/b9a7e372ecf968102488d10dde1968661e6376ae236e5f2e6c3553fc52457dcb.jpg",
+      "image_path": "images/cards/1131/70-3498.webp",
+      "image_sha256": "5b5bf22d17359d9929cd5ce772bdd07eb19960fd12e3d34dcd86a2c8faffdd56",
+      "image_bytes": 108744,
+      "source_url": "https://www.tcgcollector.com/cards/3498/wynaut-ex-power-keepers-70-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 70
+    },
+    {
+      "id": 3499,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Battle Frontier",
+      "number": "71",
+      "number_value": 71,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/57/ba/76/57ba767e77a786485903cb11fc0ba5e5f2b2f2312c1290b95f585e174e5a4f53.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9c/1d/9e/9c1d9e3374ec8764608b907231c5597a99f1a73d7e75d0c87c989d067175b5ba.jpg",
+      "image_path": "images/cards/1131/71-3499.webp",
+      "image_sha256": "f530225768913299a53380be747fcede359a73786f0902b0bb2b88bea0a8beae",
+      "image_bytes": 111512,
+      "source_url": "https://www.tcgcollector.com/cards/3499/battle-frontier-ex-power-keepers-71-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 71
+    },
+    {
+      "id": 3500,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Drake's Stadium",
+      "number": "72",
+      "number_value": 72,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/e8/33/00/e83300dad703de54e7a3c018cf0c1a2260f3c34428d4f91747c5108bea7acf41.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/16/d2/a5/16d2a5aad9dba7f7d5ff3babde6525c35aebb8027b91057877bc1806b1644589.jpg",
+      "image_path": "images/cards/1131/72-3500.webp",
+      "image_sha256": "00c91fbe80bc5c155e074a63d58c8557d6453bc03ef6956fa3af4255ec151840",
+      "image_bytes": 101167,
+      "source_url": "https://www.tcgcollector.com/cards/3500/drakes-stadium-ex-power-keepers-72-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 72
+    },
+    {
+      "id": 3501,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Energy Recycle System",
+      "number": "73",
+      "number_value": 73,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/12/11/4d/12114d5597b4752e3debf1ee44325ec1f4a53e4b7ed598487f7356389281264a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9d/93/39/9d93391f7e30f94359e805fe1bacd6949a0c80efb9749db9f3925246322b35d3.jpg",
+      "image_path": "images/cards/1131/73-3501.webp",
+      "image_sha256": "21f4859c7bce09a358f6f95f8ced2c475ad853c3e2dfac4ee2009006e1716f23",
+      "image_bytes": 98061,
+      "source_url": "https://www.tcgcollector.com/cards/3501/energy-recycle-system-ex-power-keepers-73-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 73
+    },
+    {
+      "id": 3502,
+      "set_id": 1131,
+      "set_ids": [
+        1131,
+        1238
+      ],
+      "name": "Energy Removal 2",
+      "number": "74",
+      "number_value": 74,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/1f/04/71/1f047166fb3d212d7ca7ec97f57376bb55e6a4b6533bbb646ff97dd1e2da1fad.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4c/6e/a3/4c6ea39b2cdb6b087c68dc9d94663743faa77f13fb31b08da9dd859255396ac9.jpg",
+      "image_path": "images/cards/1131/74-3502.webp",
+      "image_sha256": "79c19c980dd0465904506cad340aac15edd31a1d1f110c6a2f5646d4bbb7c4cf",
+      "image_bytes": 80163,
+      "source_url": "https://www.tcgcollector.com/cards/3502/energy-removal-2-ex-power-keepers-74-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 74
+    },
+    {
+      "id": 3503,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Energy Switch",
+      "number": "75",
+      "number_value": 75,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/74/84/2a/74842ada4e2beb8b990c703ed0b7a1f6863431f5e9f2bdbba7018bc96769903a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d9/b6/84/d9b684d5315829b30fe0af9fadc112b3dc555da73a75f331b9e4c600b5e75599.jpg",
+      "image_path": "images/cards/1131/75-3503.webp",
+      "image_sha256": "a4a65032a626414ac8d22a04797b9b53b516bc49f253d01af3933d91760a8be7",
+      "image_bytes": 86601,
+      "source_url": "https://www.tcgcollector.com/cards/3503/energy-switch-ex-power-keepers-75-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 75
+    },
+    {
+      "id": 3504,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Glacia's Stadium",
+      "number": "76",
+      "number_value": 76,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d4/15/eb/d415eb5aaf5e96ae6fa16de9282f747b05fc01f082bfddb9cd4e1fe6fa94d00a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/41/3a/9b/413a9b332e6b024e12721e18a0c3c170439644f621808135bae28a9dd0c2b03a.jpg",
+      "image_path": "images/cards/1131/76-3504.webp",
+      "image_sha256": "2a79c7578f78dea7082ecd66ae00238ac7782c85a6e51f8f2b44f6719428e844",
+      "image_bytes": 89951,
+      "source_url": "https://www.tcgcollector.com/cards/3504/glacias-stadium-ex-power-keepers-76-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 76
+    },
+    {
+      "id": 3505,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Great Ball",
+      "number": "77",
+      "number_value": 77,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/fc/a5/50/fca550165c10e9ec37f4f13c502d2560bb48005e149d3d0564f6a764772e0887.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/eb/1f/76/eb1f768876d12704ba4559ec8cb550b366415a1e33cbb977d82c102b2a32a7a2.jpg",
+      "image_path": "images/cards/1131/77-3505.webp",
+      "image_sha256": "e3922819676bbbfd318245a045aba84071936d6c0f5a9000793aca04824cbb48",
+      "image_bytes": 86603,
+      "source_url": "https://www.tcgcollector.com/cards/3505/great-ball-ex-power-keepers-77-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 77
+    },
+    {
+      "id": 3506,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Master Ball",
+      "number": "78",
+      "number_value": 78,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f3/20/57/f3205785dea1632cc353c9b6a47f2570a5fb9cc138f32ade0e1bfb7f917e70bd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f4/f3/ce/f4f3ce02647b65eda89bb7b20ae765d2bf9d2cc9a730a7f15ea016f46f88f97c.jpg",
+      "image_path": "images/cards/1131/78-3506.webp",
+      "image_sha256": "0d6da6ee9846b9aef3d8fcc242a8bbe607deaa7f684e69078f9955b22f4dbab9",
+      "image_bytes": 89252,
+      "source_url": "https://www.tcgcollector.com/cards/3506/master-ball-ex-power-keepers-78-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 78
+    },
+    {
+      "id": 3507,
+      "set_id": 1131,
+      "set_ids": [
+        1131,
+        1236
+      ],
+      "name": "Phoebe's Stadium",
+      "number": "79",
+      "number_value": 79,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/7e/36/c1/7e36c17ed5ed1eee3e5c33dd4ce4d75f898154fdaa84e66212c502e0f100b09a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/88/a7/ab/88a7ab44e9b865e8188b36d80cadfe31b8e05d0435a4402a2c0899ad930f2fb9.jpg",
+      "image_path": "images/cards/1131/79-3507.webp",
+      "image_sha256": "66352fdea8c3c4c3cc91f7b45f1fbd5a1d2ce728e41e932f07ead5cc93ecdc21",
+      "image_bytes": 88452,
+      "source_url": "https://www.tcgcollector.com/cards/3507/phoebes-stadium-ex-power-keepers-79-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 79
+    },
+    {
+      "id": 3508,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Professor Birch",
+      "number": "80",
+      "number_value": 80,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/87/f7/0e/87f70e9a5d47f899a841dc2f4095abf074187522b5df5918dbfe969bb7f2fff1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/39/71/bd/3971bd4ec6f2f185be7d42790345e85b19138160e29f710f3aead1451720c400.jpg",
+      "image_path": "images/cards/1131/80-3508.webp",
+      "image_sha256": "74607b637c816463927a284c62d644024e5f2ca5a01bf5875273d86999a35d98",
+      "image_bytes": 92634,
+      "source_url": "https://www.tcgcollector.com/cards/3508/professor-birch-ex-power-keepers-80-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 80
+    },
+    {
+      "id": 3509,
+      "set_id": 1131,
+      "set_ids": [
+        1131,
+        1235,
+        1236,
+        1238,
+        1240
+      ],
+      "name": "Scott",
+      "number": "81",
+      "number_value": 81,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/8b/7b/77/8b7b77ffac7baf0244f661ecc2bdf20ca2b182070353e9b7898c6a171caf34e5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6f/e1/19/6fe119a30fa5308a69452c5101eed4eb37bdccfe19c08fd0d0b8fd826545cf39.jpg",
+      "image_path": "images/cards/1131/81-3509.webp",
+      "image_sha256": "ba49a105f5b6c84a62804581be6012eeb83b488c8ca0d72f38fd9dbee2809ddf",
+      "image_bytes": 99776,
+      "source_url": "https://www.tcgcollector.com/cards/3509/scott-ex-power-keepers-81-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 81
+    },
+    {
+      "id": 3510,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Sidney's Stadium",
+      "number": "82",
+      "number_value": 82,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/6d/2c/99/6d2c99ee557a33eae7085c564d023ccd17745e3bad43e2fc65a8600a53f0850f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/32/66/81/3266813a0fea7e221bd0526981074a41c46fff8386e0c3f21c97b12ef10d66d8.jpg",
+      "image_path": "images/cards/1131/82-3510.webp",
+      "image_sha256": "ce04e874fd33b6d23f7d562a25395a24805106c80f76c3211b2f11b1a6aebfab",
+      "image_bytes": 103181,
+      "source_url": "https://www.tcgcollector.com/cards/3510/sidneys-stadium-ex-power-keepers-82-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 82
+    },
+    {
+      "id": 3511,
+      "set_id": 1131,
+      "set_ids": [
+        1131,
+        1237,
+        1238,
+        1239,
+        1240,
+        1241
+      ],
+      "name": "Steven's Advice",
+      "number": "83",
+      "number_value": 83,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/5f/45/a4/5f45a4e491f4ef871fd91c61471a590674b8c7b981d689fdb00f7c81e935812c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a0/63/bd/a063bdbcd9a7ce5848bfe2c4e68169334a34a69d66308c70865dc7dc6395ff08.jpg",
+      "image_path": "images/cards/1131/83-3511.webp",
+      "image_sha256": "0633b3b767ccd6205c6f494e7b62fd6fa49b80178f716e362bde047605d1081d",
+      "image_bytes": 99822,
+      "source_url": "https://www.tcgcollector.com/cards/3511/stevens-advice-ex-power-keepers-83-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 83
+    },
+    {
+      "id": 3512,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Claw Fossil",
+      "number": "84",
+      "number_value": 84,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/66/73/18/66731884a9e3065cc24092588b1f1f0d97d9b99a62b24970cac5d9a89040c40d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2b/f1/16/2bf11677d059f8e35c3868c88567aa28f6852b1a928cdd9d5786b8e661be8b08.jpg",
+      "image_path": "images/cards/1131/84-3512.webp",
+      "image_sha256": "14a086e5565096eb26058b5af92062f2618e466645d7cbca9cd08f209d1df962",
+      "image_bytes": 104190,
+      "source_url": "https://www.tcgcollector.com/cards/3512/claw-fossil-ex-power-keepers-84-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 84
+    },
+    {
+      "id": 3513,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Mysterious Fossil",
+      "number": "85",
+      "number_value": 85,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/93/34/a4/9334a49e793c084469fe3655e871149acb2d6d87070a04434213d3c8790c4d78.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/36/5d/ad/365dad49990a0cbe7c1b4abfb768d548456a0c5bcc6db8943c996bb4ecbf58f3.jpg",
+      "image_path": "images/cards/1131/85-3513.webp",
+      "image_sha256": "9f751b5bdecb5dff5313808810006336f0638c10f0ecad563bc10bee86ecd3ab",
+      "image_bytes": 105498,
+      "source_url": "https://www.tcgcollector.com/cards/3513/mysterious-fossil-ex-power-keepers-85-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 85
+    },
+    {
+      "id": 3514,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Root Fossil",
+      "number": "86",
+      "number_value": 86,
+      "printed_total": 108,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/63/b7/7b/63b77b248d895e1a1df9e44c67a69c0da8317b6b2f3f553b94b85e920de2efba.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/94/70/ce/9470ce54e77cb2e15c983e815b4fb2074c716a2259f01714f509698a453d94fa.jpg",
+      "image_path": "images/cards/1131/86-3514.webp",
+      "image_sha256": "0e47eec5d44aca88950770545f84016b9105a012d10b0e7ab5c51aa77025db6a",
+      "image_bytes": 102287,
+      "source_url": "https://www.tcgcollector.com/cards/3514/root-fossil-ex-power-keepers-86-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 86
+    },
+    {
+      "id": 3515,
+      "set_id": 1131,
+      "set_ids": [
+        1131,
+        1235
+      ],
+      "name": "Darkness Energy",
+      "number": "87",
+      "number_value": 87,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/0d/ff/a9/0dffa9565d6fbff51e7698812d9eea906573bb4ed34af88b8b2203696fc6b70e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fc/6a/c7/fc6ac76075eea1bbc9912a7c13ad48bcdb1d983b1d16c9e2f9648db7e7db8315.jpg",
+      "image_path": "images/cards/1131/87-3515.webp",
+      "image_sha256": "c2b038b19aecce157c70fc76aa61fee65c1c3b4139a0991b74db01cc177a288b",
+      "image_bytes": 88938,
+      "source_url": "https://www.tcgcollector.com/cards/3515/darkness-energy-ex-power-keepers-87-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 87
+    },
+    {
+      "id": 3516,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Metal Energy",
+      "number": "88",
+      "number_value": 88,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/fa/f8/bd/faf8bd4c6a3206e6dad3bd4c0892610752f2b4fe9b072f32ed2e3067c51b2317.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/25/8e/39/258e3947ce3d79b8a809fe2fc45b35d4053a74c50a02a644fa3c8e8f9c2a2afd.jpg",
+      "image_path": "images/cards/1131/88-3516.webp",
+      "image_sha256": "e59050d7e7e3183f487c04a60f5e2dcfd0e1d3439f7e92f89449446ffbdc890c",
+      "image_bytes": 96202,
+      "source_url": "https://www.tcgcollector.com/cards/3516/metal-energy-ex-power-keepers-88-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 88
+    },
+    {
+      "id": 3517,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Multi Energy",
+      "number": "89",
+      "number_value": 89,
+      "printed_total": 108,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/53/bb/65/53bb65039e5191537bc3d5473208b2e6bc488705dddb0ec30724ac9b95ee88f0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/11/1a/e7/111ae746f37b116ca4ffef68fd78a3ca9c82a8fd192e78cea08671c17e35c9b2.jpg",
+      "image_path": "images/cards/1131/89-3517.webp",
+      "image_sha256": "393be58289270ab5c385b0b39f885a41d9d602e88b044219d0d702f5690925cb",
+      "image_bytes": 113886,
+      "source_url": "https://www.tcgcollector.com/cards/3517/multi-energy-ex-power-keepers-89-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 89
+    },
+    {
+      "id": 3518,
+      "set_id": 1131,
+      "set_ids": [
+        1131,
+        1236,
+        1241
+      ],
+      "name": "Cyclone Energy",
+      "number": "90",
+      "number_value": 90,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/a9/a7/d0/a9a7d0755232856dbdc145fef9fe3eee6a204ae0887b72f44d52e0ebe92ebece.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ed/bc/cc/edbcccd61fdb3c7399f677ccbe700891e5b4e749e876ab3ad645c04cbc96efbb.jpg",
+      "image_path": "images/cards/1131/90-3518.webp",
+      "image_sha256": "4599bf77545a0a497b12a7e4a3777e5555ab7b8c338a293741c8447548d4e27c",
+      "image_bytes": 98454,
+      "source_url": "https://www.tcgcollector.com/cards/3518/cyclone-energy-ex-power-keepers-90-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 90
+    },
+    {
+      "id": 3519,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Warp Energy",
+      "number": "91",
+      "number_value": 91,
+      "printed_total": 108,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d2/6e/0b/d26e0b127c494471dbbcb8c594e3e27fec33cfd6a97c00408ad41ae90259b0dc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ca/39/74/ca3974cb2a0ca1f1c9e88a3d6097117372b42be318b3f18a3613dc4133652f07.jpg",
+      "image_path": "images/cards/1131/91-3519.webp",
+      "image_sha256": "6664599c1734ddee4d2811f1307967c4d1820ce73301f2d766c196c80977d299",
+      "image_bytes": 100587,
+      "source_url": "https://www.tcgcollector.com/cards/3519/warp-energy-ex-power-keepers-91-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 91
+    },
+    {
+      "id": 3520,
+      "set_id": 1131,
+      "set_ids": [
+        1131,
+        1234,
+        1235
+      ],
+      "name": "Absol ex",
+      "number": "92",
+      "number_value": 92,
+      "printed_total": 108,
+      "rarity": "Rare Holo ex",
+      "image_url": "https://static.tcgcollector.com/content/images/8a/f5/01/8af501fbcb51c7705fec8097799bfb2e3bf77cc39ed9c5491b538385591bc6a6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8c/ff/80/8cff80c1d44e1c511ed82869a030921280dd2c696bd5a57b6b282ebaaae0b906.jpg",
+      "image_path": "images/cards/1131/92-3520.webp",
+      "image_sha256": "0f5b04eb0689e3ce00e677ccf53511034a2f76447a08caa6ab0199d44163db12",
+      "image_bytes": 126680,
+      "source_url": "https://www.tcgcollector.com/cards/3520/absol-ex-ex-power-keepers-92-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 92
+    },
+    {
+      "id": 3521,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Claydol ex",
+      "number": "93",
+      "number_value": 93,
+      "printed_total": 108,
+      "rarity": "Rare Holo ex",
+      "image_url": "https://static.tcgcollector.com/content/images/18/04/bc/1804bcc657f13acc4bd474ef6218cb9f6d367758a4b6dce0e552ad05d51a9a02.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bc/74/c9/bc74c9aee0e420659e977b4ad33f9e0bed1f6ce78e30b3619f85b3327c6990f0.jpg",
+      "image_path": "images/cards/1131/93-3521.webp",
+      "image_sha256": "1fd551fc4960fb11e7275ef755b64d6c9cee0aa73bcd379dd049d6e2cfbeb10e",
+      "image_bytes": 121569,
+      "source_url": "https://www.tcgcollector.com/cards/3521/claydol-ex-ex-power-keepers-93-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 93
+    },
+    {
+      "id": 3522,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Flygon ex",
+      "number": "94",
+      "number_value": 94,
+      "printed_total": 108,
+      "rarity": "Rare Holo ex",
+      "image_url": "https://static.tcgcollector.com/content/images/f7/b2/3f/f7b23f8984b4f53effa435c1854e12c132a0f2955e5217747af9058bd5d99e8b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5b/89/39/5b893916a8f1bc12671845a76986d47adeefcdbad8bef674e068e12b63144f4f.jpg",
+      "image_path": "images/cards/1131/94-3522.webp",
+      "image_sha256": "cab433e3044eb8402de7a81ea1d3b47493c7e5864ca2d1b9d3bd689dcbec7b8e",
+      "image_bytes": 126465,
+      "source_url": "https://www.tcgcollector.com/cards/3522/flygon-ex-ex-power-keepers-94-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 94
+    },
+    {
+      "id": 3523,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Metagross ex",
+      "number": "95",
+      "number_value": 95,
+      "printed_total": 108,
+      "rarity": "Rare Holo ex",
+      "image_url": "https://static.tcgcollector.com/content/images/e2/bd/96/e2bd965f010917cb09dd7c341b82cc8ab9113f0e44fa18a76e9f9024e26fe44c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/40/53/f3/4053f399c9605601d80c138a354652be2b5341e1a059eac79e0bf9b2817a5e37.jpg",
+      "image_path": "images/cards/1131/95-3523.webp",
+      "image_sha256": "c74be1fbf2455b8753a13d766bd3c98620cbcf56e68e30e465e9bca728113e15",
+      "image_bytes": 134306,
+      "source_url": "https://www.tcgcollector.com/cards/3523/metagross-ex-ex-power-keepers-95-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 95
+    },
+    {
+      "id": 3524,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Salamence ex",
+      "number": "96",
+      "number_value": 96,
+      "printed_total": 108,
+      "rarity": "Rare Holo ex",
+      "image_url": "https://static.tcgcollector.com/content/images/af/84/73/af8473d6517f5c8ffc42c4a95198432c4aa26add1f333a3d055cc87414b004e5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cd/00/84/cd00841d93832952be4fba72cfb295643b7f373cdcad391204550abec210b654.jpg",
+      "image_path": "images/cards/1131/96-3524.webp",
+      "image_sha256": "6204d5af271f0ff034a3f01b573ee8c6951681940b42d828e0575f7a105c8d70",
+      "image_bytes": 124229,
+      "source_url": "https://www.tcgcollector.com/cards/3524/salamence-ex-ex-power-keepers-96-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 96
+    },
+    {
+      "id": 3525,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Shiftry ex",
+      "number": "97",
+      "number_value": 97,
+      "printed_total": 108,
+      "rarity": "Rare Holo ex",
+      "image_url": "https://static.tcgcollector.com/content/images/8d/8a/35/8d8a35a961a94f09a61139d86364d27688e9d91a7e9255991e0d0cf54e6cb78f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4e/14/5c/4e145c24310ef6f3bf0c300b0336e09a3c7a1d64fb067ea7c401fadc841aa25b.jpg",
+      "image_path": "images/cards/1131/97-3525.webp",
+      "image_sha256": "b9e5bdb9673d419c6a1eee322e53110926123497fbe15329fcd1fee1342d22cc",
+      "image_bytes": 130780,
+      "source_url": "https://www.tcgcollector.com/cards/3525/shiftry-ex-ex-power-keepers-97-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 97
+    },
+    {
+      "id": 3526,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Skarmory ex",
+      "number": "98",
+      "number_value": 98,
+      "printed_total": 108,
+      "rarity": "Rare Holo ex",
+      "image_url": "https://static.tcgcollector.com/content/images/d3/cb/21/d3cb21d099458a9dc8c9b8033f4ed2cd69e5582ae8c1e26ee0b709d1d8d9a69c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9e/e6/cf/9ee6cf09fcefc9ce9112b15160e9c60fc303a3eeecf137ae37af897e8fe082b9.jpg",
+      "image_path": "images/cards/1131/98-3526.webp",
+      "image_sha256": "3554f18ceb8ae6dcf46eecd93af8fded9d118f22a49b11e054cb5ec4d6b9ddb7",
+      "image_bytes": 135636,
+      "source_url": "https://www.tcgcollector.com/cards/3526/skarmory-ex-ex-power-keepers-98-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 98
+    },
+    {
+      "id": 3527,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Walrein ex",
+      "number": "99",
+      "number_value": 99,
+      "printed_total": 108,
+      "rarity": "Rare Holo ex",
+      "image_url": "https://static.tcgcollector.com/content/images/c5/f3/3c/c5f33cac8eb597d90b23da3d1573ecf829f7575113b04e1b4d1c51e8b8bce212.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/50/d2/ed/50d2ed3bb7b8f3bca405a6f998fd1f38ce5c2b8a1b3d06d759f3583925517552.jpg",
+      "image_path": "images/cards/1131/99-3527.webp",
+      "image_sha256": "acc881f1d7267454ee28ad9003768ac1271100fe1e09cd35c2ac31002479f56d",
+      "image_bytes": 127990,
+      "source_url": "https://www.tcgcollector.com/cards/3527/walrein-ex-ex-power-keepers-99-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 99
+    },
+    {
+      "id": 3528,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Flareon ☆",
+      "number": "100",
+      "number_value": 100,
+      "printed_total": 108,
+      "rarity": "Rare Holo ☆",
+      "image_url": "https://static.tcgcollector.com/content/images/7e/58/5f/7e585feaf5be5a249b4f01c835522084a3c0ff5e152a62f9ebef73fac98b485f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dc/f9/a2/dcf9a2d6d71963f278b081d24b6c956bde30a3d7a7c248885b325a75389242e9.jpg",
+      "image_path": "images/cards/1131/100-3528.webp",
+      "image_sha256": "b4fa66a2ac7a75738aebe01a2fe9d5ab9f4d155d0ab71d11e2b2c39dc532ca30",
+      "image_bytes": 119202,
+      "source_url": "https://www.tcgcollector.com/cards/3528/flareon-star-ex-power-keepers-100-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 100
+    },
+    {
+      "id": 3529,
+      "set_id": 1131,
+      "set_ids": [
+        1131,
+        1235,
+        1241
+      ],
+      "name": "Jolteon ☆",
+      "number": "101",
+      "number_value": 101,
+      "printed_total": 108,
+      "rarity": "Rare Holo ☆",
+      "image_url": "https://static.tcgcollector.com/content/images/07/3c/1c/073c1c159d77421a49151451b1486e6d77d9c1d41837462add499960af79f00c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b9/29/06/b929068b21bdf1daa5ec9c968aa601d7d0a4a5ebf063a02f203c374dcdf5c4c2.jpg",
+      "image_path": "images/cards/1131/101-3529.webp",
+      "image_sha256": "799a91e28d0ef018132478f20715239496e37afce7af4aeb6d80ac37c9d4107c",
+      "image_bytes": 128972,
+      "source_url": "https://www.tcgcollector.com/cards/3529/jolteon-star-ex-power-keepers-101-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 101
+    },
+    {
+      "id": 3530,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Vaporeon ☆",
+      "number": "102",
+      "number_value": 102,
+      "printed_total": 108,
+      "rarity": "Rare Holo ☆",
+      "image_url": "https://static.tcgcollector.com/content/images/6f/2e/3b/6f2e3ba6dec76101b9911fca0f3c29ff0cabc2ac017eebd7c630cbfa09a304b4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e5/47/11/e5471178919d2e8f0a58cfa152c899172e2c157357bb21e26d3d95751e7ac1c4.jpg",
+      "image_path": "images/cards/1131/102-3530.webp",
+      "image_sha256": "c12e20adffa52dfe995e2fb76d8358b40f3e3f06667acc3a5971ce1527c35e53",
+      "image_bytes": 127498,
+      "source_url": "https://www.tcgcollector.com/cards/3530/vaporeon-star-ex-power-keepers-102-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 102
+    },
+    {
+      "id": 3531,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Grass Energy",
+      "number": "103",
+      "number_value": 103,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/70/75/22/707522b25bd9baea4e11091706bb9d6678e6eab937e971dd9f1db0cc668e6391.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/92/1c/2c/921c2cca031b47c4c8713bd894ea638ca1ee91b5c73c19719ef4e42ea1ef4f51.jpg",
+      "image_path": "images/cards/1131/103-3531.webp",
+      "image_sha256": "1d5fcb457953801361cc55ac6ae09cd40b81bc390dd80c91359804bedad3e10b",
+      "image_bytes": 89164,
+      "source_url": "https://www.tcgcollector.com/cards/3531/grass-energy-ex-power-keepers-103-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 103
+    },
+    {
+      "id": 3532,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Fire Energy",
+      "number": "104",
+      "number_value": 104,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/a9/d5/92/a9d592c0234e5a6ba908b28568d1f82e85aaf47a9864ea079a384b4da8b27eba.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/27/ab/5c/27ab5cc5cd0960994f2fa1f12f793d59640a9b36522d21786667f0448c87f6b7.jpg",
+      "image_path": "images/cards/1131/104-3532.webp",
+      "image_sha256": "b556d375fbb96890fdbe97540b9d2f26d153d4304a47a91005e8caf01f85b835",
+      "image_bytes": 78608,
+      "source_url": "https://www.tcgcollector.com/cards/3532/fire-energy-ex-power-keepers-104-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 104
+    },
+    {
+      "id": 3533,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Water Energy",
+      "number": "105",
+      "number_value": 105,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/c5/48/ea/c548ea7b820120866eba6966b4b22b79a65b74b5e0d256e3d04e5aa07593959d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4e/c0/0e/4ec00ec75f692926f561cbc365c4682e2087ac7793caa17f2f6925dd19d7173c.jpg",
+      "image_path": "images/cards/1131/105-3533.webp",
+      "image_sha256": "50904e5a692278dd21d6143abb12b4a511e9f7bb830e864db333d6c75782c9b5",
+      "image_bytes": 92517,
+      "source_url": "https://www.tcgcollector.com/cards/3533/water-energy-ex-power-keepers-105-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 105
+    },
+    {
+      "id": 3534,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Lightning Energy",
+      "number": "106",
+      "number_value": 106,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/25/93/e5/2593e51523e93ffbf597ea597755741312d10412c45818db1f4aaaf93856b12f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9f/8e/e7/9f8ee7606d9460f46fb48a6be475ef53d81f2928a686f6ccd641257700f73d76.jpg",
+      "image_path": "images/cards/1131/106-3534.webp",
+      "image_sha256": "0e88d8ef562c95a4144fc28d37ea51ec9369e161fb44d71fcf8349e255f17a7d",
+      "image_bytes": 98370,
+      "source_url": "https://www.tcgcollector.com/cards/3534/lightning-energy-ex-power-keepers-106-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 106
+    },
+    {
+      "id": 3535,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Psychic Energy",
+      "number": "107",
+      "number_value": 107,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/4c/50/58/4c5058d8ca8647a1132cfcd1d2a340b07d31d651dfe090e115acf4fdb175833f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/38/da/1c/38da1c2d1bbc0c668b3c39d615c9a7279e1a58d9761b04c41754210c1c8660db.jpg",
+      "image_path": "images/cards/1131/107-3535.webp",
+      "image_sha256": "80d53162974ce712c9ae0993989612ec9446c6db07682b40d334eec5571e95b4",
+      "image_bytes": 74582,
+      "source_url": "https://www.tcgcollector.com/cards/3535/psychic-energy-ex-power-keepers-107-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 107
+    },
+    {
+      "id": 3536,
+      "set_id": 1131,
+      "set_ids": [
+        1131
+      ],
+      "name": "Fighting Energy",
+      "number": "108",
+      "number_value": 108,
+      "printed_total": 108,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/b2/2d/4f/b22d4feff3c8a6c8bfc15f57b165ba0740f6452b9dd9314af40c3f550a447e0f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a8/4a/d4/a84ad42806f7bc9c9aa2d2fa56ca6c2c4ca76df7d7117b7ee53817685c0fe4ae.jpg",
+      "image_path": "images/cards/1131/108-3536.webp",
+      "image_sha256": "537df112f5a69f63d8b09791cdee792321253287abe8ff11e3118cdd5172e424",
+      "image_bytes": 84246,
+      "source_url": "https://www.tcgcollector.com/cards/3536/fighting-energy-ex-power-keepers-108-108",
+      "scraped_at": "2026-10-18T22:25:27Z",
+      "position": 108
+    }
+  ]
+}

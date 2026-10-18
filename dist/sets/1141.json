@@ -1,0 +1,3087 @@
+{
+  "set": {
+    "id": 1141,
+    "language": "en",
+    "name": "Supreme Victors",
+    "code": "SV",
+    "series": "Platinum Series",
+    "release_date": "2009-08-19",
+    "date_text": "Aug 19, 2009",
+    "card_count": 153,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/3e/0e/df/3e0edf5df80655357c56cd3da595c3dfc0fb42d18bcf2764d36da7b44f336294.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/50/92/58/509258363545a5f6bdb6dd7d533c7ebb7d6869a8c5d00b95767a439eb5c42aa5.svg",
+    "logo_path": "images/sets/1141-logo.webp",
+    "symbol_path": "images/sets/1141-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/1141/supreme-victors",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 153
+  },
+  "cards": [
+    {
+      "id": 4770,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Absol G",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 147,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/ac/2d/0a/ac2d0a7ca9701a50844b01c7cc417ebb37dfdfb89406db2f522c7b920d02a6c8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/72/93/fb/7293fbff849780af8b3fabc4f116d47d294161a918c8afa6951a23ed56059fd9.jpg",
+      "image_path": "images/cards/1141/1-4770.webp",
+      "image_sha256": "0d910d2a61eacea775bb6d72e948b6a93afeb6ef7bebbf487df2681fa66fc9ff",
+      "image_bytes": 118271,
+      "source_url": "https://www.tcgcollector.com/cards/4770/absol-g-supreme-victors-1-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 1
+    },
+    {
+      "id": 4771,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Blaziken FB",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 147,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/d9/80/24/d98024714d43e9ef2c231341c11824d8ff8e7102cb2f34b3cb0d9f596d76185d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9d/77/cf/9d77cfa30f3307f2379d4ed52d02e5f8c435590fc7181aa872050f743a02c8a9.jpg",
+      "image_path": "images/cards/1141/2-4771.webp",
+      "image_sha256": "e694b940b81cc95138ff8b294b8f3645c9834a89106e553a5466f42b38da701a",
+      "image_bytes": 112212,
+      "source_url": "https://www.tcgcollector.com/cards/4771/blaziken-fb-supreme-victors-2-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 2
+    },
+    {
+      "id": 4772,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Drifblim FB",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 147,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/2e/f1/49/2ef14949e982d016bc66de8b2e5d844ea5c2f6708f7379bc2092fd008b95000c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ec/9b/3d/ec9b3d709a9b23de279e81072e283b310c77eb1aee76124e6b1cb9671b449939.jpg",
+      "image_path": "images/cards/1141/3-4772.webp",
+      "image_sha256": "402957df82bbc6bfb141da51306c51645b9c7f4077ece4778815fd6aa683c1fc",
+      "image_bytes": 105092,
+      "source_url": "https://www.tcgcollector.com/cards/4772/drifblim-fb-supreme-victors-3-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 3
+    },
+    {
+      "id": 4773,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Electivire FB",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 147,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/65/0a/91/650a9191d4aeb1950cf2d036409f0e99c538e5aca80c99243d0735906aa6660d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/58/4a/6b/584a6b944421ac3083f50589229b029031c2e1b8a17e680ee1a8f86ccf1946e2.jpg",
+      "image_path": "images/cards/1141/4-4773.webp",
+      "image_sha256": "3f28ad14570d45b42942f63809e585a7de202c2092c0f4688da299e6873ea3c9",
+      "image_bytes": 105495,
+      "source_url": "https://www.tcgcollector.com/cards/4773/electivire-fb-supreme-victors-4-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 4
+    },
+    {
+      "id": 4774,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Garchomp",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 147,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/88/3e/77/883e77b95cb3d8f16199e0fcdadb70a851245661ba6a707c6429a43412b1d979.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6b/9c/a5/6b9ca55d0f517e2e08d314753a863d45766968b2ba0cad5462d47a427ed1f2c6.jpg",
+      "image_path": "images/cards/1141/5-4774.webp",
+      "image_sha256": "27fb85bb298950de55408fcedf2cf56de4d98d075d4204688c2a53e49d92d8a2",
+      "image_bytes": 125141,
+      "source_url": "https://www.tcgcollector.com/cards/4774/garchomp-supreme-victors-5-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 5
+    },
+    {
+      "id": 4775,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Magmortar",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 147,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/dd/4d/e1/dd4de156592ce78a4c93f5fbc41ff80254ebdcf1d5b608830b37ae6e3d6c1584.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0f/cc/2f/0fcc2f75bcbe244c816a9673bad5633eb60d29cc0b402a9e8de5e8ba926075c8.jpg",
+      "image_path": "images/cards/1141/6-4775.webp",
+      "image_sha256": "a1efc08f349c7f3e97da1519fc2f6e666dbc36c4a2da31a337a5dbe15613bc50",
+      "image_bytes": 116033,
+      "source_url": "https://www.tcgcollector.com/cards/4775/magmortar-supreme-victors-6-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 6
+    },
+    {
+      "id": 4776,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Metagross",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 147,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/a0/6e/bc/a06ebc386a82f7724dc2197cd98fbcc3d3b329236b17096a8be468e360b869e6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ce/ad/22/cead22d3c890d30e2dcbbf70a81d4f46dad0877a2dedbde44d881fe31bab4756.jpg",
+      "image_path": "images/cards/1141/7-4776.webp",
+      "image_sha256": "18754dbf4bf20c0f357dd4ad18502e1c631d7eba974f553e70f4ae085d186343",
+      "image_bytes": 140735,
+      "source_url": "https://www.tcgcollector.com/cards/4776/metagross-supreme-victors-7-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 7
+    },
+    {
+      "id": 4777,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Rayquaza C",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 147,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/00/c2/8c/00c28c8d4d64e634cdef724fd7f29fc3df5e83008700b8099a3e3a7acef4ecd8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/76/32/1b/76321bd6bfa659a7d72b680c8b671483863c78aaedfa55f1c59f3f5cfcc915d9.jpg",
+      "image_path": "images/cards/1141/8-4777.webp",
+      "image_sha256": "a8f15fc3e1628adbe7cdcdd51cf9ce8fdd146d46b02d91734bd7111137da8e6b",
+      "image_bytes": 121253,
+      "source_url": "https://www.tcgcollector.com/cards/4777/rayquaza-c-supreme-victors-8-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 8
+    },
+    {
+      "id": 4778,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Regigigas FB",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 147,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/1a/2f/95/1a2f95f5b5b51ae32f27413b5b35396d100ba559a2e5670eeaf838d152d158f6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7c/e9/ca/7ce9ca646ae8704ebdd7858fc21e062d78bf9878d9560ef640a525b00835c1a6.jpg",
+      "image_path": "images/cards/1141/9-4778.webp",
+      "image_sha256": "a4b68dfe0ee87ab95f10cced51468d7df1580f1594eabcf2f3e36995b6e4dc64",
+      "image_bytes": 114561,
+      "source_url": "https://www.tcgcollector.com/cards/4778/regigigas-fb-supreme-victors-9-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 9
+    },
+    {
+      "id": 4779,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Rhyperior",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 147,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/bc/fb/04/bcfb04ed3a977639727258da027c33258bd4065a0445bf24cd3ab0ad31d88463.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9a/75/65/9a7565eacd99f8ed10ed805acdaf0b2df3288998522ba7dc05b2bcb52ddb3cb5.jpg",
+      "image_path": "images/cards/1141/10-4779.webp",
+      "image_sha256": "547e88dc21768665dfa0e9ba637863010aeefe38764536fedbf4b2b5b76424f1",
+      "image_bytes": 113696,
+      "source_url": "https://www.tcgcollector.com/cards/4779/rhyperior-supreme-victors-10-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 10
+    },
+    {
+      "id": 4780,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Staraptor FB",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 147,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/71/67/cb/7167cb6ea3cefddb1ba623cff766fd64276eb9b9dbb48607006bc62cd26565d1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/04/6d/cc/046dccedfe76136ab5c7d8835de8a5cb9986b1631f7b7bc6872452bfe7cbff56.jpg",
+      "image_path": "images/cards/1141/11-4780.webp",
+      "image_sha256": "d158768f3d3df7adfe6db2644bad69bdea2549a3d3fe12a83161159b20fae728",
+      "image_bytes": 116002,
+      "source_url": "https://www.tcgcollector.com/cards/4780/staraptor-fb-supreme-victors-11-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 11
+    },
+    {
+      "id": 4781,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Swampert",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 147,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/f2/f6/44/f2f6444add7b40ad2fab9528d4678448c3fd9acac1549b5bea9307748cdf66a4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c8/f8/e1/c8f8e182f189b92c1e263bff5360b82216a9a4ad9f27ceedd8d4dda567215b83.jpg",
+      "image_path": "images/cards/1141/12-4781.webp",
+      "image_sha256": "3395123e7f7f23e6c5f2ed38b817737dc5f406e2d15bfd93095572d9a7ab8884",
+      "image_bytes": 116576,
+      "source_url": "https://www.tcgcollector.com/cards/4781/swampert-supreme-victors-12-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 12
+    },
+    {
+      "id": 4782,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Venusaur",
+      "number": "13",
+      "number_value": 13,
+      "printed_total": 147,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/1a/55/86/1a5586cd7fa68ce0421c189921d719224d96722ec7e91059e173103dedf7ee19.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/af/40/7e/af407ec4a522deaf3171e23e62e95b399c3c35cbd26f834e810051062cfa01b3.jpg",
+      "image_path": "images/cards/1141/13-4782.webp",
+      "image_sha256": "9178cf9bafd8acb3cd2e7847fe5e82177f6b9c71794fa7a1be0a1485d79d2835",
+      "image_bytes": 118679,
+      "source_url": "https://www.tcgcollector.com/cards/4782/venusaur-supreme-victors-13-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 13
+    },
+    {
+      "id": 4783,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Yanmega",
+      "number": "14",
+      "number_value": 14,
+      "printed_total": 147,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/e5/6b/cc/e56bcc90c1b915f6095e9c9ad1078ba415f8be14b2a60b553e06cadff8a0f785.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f0/9c/25/f09c25e878da3f9ea13343798784f4de258990200afdcea96c3f92d8ec24943e.jpg",
+      "image_path": "images/cards/1141/14-4783.webp",
+      "image_sha256": "98af5a25b070ec4b3a39135b4fae1c96b45d6f291be2001127a5834be91b85ea",
+      "image_bytes": 133433,
+      "source_url": "https://www.tcgcollector.com/cards/4783/yanmega-supreme-victors-14-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 14
+    },
+    {
+      "id": 4784,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Arcanine G",
+      "number": "15",
+      "number_value": 15,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f6/f2/82/f6f28251e45f30e5c340735a774a02b718e1145603c29234ee9e65929108762a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b3/87/4e/b3874e7bc452f8a18e3a362db521945929eedca066baa2874d3ddc9945a523f9.jpg",
+      "image_path": "images/cards/1141/15-4784.webp",
+      "image_sha256": "e937e49c7cae47144c08068c17f48c7c019f727a188cd55afd6ffe9e980bb10e",
+      "image_bytes": 108439,
+      "source_url": "https://www.tcgcollector.com/cards/4784/arcanine-g-supreme-victors-15-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 15
+    },
+    {
+      "id": 4785,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Articuno",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/c4/38/a4/c438a47395f5d216023f8256a1ea84852d9d244de8ffd3afa39312e7f48b632a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/21/93/40/2193405578d11adada0f802f72917ca26bc5e607e28aa8fe904a4441e8064aa8.jpg",
+      "image_path": "images/cards/1141/16-4785.webp",
+      "image_sha256": "29f46a517b1cea6d5387ebb5f9f33957f8d850fd1efb900e765b29c2291b87c6",
+      "image_bytes": 108107,
+      "source_url": "https://www.tcgcollector.com/cards/4785/articuno-supreme-victors-16-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 16
+    },
+    {
+      "id": 4786,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Butterfree FB",
+      "number": "17",
+      "number_value": 17,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/9e/d1/51/9ed151dec83df383a3d56c7b5f6409d1e9e86a5f124f9f07b78cc03ba8c76b2f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/58/af/0e/58af0e0145a16c7661fb2df497b0956c0a131095bf141f147b859668b89c6bb1.jpg",
+      "image_path": "images/cards/1141/17-4786.webp",
+      "image_sha256": "0f6f19a57178c2401cc2ded9da6c90d68e82fe9d3de54573438d24bac2708376",
+      "image_bytes": 111018,
+      "source_url": "https://www.tcgcollector.com/cards/4786/butterfree-fb-supreme-victors-17-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 17
+    },
+    {
+      "id": 4787,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Camerupt",
+      "number": "18",
+      "number_value": 18,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/5e/a0/7f/5ea07f7447a5752679016d5fa841a979db8fcb4f7158302489ab9eb30fed5e6a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f8/96/7b/f8967bc8313af682e92f35a9e8ff2db825f276a820c9be38b394c7e4ea7d6b31.jpg",
+      "image_path": "images/cards/1141/18-4787.webp",
+      "image_sha256": "f721fd360ef1371cbf7f77cf8d31c66ec53dd4b1a152b836fb09aa0ccb6e8ccf",
+      "image_bytes": 112607,
+      "source_url": "https://www.tcgcollector.com/cards/4787/camerupt-supreme-victors-18-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 18
+    },
+    {
+      "id": 4788,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Camerupt G",
+      "number": "19",
+      "number_value": 19,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/05/61/ae/0561ae5c1b976a36d6b1b6762f70b0db17fdbf21f3637e4a296dbe36c6cafc29.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/66/d1/25/66d125131b76df8ef93b1db75ceebc82e4f215edb5d32854bbae6c16241e35c6.jpg",
+      "image_path": "images/cards/1141/19-4788.webp",
+      "image_sha256": "f3693f58fbac8eaf0cff315b88076c0f21d71bfb60356352b9182d2d4febab19",
+      "image_bytes": 112277,
+      "source_url": "https://www.tcgcollector.com/cards/4788/camerupt-g-supreme-victors-19-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 19
+    },
+    {
+      "id": 4789,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Charizard G",
+      "number": "20",
+      "number_value": 20,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/c4/87/40/c487406087c47fc096a74d34b24bacb510e6f919a57577429e8bc482656bbec6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/65/8c/1a/658c1a7e31de6ca448fca534cda15faff10e665f32334fb8c3659228b02ba49a.jpg",
+      "image_path": "images/cards/1141/20-4789.webp",
+      "image_sha256": "892b280b92d7fb5e76a4becc79b586b7dc75bcf79a0bcdcd70d918ca7645e251",
+      "image_bytes": 108995,
+      "source_url": "https://www.tcgcollector.com/cards/4789/charizard-g-supreme-victors-20-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 20
+    },
+    {
+      "id": 4790,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Chimecho",
+      "number": "21",
+      "number_value": 21,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/2c/3e/92/2c3e92c9fbb91e7064a0c110c121371001fb92e4af318a71bd80f20b6aab4c38.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a4/35/65/a43565944d2acc24560a4cd0c51e4d69a599f6ff2f6e5eb3cb5d1e78f48c739a.jpg",
+      "image_path": "images/cards/1141/21-4790.webp",
+      "image_sha256": "833c20a7471c43fb560155bb372650fd4d3fefaf8cf518545e413f0e185c20d9",
+      "image_bytes": 106299,
+      "source_url": "https://www.tcgcollector.com/cards/4790/chimecho-supreme-victors-21-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 21
+    },
+    {
+      "id": 4791,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Claydol",
+      "number": "22",
+      "number_value": 22,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/de/2b/09/de2b09176a8fbe27ede4a8880eb8cfdf071608244b252c07642b112664cd4c5f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b1/8d/69/b18d69439e8ceabc05b9f44b4461bcc3fe69475f9cf58084c26875924cfe0495.jpg",
+      "image_path": "images/cards/1141/22-4791.webp",
+      "image_sha256": "fe0668033caffbe06765ad1e38942c21002143d93d349be1fc9e912392ae6fa8",
+      "image_bytes": 112512,
+      "source_url": "https://www.tcgcollector.com/cards/4791/claydol-supreme-victors-22-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 22
+    },
+    {
+      "id": 4792,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Crawdaunt G",
+      "number": "23",
+      "number_value": 23,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/fa/3d/6f/fa3d6f5e8bf1d9c6f387b4943e88385da5d58d84be921bd1df4a03897292fe29.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b0/af/6d/b0af6d6023fc941f26e7e264d248e40fe700d4ac304cd0da9a1e52572f3e0c9f.jpg",
+      "image_path": "images/cards/1141/23-4792.webp",
+      "image_sha256": "20126220e7cbc8c2bd55dc9fedfd4d4b1db268f94e2736152e3670a5d9bd81fc",
+      "image_bytes": 116942,
+      "source_url": "https://www.tcgcollector.com/cards/4792/crawdaunt-g-supreme-victors-23-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 23
+    },
+    {
+      "id": 4793,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Dewgong",
+      "number": "24",
+      "number_value": 24,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/e5/3d/18/e53d187b0ab51db888ee29e4dfff2a1ca10a10cd4a82dc51a04264aabe3d095e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f8/48/de/f848de1d2126284055a30840275b646ccd2359591b5afbd34f9c10c096023975.jpg",
+      "image_path": "images/cards/1141/24-4793.webp",
+      "image_sha256": "57dbb24b7f7702befba46200b63c448d378ed8d08e54fb068313a2a205f6a861",
+      "image_bytes": 105319,
+      "source_url": "https://www.tcgcollector.com/cards/4793/dewgong-supreme-victors-24-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 24
+    },
+    {
+      "id": 4794,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Dodrio",
+      "number": "25",
+      "number_value": 25,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/95/d7/4b/95d74b77759689e0c31ba5769fa29b48a6529a734ff9c746ffa2f1ba01f4aff7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3b/d1/96/3bd196320494ad04deb9df28e9720228fcfa4588ecfab8c8090a2d9d09085383.jpg",
+      "image_path": "images/cards/1141/25-4794.webp",
+      "image_sha256": "4645478159b02f757090e82732a8b62583de833e0c7c66aff2edafd36f73408c",
+      "image_bytes": 107690,
+      "source_url": "https://www.tcgcollector.com/cards/4794/dodrio-supreme-victors-25-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 25
+    },
+    {
+      "id": 4795,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Dusknoir FB",
+      "number": "26",
+      "number_value": 26,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/a6/53/a5/a653a5adf7d9eb7113f38d611b5e29480a1620c1a5aa2293cab581d46e030c0a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9d/8b/60/9d8b60692859858f64578488d05f5429df2caadc9677e5ae9315b370e35d6870.jpg",
+      "image_path": "images/cards/1141/26-4795.webp",
+      "image_sha256": "2174a1e657945d7c52c0935560b0ba93612e05a40e52c60629642bd19f5c3025",
+      "image_bytes": 103104,
+      "source_url": "https://www.tcgcollector.com/cards/4795/dusknoir-fb-supreme-victors-26-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 26
+    },
+    {
+      "id": 4796,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Empoleon FB",
+      "number": "27",
+      "number_value": 27,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/8d/da/95/8dda9510372136fe508fffcb4d28f15c2d340c4e0bfdbc1330edde0d053ef6a8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3a/73/3d/3a733d57f68e5edb21e421f03f133c24b4e8ece2d77ed6c4521b3060bda22bcf.jpg",
+      "image_path": "images/cards/1141/27-4796.webp",
+      "image_sha256": "a60fe1e980bd2d60b79fc3697d2b165de052257889f5d388368617c60475acbc",
+      "image_bytes": 110851,
+      "source_url": "https://www.tcgcollector.com/cards/4796/empoleon-fb-supreme-victors-27-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 27
+    },
+    {
+      "id": 4797,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Exploud",
+      "number": "28",
+      "number_value": 28,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/04/9d/1e/049d1e3646b6cd2a6110721cc5394a2743995f7ef0076ea32d30a694aea5414b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e0/52/25/e05225c1f005add95e49d3a695711cb15485d3249fa9c4cd43863a8133dce27b.jpg",
+      "image_path": "images/cards/1141/28-4797.webp",
+      "image_sha256": "61607f093d5bf8b63adb27839004e798157e2eb9438751ae55e0dc554e54906b",
+      "image_bytes": 111219,
+      "source_url": "https://www.tcgcollector.com/cards/4797/exploud-supreme-victors-28-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 28
+    },
+    {
+      "id": 4798,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Honchkrow",
+      "number": "29",
+      "number_value": 29,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/a4/49/d2/a449d29dabfe9e65cb72a4fc4fa679a6b5acc41abd1e763b9bf725543cd1e0eb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9a/b7/b7/9ab7b7e1c5746e04c794629f1f818431be60e20c25f77346b056c1ffad96de77.jpg",
+      "image_path": "images/cards/1141/29-4798.webp",
+      "image_sha256": "560cfbde1ed9ddabc11dee066141d28bc4560c24b08a1ec6eaf2ee45f0eb2292",
+      "image_bytes": 127011,
+      "source_url": "https://www.tcgcollector.com/cards/4798/honchkrow-supreme-victors-29-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 29
+    },
+    {
+      "id": 4799,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Lickilicky C",
+      "number": "30",
+      "number_value": 30,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ac/eb/11/aceb11ab14390419b11ba8cf7f9cc87809a46553b03b22cf97b7b7de9b9ac3e6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/06/68/81/0668812d07fc2fe5d20641d75d5640fec479391de748e28b1f4225ea5c15291b.jpg",
+      "image_path": "images/cards/1141/30-4799.webp",
+      "image_sha256": "e468bc587cb3930e109558edb5a6d1652651e488d7a119186d98cf0bee49aeef",
+      "image_bytes": 99717,
+      "source_url": "https://www.tcgcollector.com/cards/4799/lickilicky-c-supreme-victors-30-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 30
+    },
+    {
+      "id": 4800,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Lucario C",
+      "number": "31",
+      "number_value": 31,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/61/e1/8a/61e18af1cd285a336308b85c3437ac7b3cd7c4e88dd3bb44b95aef878ffa549b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b5/6e/7f/b56e7fc58e3a0e8efed6d8e07337d1f1f05fb288ef4034736562339cdacfb31d.jpg",
+      "image_path": "images/cards/1141/31-4800.webp",
+      "image_sha256": "6c8fd7a6ce1f4dbee927be179e815e85f2ad15eccd9f716704f32303f59d2524",
+      "image_bytes": 110622,
+      "source_url": "https://www.tcgcollector.com/cards/4800/lucario-c-supreme-victors-31-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 31
+    },
+    {
+      "id": 4801,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Lunatone",
+      "number": "32",
+      "number_value": 32,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/bf/eb/e0/bfebe0e6d7efb2ca8cb97249a736f0df4252a1c6aa82d049a083a5f2c0d68985.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/29/c1/57/29c157da2f9a5bcd611b05446e1867f06f8909d92bfe9ebd87b417a0e8fc2c9b.jpg",
+      "image_path": "images/cards/1141/32-4801.webp",
+      "image_sha256": "f499bd36795e3a8750e55f66ae1462e04c0ad89c4cc3a81394ea2f9106849fdd",
+      "image_bytes": 110736,
+      "source_url": "https://www.tcgcollector.com/cards/4801/lunatone-supreme-victors-32-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 32
+    },
+    {
+      "id": 4802,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Mawile",
+      "number": "33",
+      "number_value": 33,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/d3/c7/04/d3c704c731fc0af22a484e702881c8a6de49bf859965e2ebe7359464b543b723.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ed/1f/57/ed1f57cbc739e3127df236270fe942cb04979e8831037a75858ccc7e22fbd2c3.jpg",
+      "image_path": "images/cards/1141/33-4802.webp",
+      "image_sha256": "d5ae477e749359fa93d9ca1692123de86b7ced5a63e5487fa535a3fd62716403",
+      "image_bytes": 111108,
+      "source_url": "https://www.tcgcollector.com/cards/4802/mawile-supreme-victors-33-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 33
+    },
+    {
+      "id": 4803,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Medicham",
+      "number": "34",
+      "number_value": 34,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/c8/53/32/c85332d492acbdf350402cb643aa05d515d88ee5da3c0f5c3143ae1d3bb8829f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/39/b9/0d/39b90ddbaa08f2bb9fee972c9f13b3793243ae892b7bb5ec556a4e5899f19c18.jpg",
+      "image_path": "images/cards/1141/34-4803.webp",
+      "image_sha256": "d4659e76fc85945a1326038c2d44184d70af1bb5524bb53d8ef9b92bf629acdb",
+      "image_bytes": 101791,
+      "source_url": "https://www.tcgcollector.com/cards/4803/medicham-supreme-victors-34-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 34
+    },
+    {
+      "id": 4804,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Milotic C",
+      "number": "35",
+      "number_value": 35,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/75/e6/03/75e603bd32b7955c4af24e7565ee79015dffe9871ddd36d0bba01a6e5ab1010e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/14/bc/f5/14bcf5949a8a4fcca164eb6afa0caf09fb3148efed312ac8ad38b283a6617cee.jpg",
+      "image_path": "images/cards/1141/35-4804.webp",
+      "image_sha256": "c5e28255e86a451bfa81153635cfc77599039d18c0a2b494230ec03c8a945436",
+      "image_bytes": 99035,
+      "source_url": "https://www.tcgcollector.com/cards/4804/milotic-c-supreme-victors-35-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 35
+    },
+    {
+      "id": 4805,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Moltres",
+      "number": "36",
+      "number_value": 36,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/55/7b/6b/557b6bb1d7a58f4963be5088ae43578f58d40a626451cad343bed71ffcae2c7a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1d/21/ef/1d21efc6b840a2fdeca55427c8a30f30c59dd5a0e4e9c6868ab0bfe38858292a.jpg",
+      "image_path": "images/cards/1141/36-4805.webp",
+      "image_sha256": "b2ef169fc25a891395b699ab0a4bd2f7c0ac83435ab40064716066cded37cc95",
+      "image_bytes": 89970,
+      "source_url": "https://www.tcgcollector.com/cards/4805/moltres-supreme-victors-36-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 36
+    },
+    {
+      "id": 4806,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Mr. Mime",
+      "number": "37",
+      "number_value": 37,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/95/30/8d/95308db2ca3a00ec072ae7da73e8f129fa809bf6712e3308312d47dca0141d30.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c3/ff/74/c3ff742d7c55b66af85c0c64932ca22b1038d879204cb38f6b08a906b8af15f5.jpg",
+      "image_path": "images/cards/1141/37-4806.webp",
+      "image_sha256": "50117df0fadb713707e37c2ad983599bbaa89f52299644815fc43f88dc9e2d4a",
+      "image_bytes": 99312,
+      "source_url": "https://www.tcgcollector.com/cards/4806/mr-mime-supreme-victors-37-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 37
+    },
+    {
+      "id": 4807,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Parasect",
+      "number": "38",
+      "number_value": 38,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/9a/b8/5e/9ab85ec6d6b23b0aa8520dcdf7491004160ba3d4f1172be0e6cdc87a23a8a688.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7d/b6/c1/7db6c1ac84b6121f09daafae829dd839a5637b5eeaf5f41d412ac577a3851342.jpg",
+      "image_path": "images/cards/1141/38-4807.webp",
+      "image_sha256": "4c1be0411b4f1a9ac765f4a0df07bae93ad620093ecd9dd412e4af0452aeed2a",
+      "image_bytes": 104398,
+      "source_url": "https://www.tcgcollector.com/cards/4807/parasect-supreme-victors-38-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 38
+    },
+    {
+      "id": 4808,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Primeape",
+      "number": "39",
+      "number_value": 39,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/c6/70/11/c67011d506138b74d472441aa48bdccde586b895930acc930ef6190f2d1c3b0c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c7/19/cc/c719cce4da738c1257c467a6ca78555017c85651a3e4863280ff12e2dff2b8fc.jpg",
+      "image_path": "images/cards/1141/39-4808.webp",
+      "image_sha256": "4d3919b52ee6092dada0fa4bdd5fa38d33be93d24689393b7f8e516a20b55dfe",
+      "image_bytes": 102635,
+      "source_url": "https://www.tcgcollector.com/cards/4808/primeape-supreme-victors-39-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 39
+    },
+    {
+      "id": 4809,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Roserade C",
+      "number": "40",
+      "number_value": 40,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/61/a2/60/61a2602e7e937a1467ab1eaadd641f7dc2e90123ccbbcdaa6e9c013bfa8dff9d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e8/40/8a/e8408a218d2fa5fe8c5baa1a70af38958c3cfe8953d1dd1b3cace237e41f20f3.jpg",
+      "image_path": "images/cards/1141/40-4809.webp",
+      "image_sha256": "4fca0a1adbd265432ac62767828e9a436cc1239aa0413ee49a669031d9c7975e",
+      "image_bytes": 106112,
+      "source_url": "https://www.tcgcollector.com/cards/4809/roserade-c-supreme-victors-40-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 40
+    },
+    {
+      "id": 4810,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Sableye G",
+      "number": "41",
+      "number_value": 41,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/c0/9c/42/c09c428eab6cb4aa42488272b13f1765497758899fe2d2f16cd4c64f8cf169ff.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/59/e4/d0/59e4d05b1195bc3ae7125bbc114ecc8c4c95d4de22dc5151242256d7481e87ac.jpg",
+      "image_path": "images/cards/1141/41-4810.webp",
+      "image_sha256": "479019822fdad14e53e845fc45a7411e1a3d4ae38e9120d65c448b8de377caca",
+      "image_bytes": 106436,
+      "source_url": "https://www.tcgcollector.com/cards/4810/sableye-g-supreme-victors-41-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 41
+    },
+    {
+      "id": 4811,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Sandslash",
+      "number": "42",
+      "number_value": 42,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/de/85/54/de8554121f8e3ececb40aef1d4e9df1ffc3636a4f0eef7c1c3b7090f7c2de350.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1f/92/9c/1f929c32043c7c60b450ede296fb38cb12c430d96afb8e4f85eb0c70c19b3f80.jpg",
+      "image_path": "images/cards/1141/42-4811.webp",
+      "image_sha256": "fc21d15086136bea607ac8ddbb1268e70eb2fc4e8c5a6ee73cb7e584a5ac94da",
+      "image_bytes": 117445,
+      "source_url": "https://www.tcgcollector.com/cards/4811/sandslash-supreme-victors-42-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 42
+    },
+    {
+      "id": 4812,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Seaking",
+      "number": "43",
+      "number_value": 43,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f8/ca/4a/f8ca4acf396560f53f623d71457e1a4e59c6035bf47105affaa1c4cd364e553e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4a/c2/a3/4ac2a329bf5b2373dd70d4340ee3fe01e4c46269c371df7c7726c7650e9f3e6c.jpg",
+      "image_path": "images/cards/1141/43-4812.webp",
+      "image_sha256": "15d90250a571d7f46ecca230a3eb35b3b865d42452bb76edd98908c79bf6eedd",
+      "image_bytes": 113072,
+      "source_url": "https://www.tcgcollector.com/cards/4812/seaking-supreme-victors-43-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 43
+    },
+    {
+      "id": 9559,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Shedinja",
+      "number": "44",
+      "number_value": 44,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/a6/d7/72/a6d772e270d5eb3e0d37891e4f78d8f0384db94309d8a5e4ed16cb2bd1aba020.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bb/46/c0/bb46c093ff23df45749e704f153781cf9ab087e0879f22dbe78e3d602a6121f3.jpg",
+      "image_path": "images/cards/1141/44-9559.webp",
+      "image_sha256": "726a637290c39654eac333d261146e3b043e10b15470395b5a2f929bae1f02a7",
+      "image_bytes": 106730,
+      "source_url": "https://www.tcgcollector.com/cards/9559/shedinja-supreme-victors-44-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 44
+    },
+    {
+      "id": 4813,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Solrock",
+      "number": "45",
+      "number_value": 45,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/8d/8e/97/8d8e97266385dfa8f8e560c6e56bf84aa2d3199d977bbbb3f4e04a6ad8618e7d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/18/94/a2/1894a2eb3771245696ec6b7a2d4c8caa7a677c858d9d7b74dfa1d6d0db5bd2b7.jpg",
+      "image_path": "images/cards/1141/45-4813.webp",
+      "image_sha256": "473784266bfd278188a311ed16390eb257d484a4270c2a64b99767bdd85ceb85",
+      "image_bytes": 112777,
+      "source_url": "https://www.tcgcollector.com/cards/4813/solrock-supreme-victors-45-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 45
+    },
+    {
+      "id": 4814,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Spinda",
+      "number": "46",
+      "number_value": 46,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/a6/f6/89/a6f6899db5943d149bb06d72a37a41376e16832fa67304bfbb64a8bef1cda309.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/83/0c/07/830c0748bd8fb406481fa89cf5f6c975d47f8a3daf8fedac4759bb6e486d178f.jpg",
+      "image_path": "images/cards/1141/46-4814.webp",
+      "image_sha256": "4ee0460018720f4ffe4606624e34c3f25685f7d2d9bffcff06285855b126dede",
+      "image_bytes": 108400,
+      "source_url": "https://www.tcgcollector.com/cards/4814/spinda-supreme-victors-46-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 46
+    },
+    {
+      "id": 4815,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Wailord",
+      "number": "47",
+      "number_value": 47,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/42/79/8c/42798c6c9c07f11b2a78a3e5f6f1f102a4d22f2eb12a3e77cf3469ebd887be81.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1f/26/1e/1f261e69f2cb01d0fcccbec5c544c4296c2b6c3d08c1125f21a74d056ecf1ed7.jpg",
+      "image_path": "images/cards/1141/47-4815.webp",
+      "image_sha256": "d66310dbe7f6e744c53f484b5b406ff18e0bb2b6e9f99517c6b23f92f7249a29",
+      "image_bytes": 104360,
+      "source_url": "https://www.tcgcollector.com/cards/4815/wailord-supreme-victors-47-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 47
+    },
+    {
+      "id": 4816,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Zapdos",
+      "number": "48",
+      "number_value": 48,
+      "printed_total": 147,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/27/22/bf/2722bfaee01bfe57e14f9bae6f5c610c86bf83115c837495d976e8232cdbe0e9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/47/03/25/47032536b24ee8cd480797e7896e93007ec2239712192e5aa3ab1e2d8ec45972.jpg",
+      "image_path": "images/cards/1141/48-4816.webp",
+      "image_sha256": "81bd1a5a1522ebcc216ceb6eadae7202d0ae961cd28c7655cb8aa440702bcd09",
+      "image_bytes": 90743,
+      "source_url": "https://www.tcgcollector.com/cards/4816/zapdos-supreme-victors-48-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 48
+    },
+    {
+      "id": 4817,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Altaria C",
+      "number": "49",
+      "number_value": 49,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d9/43/c0/d943c051f08916876f252f2d217217c10e2a9ddbd9c03c31b95df9f49952a37e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d6/3d/e2/d63de2b8af58633b98da9b717b0ef3ad6499284daff646c292344341d3ca9cb9.jpg",
+      "image_path": "images/cards/1141/49-4817.webp",
+      "image_sha256": "6e12ca6d6163d714eddbe4d5d444e338b370199cb1aad4fb40d2ac38ba8ae132",
+      "image_bytes": 99731,
+      "source_url": "https://www.tcgcollector.com/cards/4817/altaria-c-supreme-victors-49-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 49
+    },
+    {
+      "id": 4818,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Arcanine",
+      "number": "50",
+      "number_value": 50,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/9c/b1/15/9cb11548682676e3a5caab1d7aa6a824d233d1a097abfbfb7d05f39511662780.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/82/55/e8/8255e89227955f50c7df7b4c8bc246dd84fb15c9fbca2d55e3e5461d1a93a95f.jpg",
+      "image_path": "images/cards/1141/50-4818.webp",
+      "image_sha256": "813a79a8253902cd0f591c02b3604f694a14d88b2b089ebc4d3c7e07133aa385",
+      "image_bytes": 95680,
+      "source_url": "https://www.tcgcollector.com/cards/4818/arcanine-supreme-victors-50-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 50
+    },
+    {
+      "id": 4819,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Bibarel",
+      "number": "51",
+      "number_value": 51,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/29/62/5c/29625c080a7d9676d4427852ff50946f5948bee9427b0aa6a5f4270bc247cdc1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/38/25/ba/3825ba0e2023a14c95c3c69f028e948a1bab10fe488791a901287e5fdc23beed.jpg",
+      "image_path": "images/cards/1141/51-4819.webp",
+      "image_sha256": "5fd201e451daa80df954a52418cca3efed59f8c40946c760297adef6f2cfd8ca",
+      "image_bytes": 83609,
+      "source_url": "https://www.tcgcollector.com/cards/4819/bibarel-supreme-victors-51-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 51
+    },
+    {
+      "id": 4820,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Breloom",
+      "number": "52",
+      "number_value": 52,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f1/a6/12/f1a612633b6daf95537e786c154d4ae37371fc1a98327c05f6177746e191a057.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5d/de/1c/5dde1cbb9f18125feb815c06a4239fbb9094de575ea5c0c1fad564868a20dfe9.jpg",
+      "image_path": "images/cards/1141/52-4820.webp",
+      "image_sha256": "041b02dc5bea708cab26fd75c251839e408b6be8957e781591f87a86565c5215",
+      "image_bytes": 112246,
+      "source_url": "https://www.tcgcollector.com/cards/4820/breloom-supreme-victors-52-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 52
+    },
+    {
+      "id": 4821,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Carnivine",
+      "number": "53",
+      "number_value": 53,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/0a/b0/84/0ab084f7a3baa98eca537061793913cd8928608c7abe37373f3b0cf4d9d6e767.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1b/f5/cd/1bf5cd3c630fc99fedde2e5db3476653315bf08ff1366d3220b7d2f36d24e94a.jpg",
+      "image_path": "images/cards/1141/53-4821.webp",
+      "image_sha256": "780e9e8f7d82aa64a2f3739b9ed9e04ef9fc2083732c05aad9dab194278262ea",
+      "image_bytes": 93583,
+      "source_url": "https://www.tcgcollector.com/cards/4821/carnivine-supreme-victors-53-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 53
+    },
+    {
+      "id": 4822,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Chatot G",
+      "number": "54",
+      "number_value": 54,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/96/f5/7e/96f57e3f33e80df8d34bc96114f42f413cba73175b92345065ab5226406016da.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c5/45/7b/c5457b189d4200e56532c1788b1d244472a9c7144251683ca3356c0e0138e6f2.jpg",
+      "image_path": "images/cards/1141/54-4822.webp",
+      "image_sha256": "05ddc0d62ea60879ec1dcd696c309803295584ae79edb0e76babdfd40d2449e6",
+      "image_bytes": 102750,
+      "source_url": "https://www.tcgcollector.com/cards/4822/chatot-g-supreme-victors-54-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 54
+    },
+    {
+      "id": 4823,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Cherrim",
+      "number": "55",
+      "number_value": 55,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/fd/9a/4e/fd9a4efb33cbcda4a2fbeb76a47426de802d4d5fab2cd1b945d96aa0f7e52be8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9c/30/25/9c3025789ff71e959896de868656e1b0a5865479790f88dbf7957daca1a95904.jpg",
+      "image_path": "images/cards/1141/55-4823.webp",
+      "image_sha256": "d72ca17e3a4e8e37ea69d9cf7aac759c6ff51d1a203580501d599d796f4a0d49",
+      "image_bytes": 92877,
+      "source_url": "https://www.tcgcollector.com/cards/4823/cherrim-supreme-victors-55-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 55
+    },
+    {
+      "id": 4824,
+      "set_id": 1141,
+      "set_ids": [
+        1141,
+        1248
+      ],
+      "name": "Dragonite FB",
+      "number": "56",
+      "number_value": 56,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/74/2d/c0/742dc0f7796072c141ac03de2046f67cda2eaff6d341ca0c4c42a1c01f44f9ae.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e2/2a/f1/e22af136f74c3ceb727be2b7359045f46187fe3c277b36f06e4524da36ae964a.jpg",
+      "image_path": "images/cards/1141/56-4824.webp",
+      "image_sha256": "42a645a9f37b307cd9687a83b330c860bbf1cc88323a86741216d7f748d84c59",
+      "image_bytes": 96341,
+      "source_url": "https://www.tcgcollector.com/cards/4824/dragonite-fb-supreme-victors-56-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 56
+    },
+    {
+      "id": 4825,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Drifblim",
+      "number": "57",
+      "number_value": 57,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/fc/bd/c9/fcbdc981ea5810289e321acc574ccf15fd2c91648b87db52dbb3e6f33814f36c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b4/a8/6d/b4a86d1a44600bfab8463307ced68b9a01593adde6360be7234b1fe16487774f.jpg",
+      "image_path": "images/cards/1141/57-4825.webp",
+      "image_sha256": "12e3f44bfd03cfd99625003478f935855867d67a1b4641bbd05167c3056d0ffa",
+      "image_bytes": 83694,
+      "source_url": "https://www.tcgcollector.com/cards/4825/drifblim-supreme-victors-57-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 57
+    },
+    {
+      "id": 4826,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Floatzel",
+      "number": "58",
+      "number_value": 58,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/14/8b/a1/148ba1d979b5ec898184e1eb2faf543ae52d36b73fd174f7fcbccbcf104a0057.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e0/ac/b4/e0acb4d0996516b3fc62e7e7830566365cf69d08f8fe55d50da0f95631311409.jpg",
+      "image_path": "images/cards/1141/58-4826.webp",
+      "image_sha256": "ea2b0c9f7bdbef289f3ca7624e03b57271d34fb9c6b4178c7836b937efba2904",
+      "image_bytes": 94235,
+      "source_url": "https://www.tcgcollector.com/cards/4826/floatzel-supreme-victors-58-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 58
+    },
+    {
+      "id": 4827,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Gabite",
+      "number": "59",
+      "number_value": 59,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/82/41/93/824193840eb4e6866763c6d05b9e5c13b216aa73ba2d78f507e32dd11cf4e7da.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/20/11/03/2011036ddc057471dc771febc427ae2b5a3b9d7b458a17476a32745ab8411003.jpg",
+      "image_path": "images/cards/1141/59-4827.webp",
+      "image_sha256": "c2519826db287f5eb029491ef37668dde4284ce5d84ba8ed35a04b4d3ddaff78",
+      "image_bytes": 97550,
+      "source_url": "https://www.tcgcollector.com/cards/4827/gabite-supreme-victors-59-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 59
+    },
+    {
+      "id": 4828,
+      "set_id": 1141,
+      "set_ids": [
+        1141,
+        1248
+      ],
+      "name": "Garchomp C",
+      "number": "60",
+      "number_value": 60,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/1d/05/a0/1d05a0aa6bf6c2b4d6b06cf42ca0f8c5777af359c26f5997256cc6d8a96507e4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bf/97/5c/bf975c76c7eff2523dc382d07135dfd7641ef7ea4b2001752d4c28db5c4dcf18.jpg",
+      "image_path": "images/cards/1141/60-4828.webp",
+      "image_sha256": "512dbe7a9bdbe1ac678d6a3de08578caf1109357b5c2127d63310e778c3977bd",
+      "image_bytes": 98996,
+      "source_url": "https://www.tcgcollector.com/cards/4828/garchomp-c-supreme-victors-60-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 60
+    },
+    {
+      "id": 4829,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Hippopotas",
+      "number": "61",
+      "number_value": 61,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d3/32/b0/d332b004a57c94f9d9356cd16f3792e8c5c6b6332d0ece4913d79e803f294ce9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fa/fd/4d/fafd4ded32bbedf137eafaf302f3efbc7f47a4d086ecde0fdbfebd5da2968246.jpg",
+      "image_path": "images/cards/1141/61-4829.webp",
+      "image_sha256": "ed387ef2d4fa8b5a08c74199d857d97147b19af5cbe8ca84ce602d836db381aa",
+      "image_bytes": 102900,
+      "source_url": "https://www.tcgcollector.com/cards/4829/hippopotas-supreme-victors-61-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 61
+    },
+    {
+      "id": 4830,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Ivysaur",
+      "number": "62",
+      "number_value": 62,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/00/36/70/003670a18ded724287f3081a94a601d0adc7cc1b194bf7257399161305ee008d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2b/c4/91/2bc491431e230fedfcd1d5eacade7ef8a6249e03200f2ada8359ebcf1ca4b906.jpg",
+      "image_path": "images/cards/1141/62-4830.webp",
+      "image_sha256": "d0c23e8a026e6f3d979e0a97a645cb1c9fdbe3811a3178b461be540a7e9338fe",
+      "image_bytes": 111338,
+      "source_url": "https://www.tcgcollector.com/cards/4830/ivysaur-supreme-victors-62-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 62
+    },
+    {
+      "id": 4831,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Lopunny",
+      "number": "63",
+      "number_value": 63,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/de/a9/65/dea96557e14034139f67faf3b536cbf5f5b1e9be0011d5052f7d99cc9028dcc0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/82/7c/d5/827cd58a2041dce15c0503e9018d89d40e57b18fe9f371be7b4bf67cc4a0089b.jpg",
+      "image_path": "images/cards/1141/63-4831.webp",
+      "image_sha256": "76ade8bf5a51bdf8ed3abf89a120c1172331280cb2459129361d0d7728fac6b5",
+      "image_bytes": 102007,
+      "source_url": "https://www.tcgcollector.com/cards/4831/lopunny-supreme-victors-63-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 63
+    },
+    {
+      "id": 4832,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Loudred",
+      "number": "64",
+      "number_value": 64,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/db/98/94/db98940baccf36204998a2a3fbf3742fea9c62c7b150ff3d5ca220c3d3c8f6cb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/61/a0/79/61a0790e4c2aafc8200c0e906c5c5d12a5cfaed97afcbf7a83c9b6430cba8be7.jpg",
+      "image_path": "images/cards/1141/64-4832.webp",
+      "image_sha256": "450e34688afa6402191f0265702193c852d97b28dd36ac8307fffc580d2a1ce6",
+      "image_bytes": 101968,
+      "source_url": "https://www.tcgcollector.com/cards/4832/loudred-supreme-victors-64-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 64
+    },
+    {
+      "id": 4833,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Magmar",
+      "number": "65",
+      "number_value": 65,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/4e/f8/a1/4ef8a1c8cd336b2b49bf1f0a797d64c0e3c8ac499ceefdfd7b5cdd06e379ec33.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b2/73/5d/b2735dbc3770e66ad469c65f6c79f1cbeb5fd3e96095fd5c0c6f97758f95ab21.jpg",
+      "image_path": "images/cards/1141/65-4833.webp",
+      "image_sha256": "d9f7ef19a75a21ee2aac6a772b6a71af5a11c81657fb7ae315d452caa0b523b6",
+      "image_bytes": 106084,
+      "source_url": "https://www.tcgcollector.com/cards/4833/magmar-supreme-victors-65-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 65
+    },
+    {
+      "id": 4834,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Manectric G",
+      "number": "66",
+      "number_value": 66,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/de/be/f7/debef7ba0e3936b41c273040569a5694d5113931484ddabd090e360b687e5749.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dd/90/77/dd9077a4f028dc64e92f049ace6e63eab3112f286aa390825f00f3e75891d568.jpg",
+      "image_path": "images/cards/1141/66-4834.webp",
+      "image_sha256": "7b2c1303fc018ce3d8b12f5f2d611cf6dbd4e5c72cea62863b0d9ce1f92bea1e",
+      "image_bytes": 106772,
+      "source_url": "https://www.tcgcollector.com/cards/4834/manectric-g-supreme-victors-66-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 66
+    },
+    {
+      "id": 4835,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Marshtomp",
+      "number": "67",
+      "number_value": 67,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d3/38/6b/d3386bd99290c0560598053f5bb9465dd375d0c4182d3caed1e63af1577c98e2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3f/a5/83/3fa58353659dd6ef7777b0a2f6a960961acd1367b9db20aab0cf9a2fb7123502.jpg",
+      "image_path": "images/cards/1141/67-4835.webp",
+      "image_sha256": "1245ccc37dcb3ea9a2091f3cb5fa87b3ad392134f5a7d1655344046882cb64a5",
+      "image_bytes": 129946,
+      "source_url": "https://www.tcgcollector.com/cards/4835/marshtomp-supreme-victors-67-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 67
+    },
+    {
+      "id": 4836,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Masquerain",
+      "number": "68",
+      "number_value": 68,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/0a/74/fb/0a74fbdc13b2506645eb6a6ce6f8cb73268c29e552ea55678ba39600d8adcfe2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/29/3c/58/293c589b7b8f03154569706b50852d4299ef2d74def571b21fc68e40e90d223d.jpg",
+      "image_path": "images/cards/1141/68-4836.webp",
+      "image_sha256": "41dafc3b857d8bcfe194901209d9a8d8ead98b96aadfa04a07f1b64eef9e6d97",
+      "image_bytes": 107066,
+      "source_url": "https://www.tcgcollector.com/cards/4836/masquerain-supreme-victors-68-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 68
+    },
+    {
+      "id": 4837,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Metang",
+      "number": "69",
+      "number_value": 69,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/80/c2/98/80c298fdb145de612db328268a21fedf6f07d08b930e34f9a4f330f72119be4c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3a/80/6c/3a806c0ec43bb6618cd5accaf262483159faf2308a2e7206dfbc339f5f1c95f3.jpg",
+      "image_path": "images/cards/1141/69-4837.webp",
+      "image_sha256": "c6b174297e04b22b3bc2ce9011b4f62d6d957bab57cdf37483cce37b9abc6a4a",
+      "image_bytes": 131697,
+      "source_url": "https://www.tcgcollector.com/cards/4837/metang-supreme-victors-69-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 69
+    },
+    {
+      "id": 4838,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Milotic",
+      "number": "70",
+      "number_value": 70,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/89/fa/20/89fa200a0e0bc6dc03b6ea70562bc8a88dfc25562d6504e1a892d9135931d44b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/44/e9/2b/44e92b6c479d948c8feee47788c33b0124221a4e17874c604554ea086f1f84ae.jpg",
+      "image_path": "images/cards/1141/70-4838.webp",
+      "image_sha256": "d3dc7fb27a063ff19d159c2d3b4ba4655ef619192176169fedca31d447f1b72b",
+      "image_bytes": 112763,
+      "source_url": "https://www.tcgcollector.com/cards/4838/milotic-supreme-victors-70-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 70
+    },
+    {
+      "id": 4839,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Minun",
+      "number": "71",
+      "number_value": 71,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/0e/f9/c9/0ef9c997dfeea13ad9aa5590912015c8fe648f0f3c0a41149684ff0e441be95d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a5/3d/90/a53d90d8711f508852d3c64657e75872b942b368b9ff88f0faa983e2f70b6958.jpg",
+      "image_path": "images/cards/1141/71-4839.webp",
+      "image_sha256": "2f16154f1fab343644cf3239b00a64dc7c170db9ac5cc79930534171524098db",
+      "image_bytes": 101459,
+      "source_url": "https://www.tcgcollector.com/cards/4839/minun-supreme-victors-71-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 71
+    },
+    {
+      "id": 4840,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Murkrow",
+      "number": "72",
+      "number_value": 72,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/c1/ef/7d/c1ef7dae37c93b9435e10a995f3c43711453ddb9775c703b614dacdfef646325.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7d/88/62/7d8862ad95bd14175d4c7c4552a58b42c09ecb36ee236918b6cbf93b13f95b12.jpg",
+      "image_path": "images/cards/1141/72-4840.webp",
+      "image_sha256": "1efb470f51597c12a404702ced3ac6f15e3363c5cfcb91f5d7c86ef412a109a0",
+      "image_bytes": 135044,
+      "source_url": "https://www.tcgcollector.com/cards/4840/murkrow-supreme-victors-72-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 72
+    },
+    {
+      "id": 4841,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Ninjask",
+      "number": "73",
+      "number_value": 73,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/5d/53/3f/5d533ff9fd933a1a85e91fb4020f5cbc838647a9b1e17915150800d99c199dc4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/81/8c/6f/818c6f38eb71004c62d64197d030f4678bfbe40a2b8e141d6a3f6835bd45657b.jpg",
+      "image_path": "images/cards/1141/73-4841.webp",
+      "image_sha256": "afbd7ba3c267ec8acbbd8614172c15c6befe9265dcbd2b534b9e27a250282ff5",
+      "image_bytes": 123331,
+      "source_url": "https://www.tcgcollector.com/cards/4841/ninjask-supreme-victors-73-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 73
+    },
+    {
+      "id": 4842,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Numel",
+      "number": "74",
+      "number_value": 74,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/25/96/04/25960430f2053b435c5904218eb08aea59b24f81acbf29a4135cac122c26b9a0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4f/35/da/4f35daf7017a5e83c237dc9cfe4bfe1f886851b0843eae1c71f366b744c17793.jpg",
+      "image_path": "images/cards/1141/74-4842.webp",
+      "image_sha256": "fe64329b26cf9b5c1109b2124cf76de0ed3699e0bf51c1c8c760adc017f27b9b",
+      "image_bytes": 108338,
+      "source_url": "https://www.tcgcollector.com/cards/4842/numel-supreme-victors-74-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 74
+    },
+    {
+      "id": 4843,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Pinsir",
+      "number": "75",
+      "number_value": 75,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/9f/15/55/9f15558d54616b45694d782b866d3a42704d1fce6f651babb7a6c115d6647017.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8c/0f/ee/8c0feee9b58501158dec40edeaef9884fa6a5ba5c9b7f2e00722e99c4d82603e.jpg",
+      "image_path": "images/cards/1141/75-4843.webp",
+      "image_sha256": "eb16970e11720ce226c17515ace18562757bb026a6603b820906ae0573c86a06",
+      "image_bytes": 101038,
+      "source_url": "https://www.tcgcollector.com/cards/4843/pinsir-supreme-victors-75-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 75
+    },
+    {
+      "id": 4844,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Plusle",
+      "number": "76",
+      "number_value": 76,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/34/85/75/3485759adea0304e3fb4c6168d0f5708ddb9aeb110abef108c731354c73f1606.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/53/fc/9b/53fc9b8a428e7547d8eef96640a593bbb15dcac4808a32b66fe684fb267b5b56.jpg",
+      "image_path": "images/cards/1141/76-4844.webp",
+      "image_sha256": "ccf3e32cca79755c886b62d3bfccab869a0cca5618cfa35cc8dc05fb09d5a90e",
+      "image_bytes": 113076,
+      "source_url": "https://www.tcgcollector.com/cards/4844/plusle-supreme-victors-76-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 76
+    },
+    {
+      "id": 4845,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Raichu",
+      "number": "77",
+      "number_value": 77,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/0f/2b/36/0f2b36489b6caf5af651e23cd8656ecee79adaa97a141cd476c16f31282fcb96.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/70/3b/0e/703b0e7d3bbff54bd8d762d2a9b9c4484de8b51ce4a8ad0079cd5f36c670f837.jpg",
+      "image_path": "images/cards/1141/77-4845.webp",
+      "image_sha256": "1eb36ec33114b67848d751820b56021ddad63ff90b4550a61a3c7650c463142e",
+      "image_bytes": 105344,
+      "source_url": "https://www.tcgcollector.com/cards/4845/raichu-supreme-victors-77-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 77
+    },
+    {
+      "id": 4846,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Raticate G",
+      "number": "78",
+      "number_value": 78,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/e7/d8/aa/e7d8aae0fce6fc38aee99b51d765c194df35ce7d42a0412712d32767c6a91161.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c2/eb/c2/c2ebc2785950d0da6f39810ca02ac3f7a88ab52ee4404e5f10c468a0064bb7db.jpg",
+      "image_path": "images/cards/1141/78-4846.webp",
+      "image_sha256": "03fe1f7692d2220445ab76162a3f2e980e944976363e554b9191525c7d204278",
+      "image_bytes": 116887,
+      "source_url": "https://www.tcgcollector.com/cards/4846/raticate-g-supreme-victors-78-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 78
+    },
+    {
+      "id": 4847,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Relicanth",
+      "number": "79",
+      "number_value": 79,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/60/4c/b6/604cb65d0f7f3681f6eefb523449ee9c03f5233fcb023e3570464f6ab174a7e9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b9/fa/c5/b9fac535186de08df5285d2ab2c90f6fa2f24fc8e9bb6b55338f59a121a76609.jpg",
+      "image_path": "images/cards/1141/79-4847.webp",
+      "image_sha256": "72dc35bd579001e088cca7e40434cbaafd5f792083bd83b6c1da16dec14dd764",
+      "image_bytes": 138730,
+      "source_url": "https://www.tcgcollector.com/cards/4847/relicanth-supreme-victors-79-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 79
+    },
+    {
+      "id": 4848,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Rhydon",
+      "number": "80",
+      "number_value": 80,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f8/50/71/f85071da3e3754fb40fc6892f9a1a2de0cec5254d2edbc8f5c6e4e4adaebb02a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c9/ba/8c/c9ba8c3687e5b2a7ac905f993fd44258b6e36f41677e8033ef7b1c51e5630311.jpg",
+      "image_path": "images/cards/1141/80-4848.webp",
+      "image_sha256": "cde27b203367e575fca1a0aa3c76ee64cc5eb4ae4345496ac8687e24ae9f5a0d",
+      "image_bytes": 106672,
+      "source_url": "https://www.tcgcollector.com/cards/4848/rhydon-supreme-victors-80-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 80
+    },
+    {
+      "id": 4849,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Roserade",
+      "number": "81",
+      "number_value": 81,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/5a/e9/2e/5ae92ea58cbccf050fe29b01dadc2ad562047eef7aeca6b00d25a41da9bb4cdf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/14/25/25/14252591d9c06bd6cd281bfbc6bb1c781302d0d8912bfb25bd4a3466530f99d5.jpg",
+      "image_path": "images/cards/1141/81-4849.webp",
+      "image_sha256": "a479723407d4043a84b02397dc582abbdc710047f8f825d5ca33f37a5a331418",
+      "image_bytes": 97192,
+      "source_url": "https://www.tcgcollector.com/cards/4849/roserade-supreme-victors-81-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 81
+    },
+    {
+      "id": 4850,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Rotom",
+      "number": "82",
+      "number_value": 82,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d5/90/52/d5905277987183ba6779d000b0ebef8ae82557880d31cced71a501db633bbdd2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dc/df/a7/dcdfa78a2c5742be1bf26253be2512328303f6d0d53fc2bd492414c5fbc4ade5.jpg",
+      "image_path": "images/cards/1141/82-4850.webp",
+      "image_sha256": "1e84d794af9d6ea14e2d20949498e47fdf8b340049eeccea9fbd85ff71055433",
+      "image_bytes": 110347,
+      "source_url": "https://www.tcgcollector.com/cards/4850/rotom-supreme-victors-82-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 82
+    },
+    {
+      "id": 4851,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Skarmory FB",
+      "number": "83",
+      "number_value": 83,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/41/1c/e5/411ce5cc6e57680e356ecff2b9b154073ed7dcc73684209b1d9de2ed550b44e1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a2/4f/32/a24f32e59d2a6a1ec519fd7126a370d715ee870c9ba4130cbba68c030e71bb49.jpg",
+      "image_path": "images/cards/1141/83-4851.webp",
+      "image_sha256": "5934af37a3834c30c3328895ce9dc1408546195b67a16aebbbc7098c5d3118f8",
+      "image_bytes": 129255,
+      "source_url": "https://www.tcgcollector.com/cards/4851/skarmory-fb-supreme-victors-83-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 83
+    },
+    {
+      "id": 4852,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Spiritomb C",
+      "number": "84",
+      "number_value": 84,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/a3/ee/00/a3ee00be0d5101faf44bf2da6895cefba0fb2d8a477241ea02bf1ec5a9bb0e05.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0a/2a/13/0a2a1396853a701de3247d7bebec965f12cde1473b6e28da15e5c9a574734f44.jpg",
+      "image_path": "images/cards/1141/84-4852.webp",
+      "image_sha256": "56c7d89a4612615da04f208e91fb0e8104784aaa54436ed17a74a20fec31b43a",
+      "image_bytes": 109452,
+      "source_url": "https://www.tcgcollector.com/cards/4852/spiritomb-c-supreme-victors-84-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 84
+    },
+    {
+      "id": 4853,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Staravia",
+      "number": "85",
+      "number_value": 85,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/10/06/f3/1006f3c49378bc4ceb5b07c5e252bc95325903181ada43f10371199db1bc379b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4c/cd/1e/4ccd1e6c090a2df1bcc493bd4da3f7338597923ab9c9ce24f02369267c9b95be.jpg",
+      "image_path": "images/cards/1141/85-4853.webp",
+      "image_sha256": "6e33ddcf4f2eb90339c4ffb9f337198b3776b6204253352907295135c83459f2",
+      "image_bytes": 105449,
+      "source_url": "https://www.tcgcollector.com/cards/4853/staravia-supreme-victors-85-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 85
+    },
+    {
+      "id": 4854,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Togekiss C",
+      "number": "86",
+      "number_value": 86,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ea/a4/66/eaa466d928a5e2c27e38697e3033add3fa56d32e5e3f61528127f9f9ebd819ca.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3e/d2/d2/3ed2d20dcb3126719a2d2e594fea1a385feb6c7d8841d187cced36592cd05a45.jpg",
+      "image_path": "images/cards/1141/86-4854.webp",
+      "image_sha256": "b02c8580bf8f92a1993803181670f6d5124278897ac340800552770359870e55",
+      "image_bytes": 86928,
+      "source_url": "https://www.tcgcollector.com/cards/4854/togekiss-c-supreme-victors-86-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 86
+    },
+    {
+      "id": 4855,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Wailmer",
+      "number": "87",
+      "number_value": 87,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/4f/2a/75/4f2a75ac0516b3bf6e10dbf7e3b4151c5ec1ff06d8a49175d0667ed55a18c1cb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d2/02/15/d20215cad7e9373bfff1048cf5db0cdc55e362ee3b1b21027ee93a6e6fdc6d5b.jpg",
+      "image_path": "images/cards/1141/87-4855.webp",
+      "image_sha256": "67c0fbd4833703fa37895180ba49f6e7a22f8393755a9226d2261f88631a6e5f",
+      "image_bytes": 108867,
+      "source_url": "https://www.tcgcollector.com/cards/4855/wailmer-supreme-victors-87-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 87
+    },
+    {
+      "id": 4856,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Yanma",
+      "number": "88",
+      "number_value": 88,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/9e/06/5c/9e065c7f75b62e2a7dd3decd601e32a9b0556d7660fc414247ea211bde26c747.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/80/b7/9d/80b79dae0f64a4958ea92d64f3cc96761079111a758143cf855758308438bafe.jpg",
+      "image_path": "images/cards/1141/88-4856.webp",
+      "image_sha256": "0649f75b287fe07b5676e20175c4d52e1b8f2ca246ea7823c5cfc54f5f5f57f0",
+      "image_bytes": 107256,
+      "source_url": "https://www.tcgcollector.com/cards/4856/yanma-supreme-victors-88-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 88
+    },
+    {
+      "id": 4857,
+      "set_id": 1141,
+      "set_ids": [
+        1141,
+        1246
+      ],
+      "name": "Baltoy",
+      "number": "89",
+      "number_value": 89,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ab/e4/be/abe4be676bb2accb6298f6b4a0169b9649d4b66e096277bcd82ec65b568dff53.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9a/ae/bb/9aaebb1e81ad20dee8b15468cdef00cfe7b99b66893e6b671fa6db194d2e0a81.jpg",
+      "image_path": "images/cards/1141/89-4857.webp",
+      "image_sha256": "bf651102890dd4ed0ea181aaf411ab62f31150d31431bf425a0fa75f7acee625",
+      "image_bytes": 96745,
+      "source_url": "https://www.tcgcollector.com/cards/4857/baltoy-supreme-victors-89-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 89
+    },
+    {
+      "id": 4858,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Beldum",
+      "number": "90",
+      "number_value": 90,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ed/18/06/ed1806bf3f2968818098dbd872db8c837c32a0014e83217ffa57b7092149bf69.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/07/c0/68/07c0687aa79367e9788e8a11d925f18aa26161f8a4c010e2286423a408da4b64.jpg",
+      "image_path": "images/cards/1141/90-4858.webp",
+      "image_sha256": "0b2b5b78e7d5f6afc7e49c35499d308c20805d9500caa5188fc988dd0229991c",
+      "image_bytes": 131820,
+      "source_url": "https://www.tcgcollector.com/cards/4858/beldum-supreme-victors-90-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 90
+    },
+    {
+      "id": 4859,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Bidoof",
+      "number": "91",
+      "number_value": 91,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f5/61/7f/f5617f8f58406917b8d109838fa760006ceacecf1174c318f0c62bab4842abfc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/73/f4/75/73f4750628dfde3aea8bd5cf74a9dddda98e1e70681d1b63288c6bc0061a204c.jpg",
+      "image_path": "images/cards/1141/91-4859.webp",
+      "image_sha256": "b3b173f92e7e355078ef1192f09a4194d39653b2d6a8a31ca6b611fb28313bbe",
+      "image_bytes": 86725,
+      "source_url": "https://www.tcgcollector.com/cards/4859/bidoof-supreme-victors-91-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 91
+    },
+    {
+      "id": 4860,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Buizel",
+      "number": "92",
+      "number_value": 92,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/36/32/5f/36325f3a0c41ef49917312ae40b21e997863fa55dc91ad651d7efaa2c81d470d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1e/c5/e9/1ec5e9eb87173a96b1ff2b4c24e5746f653f3473e29c74dcd7fe31a1ab0a0f1a.jpg",
+      "image_path": "images/cards/1141/92-4860.webp",
+      "image_sha256": "cade3947c2cc2c86ddf9bac49b1d8f3c2695a19f3ea0c74f2aab3850ec860462",
+      "image_bytes": 101932,
+      "source_url": "https://www.tcgcollector.com/cards/4860/buizel-supreme-victors-92-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 92
+    },
+    {
+      "id": 4861,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Bulbasaur",
+      "number": "93",
+      "number_value": 93,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/65/f4/03/65f403ffd21d0fa6b7b4a554cfbafa3367f02dce27e45292120379016e743cfe.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0b/78/06/0b7806853a9aca9e0fc6546638e972cb08a8707bb8d7e3844eb67a1fdcce1421.jpg",
+      "image_path": "images/cards/1141/93-4861.webp",
+      "image_sha256": "74f80029546e5df03b0f5e0123da5921c8af64eeed9feea5a58fd79c445ab100",
+      "image_bytes": 100536,
+      "source_url": "https://www.tcgcollector.com/cards/4861/bulbasaur-supreme-victors-93-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 93
+    },
+    {
+      "id": 4862,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Buneary",
+      "number": "94",
+      "number_value": 94,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/36/6b/24/366b247b20b137c68782bc2dd8d0299ccb51ae8946dc9c7e3b03c3a8872b5414.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/64/4e/0d/644e0d188e3a0e320a4872405c945d312f02a503a7ea17a171654fc00c691c54.jpg",
+      "image_path": "images/cards/1141/94-4862.webp",
+      "image_sha256": "819e4fc290adf024f7225c65505ba6fd6d38c3db9879cbc1d7f76ce3584629cf",
+      "image_bytes": 104252,
+      "source_url": "https://www.tcgcollector.com/cards/4862/buneary-supreme-victors-94-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 94
+    },
+    {
+      "id": 4863,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Chatot",
+      "number": "95",
+      "number_value": 95,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/6d/36/ae/6d36ae09f71467883a019089fa3cebec32d3586070fee97bad64d124ba5ff03e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/98/f7/35/98f7350b82ea27c25d21053304a3f77cc69084e46f19f842af0f18775ce2bd19.jpg",
+      "image_path": "images/cards/1141/95-4863.webp",
+      "image_sha256": "59261dc033025b869df14073690783d1f1886ce2cd26b5018c834b6ea7c4c7f1",
+      "image_bytes": 102273,
+      "source_url": "https://www.tcgcollector.com/cards/4863/chatot-supreme-victors-95-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 95
+    },
+    {
+      "id": 4864,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Cherubi",
+      "number": "96",
+      "number_value": 96,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/49/60/f6/4960f67ff97f8c3379d7a4379f15283bde0fe05cf17f3aed368b0378900641a6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/94/eb/04/94eb04d8e9096f3bdc5dd9200465d26d9b0239d0666bf784244b00f240c6c16a.jpg",
+      "image_path": "images/cards/1141/96-4864.webp",
+      "image_sha256": "a8e2ad7d94ec9d2d071ee042ce52829bf264ad7d33631cbec66175adbb1b585b",
+      "image_bytes": 98047,
+      "source_url": "https://www.tcgcollector.com/cards/4864/cherubi-supreme-victors-96-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 96
+    },
+    {
+      "id": 4865,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Chimchar",
+      "number": "97",
+      "number_value": 97,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a7/54/7a/a7547ac3846fd6cdd90494a60d017f385e2aa20957140f899c97b18194a270ab.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2d/fa/c6/2dfac68d811195cb54917e4fa81e4a833c1095bcacb6492852e756eec97fbe27.jpg",
+      "image_path": "images/cards/1141/97-4865.webp",
+      "image_sha256": "5e1a53229ec5a3a9ea396cc1e5426e593511b533f51c611cd5369ac98fe7f5e2",
+      "image_bytes": 100659,
+      "source_url": "https://www.tcgcollector.com/cards/4865/chimchar-supreme-victors-97-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 97
+    },
+    {
+      "id": 4866,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Chingling",
+      "number": "98",
+      "number_value": 98,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e9/39/90/e939900eed1f45c9dffcbc30cd17dd07a4f4eaa139c016083d9a71d5a9537696.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/73/3c/1a/733c1a68f4cacb1231350e8b946ed62b7487c3fb5efef121fe3273caa42da162.jpg",
+      "image_path": "images/cards/1141/98-4866.webp",
+      "image_sha256": "9c234c39fc3bc9b334a54f7447db1faa8ae29d683e6b190aef653e983b371308",
+      "image_bytes": 104309,
+      "source_url": "https://www.tcgcollector.com/cards/4866/chingling-supreme-victors-98-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 98
+    },
+    {
+      "id": 4867,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Combee",
+      "number": "99",
+      "number_value": 99,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/61/a6/93/61a69368fa45afab0d79574a891ddf8921346f2d1d7aa6fa9e8b2cdb77e1e97b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/13/17/a3/1317a3dd13e99877821f7a1ac55d24117efc1fbb2b7a1bff48735c690faf6f60.jpg",
+      "image_path": "images/cards/1141/99-4867.webp",
+      "image_sha256": "f0ad0df9c47591f21f13a65cd15a24525dd07820f1a7444c95f6bdb276fcb086",
+      "image_bytes": 93221,
+      "source_url": "https://www.tcgcollector.com/cards/4867/combee-supreme-victors-99-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 99
+    },
+    {
+      "id": 4868,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Corphish",
+      "number": "100",
+      "number_value": 100,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/cf/d8/c6/cfd8c69c6c8fab0f2a014dd4dc967718d6780b955e734ac3339089793b071c05.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5d/ab/39/5dab397ed1e8f42185d49c3afb7ce4cb6b02328fa0b97ef7e2c5225854f332cc.jpg",
+      "image_path": "images/cards/1141/100-4868.webp",
+      "image_sha256": "20cb6fd2323b2e586f49b7018878f6e22ba99d8acf2b3fd0abe2f28b860915fa",
+      "image_bytes": 105991,
+      "source_url": "https://www.tcgcollector.com/cards/4868/corphish-supreme-victors-100-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 100
+    },
+    {
+      "id": 4869,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Croagunk",
+      "number": "101",
+      "number_value": 101,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ce/de/58/cede58cf46665cb89989972bc39b06d9713d05b180660672a113e4eb2796e1a7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f1/82/54/f1825470141cb72d2b470402b96945ba4653fe51a7566e453fb3945d9fb78f38.jpg",
+      "image_path": "images/cards/1141/101-4869.webp",
+      "image_sha256": "548222b5e569c4233d548c545f3d2dea9de7f64c63b12463f146b8641aca5102",
+      "image_bytes": 97125,
+      "source_url": "https://www.tcgcollector.com/cards/4869/croagunk-supreme-victors-101-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 101
+    },
+    {
+      "id": 4870,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Doduo",
+      "number": "102",
+      "number_value": 102,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/c4/cd/5a/c4cd5a1e73e280e28441ef656011cad1198dcb7d0f030dec1e1af577be6db4b9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3b/55/7e/3b557e929658bc831cf828ccecdd2301212f720e0a233c40ceecced846823eec.jpg",
+      "image_path": "images/cards/1141/102-4870.webp",
+      "image_sha256": "e4bd20d8d9fbd6adeb7809ba819b974fbabfac09efe614e233efbe1da16ee8ad",
+      "image_bytes": 90408,
+      "source_url": "https://www.tcgcollector.com/cards/4870/doduo-supreme-victors-102-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 102
+    },
+    {
+      "id": 4871,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Drifloon",
+      "number": "103",
+      "number_value": 103,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/de/a6/3d/dea63ddfa0394e59d9683018c37d7805b32e534a55378a3ae7c2ebad831efd78.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e3/96/a0/e396a08c9bd4dcce27cb3b4e1f0fe52fd0b82de2258807f87a9ac8e6f4d4b501.jpg",
+      "image_path": "images/cards/1141/103-4871.webp",
+      "image_sha256": "080279322f0318024e9944ee2c64c4a8dad2f6b91592a9b435d70b75969aeb03",
+      "image_bytes": 94977,
+      "source_url": "https://www.tcgcollector.com/cards/4871/drifloon-supreme-victors-103-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 103
+    },
+    {
+      "id": 4872,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Feebas",
+      "number": "104",
+      "number_value": 104,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/17/20/3c/17203c9642131c8bd56975302ba70b8cdfc8d92346eeeb64d0e478081a0811af.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f0/23/a5/f023a5a5e3b7d3b5cea5feacda5ddfabb24d36d0455465c21e7bf5c097d89b9e.jpg",
+      "image_path": "images/cards/1141/104-4872.webp",
+      "image_sha256": "7986c36e4cff373d1a573e95e91d45630ba04d330bce698f5d6389f8502cc060",
+      "image_bytes": 119969,
+      "source_url": "https://www.tcgcollector.com/cards/4872/feebas-supreme-victors-104-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 104
+    },
+    {
+      "id": 4873,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Geodude",
+      "number": "105",
+      "number_value": 105,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/27/34/61/273461ba82e86dd9b5ef7d9e407ca7f6c42cca15031eafc9b3e46a053fb7292c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/92/11/6c/92116cc3bcc11564cf0fab19237e4fa1afed6e2a3a642dcb9c46372fc72e2b23.jpg",
+      "image_path": "images/cards/1141/105-4873.webp",
+      "image_sha256": "b62d4a6b892c4c866c6dd40676ced2e6858310c3023e558a42fb7e8ef83430d3",
+      "image_bytes": 107121,
+      "source_url": "https://www.tcgcollector.com/cards/4873/geodude-supreme-victors-105-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 105
+    },
+    {
+      "id": 4874,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Gible",
+      "number": "106",
+      "number_value": 106,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/2b/cf/a7/2bcfa7894c6468b7a6129b0e0f0ab70197552fc5a35705101d54eb6caf186ea9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c2/ad/7d/c2ad7d05762b0c2ab7bc18a76793bdb2f3dda7f1ad546158c696ddda053d7592.jpg",
+      "image_path": "images/cards/1141/106-4874.webp",
+      "image_sha256": "b6dbede8d33af695236297904404d30409f7dde5e425e9df00df6df795e0ec3e",
+      "image_bytes": 106274,
+      "source_url": "https://www.tcgcollector.com/cards/4874/gible-supreme-victors-106-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 106
+    },
+    {
+      "id": 4875,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Goldeen",
+      "number": "107",
+      "number_value": 107,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/12/8c/b1/128cb180dd7d272799db2916a8034e08f1fbc068ed8f199c17e4e2ab426a7b93.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3f/77/98/3f77986ad30b0b43e9c82790f540413828569c0f75e8508223ad70c5f213f462.jpg",
+      "image_path": "images/cards/1141/107-4875.webp",
+      "image_sha256": "40abb16668127c3b20f213297bcdb0ec963cce0ab8452a6826194e7d5887ee6a",
+      "image_bytes": 107118,
+      "source_url": "https://www.tcgcollector.com/cards/4875/goldeen-supreme-victors-107-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 107
+    },
+    {
+      "id": 4876,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Growlithe",
+      "number": "108",
+      "number_value": 108,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/51/f9/d4/51f9d493d952683b70e6d4dbc148dfb8847a9cd17477bc50830072f089d6fde4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3c/42/37/3c42378e27e43261905230111a5abdeaf67c3615ea0f699daa7086f36bd6f27a.jpg",
+      "image_path": "images/cards/1141/108-4876.webp",
+      "image_sha256": "8f0d4cccd27dac04e3a9d6026308478f2d327ef36842c6b73cbed384607f0c2e",
+      "image_bytes": 98221,
+      "source_url": "https://www.tcgcollector.com/cards/4876/growlithe-supreme-victors-108-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 108
+    },
+    {
+      "id": 4877,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Kricketot",
+      "number": "109",
+      "number_value": 109,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/09/8b/7a/098b7aeb9307aadf49ab704e3e9d62a9eb04bafacb0712206f8597c8f4da5e02.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4f/b3/c4/4fb3c45b9006393913ef3415d350bdf808903ff56b48be717dfd2ba4ea3c71ee.jpg",
+      "image_path": "images/cards/1141/109-4877.webp",
+      "image_sha256": "d6707db3dd0b9dda655a9b62f570d8f278a00076ae70c1edc083201c74634967",
+      "image_bytes": 94842,
+      "source_url": "https://www.tcgcollector.com/cards/4877/kricketot-supreme-victors-109-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 109
+    },
+    {
+      "id": 4878,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Magikarp",
+      "number": "110",
+      "number_value": 110,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/6a/02/57/6a025741cdd83b247455c76bf60132cb18f49d3b4a65a041fcc40f6c5d65fbe2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bd/f0/64/bdf0648a55b6ba0a7edc0f4d0346e67d7912220780cbe8e94a0828b78212836d.jpg",
+      "image_path": "images/cards/1141/110-4878.webp",
+      "image_sha256": "d5a6b7d68e4efdac6ed82e694b27ccae730d63c6ba3bb8c636cfc66105c19eb0",
+      "image_bytes": 103632,
+      "source_url": "https://www.tcgcollector.com/cards/4878/magikarp-supreme-victors-110-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 110
+    },
+    {
+      "id": 4879,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Magnemite",
+      "number": "111",
+      "number_value": 111,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/78/31/e7/7831e7a4648c55d583ae79c548b61c937e01abdc83ffdcd59d76f515957429a7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ab/47/6c/ab476c558d6a73cf56803f693e80009a10fed7293c0e335aa2763952fe1a62f3.jpg",
+      "image_path": "images/cards/1141/111-4879.webp",
+      "image_sha256": "9b7440b4eb296d9adf617d45188ad8b771386c11e9cce56f5d3ae0b8e6b5367f",
+      "image_bytes": 101292,
+      "source_url": "https://www.tcgcollector.com/cards/4879/magnemite-supreme-victors-111-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 111
+    },
+    {
+      "id": 4880,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Mankey",
+      "number": "112",
+      "number_value": 112,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/68/69/ac/6869ace1ca9a15797b024edfa3e5103514f02ede650c90166c8cc3014390e0b5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/74/ef/8f/74ef8f2083e63d69eb976264077e99eba35c891dc057fcaad342e6f9f5f31b33.jpg",
+      "image_path": "images/cards/1141/112-4880.webp",
+      "image_sha256": "8b5bcb9a3448b267ca70d01bd6a79633f1466669fbcf70e4f25ced449d9db4ce",
+      "image_bytes": 110450,
+      "source_url": "https://www.tcgcollector.com/cards/4880/mankey-supreme-victors-112-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 112
+    },
+    {
+      "id": 4881,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Meditite",
+      "number": "113",
+      "number_value": 113,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a6/1a/3e/a61a3e033e896f91c588194f49ba256aaf6ba4b7d07f8c58e1208c3a9a5c0103.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a0/e5/fc/a0e5fc8d0a1088619595d9f4146e0ca32bc0a130229a5203b7cb0e8a88a924f0.jpg",
+      "image_path": "images/cards/1141/113-4881.webp",
+      "image_sha256": "ef52d810a3ec85d692826cb04f040e7ec2628b8bdadc31a071c7871c2b439ff5",
+      "image_bytes": 99626,
+      "source_url": "https://www.tcgcollector.com/cards/4881/meditite-supreme-victors-113-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 113
+    },
+    {
+      "id": 4882,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Meowth",
+      "number": "114",
+      "number_value": 114,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ba/bc/c3/babcc3e2b5737e8ed71c61fe650cc500de2ccda25f90fdff64aeeb235820f6ac.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/61/80/64/61806449bfda4f2fad1254cdbfc6d25d4e39203305f7a3f6b51bd515d5cff83f.jpg",
+      "image_path": "images/cards/1141/114-4882.webp",
+      "image_sha256": "61a0a0b8511e1c20f6299b8e3603b4cd6247c1273651739e9f3f52c27ef95d65",
+      "image_bytes": 104509,
+      "source_url": "https://www.tcgcollector.com/cards/4882/meowth-supreme-victors-114-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 114
+    },
+    {
+      "id": 4883,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Mime Jr.",
+      "number": "115",
+      "number_value": 115,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/85/01/1e/85011e314a561936e14915177e133f3c95619fdbbff707262fcfd3231e6a903c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dc/40/3c/dc403ce03c0c549ad171525c4a5dd23b82b7a2a8d30f06864f856c84605982b0.jpg",
+      "image_path": "images/cards/1141/115-4883.webp",
+      "image_sha256": "75cdfb267c522954cf8fc8c2f375ca919d91d9ac4a8f9ab52e69506ad7a9415d",
+      "image_bytes": 112441,
+      "source_url": "https://www.tcgcollector.com/cards/4883/mime-jr-supreme-victors-115-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 115
+    },
+    {
+      "id": 4884,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Mudkip",
+      "number": "116",
+      "number_value": 116,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/b9/b5/19/b9b519cb1b16fd8230d51b7c6718d14c16a5398ce64fb0e3d4266a785de6ad5b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4e/8b/1b/4e8b1ba9c35be20b81cb91b5688eb4b8859c42b106ad30047edf1bff14bb1008.jpg",
+      "image_path": "images/cards/1141/116-4884.webp",
+      "image_sha256": "438489eb1b0a81b8050d2b5168613feb9cd11af4d3b1b49ebf4758b9aaf6344e",
+      "image_bytes": 98717,
+      "source_url": "https://www.tcgcollector.com/cards/4884/mudkip-supreme-victors-116-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 116
+    },
+    {
+      "id": 4885,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Nincada",
+      "number": "117",
+      "number_value": 117,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/cc/3f/81/cc3f81dc4ed0e56f8dfb68a61bdbc92bcbbf49d7b577d78590d99e6179aea80c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/de/56/72/de5672af83cc2bbc2e9544aaee5a6bbd0ed7bf4e09b7ac6479cf77ca1664ee97.jpg",
+      "image_path": "images/cards/1141/117-4885.webp",
+      "image_sha256": "7edfa976f5aa82d78d352c00bd17437f50cac0ae320de482f7431b1b8540ac64",
+      "image_bytes": 121031,
+      "source_url": "https://www.tcgcollector.com/cards/4885/nincada-supreme-victors-117-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 117
+    },
+    {
+      "id": 4886,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Pachirisu",
+      "number": "118",
+      "number_value": 118,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/24/51/c5/2451c5110e2d7f03e8ffdacb70398fe1e7d75655029d9e35cbec295b2e07b989.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f9/9b/68/f99b68a5c665a8e041384dcf06a47fb36880c9a04f4c2557e0b1ae792e6bff91.jpg",
+      "image_path": "images/cards/1141/118-4886.webp",
+      "image_sha256": "c36d0e594a7539feff27166ca9b79334cb807351da3b17b91a4615bb1d232626",
+      "image_bytes": 107963,
+      "source_url": "https://www.tcgcollector.com/cards/4886/pachirisu-supreme-victors-118-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 118
+    },
+    {
+      "id": 4887,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Paras",
+      "number": "119",
+      "number_value": 119,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/56/e5/e8/56e5e854add4b63269a639aea8bbe8388f600994f4453175705040613dc8fddf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/66/1e/7e/661e7e7a58b220fec2ca0f82542484943343eada8a9def83ba529475f463e929.jpg",
+      "image_path": "images/cards/1141/119-4887.webp",
+      "image_sha256": "8c449b7c2f75d6588e61a848e2f8383592c1a16e7e219588e7254abf3ed19319",
+      "image_bytes": 109890,
+      "source_url": "https://www.tcgcollector.com/cards/4887/paras-supreme-victors-119-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 119
+    },
+    {
+      "id": 4888,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Pikachu",
+      "number": "120",
+      "number_value": 120,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/9c/49/c8/9c49c8e2c84fbf2593c5a8cb82de8bf1b703a29dc191abb0884fa52911ba4dad.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d0/b9/96/d0b996d7d1a28d2c134aad7b819f57ca8a5b9f9d9f793213ed10a1d0606d3437.jpg",
+      "image_path": "images/cards/1141/120-4888.webp",
+      "image_sha256": "7271a781c632c1ecec27417906d73830b8a0c036c92a482825001f0529475f5e",
+      "image_bytes": 100204,
+      "source_url": "https://www.tcgcollector.com/cards/4888/pikachu-supreme-victors-120-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 120
+    },
+    {
+      "id": 4889,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Piplup",
+      "number": "121",
+      "number_value": 121,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f1/d1/63/f1d1630289e77fd2cfb9446ebbc17ca2c9b103b9c26334d8835abbde16d5e60c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/83/45/31/8345315612177ed34de3341ee36eeca0ce06d31d9f26266c902c0458de125991.jpg",
+      "image_path": "images/cards/1141/121-4889.webp",
+      "image_sha256": "317eef5234099f42912665140e343e290632db88477f89138488a77fe52ffbd7",
+      "image_bytes": 101991,
+      "source_url": "https://www.tcgcollector.com/cards/4889/piplup-supreme-victors-121-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 121
+    },
+    {
+      "id": 4890,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Rhyhorn",
+      "number": "122",
+      "number_value": 122,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/de/c9/c0/dec9c01cc07457e4f1ad61d3c0d2544ca29ec1d3aa3c2faa86a227194acc95fd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/af/d4/65/afd4653daadc2b63e55757234d85e237c6000afe99afa29de4758f9bec9b6fde.jpg",
+      "image_path": "images/cards/1141/122-4890.webp",
+      "image_sha256": "b9434536513fbd0a4c7b1bd46ea7028c0bdfbd82020389aa023cba1a573d7815",
+      "image_bytes": 113874,
+      "source_url": "https://www.tcgcollector.com/cards/4890/rhyhorn-supreme-victors-122-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 122
+    },
+    {
+      "id": 4891,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Roselia",
+      "number": "123",
+      "number_value": 123,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ea/8d/c5/ea8dc51f7b40fa262abf125c2f02ff27ea58d17c43e97a13dac573c962b02a66.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/68/b7/2c/68b72c06f7e44c7d54d4dfe4ad97df6570a047de1944533b49b679ca7e660105.jpg",
+      "image_path": "images/cards/1141/123-4891.webp",
+      "image_sha256": "f67f2fe098e4c1366814ae8e0f5183d38517e50e3c6945e55c60de3f3419af86",
+      "image_bytes": 104699,
+      "source_url": "https://www.tcgcollector.com/cards/4891/roselia-supreme-victors-123-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 123
+    },
+    {
+      "id": 4892,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Sandshrew",
+      "number": "124",
+      "number_value": 124,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/4d/02/3b/4d023b34d1da64975e02f554a06e214b36b7254841ac6caa5ffde7795402bc5d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/66/a9/e0/66a9e07d517b6565e7ac82598184018872bf023f7ad55d51526efa0d65a5a557.jpg",
+      "image_path": "images/cards/1141/124-4892.webp",
+      "image_sha256": "3f0555d2fe8d6fa6c6383c9f931e401d6b5c06bea1f8698f0e00975b9965212a",
+      "image_bytes": 92387,
+      "source_url": "https://www.tcgcollector.com/cards/4892/sandshrew-supreme-victors-124-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 124
+    },
+    {
+      "id": 4893,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Seel",
+      "number": "125",
+      "number_value": 125,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/84/4d/6d/844d6d91da4d4a86738961baa2eafdf897d2befcf9819d85f4f3cf9d26cb8cf5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4b/f5/54/4bf5544ceeeba914a4e8e459776c97ebe987e0d0d3b6a1a6284952a7e1fe7849.jpg",
+      "image_path": "images/cards/1141/125-4893.webp",
+      "image_sha256": "577d8d4cffa1aed03bce37e755b6a4055e8c9fd899e9153f29db4c786c62a9f9",
+      "image_bytes": 90052,
+      "source_url": "https://www.tcgcollector.com/cards/4893/seel-supreme-victors-125-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 125
+    },
+    {
+      "id": 4894,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Shinx",
+      "number": "126",
+      "number_value": 126,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/9d/4e/09/9d4e098d5da2af0913c9cc388b6ab1c3db9229e3fbf1d540fbac4624c381753c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c8/01/f3/c801f3dc520160d87a63731f2ec426161daef88eb007e708a7ef645119d33706.jpg",
+      "image_path": "images/cards/1141/126-4894.webp",
+      "image_sha256": "95e716972d969e249848a4f70f805af908b9c594df8672c537722ec090cb1832",
+      "image_bytes": 96598,
+      "source_url": "https://www.tcgcollector.com/cards/4894/shinx-supreme-victors-126-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 126
+    },
+    {
+      "id": 4895,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Shroomish",
+      "number": "127",
+      "number_value": 127,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a4/38/d2/a438d25afaadabd7a4d7dc7fd70b9a33d7a5209ff80c45fe5c78fafc6b97095d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1c/57/35/1c57355623e7e0651e9924b9f1c0e31d0991ff174e7a2d205c7b6065e7863593.jpg",
+      "image_path": "images/cards/1141/127-4895.webp",
+      "image_sha256": "0739a9c91cec5e1acee4d5498ebf5b273b90a643dc947ea5a2f1f8d11c32a5a9",
+      "image_bytes": 96987,
+      "source_url": "https://www.tcgcollector.com/cards/4895/shroomish-supreme-victors-127-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 127
+    },
+    {
+      "id": 4896,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Skorupi",
+      "number": "128",
+      "number_value": 128,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ab/8c/6f/ab8c6f0b8380153ab1b9a10b0861a3aa286aca1071352d3881c63761fd875f9a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e6/83/76/e68376f97b429985fa9ce20dc8b8546fc17999fb638b53f06134219e94238a66.jpg",
+      "image_path": "images/cards/1141/128-4896.webp",
+      "image_sha256": "aa1fc74d956d1187382c38781e1dd0b9b13e1e0f796e3c70c9cd3ee586e056d5",
+      "image_bytes": 106456,
+      "source_url": "https://www.tcgcollector.com/cards/4896/skorupi-supreme-victors-128-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 128
+    },
+    {
+      "id": 4897,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Starly",
+      "number": "129",
+      "number_value": 129,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/d7/05/e7/d705e7df9e527c0d38347773820b52a097257921b0c6ab79a34f8efececf3d61.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d5/b7/14/d5b7145894ac4e2578d5f1f291f92f0b053968bde65a3b18b20344e392166451.jpg",
+      "image_path": "images/cards/1141/129-4897.webp",
+      "image_sha256": "4c8dafebc262c3f1af45d2105bee4ca0b892713ddb481985d02260da1565b199",
+      "image_bytes": 108513,
+      "source_url": "https://www.tcgcollector.com/cards/4897/starly-supreme-victors-129-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 129
+    },
+    {
+      "id": 4898,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Surskit",
+      "number": "130",
+      "number_value": 130,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/5c/e2/a5/5ce2a5501588209f8057454d92850f060278b269836716868fb1470926fd2fcd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7c/f7/c4/7cf7c46df5445c14206698faea953b702d8b1b9a0676148d47b750682b05612e.jpg",
+      "image_path": "images/cards/1141/130-4898.webp",
+      "image_sha256": "1bc225ecd324449edc4ea3d29696a62aa40dc202e3d5b8b636af1932fdaf1b0d",
+      "image_bytes": 94059,
+      "source_url": "https://www.tcgcollector.com/cards/4898/surskit-supreme-victors-130-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 130
+    },
+    {
+      "id": 4899,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Turtwig",
+      "number": "131",
+      "number_value": 131,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/4a/98/ae/4a98aed51f347395cdbc71e0c8787e9c0ba46213a18c1fa8f42d9f62838c6d43.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e6/f0/d6/e6f0d6cf707d3cedb8f16593b1b235f1e035add8735c995fb470ff10ec0d7516.jpg",
+      "image_path": "images/cards/1141/131-4899.webp",
+      "image_sha256": "3b7c2d49ba65773e2c8f727eaae60644bbb74d418bf8c6443b33be7c01c04c23",
+      "image_bytes": 92843,
+      "source_url": "https://www.tcgcollector.com/cards/4899/turtwig-supreme-victors-131-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 131
+    },
+    {
+      "id": 4900,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Whismur",
+      "number": "132",
+      "number_value": 132,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/75/6c/54/756c5402ced957264191dece05cc5450ec2718cf8f31a4405b8512462ff686c6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/71/02/a0/7102a037681cf03b49d7346ddf0ee25edaab29356b0174c54fab88ddad9dd62d.jpg",
+      "image_path": "images/cards/1141/132-4900.webp",
+      "image_sha256": "2a9d5bb2a0fa7eff13cf28fe989d45be75accebef14c04bbcc3d2a8738174e56",
+      "image_bytes": 98699,
+      "source_url": "https://www.tcgcollector.com/cards/4900/whismur-supreme-victors-132-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 132
+    },
+    {
+      "id": 4901,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Zubat",
+      "number": "133",
+      "number_value": 133,
+      "printed_total": 147,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/64/23/01/642301d1d093f203d127f18fab4c0ac8035985649a45ac72e651b5af3609160a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dc/14/3d/dc143d3a9b6a3e25c376cf27b68c8c654a142888830741b1efb7dad8f0f256be.jpg",
+      "image_path": "images/cards/1141/133-4901.webp",
+      "image_sha256": "83092046e546d1e982198ff98e4ab28d7cd18304e8412cd7b008c8e86fec35fb",
+      "image_bytes": 101643,
+      "source_url": "https://www.tcgcollector.com/cards/4901/zubat-supreme-victors-133-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 133
+    },
+    {
+      "id": 4902,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Battle Tower",
+      "number": "134",
+      "number_value": 134,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/6c/06/88/6c0688e720a8e3e3f338a509151f019a0031006a14870718a00ce4311b969c5d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c8/ce/e5/c8cee529a4bdfb4bfaddc2092c6c679f0aa73ad136b922eae553c145094d823c.jpg",
+      "image_path": "images/cards/1141/134-4902.webp",
+      "image_sha256": "b95fdc3948351b39b7ec8d57c68688027b1a47878cddd9bf567c038e9147a20e",
+      "image_bytes": 104093,
+      "source_url": "https://www.tcgcollector.com/cards/4902/battle-tower-supreme-victors-134-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 134
+    },
+    {
+      "id": 4903,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Champion's Room",
+      "number": "135",
+      "number_value": 135,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/c0/c0/43/c0c043124928e78571a8900657260a6a425b13acbafcb91c6350d6f1844e36b9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2d/6c/53/2d6c53e1f084bfe5a8c0220f60d39d44742b1cdd63d8f6371adb736cdfe77615.jpg",
+      "image_path": "images/cards/1141/135-4903.webp",
+      "image_sha256": "70d3f7d1cbbbd5b16966b3eb43cb02c6f671908b96b73868d410a843ed08dc9b",
+      "image_bytes": 92103,
+      "source_url": "https://www.tcgcollector.com/cards/4903/champions-room-supreme-victors-135-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 135
+    },
+    {
+      "id": 4904,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Cynthia's Guidance",
+      "number": "136",
+      "number_value": 136,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f4/63/df/f463dfb3c1d1788d754c6a9e9019cf75342f738388ef4542fb55a1bdef648858.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c6/e0/31/c6e0312db2edbd92b1728856f285a7d35ab6008ea2d0e873dfa60e3a6555e549.jpg",
+      "image_path": "images/cards/1141/136-4904.webp",
+      "image_sha256": "d3b08d33863b821f79ce1a1108d2049c38bdfddc98e6da70ae76710868f62b83",
+      "image_bytes": 104053,
+      "source_url": "https://www.tcgcollector.com/cards/4904/cynthias-guidance-supreme-victors-136-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 136
+    },
+    {
+      "id": 4905,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Cyrus's Initiative",
+      "number": "137",
+      "number_value": 137,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/dc/33/f0/dc33f01019cdb7c3c7e91977c587184d8e8655cd1cc7aea20f0483079f1d61f8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2d/23/0b/2d230b631a733360fb2f650d305dad511b3d6fce8fab0400a2402c0f6713e2ba.jpg",
+      "image_path": "images/cards/1141/137-4905.webp",
+      "image_sha256": "0f4312c213fbf4d223ead0107eb1f3f9953c53b44aa2907001f32e6c58d6cb5d",
+      "image_bytes": 95747,
+      "source_url": "https://www.tcgcollector.com/cards/4905/cyruss-initiative-supreme-victors-137-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 137
+    },
+    {
+      "id": 4906,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Night Teleporter",
+      "number": "138",
+      "number_value": 138,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/e7/38/2e/e7382e49ac3fbc3ce06c76098b0c5d4af4743fd0147c9b08ce80f6a8ecc8e74c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/75/81/34/758134c315c333849c4a77629b7c9329fc3c1bfd026abf5c6647aa046f9176e7.jpg",
+      "image_path": "images/cards/1141/138-4906.webp",
+      "image_sha256": "039574604f6f2c22a615ae747f6107ba071c41ac84009cda566ba35758092346",
+      "image_bytes": 102233,
+      "source_url": "https://www.tcgcollector.com/cards/4906/night-teleporter-supreme-victors-138-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 138
+    },
+    {
+      "id": 4907,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Palmer's Contribution",
+      "number": "139",
+      "number_value": 139,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/34/92/5d/34925dfef1465c5c48f4f38e1caa5df94aff4d73f60948145f57f3056ae1518d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5d/88/0c/5d880c1b2023d7860885a45744ae549e5b38f90053d8c171ff528802c8c4c703.jpg",
+      "image_path": "images/cards/1141/139-4907.webp",
+      "image_sha256": "63f85e0710d005eb966824585700f0d6ab382dd2206ca6eb07c27156913d531a",
+      "image_bytes": 99484,
+      "source_url": "https://www.tcgcollector.com/cards/4907/palmers-contribution-supreme-victors-139-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 139
+    },
+    {
+      "id": 4908,
+      "set_id": 1141,
+      "set_ids": [
+        1141,
+        1247
+      ],
+      "name": "VS Seeker",
+      "number": "140",
+      "number_value": 140,
+      "printed_total": 147,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/05/31/0d/05310dd9067c81159b63cc6d3456c62f0306292d58bd4be556616c4a679156f2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e7/6d/bd/e76dbdd5c7c3df569ec79a3f8e834597cf2b1cf1a40dae43a8fca07130cb6037.jpg",
+      "image_path": "images/cards/1141/140-4908.webp",
+      "image_sha256": "a5b007ff09777b86bba5031b55c4723311f3351ce75b3168f1a5a906aaa7858e",
+      "image_bytes": 84398,
+      "source_url": "https://www.tcgcollector.com/cards/4908/vs-seeker-supreme-victors-140-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 140
+    },
+    {
+      "id": 4909,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Absol G LV.X",
+      "number": "141",
+      "number_value": 141,
+      "printed_total": 147,
+      "rarity": "Rare Holo LV.X",
+      "image_url": "https://static.tcgcollector.com/content/images/74/92/ea/7492eaf79a8fd7e1e9f8f69dd8bf42e4c8daed976b099edf8d8c7436261e5eb7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e8/4e/72/e84e724c6dd6e3a89e1062b06ef9fb76b95d0394772f76e10aca9b524ccbe07b.jpg",
+      "image_path": "images/cards/1141/141-4909.webp",
+      "image_sha256": "45c2c42c34162e3b78b3aad317de8c12953c85c9426a1237880527a032b26255",
+      "image_bytes": 144164,
+      "source_url": "https://www.tcgcollector.com/cards/4909/absol-g-lv-x-supreme-victors-141-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 141
+    },
+    {
+      "id": 4910,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Blaziken FB LV.X",
+      "number": "142",
+      "number_value": 142,
+      "printed_total": 147,
+      "rarity": "Rare Holo LV.X",
+      "image_url": "https://static.tcgcollector.com/content/images/49/d4/e9/49d4e9f6ef51a4e7ad08d2fd3f7eda04f52abd16475d37837d582d139dd75976.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1a/d8/d6/1ad8d6906075455194fad94c3c434ddc4c98a05cef202efd94b1168ef2d1ea98.jpg",
+      "image_path": "images/cards/1141/142-4910.webp",
+      "image_sha256": "cfcd1ab50d0f60fbe95e7ab5ca50164456ca656e2c69cb73fa4e55f97d2e9424",
+      "image_bytes": 137730,
+      "source_url": "https://www.tcgcollector.com/cards/4910/blaziken-fb-lv-x-supreme-victors-142-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 142
+    },
+    {
+      "id": 4911,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Charizard G LV.X",
+      "number": "143",
+      "number_value": 143,
+      "printed_total": 147,
+      "rarity": "Rare Holo LV.X",
+      "image_url": "https://static.tcgcollector.com/content/images/1e/66/d6/1e66d625d650d3e77b2ff7eec1c51be97f64c8699833360d876ed7916658de4f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0a/a2/0e/0aa20e4b87e4173d2bd35c8a10f8c41d57e83de8f98e17ba1d11811a87d39d3a.jpg",
+      "image_path": "images/cards/1141/143-4911.webp",
+      "image_sha256": "85713a7277ebe7c98131af1c43f65546cf02b88b55c1ca13d795ea39dcede994",
+      "image_bytes": 139067,
+      "source_url": "https://www.tcgcollector.com/cards/4911/charizard-g-lv-x-supreme-victors-143-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 143
+    },
+    {
+      "id": 4912,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Electivire FB LV.X",
+      "number": "144",
+      "number_value": 144,
+      "printed_total": 147,
+      "rarity": "Rare Holo LV.X",
+      "image_url": "https://static.tcgcollector.com/content/images/2d/b6/1c/2db61cb18191b0ac0ac240a13519a229d3f959ace0d1817ccd8ddfb43b88059b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bd/b7/39/bdb739f00e341cd2c535ab719a4241938d46371d8d90dca616fc13d2b9a93d19.jpg",
+      "image_path": "images/cards/1141/144-4912.webp",
+      "image_sha256": "5d14c08224ec4c0d62d5302d5fb9077b2212f49569ab992b62670ea40809788e",
+      "image_bytes": 140899,
+      "source_url": "https://www.tcgcollector.com/cards/4912/electivire-fb-lv-x-supreme-victors-144-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 144
+    },
+    {
+      "id": 4913,
+      "set_id": 1141,
+      "set_ids": [
+        1141,
+        1248
+      ],
+      "name": "Garchomp C LV.X",
+      "number": "145",
+      "number_value": 145,
+      "printed_total": 147,
+      "rarity": "Rare Holo LV.X",
+      "image_url": "https://static.tcgcollector.com/content/images/12/88/6e/12886e7647f9855e0607d9cab5a9234a81c22c85eb090aed29056167470a8973.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/89/78/67/8978676baff35019a6249f68ea9a84c06587bcfdd15e669408a293e407927cfb.jpg",
+      "image_path": "images/cards/1141/145-4913.webp",
+      "image_sha256": "54d2491bbdc41580e3b7d6b41b99db94ffbeffb11bd0bb038e91b3f993d9f981",
+      "image_bytes": 132502,
+      "source_url": "https://www.tcgcollector.com/cards/4913/garchomp-c-lv-x-supreme-victors-145-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 145
+    },
+    {
+      "id": 4914,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Rayquaza C LV.X",
+      "number": "146",
+      "number_value": 146,
+      "printed_total": 147,
+      "rarity": "Rare Holo LV.X",
+      "image_url": "https://static.tcgcollector.com/content/images/dd/f7/3b/ddf73bfee9e132f5ee9f5ac4372af2f1ced631e30f725cf5230cf62de8a8ddb3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bb/3e/2b/bb3e2bb7bad3d6c4f9d6b9fa8109ef4c47837eb5a3d17773634b612b8b05346e.jpg",
+      "image_path": "images/cards/1141/146-4914.webp",
+      "image_sha256": "2bce68ab7690842c1e06bd9cccfbc776ff4345c74ca00df82ddd63f92a7c0d72",
+      "image_bytes": 140291,
+      "source_url": "https://www.tcgcollector.com/cards/4914/rayquaza-c-lv-x-supreme-victors-146-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 146
+    },
+    {
+      "id": 4915,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Staraptor FB LV.X",
+      "number": "147",
+      "number_value": 147,
+      "printed_total": 147,
+      "rarity": "Rare Holo LV.X",
+      "image_url": "https://static.tcgcollector.com/content/images/09/57/0b/09570b7cced884146b4a22732fe0bc74cbcc2052b7de7b0467123ae2f11da0f7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/25/dc/c2/25dcc2b3e7545c0b2218a8e5c0eb0baa20cb448cc8beac7e7ca499a33ee08988.jpg",
+      "image_path": "images/cards/1141/147-4915.webp",
+      "image_sha256": "df15137c3019abac8ddea4162017326e3d6ca0b65c8c0792e431854085031c32",
+      "image_bytes": 145167,
+      "source_url": "https://www.tcgcollector.com/cards/4915/staraptor-fb-lv-x-supreme-victors-147-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 147
+    },
+    {
+      "id": 4916,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Articuno",
+      "number": "148",
+      "number_value": 148,
+      "printed_total": 147,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/e9/b5/2f/e9b52f77c3c30ea54bb589b1c44ef7e2021aa8b09cc02d5bb3dd4328dde3aba9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d0/c3/cd/d0c3cd6334a16e2ac2c0807e8c1d26ce955fa5d39cb66555a6cd48ae6bdf13b4.jpg",
+      "image_path": "images/cards/1141/148-4916.webp",
+      "image_sha256": "dbff310968fb802afe0af471cb4a6e18c6cb9993145962eabcd10e79c8198931",
+      "image_bytes": 137568,
+      "source_url": "https://www.tcgcollector.com/cards/4916/articuno-supreme-victors-148-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 148
+    },
+    {
+      "id": 4917,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Moltres",
+      "number": "149",
+      "number_value": 149,
+      "printed_total": 147,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/b8/a1/e5/b8a1e5abd7f6b797588f4dfa7e25545ac0704f184f1695d2086d2be1d0146668.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ff/5e/9f/ff5e9f65151460c1c435500c92a7b1f46de8ff147a07b18e15777b6ac5335553.jpg",
+      "image_path": "images/cards/1141/149-4917.webp",
+      "image_sha256": "f3adad4a01366dbbc993b08a9ff0eab90f8d8eed7344f989e02e950a92eb5e25",
+      "image_bytes": 110040,
+      "source_url": "https://www.tcgcollector.com/cards/4917/moltres-supreme-victors-149-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 149
+    },
+    {
+      "id": 4918,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Zapdos",
+      "number": "150",
+      "number_value": 150,
+      "printed_total": 147,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/d6/84/64/d68464f9d05dbb39cd8af05a8735992d7e032fe0cce0e5aca84c6a983227b725.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/71/72/84/717284ef15c0b5a79e5bcbedd48b79f9b3637879ae2e1d454b42dc71c2311e6e.jpg",
+      "image_path": "images/cards/1141/150-4918.webp",
+      "image_sha256": "a50b8003725755891d039c35bd2480c5ad8b6c6c04f6c5a7e216b30e8ad1749f",
+      "image_bytes": 139745,
+      "source_url": "https://www.tcgcollector.com/cards/4918/zapdos-supreme-victors-150-147",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 150
+    },
+    {
+      "id": 4919,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Milotic",
+      "number": "SH7",
+      "number_value": 7,
+      "printed_total": null,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/5a/6e/cf/5a6ecfc5e370e3a17a450df843fdf63e4f80ca511476d43869d8aac785873469.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7e/1c/38/7e1c38d008da694e65cee11237d89daee8b63191f7d84154b94719a9ef078393.jpg",
+      "image_path": "images/cards/1141/SH7-4919.webp",
+      "image_sha256": "2ae4c0409bb3cc8fc9e31728793e028a1a69e74177f0ee67ce2306fed3314fd6",
+      "image_bytes": 105601,
+      "source_url": "https://www.tcgcollector.com/cards/4919/milotic-supreme-victors-sh7",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 151
+    },
+    {
+      "id": 4920,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Relicanth",
+      "number": "SH8",
+      "number_value": 8,
+      "printed_total": null,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/8f/cf/4e/8fcf4e187be35790e0a6a21aa3c10f496bdc12d5bd7751467f733d30cc32bfef.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a9/9c/22/a99c226409a363b18832b11089d17673329530950e4542e3ced736467b676b16.jpg",
+      "image_path": "images/cards/1141/SH8-4920.webp",
+      "image_sha256": "7ad9a83a6f408fbc15a04ca1ca9aec70c78d1e290bba7eff1e30476ede1abb21",
+      "image_bytes": 102989,
+      "source_url": "https://www.tcgcollector.com/cards/4920/relicanth-supreme-victors-sh8",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 152
+    },
+    {
+      "id": 4921,
+      "set_id": 1141,
+      "set_ids": [
+        1141
+      ],
+      "name": "Yanma",
+      "number": "SH9",
+      "number_value": 9,
+      "printed_total": null,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/f4/f1/79/f4f1793e1bf3dbdec3349e4cfac9cf151418cef786e3a61e90dc9cb9eb13021f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/77/3f/5f/773f5f2c4d7cdd085675397478386f3cd5fc3e2c2080b27f6d97a06851a224d7.jpg",
+      "image_path": "images/cards/1141/SH9-4921.webp",
+      "image_sha256": "4e78d5b1c6ab122c937834a388029539cc8755c048213fe402450e57a603227f",
+      "image_bytes": 104595,
+      "source_url": "https://www.tcgcollector.com/cards/4921/yanma-supreme-victors-sh9",
+      "scraped_at": "2026-10-18T22:24:52Z",
+      "position": 153
+    }
+  ]
+}

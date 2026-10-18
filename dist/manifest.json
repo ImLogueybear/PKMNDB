@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-18T22:43:38Z",
+  "source": "tcgcollector",
+  "region": "intl",
+  "language": "en",
+  "counts": {
+    "sets": 333,
+    "released_sets": 332,
+    "cards": 21891,
+    "set_card_memberships": 25711,
+    "cards_with_images": 21891
+  },
+  "files": {
+    "sets": "sets.json",
+    "cards": "cards.jsonl",
+    "per_set": "sets/{set_id}.json"
+  }
+}

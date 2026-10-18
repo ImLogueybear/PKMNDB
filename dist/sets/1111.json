@@ -1,0 +1,2282 @@
+{
+  "set": {
+    "id": 1111,
+    "language": "en",
+    "name": "Neo Destiny",
+    "code": "N4",
+    "series": "Neo Series",
+    "release_date": "2002-02-28",
+    "date_text": "Feb 28, 2002",
+    "card_count": 113,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/35/12/05/35120527658240d91ba720a6d6f6b406b3766be7777329fdbc60fadc82b37464.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/fa/23/fe/fa23fe34211d2a4e8580f90b92fe92949177838a815fa633e47eb089920b3838.svg",
+    "logo_path": "images/sets/1111-logo.webp",
+    "symbol_path": "images/sets/1111-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/1111/neo-destiny",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 113
+  },
+  "cards": [
+    {
+      "id": 289,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Ampharos",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/6d/0a/22/6d0a224f3fe4f8325e93e03f4c9497db6962407880a45ee66606cdd7dbb4b1e1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f3/f6/78/f3f67872e97dae7d22e299f141efc412658179dc3f4daaf83b8770eef815a9cd.jpg",
+      "image_path": "images/cards/1111/1-289.webp",
+      "image_sha256": "cfe7c552d9e6eb12b9e8c6f5ea6dcd6ca555d5cdfa7fa78e1d17e6188986c332",
+      "image_bytes": 121263,
+      "source_url": "https://www.tcgcollector.com/cards/289/dark-ampharos-neo-destiny-1-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 1
+    },
+    {
+      "id": 299,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Crobat",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/0d/93/b7/0d93b762a04f7bd7bb6cf604d87fff6d6a90792568a3cf9f9a1569a2fd5266a9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/04/05/f4/0405f43e5c87234b981fbc7ee5b25f763bdea0a81927df0c8b4b47fb43c3fc1c.jpg",
+      "image_path": "images/cards/1111/2-299.webp",
+      "image_sha256": "f58bcb1de8a08178481e24f7ca08a717ff546d84b74eebebe44ec3bc63217ce3",
+      "image_bytes": 125851,
+      "source_url": "https://www.tcgcollector.com/cards/299/dark-crobat-neo-destiny-2-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 2
+    },
+    {
+      "id": 301,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Donphan",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/fb/9d/f5/fb9df5cf89b2e47f903b0de080e900675968c475ab79d7c756173581b596f524.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e0/ed/cf/e0edcf011044c4c388eb18922e67c9bffc0325d84b95398296f72071d73ff9f6.jpg",
+      "image_path": "images/cards/1111/3-301.webp",
+      "image_sha256": "6d969cf21ebd1d08a324cac3761fd9a633a47666a9a9c83097c9d07436b3f0e7",
+      "image_bytes": 109953,
+      "source_url": "https://www.tcgcollector.com/cards/301/dark-donphan-neo-destiny-3-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 3
+    },
+    {
+      "id": 310,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Espeon",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/0d/65/45/0d65452f4d895342e786e2f446a110d56cea332b9d2e5a7bcd06a29455ac2cd8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c5/9e/6c/c59e6cf9f41f52d68673abcadb09709ae55633263fce3c8eb24df9d5495e684d.jpg",
+      "image_path": "images/cards/1111/4-310.webp",
+      "image_sha256": "2383c7a16646ccdd0ba5c2fb8f8704a920ff4b39e270ccf245b2920e362b1fc5",
+      "image_bytes": 127947,
+      "source_url": "https://www.tcgcollector.com/cards/310/dark-espeon-neo-destiny-4-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 4
+    },
+    {
+      "id": 312,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Feraligatr",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/fb/f3/10/fbf3100c12390705fbe53b72822f141bb50866b47b3ec3dcce34332d047a1447.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d9/64/bf/d964bf511c9708c769d29146196c27248d7cd9d2cc5a97ab6d66d0fefeac8406.jpg",
+      "image_path": "images/cards/1111/5-312.webp",
+      "image_sha256": "2dbd20e0c56a71d74c7c1bb3e889a09d1c1ea79dee1d43f9cb9720da220c3bec",
+      "image_bytes": 134614,
+      "source_url": "https://www.tcgcollector.com/cards/312/dark-feraligatr-neo-destiny-5-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 5
+    },
+    {
+      "id": 316,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Gengar",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/c6/90/f0/c690f048f04aec36b94ac045eaa2dce1d895a2282ce13e99c91684449bc31a78.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7c/c5/71/7cc5717f8524489ba0d7f0762e64aff9c730e17a4c4e33fbaf2e5193efd6d0bd.jpg",
+      "image_path": "images/cards/1111/6-316.webp",
+      "image_sha256": "a823b8cf09f25af56d54b9f781460eb49ff6323632c798a5173fcb0b1a4375aa",
+      "image_bytes": 127847,
+      "source_url": "https://www.tcgcollector.com/cards/316/dark-gengar-neo-destiny-6-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 6
+    },
+    {
+      "id": 324,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Houndoom",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/2a/8a/d5/2a8ad5271e282784bbfe385221782b40b0db327f4fc7f50143bfbdccccdddb65.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bd/45/1a/bd451a55e724dfd5958b0a1cc2a524602e0f1bc0050df79de09627d8c7641b2e.jpg",
+      "image_path": "images/cards/1111/7-324.webp",
+      "image_sha256": "3404d0e55a2848a5effb3935e1609bcd88afc4229bb1475f802dd31c52ba52e1",
+      "image_bytes": 125557,
+      "source_url": "https://www.tcgcollector.com/cards/324/dark-houndoom-neo-destiny-7-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 7
+    },
+    {
+      "id": 342,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Porygon2",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/33/6e/f6/336ef6fc658ad3e27c6eece00902b8a83ba392eccf8b6eafb687ecef69c26f39.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b8/25/2c/b8252c42237a2d52c7f84bac11e430eeb1101966d7909baf30770b44ac8ff09d.jpg",
+      "image_path": "images/cards/1111/8-342.webp",
+      "image_sha256": "aa6bb3c7e12d861b5ea766a38a760c17aea1045bf4ab9f839e2537e76be717de",
+      "image_bytes": 128341,
+      "source_url": "https://www.tcgcollector.com/cards/342/dark-porygon2-neo-destiny-8-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 8
+    },
+    {
+      "id": 350,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Scizor",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/78/04/4a/78044a9b4ccba37f2e837bf5e82a2be2fd4d755da426c0f12d6d4a235f292b87.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/95/b8/00/95b8002b35838c3523c806133fe560d636573f7c5d849102ebd65e717e80cd35.jpg",
+      "image_path": "images/cards/1111/9-350.webp",
+      "image_sha256": "0d9d5bb5cb9c3b9b4a0d8b4c9d90a826c940303c7d52bc211b06255f4ac959b1",
+      "image_bytes": 110853,
+      "source_url": "https://www.tcgcollector.com/cards/350/dark-scizor-neo-destiny-9-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 9
+    },
+    {
+      "id": 355,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Typhlosion",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/47/66/9a/47669a9bb96dd6ea7e08f1af57766669a4d6ee25b79b8f1435e77a8c4d90b6c9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0b/a1/ba/0ba1ba249c31d5e47a3dc1aa266650703d0fa3f4f3ca9e5ef8358b92d957d40c.jpg",
+      "image_path": "images/cards/1111/10-355.webp",
+      "image_sha256": "efa60d70e9b74f2d910d1ddd436f23dec527d77988cda38f1df763b04b90a06d",
+      "image_bytes": 113048,
+      "source_url": "https://www.tcgcollector.com/cards/355/dark-typhlosion-neo-destiny-10-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 10
+    },
+    {
+      "id": 356,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Tyranitar",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/98/be/9b/98be9beec192dca130a2e1844c372b282ef436ccc937807c5e6bb85a49968d6e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6a/c0/dc/6ac0dc3f08a723770f12b92defb431626b860c5f8eaff6ecaabc4398a39025b8.jpg",
+      "image_path": "images/cards/1111/11-356.webp",
+      "image_sha256": "0026f8a39c1a6b1e34e70adac93850e616e0c5cd6caa54e7439ce814afa35c6e",
+      "image_bytes": 116487,
+      "source_url": "https://www.tcgcollector.com/cards/356/dark-tyranitar-neo-destiny-11-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 11
+    },
+    {
+      "id": 916,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Arcanine",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/e0/5b/ed/e05beda4b8a6f41cdfe4fd82fd30f95a3b7f61c12203f4913a4607ccca74d175.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/98/a0/89/98a0899a8a172a21fad588c39f20283ae8d2dd344b85a276758826ebe5ffe8fa.jpg",
+      "image_path": "images/cards/1111/12-916.webp",
+      "image_sha256": "47e2ee8643e1551ef8dc3e237f00a57054d184edcb35121c9aab0914b2ac8c21",
+      "image_bytes": 118419,
+      "source_url": "https://www.tcgcollector.com/cards/916/light-arcanine-neo-destiny-12-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 12
+    },
+    {
+      "id": 917,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Azumarill",
+      "number": "13",
+      "number_value": 13,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/a9/99/95/a99995c0296d53eca1930afbdb3e47b6a519e79fcf8bfeded2dab0649ead0c3f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8a/78/ec/8a78ec2f11e481dfba8619ac4ec502b4ff5dc71b0e0ed7d531e6e5ebba7cab87.jpg",
+      "image_path": "images/cards/1111/13-917.webp",
+      "image_sha256": "6beb5e717372e8c41d08bdc7b95fc593f7540b6feae27e6a5c1ccc8d1e693936",
+      "image_bytes": 140474,
+      "source_url": "https://www.tcgcollector.com/cards/917/light-azumarill-neo-destiny-13-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 13
+    },
+    {
+      "id": 920,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Dragonite",
+      "number": "14",
+      "number_value": 14,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/ba/be/37/babe3711a2ce77667be810b2c0fe0ee45be78468d04dee24faa97284f80a6294.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ff/ad/8a/ffad8a8857ec6ee02e39fb434a42fb8fe94d6c3833b5f57732e91ab8f7860c1c.jpg",
+      "image_path": "images/cards/1111/14-920.webp",
+      "image_sha256": "3d1f870f7354305d7bf6b6261c9fe060616d72af09566921c1b62dba23e993bc",
+      "image_bytes": 117830,
+      "source_url": "https://www.tcgcollector.com/cards/920/light-dragonite-neo-destiny-14-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 14
+    },
+    {
+      "id": 932,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Togetic",
+      "number": "15",
+      "number_value": 15,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/15/0d/e2/150de25d564effba13b34ca6403b1df8b15bd71195fbe9e49ff3ef731c20fffc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/44/4f/a4/444fa4fd0704d7522a64816e5a6c8a6c3edfb22917ff64f611db2fdb7951f66f.jpg",
+      "image_path": "images/cards/1111/15-932.webp",
+      "image_sha256": "0b64adc7734c92afd08dd44b99ab5211c7cf8b79b7df9d9ff863aac58f564d38",
+      "image_bytes": 117483,
+      "source_url": "https://www.tcgcollector.com/cards/932/light-togetic-neo-destiny-15-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 15
+    },
+    {
+      "id": 1130,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Miracle Energy",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 105,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/f0/46/ba/f046baff70ea879ac736f64501647d6a4ff0c8829d190e466eb6387b823336f8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f2/b9/4b/f2b94bbc396023f46fa71f68221726e6994c718e0f44b21711b6027a17517b1c.jpg",
+      "image_path": "images/cards/1111/16-1130.webp",
+      "image_sha256": "bfdead26b9a86943b034ac7659fdf6235ca6f471cb5c52765f8734b2701c6393",
+      "image_bytes": 95333,
+      "source_url": "https://www.tcgcollector.com/cards/1130/miracle-energy-neo-destiny-16-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 16
+    },
+    {
+      "id": 292,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Ariados",
+      "number": "17",
+      "number_value": 17,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/66/65/df/6665df859b6125b18f6a11a74fdb79eb700df21813e83f8cd2205faa586a1dee.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/49/cb/a1/49cba190cb8f4ef54860e7242e25ae32ea11492690e62d364e8f03f095fca0ba.jpg",
+      "image_path": "images/cards/1111/17-292.webp",
+      "image_sha256": "c958efd34cc35dbcc49c954451b5f608640a8909ea197000bc655122fc05f1ec",
+      "image_bytes": 114580,
+      "source_url": "https://www.tcgcollector.com/cards/292/dark-ariados-neo-destiny-17-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 17
+    },
+    {
+      "id": 332,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Magcargo",
+      "number": "18",
+      "number_value": 18,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/fc/36/0c/fc360c6a9747ef51605ebd585e03dec77a7a1a7577bc3f1fa10b8813fbf776af.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f8/e5/36/f8e536332c2e689c10ad3b7f17d57b8bf617af03dd2d45060c3d7cbf55593dae.jpg",
+      "image_path": "images/cards/1111/18-332.webp",
+      "image_sha256": "79fc6577c819725e711702fe6e2b333f983d6871c313c949c28e9196db17abaf",
+      "image_bytes": 115892,
+      "source_url": "https://www.tcgcollector.com/cards/332/dark-magcargo-neo-destiny-18-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 18
+    },
+    {
+      "id": 338,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Omastar",
+      "number": "19",
+      "number_value": 19,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/b2/d3/78/b2d378f83b4cace39b35171210653db6beb930bba1c06f51cf328ee6b5053470.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9b/5d/f0/9b5df0e01135e4d774f375ccd78142c49c2e53394f08d811515e56111c938bbc.jpg",
+      "image_path": "images/cards/1111/19-338.webp",
+      "image_sha256": "8dc3fc703b4e677cc4750ffd47946654c267355a6c8fbf55b885caa1633e523a",
+      "image_bytes": 121809,
+      "source_url": "https://www.tcgcollector.com/cards/338/dark-omastar-neo-destiny-19-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 19
+    },
+    {
+      "id": 354,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Slowking",
+      "number": "20",
+      "number_value": 20,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/7b/b5/d9/7bb5d9e245ee7b633356e14c6bfa00d43c231e8cda41cc66486769cd3c8487d9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0d/5e/02/0d5e023f5dba9f3f3626b4ed6d1e8682a34fc85f89f6eb56e549cf5352f0200b.jpg",
+      "image_path": "images/cards/1111/20-354.webp",
+      "image_sha256": "729566a9109a8b452f11fcff9dd8749c3544d108f400783a7e2d0c94424043d6",
+      "image_bytes": 129992,
+      "source_url": "https://www.tcgcollector.com/cards/354/dark-slowking-neo-destiny-20-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 20
+    },
+    {
+      "id": 357,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Ursaring",
+      "number": "21",
+      "number_value": 21,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/e0/30/6b/e0306b45d9746397f6da448c6fc6ea28b2e3ad4503e0d6411bb58046637668d3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/99/8a/e2/998ae204254c2f4b027a761814fc86e72f014959f44b12a14b21d9d1becc2664.jpg",
+      "image_path": "images/cards/1111/21-357.webp",
+      "image_sha256": "443030d54ea45eabf5e23228af4d7ae4936032690bf69e45bdc34fb4574cd342",
+      "image_bytes": 104653,
+      "source_url": "https://www.tcgcollector.com/cards/357/dark-ursaring-neo-destiny-21-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 21
+    },
+    {
+      "id": 919,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Dragonair",
+      "number": "22",
+      "number_value": 22,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/9a/ce/c7/9acec7b7e3091c217af788abf4a68fe5249c3cbe170debc572ad915cc5a65be7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/83/82/69/8382694ba544a29979d225765241550b5b1cadbec6d7c386bc5ee225485e0789.jpg",
+      "image_path": "images/cards/1111/22-919.webp",
+      "image_sha256": "e5a8fa4f28107cf9f7cf2de8f8597dcd25652cf3c9200afd2a380343ef032b9e",
+      "image_bytes": 96039,
+      "source_url": "https://www.tcgcollector.com/cards/919/light-dragonair-neo-destiny-22-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 22
+    },
+    {
+      "id": 924,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Lanturn",
+      "number": "23",
+      "number_value": 23,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/6c/31/16/6c3116200ba4d8a8c4949756bfa0e7ac2498248b64b23d2acd6ab37c074da1d6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/58/58/69/58586916cff7576413a2150948e8e9167d57af4efb06c28bad64b0de62fd0f9b.jpg",
+      "image_path": "images/cards/1111/23-924.webp",
+      "image_sha256": "4af89ff5dbe4356eba714928c1d480ce3a823cd00100471603677f9dc0de6cf0",
+      "image_bytes": 103888,
+      "source_url": "https://www.tcgcollector.com/cards/924/light-lanturn-neo-destiny-23-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 23
+    },
+    {
+      "id": 925,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Ledian",
+      "number": "24",
+      "number_value": 24,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/16/37/82/163782ffaaac4b2ef88022094c09296e259b7a5b2a496a10daf50c2de2f1defa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ab/cb/c4/abcbc4cf18108e4e04d9552c441b98fee7b711ca653a9bc6ded8f491bcca9efd.jpg",
+      "image_path": "images/cards/1111/24-925.webp",
+      "image_sha256": "3f38deb75771ff6595ee0ff861ae5cf3f4a1d50006a22e892d99f48a648cdfc1",
+      "image_bytes": 115713,
+      "source_url": "https://www.tcgcollector.com/cards/925/light-ledian-neo-destiny-24-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 24
+    },
+    {
+      "id": 926,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Machamp",
+      "number": "25",
+      "number_value": 25,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/d3/68/d3/d368d3a1731916f760df08e0319ab43bc95c998e3fea2dc0a131aaf412b65ad5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bc/e3/8b/bce38be2d94d87cb9d27dc5dfb33eaf1985d8bc02fa0f62e6c1920deb1d20c08.jpg",
+      "image_path": "images/cards/1111/25-926.webp",
+      "image_sha256": "a54766200f1a3d4e2078401c875898e2a8754cfe06618f95f3076c8bf07dd703",
+      "image_bytes": 110428,
+      "source_url": "https://www.tcgcollector.com/cards/926/light-machamp-neo-destiny-25-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 25
+    },
+    {
+      "id": 929,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Piloswine",
+      "number": "26",
+      "number_value": 26,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/55/34/7d/55347d4e508c1cc460119d603f6695d619df58bfc86f82776f55014b69d0ad29.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cf/9a/32/cf9a32038db3c36544db607cd5db6538700cfeef1d5d3368f305169cd9b148c4.jpg",
+      "image_path": "images/cards/1111/26-929.webp",
+      "image_sha256": "45f4a60c3acf4a59762f51a06b7bc5c5a665cbf44014ad36dc657da7af0533d4",
+      "image_bytes": 126234,
+      "source_url": "https://www.tcgcollector.com/cards/929/light-piloswine-neo-destiny-26-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 26
+    },
+    {
+      "id": 1838,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Unown [G]",
+      "number": "27",
+      "number_value": 27,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/0a/c1/94/0ac194630ec618181ae9f8558f1fbbce4381bd3ed3386f8ebc2689c744a8c7e3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/82/e2/ba/82e2ba026b6356b0b7db0631b811b7200023dcf3b123030a3a4b8e763a24bde2.jpg",
+      "image_path": "images/cards/1111/27-1838.webp",
+      "image_sha256": "1ea573e095b91353b6c44c8bd857c676e34d84b53d2e1c262edb35e6acd167f0",
+      "image_bytes": 109460,
+      "source_url": "https://www.tcgcollector.com/cards/1838/unown-g-neo-destiny-27-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 27
+    },
+    {
+      "id": 1839,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Unown [H]",
+      "number": "28",
+      "number_value": 28,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/e6/6b/7f/e66b7f590f27a012b794af5c486a0a8a45d24c06c31098e5c7bdef19e8a38058.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/13/7b/7d/137b7d13ac2b740fb73578a65abdb78fb4dcfa532ead44133db4bbb2ee2e8fd3.jpg",
+      "image_path": "images/cards/1111/28-1839.webp",
+      "image_sha256": "c08adcce10eb8aeab1b202d2455f3a22efd00918c9fe8cc0e53fd6960b521f68",
+      "image_bytes": 119210,
+      "source_url": "https://www.tcgcollector.com/cards/1839/unown-h-neo-destiny-28-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 28
+    },
+    {
+      "id": 1853,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Unown [W]",
+      "number": "29",
+      "number_value": 29,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/11/8c/3d/118c3db4b791ea99174f902b6a5a8516fafc5b7d3a3dbddde9bac72a51b3f2cd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a4/2b/12/a42b129c388f5efc620b72feb4a5bece2a03dcce32fcdf9f0547329bdd67c96a.jpg",
+      "image_path": "images/cards/1111/29-1853.webp",
+      "image_sha256": "4e43d8ad95deb2465dfe4aed2a73b8b9ec4032e749514c0303e19e4c93a72789",
+      "image_bytes": 112217,
+      "source_url": "https://www.tcgcollector.com/cards/1853/unown-w-neo-destiny-29-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 29
+    },
+    {
+      "id": 1854,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Unown [X]",
+      "number": "30",
+      "number_value": 30,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f7/be/f7/f7bef7a027dc2a4fae88e6163b2f8bf874a1a4294593507cfdfad3e1065f99ce.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2f/b5/f8/2fb5f89f002f6daf6efe91cc9a8d72b2be2b6fb7a92641c4c43fdeec010d695c.jpg",
+      "image_path": "images/cards/1111/30-1854.webp",
+      "image_sha256": "a299b86f396742fe3f8d27e0447563017a062640df08248c154a99a010a5da2a",
+      "image_bytes": 108531,
+      "source_url": "https://www.tcgcollector.com/cards/1854/unown-x-neo-destiny-30-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 30
+    },
+    {
+      "id": 204,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Chansey",
+      "number": "31",
+      "number_value": 31,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/29/58/7a/29587aa030ac50deeb606c30822af34a0d7e9a4096d3ac51fbae08e278454d34.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b8/c8/d3/b8c8d3eee43f0c1feb2f94fd18ffc261eb502c499ac04910e44b0aae6ee9accf.jpg",
+      "image_path": "images/cards/1111/31-204.webp",
+      "image_sha256": "fcf801494118a70746970e2904ae0381e67e15e8ffd2a8fd45f166397c67687e",
+      "image_bytes": 97560,
+      "source_url": "https://www.tcgcollector.com/cards/204/chansey-neo-destiny-31-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 31
+    },
+    {
+      "id": 300,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Croconaw",
+      "number": "32",
+      "number_value": 32,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/87/55/a4/8755a481e1f86a47d4b3ec315eebc4310ab9ecad82095a8fd822d2ab9b31b34f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/26/5d/6c/265d6c88672f8c1c2ab01e41eeada7fb805acfdee81be4bf5a5de5b9b5844ef2.jpg",
+      "image_path": "images/cards/1111/32-300.webp",
+      "image_sha256": "fd1b5b066a5cc865a3ec88de8ab6a234bcda5f8d64e69104ce3abc5d886ba838",
+      "image_bytes": 115578,
+      "source_url": "https://www.tcgcollector.com/cards/300/dark-croconaw-neo-destiny-32-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 32
+    },
+    {
+      "id": 311,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Exeggutor",
+      "number": "33",
+      "number_value": 33,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d3/8e/cc/d38eccd1df30976ee06ae88002b500b8fa92e19d0e0672fa3bd9dfb09d8a31f0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/79/25/9d/79259d7bc4aa7cec19c1607ec7771092e054b14b140f9e963171b45fdfe612cf.jpg",
+      "image_path": "images/cards/1111/33-311.webp",
+      "image_sha256": "aab7d83550cfb675842d04b23e79773179055e07056326b49029225b8477d749",
+      "image_bytes": 106051,
+      "source_url": "https://www.tcgcollector.com/cards/311/dark-exeggutor-neo-destiny-33-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 33
+    },
+    {
+      "id": 313,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Flaaffy",
+      "number": "34",
+      "number_value": 34,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/64/af/26/64af269777c63a353eec3488aa6f20fc0ff37a6fc3d22cac46313efec85d4e4f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/76/4f/28/764f282fa555df62d0eaad127b33d27c02f3cf01af62bbf1f455f95b4fd0f726.jpg",
+      "image_path": "images/cards/1111/34-313.webp",
+      "image_sha256": "deea53deb8d79d23ff0622032064187626820b1579b0cb07bafd9c2e0b4d1d0e",
+      "image_bytes": 112008,
+      "source_url": "https://www.tcgcollector.com/cards/313/dark-flaaffy-neo-destiny-34-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 34
+    },
+    {
+      "id": 315,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Forretress",
+      "number": "35",
+      "number_value": 35,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/5c/f5/6e/5cf56e7702ad8caef1807749cd0b4d3f042286a7de57b3a0495648147b4b0cc1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/19/ef/01/19ef019f46c5f9e6d5bc305cd35a306f5e1a022c30600f702ed9e593b21da035.jpg",
+      "image_path": "images/cards/1111/35-315.webp",
+      "image_sha256": "d57454d5f9913c726d4275319fabc1cf8d2171065c1c5b55cdd348065d54f703",
+      "image_bytes": 109514,
+      "source_url": "https://www.tcgcollector.com/cards/315/dark-forretress-neo-destiny-35-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 35
+    },
+    {
+      "id": 323,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Haunter",
+      "number": "36",
+      "number_value": 36,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ee/87/30/ee8730be55e59f07463373158af66de3253825c45bed262b30a03c076bd09ddc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/12/77/22/1277228d65e06c6bcf39dc72f638aaacf93b48e33626c10f61c57f4fbcf2e167.jpg",
+      "image_path": "images/cards/1111/36-323.webp",
+      "image_sha256": "a47aa4323a32c7f9452a75e93ae476e20573ed23eb503fc18361da6e1e53f13c",
+      "image_bytes": 110665,
+      "source_url": "https://www.tcgcollector.com/cards/323/dark-haunter-neo-destiny-36-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 36
+    },
+    {
+      "id": 337,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Omanyte",
+      "number": "37",
+      "number_value": 37,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/4a/52/ce/4a52ceb98c1798e012efb6638dc3d19f6f1fce023c36d4231f957809db9794d3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/23/a6/2a/23a62a1ce36a8b4a41651c49a0fa2925643fd562c3173ede5ac7f6c19fee027f.jpg",
+      "image_path": "images/cards/1111/37-337.webp",
+      "image_sha256": "869cf16970d1cfdcc77dbcbfe4aa705666bb61b1677ac547219db0918ab0cb14",
+      "image_bytes": 127092,
+      "source_url": "https://www.tcgcollector.com/cards/337/dark-omanyte-neo-destiny-37-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 37
+    },
+    {
+      "id": 344,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Pupitar",
+      "number": "38",
+      "number_value": 38,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/9f/5d/f6/9f5df68920451820a27f9f5f3a15588df06e9bc0fb2f7b75d88f8c4a85d9d4d9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/61/c8/66/61c866263f1252c051dd44c982b24ba26ebec7db50e81aea15f75d3fe84cff69.jpg",
+      "image_path": "images/cards/1111/38-344.webp",
+      "image_sha256": "68c262c173194fa3d8389121130518b493f4945b5cf4c4e6cf454c2b29e2744e",
+      "image_bytes": 116468,
+      "source_url": "https://www.tcgcollector.com/cards/344/dark-pupitar-neo-destiny-38-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 38
+    },
+    {
+      "id": 345,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Quilava",
+      "number": "39",
+      "number_value": 39,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/9c/68/f9/9c68f9f2406084723a681f64217d1770649a6c04e0488a613bdd91d115922862.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/60/cf/32/60cf328be70ce7050817637d19f7676cf07f4c1fab49ac44be05fd6d60e52e74.jpg",
+      "image_path": "images/cards/1111/39-345.webp",
+      "image_sha256": "c7bf7b0ae9af9755dc4a13dbaba8761edec142c2300a11beb07c407889e3f730",
+      "image_bytes": 110609,
+      "source_url": "https://www.tcgcollector.com/cards/345/dark-quilava-neo-destiny-39-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 39
+    },
+    {
+      "id": 367,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Wigglytuff",
+      "number": "40",
+      "number_value": 40,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/52/ad/d6/52add6fa35454d2d4c89b13f846fe716119e402ea9ae41264c6402c280fc8b00.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bd/d0/a6/bdd0a675833ca568c2498f7f613e822777099a1a4f3912d46600effdb972a202.jpg",
+      "image_path": "images/cards/1111/40-367.webp",
+      "image_sha256": "45bdf4528c6e65bd7877edf8f91a4796a9aec797e24277ae6c142fd9788e42ad",
+      "image_bytes": 106900,
+      "source_url": "https://www.tcgcollector.com/cards/367/dark-wigglytuff-neo-destiny-40-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 40
+    },
+    {
+      "id": 725,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Heracross",
+      "number": "41",
+      "number_value": 41,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d1/01/4c/d1014c735ad27ab87e68829e5d791942a191f950959c7609ca7153e72f25e673.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3b/5a/92/3b5a92fb3e815f04fb15f11f03863886e93f134a0c3003ed4249da849af8ebeb.jpg",
+      "image_path": "images/cards/1111/41-725.webp",
+      "image_sha256": "defd6748b15bc6c2f5947c23d3a8cb99885488dce5839d439df6c23c75e941a4",
+      "image_bytes": 112190,
+      "source_url": "https://www.tcgcollector.com/cards/725/heracross-neo-destiny-41-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 41
+    },
+    {
+      "id": 738,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Hitmonlee",
+      "number": "42",
+      "number_value": 42,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/6b/81/f3/6b81f3420d661a9f5923a460140db64d5435db6211b5d5c3a58189d30d554506.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6c/7a/b5/6c7ab551dc6a00ac430e71dbc4707b36f7b2528c5e6af5b78cca6681f7086131.jpg",
+      "image_path": "images/cards/1111/42-738.webp",
+      "image_sha256": "1da2054760694913a861b442768bb62facfdd2fee1d0518e7f6899f56ec764fb",
+      "image_bytes": 108012,
+      "source_url": "https://www.tcgcollector.com/cards/738/hitmonlee-neo-destiny-42-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 42
+    },
+    {
+      "id": 772,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Houndour",
+      "number": "43",
+      "number_value": 43,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/a1/e8/e8/a1e8e879722badfb12526d345c18a31750efda2704c46977ad077230e952eaae.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/02/41/06/02410668ff638dfdb1d0b27623b313f6501b1e79ccc916e0f132810465e43745.jpg",
+      "image_path": "images/cards/1111/43-772.webp",
+      "image_sha256": "f44db014677efe7ea7a0b8315754f8566259c03fad3d301f06bb4e8f21b4b207",
+      "image_bytes": 119918,
+      "source_url": "https://www.tcgcollector.com/cards/772/houndour-neo-destiny-43-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 43
+    },
+    {
+      "id": 799,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Jigglypuff",
+      "number": "44",
+      "number_value": 44,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/91/6d/fc/916dfc244f83270eb11eadc8181ed4904222da0c8eaf8c1752d2adc09d04a207.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d4/e2/12/d4e2120a771a96fa1707f0d6ef3160f2b933030f36b4c9d507a146c6095e0208.jpg",
+      "image_path": "images/cards/1111/44-799.webp",
+      "image_sha256": "29ec452581520beadfee96a1ccd0afe0d6311ef51aa10311bc91ace3a0b6e2c9",
+      "image_bytes": 94771,
+      "source_url": "https://www.tcgcollector.com/cards/799/jigglypuff-neo-destiny-44-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 44
+    },
+    {
+      "id": 918,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Dewgong",
+      "number": "45",
+      "number_value": 45,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/64/ff/fd/64fffd7d638583b2c95a6f601ee961bb117c33fac54bd72360e59fe042ef3343.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/31/b0/60/31b06066c40df8d82842e1f0309535a9d99ccd45bc314be0f6a02c69cd19da09.jpg",
+      "image_path": "images/cards/1111/45-918.webp",
+      "image_sha256": "231ff63484f24ff1caa73a771fac53fb5fb67511e4270e333aa32ee6d6f3debe",
+      "image_bytes": 121232,
+      "source_url": "https://www.tcgcollector.com/cards/918/light-dewgong-neo-destiny-45-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 45
+    },
+    {
+      "id": 921,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Flareon",
+      "number": "46",
+      "number_value": 46,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/5f/c6/17/5fc617d626d4d7eea9545e90dbe7b475af5897b78da95affb087af9d04a44f1f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d6/21/a3/d621a3a4040d1a3d87bd03225d5d81a6231b8eb804fee0d3cc535106bb719d44.jpg",
+      "image_path": "images/cards/1111/46-921.webp",
+      "image_sha256": "c41323a384d08f8d22a577c7286045a6222619ce729becb74e4ee0b05193b9cb",
+      "image_bytes": 100599,
+      "source_url": "https://www.tcgcollector.com/cards/921/light-flareon-neo-destiny-46-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 46
+    },
+    {
+      "id": 922,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Golduck",
+      "number": "47",
+      "number_value": 47,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/4c/fc/87/4cfc87d1642bdb804349716bc03ecf6832eceeef0ea2b8e7d6b30dc26d12c8b4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/40/e9/de/40e9de1efb1d72cd3013096803bf60df07e81b3a1c04827d5f93e1c831db82f1.jpg",
+      "image_path": "images/cards/1111/47-922.webp",
+      "image_sha256": "d34e7935fa98bedaf8f692f1fbbdc9e1b45be98d8c54e068d9b8cbf08638cdf7",
+      "image_bytes": 112235,
+      "source_url": "https://www.tcgcollector.com/cards/922/light-golduck-neo-destiny-47-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 47
+    },
+    {
+      "id": 923,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Jolteon",
+      "number": "48",
+      "number_value": 48,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/98/b6/89/98b689204a25fe870055c24be5d3ac244a59468c04f9cc0c8ef9ba57db340b02.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f4/4a/4f/f44a4f7140cb73dc73bd583b3ad1e1fd01c68ec12ce8ab022826c3aba405f1d6.jpg",
+      "image_path": "images/cards/1111/48-923.webp",
+      "image_sha256": "da9d54e24a920410b8d77d558d3981e381cb50f147965f0c2ec778dc7df8fcc8",
+      "image_bytes": 116816,
+      "source_url": "https://www.tcgcollector.com/cards/923/light-jolteon-neo-destiny-48-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 48
+    },
+    {
+      "id": 927,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Machoke",
+      "number": "49",
+      "number_value": 49,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d4/75/5e/d4755ed2b2b11cffa3cb7cd9548fa6c1c6f7298d8b6f31d518f98141dde079b8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8b/22/74/8b22743fbb654942fb2009d5eb7262ac375cd3bfdda2070c319584a00f9b8b35.jpg",
+      "image_path": "images/cards/1111/49-927.webp",
+      "image_sha256": "32ad2b24596ab2864ea972763e64d7e936f56896e693fe39802cb85acadc2ef5",
+      "image_bytes": 108536,
+      "source_url": "https://www.tcgcollector.com/cards/927/light-machoke-neo-destiny-49-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 49
+    },
+    {
+      "id": 928,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Ninetales",
+      "number": "50",
+      "number_value": 50,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/7b/5a/03/7b5a03c9c1c5667a25b4d75bb54886274508184f2d73556370b11e0ce0fb95e0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7b/2f/90/7b2f904164c23e354becbb3540cbe84c41b23bd36825d59ffb5c0573971512c6.jpg",
+      "image_path": "images/cards/1111/50-928.webp",
+      "image_sha256": "f65634cafc960964447f7a7df198c176e6d1f470006665a950225ec748d9a499",
+      "image_bytes": 139943,
+      "source_url": "https://www.tcgcollector.com/cards/928/light-ninetales-neo-destiny-50-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 50
+    },
+    {
+      "id": 930,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Slowbro",
+      "number": "51",
+      "number_value": 51,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b5/cf/a0/b5cfa07d23050a4c935de9e843d31a10f13af66270a47cf136c857d33d536355.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ca/d8/88/cad8884c97f7cef7f34dfd3ebd529774d16ffba913ff8b1d528041c62839583d.jpg",
+      "image_path": "images/cards/1111/51-930.webp",
+      "image_sha256": "d697658d01b3b19126937d6ed90c4fac628eaaa33803182e6b185c7db69a508b",
+      "image_bytes": 137568,
+      "source_url": "https://www.tcgcollector.com/cards/930/light-slowbro-neo-destiny-51-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 51
+    },
+    {
+      "id": 933,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Vaporeon",
+      "number": "52",
+      "number_value": 52,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/a1/c4/73/a1c473db976e5807ec22313054d921ea5e88971c057a2f8b83b4da0d56c00c52.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/57/8e/8a/578e8a08432d7d2bb499ca1a642266672cd2ae9b80f612e4d55b992c39c90b15.jpg",
+      "image_path": "images/cards/1111/52-933.webp",
+      "image_sha256": "651c01f13c0fbb72f02d2627d49b4f979899fa8c8ef665b07c6bceeece6a13e5",
+      "image_bytes": 114801,
+      "source_url": "https://www.tcgcollector.com/cards/933/light-vaporeon-neo-destiny-52-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 52
+    },
+    {
+      "id": 934,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Venomoth",
+      "number": "53",
+      "number_value": 53,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/e2/9a/98/e29a987dee2f6f6b0161d0ce88d77bd000e4f45fb0b73b7a77710bff174efcd8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/64/39/d1/6439d1f5f29b9989dc371d7a1951e5bd722a4812547bbec3eb8dd8c14a4b8de9.jpg",
+      "image_path": "images/cards/1111/53-934.webp",
+      "image_sha256": "8198f8c80a44a188c9992e713153ce965668c83318230a99344fa2789f4d05ae",
+      "image_bytes": 112272,
+      "source_url": "https://www.tcgcollector.com/cards/934/light-venomoth-neo-destiny-53-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 53
+    },
+    {
+      "id": 935,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Wigglytuff",
+      "number": "54",
+      "number_value": 54,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b1/01/e2/b101e25736a409038a8f1abe13f913770ca75ef151027f2dc6d3f0a1e42d88f7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c5/9c/ca/c59cca8d10de05645837a2080b0d15f766eb6b693c06713c6333b9942d3c9ded.jpg",
+      "image_path": "images/cards/1111/54-935.webp",
+      "image_sha256": "c1a81fa32c1688667de691120deb3e915a3cdc9440ae94da7d271c50cf08c525",
+      "image_bytes": 115812,
+      "source_url": "https://www.tcgcollector.com/cards/935/light-wigglytuff-neo-destiny-54-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 54
+    },
+    {
+      "id": 1573,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Scyther",
+      "number": "55",
+      "number_value": 55,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/5b/93/2b/5b932bb337cbd5d419c8895817339d451fa148937ca6b8d6c1a4ef81aded8cd4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/43/33/81/433381730ea82d6c18d4fa027f1859b01f0b1371db0ae1d3e6a905375c512163.jpg",
+      "image_path": "images/cards/1111/55-1573.webp",
+      "image_sha256": "0c0c4fb2672d627e0f3a4b43dbdf8573a6c5ebc6e64a0d1ad5fac4a63007040c",
+      "image_bytes": 99062,
+      "source_url": "https://www.tcgcollector.com/cards/1573/scyther-neo-destiny-55-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 55
+    },
+    {
+      "id": 1780,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Togepi",
+      "number": "56",
+      "number_value": 56,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/88/09/db/8809db0ab75a869752d682a8c99bad68e1bb605007fe3b2aafaccec1fcfbb1e2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bc/fe/b9/bcfeb9ca9e21a5ab00fd24fad14d389ea1994368b9e89de81e40dca08779eaaf.jpg",
+      "image_path": "images/cards/1111/56-1780.webp",
+      "image_sha256": "6e7ebf6ac0fa8882750fab3956cadc487d1091c811c52618f2a795a70b3a098c",
+      "image_bytes": 106153,
+      "source_url": "https://www.tcgcollector.com/cards/1780/togepi-neo-destiny-56-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 56
+    },
+    {
+      "id": 1834,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Unown [C]",
+      "number": "57",
+      "number_value": 57,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/24/9c/db/249cdb533e016c09d29ba85829696620968c3454d5599788a051251bbec9de1c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ac/f0/57/acf0571ca1f6412f3199313b17d7a212d2a5350a298636bf36e45f88b12eb27a.jpg",
+      "image_path": "images/cards/1111/57-1834.webp",
+      "image_sha256": "397d980189042f2e91b61f32edd3129dea19202abca1021a2342b48e38942f12",
+      "image_bytes": 108046,
+      "source_url": "https://www.tcgcollector.com/cards/1834/unown-c-neo-destiny-57-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 57
+    },
+    {
+      "id": 1847,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Unown [P]",
+      "number": "58",
+      "number_value": 58,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f0/f5/20/f0f520736aab03008e28b8e5dff6e0094f2eb1e53c0ca6baee27cfa60e676fbd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/38/bd/ae/38bdae49aa3b015735dda50dd9d50c97d5c69990e60f5731de922e2a387882df.jpg",
+      "image_path": "images/cards/1111/58-1847.webp",
+      "image_sha256": "274c6013c483cc722686c793ee57488febee864770314633e8b4febeb287c27d",
+      "image_bytes": 109375,
+      "source_url": "https://www.tcgcollector.com/cards/1847/unown-p-neo-destiny-58-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 58
+    },
+    {
+      "id": 1848,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Unown [Q]",
+      "number": "59",
+      "number_value": 59,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/55/cd/09/55cd09597520c6081348b396987c72ec1d9ce8f9a5036c31ddce55a34cda1edb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4c/8d/54/4c8d5482f44d475fea2dd51a11f9e6b2f1f81c6777ee00801b8895410df70833.jpg",
+      "image_path": "images/cards/1111/59-1848.webp",
+      "image_sha256": "4064ceb7bab0147bae721e2700e44e70a0fdaae09bf2c772576f775598e8f6bd",
+      "image_bytes": 124307,
+      "source_url": "https://www.tcgcollector.com/cards/1848/unown-q-neo-destiny-59-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 59
+    },
+    {
+      "id": 1856,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Unown [Z]",
+      "number": "60",
+      "number_value": 60,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/3d/a4/59/3da45926f43bea6a44822ef1c79e8a285333b8472dd3c2e28905a3977446f2be.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/20/2e/2c/202e2c7328e2836870cc31b3e38824452c97fb0c6a852751850f3341317cc303.jpg",
+      "image_path": "images/cards/1111/60-1856.webp",
+      "image_sha256": "cbef9d7889ec4ebebdd7bd19857cfa2954e8c2e2015bbab0940632e763f41bc8",
+      "image_bytes": 106972,
+      "source_url": "https://www.tcgcollector.com/cards/1856/unown-z-neo-destiny-60-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 60
+    },
+    {
+      "id": 284,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Cyndaquil",
+      "number": "61",
+      "number_value": 61,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/6e/e4/f1/6ee4f1f64c4b5619c1434682eb02279a3f67e733a175786fd889cf6e9eeaeba9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3c/6f/ca/3c6fca3271bc1fa9cece366aa897d87c7ea57dbace54cb1818e8c6efd619ef0a.jpg",
+      "image_path": "images/cards/1111/61-284.webp",
+      "image_sha256": "e2cce0f27263acdc878dee1d7363543a76beb0eae79530eb410b10e671ef8f5d",
+      "image_bytes": 108724,
+      "source_url": "https://www.tcgcollector.com/cards/284/cyndaquil-neo-destiny-61-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 61
+    },
+    {
+      "id": 336,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dark Octillery",
+      "number": "62",
+      "number_value": 62,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ed/9a/37/ed9a375b63beedc198c510484f66af9107b1388eb22702a4d5e120a674c11f89.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1f/44/e1/1f44e1f25a86a4287f231580af47264c761d69d918d9de69abf4670c2046dd59.jpg",
+      "image_path": "images/cards/1111/62-336.webp",
+      "image_sha256": "7278752894ce230440a6aae85a0754bd42cf4f2fefa68898905075111b6d25dd",
+      "image_bytes": 117622,
+      "source_url": "https://www.tcgcollector.com/cards/336/dark-octillery-neo-destiny-62-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 62
+    },
+    {
+      "id": 416,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Dratini",
+      "number": "63",
+      "number_value": 63,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ac/f6/ea/acf6eab28edec546302dd62fdc29058cd92a077beabd283c0b2d3fb744a42c95.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/01/2d/e1/012de156565161bdb6ee94660eff82000aa2c71f9a240f0de97e951bf6476f31.jpg",
+      "image_path": "images/cards/1111/63-416.webp",
+      "image_sha256": "cb1333d8953401daa237f29315e27cc7afb3aa5652f7e5b1feb93bb14546db5b",
+      "image_bytes": 89851,
+      "source_url": "https://www.tcgcollector.com/cards/416/dratini-neo-destiny-63-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 63
+    },
+    {
+      "id": 531,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Exeggcute",
+      "number": "64",
+      "number_value": 64,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/82/66/e4/8266e41268839d1043b971f1f301ac5b2f798cd31e432fa047d19f8b3c1de193.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/87/31/10/873110b91e2dd6e8d005e38a6acfeb5921661b0800904a4b0c7a1434beaead48.jpg",
+      "image_path": "images/cards/1111/64-531.webp",
+      "image_sha256": "6e262a083c4ab082135e2d7d2d9a510e443f0cc6ec014d22aed08d24bd0df7de",
+      "image_bytes": 88860,
+      "source_url": "https://www.tcgcollector.com/cards/531/exeggcute-neo-destiny-64-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 64
+    },
+    {
+      "id": 607,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Gastly",
+      "number": "65",
+      "number_value": 65,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/b0/bf/7b/b0bf7ba8202c029fa9804759631de81b15676a18f348963e9cba845e239aba34.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a7/31/f0/a731f094542d7408392369948faa88216f7aea96192b957c9010c7d9c6d46f25.jpg",
+      "image_path": "images/cards/1111/65-607.webp",
+      "image_sha256": "6fe17a7d1ce8b00b9f5f12a9a361d2143f179d47a74dbf2e2260dc9717acb4b3",
+      "image_bytes": 102805,
+      "source_url": "https://www.tcgcollector.com/cards/607/gastly-neo-destiny-65-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 65
+    },
+    {
+      "id": 644,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Girafarig",
+      "number": "66",
+      "number_value": 66,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/80/a5/17/80a51751b566febe585fd7705f4b757bf38c0b90f765dce3dd2773348fe30302.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/15/31/15/1531154aaa3de4037c7492c54a292ace8ff32caed274d83724276354a14791c4.jpg",
+      "image_path": "images/cards/1111/66-644.webp",
+      "image_sha256": "16155127e9d2a2a1c3bac02e852c2fa6d4fac67c6b35fd6ee428733c2de43ae9",
+      "image_bytes": 97393,
+      "source_url": "https://www.tcgcollector.com/cards/644/girafarig-neo-destiny-66-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 66
+    },
+    {
+      "id": 623,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Gligar",
+      "number": "67",
+      "number_value": 67,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/31/81/8d/31818d82ecbde6a0527a32ed8da317d1f7a110aa039d0e2e855ee22d2cd54875.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a6/94/ac/a694ac1934db00effbf4186cb404a9af74ebe0ceab77f0bd5bf201ab0bf63a60.jpg",
+      "image_path": "images/cards/1111/67-623.webp",
+      "image_sha256": "dad305574ba972e5a6ca2ab29ee46080c2e1ac4ecc28231d19dd4e768d3d5a1c",
+      "image_bytes": 99225,
+      "source_url": "https://www.tcgcollector.com/cards/623/gligar-neo-destiny-67-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 67
+    },
+    {
+      "id": 704,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Growlithe",
+      "number": "68",
+      "number_value": 68,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a9/f5/49/a9f5499dc9725402b5fd5e507801d7843123e089c95bc1a53c5687518b6bb024.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/89/77/9c/89779c725bbdd5a6005294b65be8d16bfd44c8c062abe7d4e66e678a0e39a572.jpg",
+      "image_path": "images/cards/1111/68-704.webp",
+      "image_sha256": "c08c4cec1ae8ecf7ad295d9a2e4a10589f1bdaad8c53dd0e569216d45ab83cdc",
+      "image_bytes": 87444,
+      "source_url": "https://www.tcgcollector.com/cards/704/growlithe-neo-destiny-68-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 68
+    },
+    {
+      "id": 732,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Hitmonchan",
+      "number": "69",
+      "number_value": 69,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/36/c4/56/36c456b5b135fbe6ae8f36c1ca1e9d7d6836873a2c44bfe779b1f5866744a1e1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a8/90/46/a89046c55f2e606a2ee295d012c2a3d3fdf6403f13ad73921043e0cc3046be3d.jpg",
+      "image_path": "images/cards/1111/69-732.webp",
+      "image_sha256": "28cf444af04f74c48e18ca8eb427e2f7cc272420a14b21f39b6aa558aab80ec0",
+      "image_bytes": 100482,
+      "source_url": "https://www.tcgcollector.com/cards/732/hitmonchan-neo-destiny-69-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 69
+    },
+    {
+      "id": 899,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Larvitar",
+      "number": "70",
+      "number_value": 70,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a8/c6/42/a8c6429a06c705b97a8412e2a4d3f393909eb1c60b6b899fa97d5ebc7cf7d99c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9f/aa/cc/9faaccc3a2b19d350961da595a942c35a35d6e84ad8c798cea092c348b01eeeb.jpg",
+      "image_path": "images/cards/1111/70-899.webp",
+      "image_sha256": "da81b77cf32e3e572803a747918484ff4cc2eefca054f793acc49370ae33ec63",
+      "image_bytes": 104858,
+      "source_url": "https://www.tcgcollector.com/cards/899/larvitar-neo-destiny-70-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 70
+    },
+    {
+      "id": 910,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Ledyba",
+      "number": "71",
+      "number_value": 71,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/88/b6/ce/88b6ce98b33d13fd32db2ca245f24530d946b01f0a6d5188d0992c51496d8fe2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/19/42/ba/1942bacb74f06481d8486d284450d3cf9dc37cb521c6d4c363e6b2269f1230c2.jpg",
+      "image_path": "images/cards/1111/71-910.webp",
+      "image_sha256": "f687e11cf1d8c976c3dd2462e339c422f9f424462dd672490e0a9ffcf4023dd0",
+      "image_bytes": 114326,
+      "source_url": "https://www.tcgcollector.com/cards/910/ledyba-neo-destiny-71-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 71
+    },
+    {
+      "id": 931,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Light Sunflora",
+      "number": "72",
+      "number_value": 72,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/c6/63/0e/c6630ec2987e8cf63d835052655ffa87dfeb0e22271655f62af7c883154a2474.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0c/25/14/0c25141f13e1772f5382c5d2b26e3485801818fc48b322ee9425e42d25ad90c5.jpg",
+      "image_path": "images/cards/1111/72-931.webp",
+      "image_sha256": "f249c16ee507795a11cd93555d50f9789a8cc5a49f9177c85caa7db364ccd8af",
+      "image_bytes": 95839,
+      "source_url": "https://www.tcgcollector.com/cards/931/light-sunflora-neo-destiny-72-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 72
+    },
+    {
+      "id": 998,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Machop",
+      "number": "73",
+      "number_value": 73,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/64/12/47/641247eecb278e5ba78eaec993924da6a98cd1f746e0905fc71a2b1a1d953e5e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1e/4a/e8/1e4ae8b8490c5be39cfbb89216f8519112c7154d38d6b0a06679aad7cac1a4db.jpg",
+      "image_path": "images/cards/1111/73-998.webp",
+      "image_sha256": "2c6a898898cb5945580bbe7b808fd851a24067d799db49e073a176782e379358",
+      "image_bytes": 80785,
+      "source_url": "https://www.tcgcollector.com/cards/998/machop-neo-destiny-73-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 73
+    },
+    {
+      "id": 1060,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Mantine",
+      "number": "74",
+      "number_value": 74,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/b0/9d/59/b09d594fda81dd6d4c2bcca0e0744a18a3733c2e333914be420cb1a694476037.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ab/11/19/ab11192e39f0b5a9b3318abc883099bfb84b2a360ce59f23592b80433a2b1f23.jpg",
+      "image_path": "images/cards/1111/74-1060.webp",
+      "image_sha256": "2907f46584c18778519443a8c0e76093957313401bf9d0e869d989f97bf6f101",
+      "image_bytes": 109685,
+      "source_url": "https://www.tcgcollector.com/cards/1060/mantine-neo-destiny-74-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 74
+    },
+    {
+      "id": 1064,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Mareep",
+      "number": "75",
+      "number_value": 75,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/65/59/af/6559af88e2f2b4442da6a62868df6a18e962b6597167e8a966b46139cffc163b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/70/9a/82/709a82c521c4d01d7c039220546f4dc1cc78852a553bb1b43e3b9b2ed1d085e1.jpg",
+      "image_path": "images/cards/1111/75-1064.webp",
+      "image_sha256": "134d96ec88330602d8ecd7ddb52248221549eaa7136674054858483ec68b4509",
+      "image_bytes": 85517,
+      "source_url": "https://www.tcgcollector.com/cards/1064/mareep-neo-destiny-75-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 75
+    },
+    {
+      "id": 1299,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Phanpy",
+      "number": "76",
+      "number_value": 76,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/35/2c/c7/352cc762a7e2481a1470c6ba2e516ff678a262d4e213c54b40c801c569f863de.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f9/4e/32/f94e328bdbea3a04f89d7f84812926fdb8da5fc85c08f271454388746bfffdcb.jpg",
+      "image_path": "images/cards/1111/76-1299.webp",
+      "image_sha256": "e9592d8f879f27b9f2890816ada097211333b99231a75707e5c0fcd1c3ff6079",
+      "image_bytes": 93021,
+      "source_url": "https://www.tcgcollector.com/cards/1299/phanpy-neo-destiny-76-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 76
+    },
+    {
+      "id": 1336,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Pineco",
+      "number": "77",
+      "number_value": 77,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/97/64/e6/9764e6dbe6687781aa1010ed096067d42bb8fcafde94a974fbd4a49fb3515c10.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6a/ea/d0/6aead0c8bdbd5c6477b7693ffe5e9b7f2d88e2a44380ea2fa765a70b1f90d444.jpg",
+      "image_path": "images/cards/1111/77-1336.webp",
+      "image_sha256": "f2d4313579c26f0f864e66d6515a1499a0898d6226f1831d1d834028bc068209",
+      "image_bytes": 100300,
+      "source_url": "https://www.tcgcollector.com/cards/1336/pineco-neo-destiny-77-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 77
+    },
+    {
+      "id": 1395,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Porygon",
+      "number": "78",
+      "number_value": 78,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/aa/62/49/aa62498e9ccd47133010afd0515736975a9a89f8b91d8d0b27b51b26e48dc38b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c5/9b/d7/c59bd743e24a9db7f6410e2a144c3275d61ede00a411e81a807e350e337e5d6b.jpg",
+      "image_path": "images/cards/1111/78-1395.webp",
+      "image_sha256": "6a444eac539b63fcce56710997d5206c5100b70cb26e5a04e2a7a584e25630f3",
+      "image_bytes": 83464,
+      "source_url": "https://www.tcgcollector.com/cards/1395/porygon-neo-destiny-78-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 78
+    },
+    {
+      "id": 1429,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Psyduck",
+      "number": "79",
+      "number_value": 79,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/79/4b/d5/794bd5b2d5865584b50ad7a60b71ed5d677a7de96b98b12db6c7c19c10083a14.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a0/50/5a/a0505ac2ef9b361939d6082133cdc8ee1e911c2d97dfbc7f820a377a0f376551.jpg",
+      "image_path": "images/cards/1111/79-1429.webp",
+      "image_sha256": "0baa722ca760912e1fcb0f6dcf7a70730ba6831fbf0731f8429a8ba06afc4ea0",
+      "image_bytes": 101386,
+      "source_url": "https://www.tcgcollector.com/cards/1429/psyduck-neo-destiny-79-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 79
+    },
+    {
+      "id": 1486,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Remoraid",
+      "number": "80",
+      "number_value": 80,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/54/ac/f4/54acf496d9e72e471e313f920e2c12fd1b9f27058bddf25d375badaa27cb9027.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/71/20/5a/71205a4c423d676b2eca059aa6a25141598bae4f5545cc68bc954728aabaa76c.jpg",
+      "image_path": "images/cards/1111/80-1486.webp",
+      "image_sha256": "2c5b8498e185b2c7e9eac65030b5a6bbdb68ea0e0219201211538f0a64995192",
+      "image_bytes": 105034,
+      "source_url": "https://www.tcgcollector.com/cards/1486/remoraid-neo-destiny-80-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 80
+    },
+    {
+      "id": 1591,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Seel",
+      "number": "81",
+      "number_value": 81,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/b1/27/eb/b127eb6d6ee3d090a5fd9a95880f0b3c5496dfacd339eca5ac07ff6dd587a85b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/35/47/d0/3547d047111ee517ac5a7487aaa9ac0aa0c10830f4194aff9b3f1a99a5566aa2.jpg",
+      "image_path": "images/cards/1111/81-1591.webp",
+      "image_sha256": "e52931f6cb69bcc5e7dcc3ab6fcf7df390c051a2aa05fd7c8753c52d3d99c16a",
+      "image_bytes": 98123,
+      "source_url": "https://www.tcgcollector.com/cards/1591/seel-neo-destiny-81-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 81
+    },
+    {
+      "id": 1655,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Slugma",
+      "number": "82",
+      "number_value": 82,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/fd/1e/4e/fd1e4e3850aca5b35ccbe7da428fa67590a774798bd1d83b93e4d4f8cda266f7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/92/81/52/928152027e3970e9aa8b11ba3e33b577480e1448aad33a28b715103caee361ef.jpg",
+      "image_path": "images/cards/1111/82-1655.webp",
+      "image_sha256": "5d386e3b1b9271dcaf123f01174988ddd3204cb3109deced33fb88ec17db8410",
+      "image_bytes": 93668,
+      "source_url": "https://www.tcgcollector.com/cards/1655/slugma-neo-destiny-82-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 82
+    },
+    {
+      "id": 1727,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Sunkern",
+      "number": "83",
+      "number_value": 83,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ec/f4/cf/ecf4cf30d2baecbdbd561a2474a67851c4e39d5fba93b8c99e0d2756b9c894c2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cd/17/7f/cd177fed850e137789b1392aff2157639af282ffac452cd0ecb9cea1a0f0cc8d.jpg",
+      "image_path": "images/cards/1111/83-1727.webp",
+      "image_sha256": "d240356919b27ecc63ff888fc4f4d9e037bc4516b75634f349b76e128974aef1",
+      "image_bytes": 108031,
+      "source_url": "https://www.tcgcollector.com/cards/1727/sunkern-neo-destiny-83-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 83
+    },
+    {
+      "id": 1744,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Swinub",
+      "number": "84",
+      "number_value": 84,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/3b/09/0a/3b090aeb7e254842bd0722a5e697f3b8d63b0a4f1521980b6f8c06806277b101.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a2/36/38/a2363854fd1fb56be22764c450df2e9ddeabc8345d165f39d7f089fe13c1fd2b.jpg",
+      "image_path": "images/cards/1111/84-1744.webp",
+      "image_sha256": "5e3a670b25797538c0904c9008ee705d6c1f389132537e7e76c51917290c1059",
+      "image_bytes": 99924,
+      "source_url": "https://www.tcgcollector.com/cards/1744/swinub-neo-destiny-84-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 84
+    },
+    {
+      "id": 1792,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Totodile",
+      "number": "85",
+      "number_value": 85,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/7e/24/24/7e24248f23b265901ef4edbdfc0867ed14c8345380ee5c4f8d99e5ea9eb1a78e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cd/9b/72/cd9b728d5ff464897190b940f131169344555e8d87ced250c6ff770bd8c1845d.jpg",
+      "image_path": "images/cards/1111/85-1792.webp",
+      "image_sha256": "423c27cff8b21bfaf512fdc095ff5ad72e5b677cb15b889a0e03f531da93ee1b",
+      "image_bytes": 109243,
+      "source_url": "https://www.tcgcollector.com/cards/1792/totodile-neo-destiny-85-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 85
+    },
+    {
+      "id": 1843,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Unown [L]",
+      "number": "86",
+      "number_value": 86,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/eb/e9/73/ebe973a3ccf0269b560a48c8122079898979dd4d604a2cf2a69bb561965c9217.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/47/75/a0/4775a00d40d7e045878382d2bf7f377e5561370407345e05aa1db1e071afc0e5.jpg",
+      "image_path": "images/cards/1111/86-1843.webp",
+      "image_sha256": "0445343af36db233f29ce855b2a043512e9cf79d27a98b37137212d23ab8f35c",
+      "image_bytes": 115680,
+      "source_url": "https://www.tcgcollector.com/cards/1843/unown-l-neo-destiny-86-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 86
+    },
+    {
+      "id": 1849,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Unown [S]",
+      "number": "87",
+      "number_value": 87,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/c8/ed/c5/c8edc5aab674952cb005e283b591482e76a8b81f398e269cb2ff28b2c3e469ea.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/33/ca/d2/33cad2da875eac8337eb2dd66d5b43c5fc56e39434002d6f92c35959db561abc.jpg",
+      "image_path": "images/cards/1111/87-1849.webp",
+      "image_sha256": "2e71000cedf64cd0c5a7e200203d27b19f9b64f5e9092f78cf1df78af26f0331",
+      "image_bytes": 112786,
+      "source_url": "https://www.tcgcollector.com/cards/1849/unown-s-neo-destiny-87-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 87
+    },
+    {
+      "id": 1850,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Unown [T]",
+      "number": "88",
+      "number_value": 88,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/10/31/de/1031de8e94436c39b497e393b77083b8c897c1f526755f31e6a09c7e9e79c148.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/21/9f/cd/219fcd7749033441fc5d392ba5e2ec4b86f1ed6addb8d36c9472615664b453b2.jpg",
+      "image_path": "images/cards/1111/88-1850.webp",
+      "image_sha256": "cec27101f3254f30a0eb7a4115db380d5e4bee8db5c6a7f433f768e54465ac9c",
+      "image_bytes": 109734,
+      "source_url": "https://www.tcgcollector.com/cards/1850/unown-t-neo-destiny-88-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 88
+    },
+    {
+      "id": 1852,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Unown [V]",
+      "number": "89",
+      "number_value": 89,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/35/36/be/3536be2b2145b0e2462a14f0b93104e7f5fa0a4bae1b1bd2a5fb6ec8c2c7e65a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7a/25/d9/7a25d9cd255efc4dad3a9065a749dc24e111ea15bd9abec05b2df060b1585535.jpg",
+      "image_path": "images/cards/1111/89-1852.webp",
+      "image_sha256": "da29088cd108133c33cd1bba6d58a37ebbddea9ad962f51a9437e5eb7e409ac3",
+      "image_bytes": 122075,
+      "source_url": "https://www.tcgcollector.com/cards/1852/unown-v-neo-destiny-89-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 89
+    },
+    {
+      "id": 1869,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Venonat",
+      "number": "90",
+      "number_value": 90,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/2d/89/e2/2d89e2888ccb064de941fe1af2964d1cc55a4628b6d9e72822d2043198dc6861.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a8/72/30/a872306375fb26f0d19ca94acec7900263ce6a72d39c4caa6a2c824c6396dd69.jpg",
+      "image_path": "images/cards/1111/90-1869.webp",
+      "image_sha256": "c69e54a0a35d727258dc139063db02e471c9c8749d3cfcc92e8ac125c3f32b51",
+      "image_bytes": 100978,
+      "source_url": "https://www.tcgcollector.com/cards/1869/venonat-neo-destiny-90-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 90
+    },
+    {
+      "id": 1903,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Vulpix",
+      "number": "91",
+      "number_value": 91,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/45/ba/fe/45bafe708b9f38ec078404f12b128764969962b8b3c0a416055218842d8d6abb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3c/d4/d7/3cd4d7ff3678b9064c517e6e617f55adbc2b85f46aa3193a6aa6e142f0360d8d.jpg",
+      "image_path": "images/cards/1111/91-1903.webp",
+      "image_sha256": "f4b66dc3f59bd144ceba4c588ed26f60c23eab821693350cf59f897844aa4cc9",
+      "image_bytes": 94957,
+      "source_url": "https://www.tcgcollector.com/cards/1903/vulpix-neo-destiny-91-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 91
+    },
+    {
+      "id": 170,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Broken Ground Gym",
+      "number": "92",
+      "number_value": 92,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/48/51/38/48513874c6a551ef890b2bad6ea09b1bcc7e21f101314b98c2d1be2b65ab2a2e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6a/d7/72/6ad772b795055a8c3a903b47ca254ff13aba4dab69d0a04af0f2668508c9ac07.jpg",
+      "image_path": "images/cards/1111/92-170.webp",
+      "image_sha256": "d4cce11bff4893d84ec658ffe0732da62b92c016500d6f325ccb1cc59ba0f9b9",
+      "image_bytes": 103720,
+      "source_url": "https://www.tcgcollector.com/cards/170/broken-ground-gym-neo-destiny-92-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 92
+    },
+    {
+      "id": 541,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "EXP.ALL",
+      "number": "93",
+      "number_value": 93,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/17/e0/d0/17e0d05a25ad9867110602e1be383a85329d59e4cd176660e1742138c7d9af9d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9a/9c/89/9a9c89a74bb4c0e2adf57b8ef20ef451a0e718115bdfb49a66ecd74ac589f874.jpg",
+      "image_path": "images/cards/1111/93-541.webp",
+      "image_sha256": "3b8f5b5d4371126ee215cfb530935e103beb99c7b9458024e2f9abefb2f722c5",
+      "image_bytes": 93079,
+      "source_url": "https://www.tcgcollector.com/cards/541/exp-all-neo-destiny-93-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 93
+    },
+    {
+      "id": 791,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Impostor Professor Oak's Invention",
+      "number": "94",
+      "number_value": 94,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/66/b3/18/66b3189316151ae4d4761771ffa45caaa38c0de053b779600a88676961a96022.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/86/0a/1e/860a1ec333b41d8fcfc62330c89e8cce79025b062c2000d5e7e5d3fd7738b30c.jpg",
+      "image_path": "images/cards/1111/94-791.webp",
+      "image_sha256": "0f511b95380ffba45a2605ad20ed63a4476b862a76d3b5ea4c3bb7f2a082f360",
+      "image_bytes": 99465,
+      "source_url": "https://www.tcgcollector.com/cards/791/impostor-professor-oaks-invention-neo-destiny-94-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 94
+    },
+    {
+      "id": 1444,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Radio Tower",
+      "number": "95",
+      "number_value": 95,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/95/65/e7/9565e7f606a8340990f9d3bee07861844cbfb4a4c27f122b6dcd23d464ed7c85.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ba/7c/17/ba7c17f705e519ba7dda77a22e990c929d8fa9f454a3a31fd249f383ddf7e8b6.jpg",
+      "image_path": "images/cards/1111/95-1444.webp",
+      "image_sha256": "5c07c3f7f9c5c1b915022e800941faceb13f1a0525aae38055e6e3a284ca4e6d",
+      "image_bytes": 106888,
+      "source_url": "https://www.tcgcollector.com/cards/1444/radio-tower-neo-destiny-95-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 95
+    },
+    {
+      "id": 1773,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Thought Wave Machine",
+      "number": "96",
+      "number_value": 96,
+      "printed_total": 105,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f0/ee/6c/f0ee6cef82470583325085da84b2f8a2316865a102a2ab15a598f71d6e8ce592.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8f/63/72/8f6372ebb90b248d0088417af8e94455d59a4f0f9d4ffe33934afc0eb0d7949d.jpg",
+      "image_path": "images/cards/1111/96-1773.webp",
+      "image_sha256": "8ddb160131378885a05a63a5b748d8ff2dbe8ceeedc75c078d2643e879990c5b",
+      "image_bytes": 108521,
+      "source_url": "https://www.tcgcollector.com/cards/1773/thought-wave-machine-neo-destiny-96-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 96
+    },
+    {
+      "id": 264,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Counterattack Claws",
+      "number": "97",
+      "number_value": 97,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/3e/3b/da/3e3bda81b7acf3983fb9073d5b52a01263ad166bb7e30142610b53d0cddda01c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ab/75/5e/ab755e720cb64bee396a153ded868031dc75c2386e370b2f06e65ca187eba4a0.jpg",
+      "image_path": "images/cards/1111/97-264.webp",
+      "image_sha256": "18fef75992d8bfd0f7298770b070067185a4038d06eea2c98897735912b2c2b5",
+      "image_bytes": 99508,
+      "source_url": "https://www.tcgcollector.com/cards/264/counterattack-claws-neo-destiny-97-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 97
+    },
+    {
+      "id": 471,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Energy Amplifier",
+      "number": "98",
+      "number_value": 98,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/1d/a1/49/1da149c08b94c8b71b9014b5112dd8429bbb3602487c0f701da409faf80ad27a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3f/7b/a8/3f7ba8ad59d6bb4c10c1547b378f36ec6744ffb0ad75a785aa56f1e38d3f07ec.jpg",
+      "image_path": "images/cards/1111/98-471.webp",
+      "image_sha256": "6f5cc63561b1087a712526241be4e5f54c6ba7615966a70b8af991f653141d7e",
+      "image_bytes": 103075,
+      "source_url": "https://www.tcgcollector.com/cards/471/energy-amplifier-neo-destiny-98-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 98
+    },
+    {
+      "id": 486,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Energy Stadium",
+      "number": "99",
+      "number_value": 99,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/96/c3/35/96c33515d3a5d7528be2d7a75f8bbdf37fd4c7e70dcd6354c085cba15292cae2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ac/05/4f/ac054fb813d20cdf829fce27c665ec75fc799f494f699a749f82acf4d69f2571.jpg",
+      "image_path": "images/cards/1111/99-486.webp",
+      "image_sha256": "25829c38e344394b7971be7d684d35e725805e2ba0f688df0965f9de669c3e71",
+      "image_bytes": 97403,
+      "source_url": "https://www.tcgcollector.com/cards/486/energy-stadium-neo-destiny-99-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 99
+    },
+    {
+      "id": 976,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Lucky Stadium",
+      "number": "100",
+      "number_value": 100,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/27/1e/f7/271ef76bd25b7e15bf4a92662a949b1eaba8e777e588d725be0e7f726e018299.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f7/2c/a5/f72ca57c0d9fcd63079cbb2ba31cc844a8b5ce41264199cea8efd9504aa9990b.jpg",
+      "image_path": "images/cards/1111/100-976.webp",
+      "image_sha256": "53235580a3de84161a38dd6bd3bfc737c292083c02999fe938b220c45f44f8a2",
+      "image_bytes": 110162,
+      "source_url": "https://www.tcgcollector.com/cards/976/lucky-stadium-neo-destiny-100-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 100
+    },
+    {
+      "id": 1047,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Magnifier",
+      "number": "101",
+      "number_value": 101,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/86/c4/f9/86c4f906e025a67a533128e0b629dad2d09c61eb36fad1759eb8a5b415f59341.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d1/33/b8/d133b83c6517f7d8b68e0ecb8b0928280198805ddacf48afeb78a5add96e975a.jpg",
+      "image_path": "images/cards/1111/101-1047.webp",
+      "image_sha256": "5d28753fbbc4e5f8cc6a32675c78e5431a311fc98ca8da7919a81232188e0c07",
+      "image_bytes": 111873,
+      "source_url": "https://www.tcgcollector.com/cards/1047/magnifier-neo-destiny-101-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 101
+    },
+    {
+      "id": 1359,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Pokémon Personality Test",
+      "number": "102",
+      "number_value": 102,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/31/31/1f/31311fc3cdade3a559dc8b8ab3c9e2b05399a4b7fc703e42d70aa11c74c14f58.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f2/5e/f9/f25ef9d4aa7eb43593dca97541b880a793e82578f5bd2127c48392f53414ddc5.jpg",
+      "image_path": "images/cards/1111/102-1359.webp",
+      "image_sha256": "c6a573f39a829612b462e5535d7092e9ed2ef39bc9fc39d4396ebd38881d90ff",
+      "image_bytes": 105402,
+      "source_url": "https://www.tcgcollector.com/cards/1359/pokemon-personality-test-neo-destiny-102-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 102
+    },
+    {
+      "id": 1757,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Team Rocket's Evil Deeds",
+      "number": "103",
+      "number_value": 103,
+      "printed_total": 105,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/99/44/51/99445167847115e994ba3f67f8dc84f694536e7fb098708e4427bdeb3996b42e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3d/f0/50/3df050d52473fdb48cb58a1af1f3029c2116edf91e144123036a69250a26771f.jpg",
+      "image_path": "images/cards/1111/103-1757.webp",
+      "image_sha256": "b619e6155325274d2117b90effb272e2a56afa38dcfb408ac8916c93f4bf3c44",
+      "image_bytes": 92193,
+      "source_url": "https://www.tcgcollector.com/cards/1757/team-rockets-evil-deeds-neo-destiny-103-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 103
+    },
+    {
+      "id": 721,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Heal Powder",
+      "number": "104",
+      "number_value": 104,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e5/73/c1/e573c1cc6578d99ab6160179bee5fbad343524f01c12b6942d666fe78b970462.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/61/e4/bc/61e4bce919b55ef75b764f60dbe7ba9f7433c911191885b4e9d42eb748472989.jpg",
+      "image_path": "images/cards/1111/104-721.webp",
+      "image_sha256": "3607237f123d25095c7a0ad03ce12ad04b24979f0a4642aacb1c787161ebd9af",
+      "image_bytes": 97746,
+      "source_url": "https://www.tcgcollector.com/cards/721/heal-powder-neo-destiny-104-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 104
+    },
+    {
+      "id": 1048,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Mail from Bill",
+      "number": "105",
+      "number_value": 105,
+      "printed_total": 105,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/65/83/fc/6583fce936da1bd06e9cc80c8f9d80739c83feb70a17515f71c400a26f8fbd77.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/35/6a/85/356a855d53706f8a52e5a425a13a418614ee9ec000e734a390351d42c8834bdc.jpg",
+      "image_path": "images/cards/1111/105-1048.webp",
+      "image_sha256": "bc9556078195bcf19f9a90a4197ef2d6c3a069293a45cadfef5f041d86aa7924",
+      "image_bytes": 84637,
+      "source_url": "https://www.tcgcollector.com/cards/1048/mail-from-bill-neo-destiny-105-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 105
+    },
+    {
+      "id": 1609,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Shining Celebi",
+      "number": "106",
+      "number_value": 106,
+      "printed_total": 105,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/31/b4/3b/31b43b8cee16ab7b205c8c475aabdd552e0f61950330da65e9940a18b896f939.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e9/b7/cd/e9b7cdbcfab8cbbb1f6de6e7f48de191039d6f2e74eb3e4e0ca07fbd1df4bba7.jpg",
+      "image_path": "images/cards/1111/106-1609.webp",
+      "image_sha256": "7f649e6323e0f653d239a994bbe7f512d54e8118dee0f221bc90f8f6ee0b9f0b",
+      "image_bytes": 119541,
+      "source_url": "https://www.tcgcollector.com/cards/1609/shining-celebi-neo-destiny-106-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 106
+    },
+    {
+      "id": 1610,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Shining Charizard",
+      "number": "107",
+      "number_value": 107,
+      "printed_total": 105,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/b9/f8/58/b9f85810322ad9844fa5483623fdb1fd741d8c571ec0b434f8cca8998d8fd445.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/eb/68/e1/eb68e12bba78d8f092d938021514e98f068c10de8d350926adb3b76df164a061.jpg",
+      "image_path": "images/cards/1111/107-1610.webp",
+      "image_sha256": "afd43c225643f3f1515c1185c8b40b5d54bdb5ec16f912133c69c523fe8bdf96",
+      "image_bytes": 112398,
+      "source_url": "https://www.tcgcollector.com/cards/1610/shining-charizard-neo-destiny-107-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 107
+    },
+    {
+      "id": 1612,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Shining Kabutops",
+      "number": "108",
+      "number_value": 108,
+      "printed_total": 105,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/eb/b5/b6/ebb5b68000a89c00d9774a01ef5e7a4e45c8379edc9f526d03c0c2b9872366b1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/57/ca/4e/57ca4e7c654982cc315ee5acdba5557beb2851822d3decb5ece251d4a5776d82.jpg",
+      "image_path": "images/cards/1111/108-1612.webp",
+      "image_sha256": "f889b7a04106e52189eb661d7bb40cef3d7dbb2525f0a47be54956197cce7a6e",
+      "image_bytes": 104678,
+      "source_url": "https://www.tcgcollector.com/cards/1612/shining-kabutops-neo-destiny-108-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 108
+    },
+    {
+      "id": 1614,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Shining Mewtwo",
+      "number": "109",
+      "number_value": 109,
+      "printed_total": 105,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/c2/c1/9a/c2c19ad54a4d1b2ebc2e963fd8ad29875f96f4ba5432ea3cd3f0ed165f3f745b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/71/d8/de/71d8de7d3a3a7350ff47cba82124c901cacfba732fa1fa1aa22b68b3d46c3808.jpg",
+      "image_path": "images/cards/1111/109-1614.webp",
+      "image_sha256": "b670d616c3eead06644071738245313d85611c3da14c1a4517b32b355c220337",
+      "image_bytes": 118156,
+      "source_url": "https://www.tcgcollector.com/cards/1614/shining-mewtwo-neo-destiny-109-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 109
+    },
+    {
+      "id": 1615,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Shining Noctowl",
+      "number": "110",
+      "number_value": 110,
+      "printed_total": 105,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/e5/aa/dc/e5aadc07738d5354bb119de9dab90ec3aff689e82503b38a7873f48e21368304.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1c/52/a6/1c52a6685e81757f467cd53f2a2cc2434d4579a9eb0656c4e233458c9f5a6054.jpg",
+      "image_path": "images/cards/1111/110-1615.webp",
+      "image_sha256": "24503bef94b42eb6dc4b0c28b4d1aec2a65e1cf8d95a325f50d1bc807a0ca859",
+      "image_bytes": 113656,
+      "source_url": "https://www.tcgcollector.com/cards/1615/shining-noctowl-neo-destiny-110-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 110
+    },
+    {
+      "id": 1616,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Shining Raichu",
+      "number": "111",
+      "number_value": 111,
+      "printed_total": 105,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/30/06/e3/3006e37894f4276cbcf6d38dbaf4fd1ffa8707cf88fcb94c41a2ece671bf9e7b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/db/c5/25/dbc5251db93fbc9224cae55aa6895e4f1a8d48881f47abd79863db2eeaa1714e.jpg",
+      "image_path": "images/cards/1111/111-1616.webp",
+      "image_sha256": "8ad7f2628713593e0feb40d80d19595c50f5c8018756887976ec9e441504684a",
+      "image_bytes": 108804,
+      "source_url": "https://www.tcgcollector.com/cards/1616/shining-raichu-neo-destiny-111-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 111
+    },
+    {
+      "id": 1617,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Shining Steelix",
+      "number": "112",
+      "number_value": 112,
+      "printed_total": 105,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/7c/0a/a2/7c0aa2bc5573d2f18fcf9af7b0b4efb5ad8c6b38a400f21fa5b2870f43fdd97c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7d/4c/aa/7d4caaa1ed6ba18a2acfe82a115ff106bb313abcfdfb5f7f01753237521bd67a.jpg",
+      "image_path": "images/cards/1111/112-1617.webp",
+      "image_sha256": "6c0c743babb0f7c2a6e5b3dfa185fc039e95aa84e00acd2026135b27e1df0165",
+      "image_bytes": 112812,
+      "source_url": "https://www.tcgcollector.com/cards/1617/shining-steelix-neo-destiny-112-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 112
+    },
+    {
+      "id": 1618,
+      "set_id": 1111,
+      "set_ids": [
+        1111
+      ],
+      "name": "Shining Tyranitar",
+      "number": "113",
+      "number_value": 113,
+      "printed_total": 105,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/c2/c9/9d/c2c99de3a54988faf54d91dc1a5c9c8eaa573482bbe104dfdf371f199423ad3e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/53/f6/91/53f691a55b0c3475621e433dda57084482292dd80cf4f988123fcf03225be59d.jpg",
+      "image_path": "images/cards/1111/113-1618.webp",
+      "image_sha256": "ae970a40b1bcc9f55df35977620ef02c5a8c9245cae9c0f5f1a5a361640a03c4",
+      "image_bytes": 126155,
+      "source_url": "https://www.tcgcollector.com/cards/1618/shining-tyranitar-neo-destiny-113-105",
+      "scraped_at": "2026-10-18T22:26:22Z",
+      "position": 113
+    }
+  ]
+}

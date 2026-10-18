@@ -1,0 +1,276 @@
+{
+  "set": {
+    "id": 1297,
+    "language": "en",
+    "name": "Burger King Collection 2009",
+    "code": null,
+    "series": "Other",
+    "release_date": "2009-06-01",
+    "date_text": "Jun 01, 2009",
+    "card_count": 12,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/19/0c/db/190cdbf53953f318eb9b1cb83ee3dc5c834a6de63b40c03e0c93e89263115007.png",
+    "symbol_url": null,
+    "logo_path": "images/sets/1297-logo.webp",
+    "symbol_path": null,
+    "source_url": "https://www.tcgcollector.com/sets/1297/burger-king-collection-2009",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 12
+  },
+  "cards": [
+    {
+      "id": 4404,
+      "set_id": 1138,
+      "set_ids": [
+        1138,
+        1297
+      ],
+      "name": "Pichu",
+      "number": "45",
+      "number_value": 45,
+      "printed_total": 100,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d0/8d/70/d08d703da3492c70d906a805eafcd806bd7755049b30b54e3e4da82897ac82f5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/49/6c/6c/496c6cc350d7475e65213f00ebaadfef2ed6e2f8bf9dd8b0b9075a9b0852eb2d.jpg",
+      "image_path": "images/cards/1138/45-4404.webp",
+      "image_sha256": "9fc6ca1ac62f6a682dcf54bbe45f1f9cfedcb879421411609783d73347de3388",
+      "image_bytes": 104103,
+      "source_url": "https://www.tcgcollector.com/cards/4404/pichu-stormfront-45-100",
+      "scraped_at": "2026-10-18T22:25:04Z",
+      "position": 1
+    },
+    {
+      "id": 4193,
+      "set_id": 1137,
+      "set_ids": [
+        1137,
+        1297
+      ],
+      "name": "Giratina",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 146,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/10/ce/ed/10ceed73eeba62551cf58d4cc28172e22744cad57a95c5ce12dc363c54c3ed70.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fa/3b/a5/fa3ba5401bf0e14a1e71106b35bd0af55955cc7b486fdbd4b226170f4ce6c5c7.jpg",
+      "image_path": "images/cards/1137/4-4193.webp",
+      "image_sha256": "19d0e1da40dabc4485cddae27ad9c4860da7085508a8ed2ea95a488274e11e66",
+      "image_bytes": 105105,
+      "source_url": "https://www.tcgcollector.com/cards/4193/giratina-legends-awakened-4-146",
+      "scraped_at": "2026-10-18T22:25:07Z",
+      "position": 2
+    },
+    {
+      "id": 4295,
+      "set_id": 1137,
+      "set_ids": [
+        1137,
+        1297
+      ],
+      "name": "Meowth",
+      "number": "106",
+      "number_value": 106,
+      "printed_total": 146,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/30/f7/c4/30f7c44d81c7b53748548f4cb6e73afc567449a3af89df3ec825b7b37941396f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/87/b4/90/87b4909448d2927d77da501ccf69ea61d27f1948aec04487f2b6affdf602952d.jpg",
+      "image_path": "images/cards/1137/106-4295.webp",
+      "image_sha256": "ed91c11a47a824031c221368a22098f699fea2fa591e1662ccdbaf6f6fd609a6",
+      "image_bytes": 86299,
+      "source_url": "https://www.tcgcollector.com/cards/4295/meowth-legends-awakened-106-146",
+      "scraped_at": "2026-10-18T22:25:07Z",
+      "position": 3
+    },
+    {
+      "id": 4112,
+      "set_id": 1136,
+      "set_ids": [
+        1136,
+        1297,
+        1298
+      ],
+      "name": "Glaceon",
+      "number": "20",
+      "number_value": 20,
+      "printed_total": 100,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/53/cb/ca/53cbcaf2602338d5dae34d3d2faa826a215916ecf1950d1340e7fe2585833ad3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/51/94/6e/51946ee34510f1a57793e1626c90c6809f4a5c646290e8388f58362efd04b2ce.jpg",
+      "image_path": "images/cards/1136/20-4112.webp",
+      "image_sha256": "c924f13efed870327d3a4770dadd1df6d9eceeeb68700d41766e47f612b5c4f9",
+      "image_bytes": 189563,
+      "source_url": "https://www.tcgcollector.com/cards/4112/glaceon-majestic-dawn-20-100",
+      "scraped_at": "2026-10-18T22:25:09Z",
+      "position": 4
+    },
+    {
+      "id": 4116,
+      "set_id": 1136,
+      "set_ids": [
+        1136,
+        1297
+      ],
+      "name": "Leafeon",
+      "number": "24",
+      "number_value": 24,
+      "printed_total": 100,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/0a/7f/45/0a7f4561937d0cf9509968054f521c3d4b8252267d09c4632284040c4dc2b54f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/40/8a/26/408a26639b4b492aacb0596821af4bb58c1ad8141b2dbac577a819dddf201790.jpg",
+      "image_path": "images/cards/1136/24-4116.webp",
+      "image_sha256": "71caf3a81e213b3a87a6f59fa04bace29f0d1fa64df1f9db42feeba19b3bc92a",
+      "image_bytes": 154097,
+      "source_url": "https://www.tcgcollector.com/cards/4116/leafeon-majestic-dawn-24-100",
+      "scraped_at": "2026-10-18T22:25:09Z",
+      "position": 5
+    },
+    {
+      "id": 4148,
+      "set_id": 1136,
+      "set_ids": [
+        1136,
+        1297
+      ],
+      "name": "Chimchar",
+      "number": "56",
+      "number_value": 56,
+      "printed_total": 100,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/49/47/4c/49474c0ee83a1f7b36d91b5967b3cd407b23137ade8b853cfff110ccd44a3e96.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/69/b4/ea/69b4ea2c6294fe716ba321f2031525a6bdbbe743c8aecfe4458c66d6c0a0fdb8.jpg",
+      "image_path": "images/cards/1136/56-4148.webp",
+      "image_sha256": "6fa87acb779eccc98f51b5fa5ffaa2473357412e8b56b2b87da7c8f8279131a0",
+      "image_bytes": 151171,
+      "source_url": "https://www.tcgcollector.com/cards/4148/chimchar-majestic-dawn-56-100",
+      "scraped_at": "2026-10-18T22:25:09Z",
+      "position": 6
+    },
+    {
+      "id": 4153,
+      "set_id": 1136,
+      "set_ids": [
+        1136,
+        1297
+      ],
+      "name": "Eevee",
+      "number": "62",
+      "number_value": 62,
+      "printed_total": 100,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/30/5d/7a/305d7a1c8903ed16cc520d89661e9ad008eb7151c6683b4b72b5e349594cb8fd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/54/a8/76/54a876b3e25cd7617344b7bde1ad130ae125699b88e3e1e9f5064d289e7e3537.jpg",
+      "image_path": "images/cards/1136/62-4153.webp",
+      "image_sha256": "a27197d97edb2faaa70dcd0f544672cde21e2cf3daf415174a12b25463b4d21c",
+      "image_bytes": 142162,
+      "source_url": "https://www.tcgcollector.com/cards/4153/eevee-majestic-dawn-62-100",
+      "scraped_at": "2026-10-18T22:25:09Z",
+      "position": 7
+    },
+    {
+      "id": 4161,
+      "set_id": 1136,
+      "set_ids": [
+        1136,
+        1297
+      ],
+      "name": "Pikachu",
+      "number": "70",
+      "number_value": 70,
+      "printed_total": 100,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/8c/89/83/8c898386f9d6792fa46e826bf5f5c13ca33f1836d624860fa5f0293613b06357.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7c/6c/e7/7c6ce7302ae3abd83215ddb81aa15ded29996a3a485530675da5352109198808.jpg",
+      "image_path": "images/cards/1136/70-4161.webp",
+      "image_sha256": "2e16f44a5e1b1f106a7e3c57d72540f642db7bcb6ebf89cc8bfac9dab696d582",
+      "image_bytes": 129245,
+      "source_url": "https://www.tcgcollector.com/cards/4161/pikachu-majestic-dawn-70-100",
+      "scraped_at": "2026-10-18T22:25:09Z",
+      "position": 8
+    },
+    {
+      "id": 4162,
+      "set_id": 1136,
+      "set_ids": [
+        1136,
+        1297
+      ],
+      "name": "Piplup",
+      "number": "71",
+      "number_value": 71,
+      "printed_total": 100,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e3/d9/98/e3d998ad9316c675578fba5aaf0de326b416fec8f2e0f667cfb96734c8de7179.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/75/46/f2/7546f2697322d036648abe2941563dd6e0246b1064b1e1ec55dfcc7f51f82af2.jpg",
+      "image_path": "images/cards/1136/71-4162.webp",
+      "image_sha256": "f0a6325b018de46532ae1c6a6b9d6ef1cbe12ecfa6a64cf525711c77a6f93887",
+      "image_bytes": 145191,
+      "source_url": "https://www.tcgcollector.com/cards/4162/piplup-majestic-dawn-71-100",
+      "scraped_at": "2026-10-18T22:25:09Z",
+      "position": 9
+    },
+    {
+      "id": 4167,
+      "set_id": 1136,
+      "set_ids": [
+        1136,
+        1297
+      ],
+      "name": "Turtwig",
+      "number": "77",
+      "number_value": 77,
+      "printed_total": 100,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/4a/6b/be/4a6bbe39cc5ae2688d9e5524296d4edc521a017ea120327383331f2dfce07029.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/df/eb/dd/dfebddab44b8a0c915bd3eb52e2dde7018a2c987eb7e5144f507d272f4388f1e.jpg",
+      "image_path": "images/cards/1136/77-4167.webp",
+      "image_sha256": "0c7b53195e03fd15a7603dd38f13c0ed6a80ceff3bb7b65c0aecfd85bf071ef0",
+      "image_bytes": 148469,
+      "source_url": "https://www.tcgcollector.com/cards/4167/turtwig-majestic-dawn-77-100",
+      "scraped_at": "2026-10-18T22:25:09Z",
+      "position": 10
+    },
+    {
+      "id": 3987,
+      "set_id": 1135,
+      "set_ids": [
+        1135,
+        1297
+      ],
+      "name": "Dialga",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 106,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/e8/f0/e3/e8f0e35985e1f304f6341d5ff7298aea9d750d9f6d30535f23f01f6337d84c1a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/90/ff/62/90ff62dff136ae7030cdf3144d9cadfe7a932a68ad9e22df2757e7db98babe92.jpg",
+      "image_path": "images/cards/1135/16-3987.webp",
+      "image_sha256": "b40c6141fbf4876974394f69013f89686cd828daee361e915f6c4ad47f564b98",
+      "image_bytes": 136351,
+      "source_url": "https://www.tcgcollector.com/cards/3987/dialga-great-encounters-16-106",
+      "scraped_at": "2026-10-18T22:25:11Z",
+      "position": 11
+    },
+    {
+      "id": 3997,
+      "set_id": 1135,
+      "set_ids": [
+        1135,
+        1245,
+        1297
+      ],
+      "name": "Palkia",
+      "number": "26",
+      "number_value": 26,
+      "printed_total": 106,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/78/86/b4/7886b4b57c105f5e36c8daa6a115abb4d581d86bfbe135b28a89c2778a400ded.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c7/2c/37/c72c37a5290c77289f3fb24bd2c0341003a04c2a9bbb3bb86488bd49ae5e8c15.jpg",
+      "image_path": "images/cards/1135/26-3997.webp",
+      "image_sha256": "a853a35428fe4999302beab1ca1fc0a3b69f5d72726bf5055716bcc87933304f",
+      "image_bytes": 117595,
+      "source_url": "https://www.tcgcollector.com/cards/3997/palkia-great-encounters-26-106",
+      "scraped_at": "2026-10-18T22:25:11Z",
+      "position": 12
+    }
+  ]
+}

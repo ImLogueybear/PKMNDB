@@ -1,0 +1,366 @@
+{
+  "set": {
+    "id": 1187,
+    "language": "en",
+    "name": "POP Series 7",
+    "code": "POP7",
+    "series": "Play! Pokémon Series",
+    "release_date": "2008-03-01",
+    "date_text": "Mar 01, 2008",
+    "card_count": 17,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/87/ab/c7/87abc7d32f05055c7d24084f6403b63675d95a668aebdae564de63f1e2180e9c.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/af/d0/99/afd0991124c28bbaa2ffdf01710b7e5098187c2a4a2b19a0eb2f7de8706d56ba.svg",
+    "logo_path": "images/sets/1187-logo.webp",
+    "symbol_path": "images/sets/1187-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/1187/pop-series-7",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 17
+  },
+  "cards": [
+    {
+      "id": 4078,
+      "set_id": 1187,
+      "set_ids": [
+        1187
+      ],
+      "name": "Ampharos",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 17,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ef/cb/c7/efcbc744a8b1f6365ed1303c5b63cf0b86d192bc239dbcf85764bcaf7b3cfaec.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f8/7a/a3/f87aa3e16e35590e13c5eabf4aa9dc1ce984bbb951b31340144c68aae51fb8d3.jpg",
+      "image_path": "images/cards/1187/1-4078.webp",
+      "image_sha256": "76fc4e22807748cf17a9656fabc999c1453ca361c90d6a1a4365ebed03a052a2",
+      "image_bytes": 123983,
+      "source_url": "https://www.tcgcollector.com/cards/4078/ampharos-pop-series-7-1-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 1
+    },
+    {
+      "id": 4079,
+      "set_id": 1187,
+      "set_ids": [
+        1187,
+        1241,
+        1246
+      ],
+      "name": "Gallade",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 17,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/94/e6/5e/94e65e70f6cfd92366c471408be0c517c4b14bfcc9b7d779e8a1787eed291180.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/de/27/33/de2733dda7914b3ef1bae54b029e0d07d86655bb1aa5a3a71f3b86690cfb356b.jpg",
+      "image_path": "images/cards/1187/2-4079.webp",
+      "image_sha256": "05a1d650a1b23e7fd725614e0834a83320dca4b6084ab42177d3643af0e30878",
+      "image_bytes": 112261,
+      "source_url": "https://www.tcgcollector.com/cards/4079/gallade-pop-series-7-2-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 2
+    },
+    {
+      "id": 4080,
+      "set_id": 1187,
+      "set_ids": [
+        1187
+      ],
+      "name": "Latias",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 17,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/1d/45/47/1d45473d0586e3ef840b23274b0cba791eed5af3f189a496a058343279d342ae.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fc/38/be/fc38be03d89ae172d5f300bbce7d329fd9ac64700c00ae2a4bd48ffc6239f7b7.jpg",
+      "image_path": "images/cards/1187/3-4080.webp",
+      "image_sha256": "e07eca8d2f7b7cb65b09db84e39bb3e0df2ccbd94088dbeea8def792ea250d6b",
+      "image_bytes": 98249,
+      "source_url": "https://www.tcgcollector.com/cards/4080/latias-pop-series-7-3-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 3
+    },
+    {
+      "id": 4081,
+      "set_id": 1187,
+      "set_ids": [
+        1187
+      ],
+      "name": "Latios",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 17,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/e7/10/18/e71018eea39f9fa02bc8fa1827f62d6bc44f453d272f5d67e579becc91198f4a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/41/85/43/4185432d0280ba1fc6033978743102c602e4f3880059fc46f2f787ba78c4e931.jpg",
+      "image_path": "images/cards/1187/4-4081.webp",
+      "image_sha256": "3533828ba15a771eb9bf81c1f6daaa8b57541ad15dbb4ce086e5fdc3972c35d1",
+      "image_bytes": 103156,
+      "source_url": "https://www.tcgcollector.com/cards/4081/latios-pop-series-7-4-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 4
+    },
+    {
+      "id": 4082,
+      "set_id": 1187,
+      "set_ids": [
+        1187
+      ],
+      "name": "Mothim",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 17,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/10/13/9e/10139e4a760b7efade2d5865303ac83908550ce1eefc565d9c3b548444054b2d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a3/8c/98/a38c98634c514d4476e63e1e884142dc222c2517c4a9bf1264325bec2679f118.jpg",
+      "image_path": "images/cards/1187/5-4082.webp",
+      "image_sha256": "3def6499eef2f88a89003ace8bc7b30ed38b034631e38d13285e96a848a8e8eb",
+      "image_bytes": 102313,
+      "source_url": "https://www.tcgcollector.com/cards/4082/mothim-pop-series-7-5-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 5
+    },
+    {
+      "id": 4083,
+      "set_id": 1187,
+      "set_ids": [
+        1187
+      ],
+      "name": "Delibird",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 17,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f2/3c/0d/f23c0d28e3c19dff78eaafd5e5982ce492c1e98dc243d68fc6e9b0848e40cc19.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b0/c5/6e/b0c56ea966ebe3dfe7b6625e3beadcb9887393dc8090a9f5378ff649016b5f71.jpg",
+      "image_path": "images/cards/1187/6-4083.webp",
+      "image_sha256": "3a1bfbd7f6f43c7b2ad2ebdbb08a4bad32d95653a2759b73bb18fd51643be02b",
+      "image_bytes": 101026,
+      "source_url": "https://www.tcgcollector.com/cards/4083/delibird-pop-series-7-6-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 6
+    },
+    {
+      "id": 4084,
+      "set_id": 1187,
+      "set_ids": [
+        1187
+      ],
+      "name": "Flaaffy",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 17,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/0f/be/d5/0fbed55a3b94dd6e609cf0fd884683b9c059a51fb07eca4484cb82c262f9125b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2d/23/5e/2d235e0210e622c3d60f50a863cbc86d8a63a1b9927d297472420bc0ce907f20.jpg",
+      "image_path": "images/cards/1187/7-4084.webp",
+      "image_sha256": "ec1ba2b89e064c8ad995fdab0075af0ab2a97157d3660fb13418b46244658b87",
+      "image_bytes": 103498,
+      "source_url": "https://www.tcgcollector.com/cards/4084/flaaffy-pop-series-7-7-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 7
+    },
+    {
+      "id": 4085,
+      "set_id": 1187,
+      "set_ids": [
+        1187,
+        1241
+      ],
+      "name": "Kirlia",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 17,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/bc/b1/67/bcb167a65267d76a7d0b537fdf3030318eb819fbd1aedab5909e5f7b466c441f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bf/e3/3a/bfe33a714f15d0e2cc2863cbd4a87b09bf505260307fc7a1deb4b516d65acfc9.jpg",
+      "image_path": "images/cards/1187/8-4085.webp",
+      "image_sha256": "b6dc6c4c19ce5e2ba82800ca9d9ee1bab03ed1a52039705aff5096cecb2f20d9",
+      "image_bytes": 109784,
+      "source_url": "https://www.tcgcollector.com/cards/4085/kirlia-pop-series-7-8-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 8
+    },
+    {
+      "id": 4086,
+      "set_id": 1187,
+      "set_ids": [
+        1187
+      ],
+      "name": "Stantler",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 17,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/4c/46/b7/4c46b72bef7d6109d4e48b4677f430806573c6195cd3771afa2751114502f7d8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7c/8b/aa/7c8baa19d509286deba0d3a3fb2b464902f6296d97aa90f54436e35031c2c7af.jpg",
+      "image_path": "images/cards/1187/9-4086.webp",
+      "image_sha256": "d809c54e187d1e8ba2ca20f715c507641fdb04f45fd20fa639e7b6a3f2e11d8d",
+      "image_bytes": 104144,
+      "source_url": "https://www.tcgcollector.com/cards/4086/stantler-pop-series-7-9-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 9
+    },
+    {
+      "id": 4087,
+      "set_id": 1187,
+      "set_ids": [
+        1187
+      ],
+      "name": "Wormadam Sandy Cloak",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 17,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/62/3f/66/623f66c8338c21132daf4578e75b41d6b1a9ba4ac35ba8fb68a9ef44f62e571d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b8/d2/1a/b8d21a5c0087d00ef65fce067a07781b881fb01859a9063ae6bf9903a9f86fd5.jpg",
+      "image_path": "images/cards/1187/10-4087.webp",
+      "image_sha256": "1f61de6ea3eda9076be4c95b83b154b3e9ab8d7c4bcedff98eb07b4ff55a049c",
+      "image_bytes": 114965,
+      "source_url": "https://www.tcgcollector.com/cards/4087/wormadam-sandy-cloak-pop-series-7-10-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 10
+    },
+    {
+      "id": 4088,
+      "set_id": 1187,
+      "set_ids": [
+        1187
+      ],
+      "name": "Burmy Plant Cloak",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 17,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/97/a4/ae/97a4aeefc79f48facdfe8ea9612e371638dab711daed642de0444b40cd1b5704.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c8/ad/53/c8ad53d521875eb47bee04a2475897fcc37e97cd02a86e50cfee6dbc2db8dedf.jpg",
+      "image_path": "images/cards/1187/11-4088.webp",
+      "image_sha256": "fafa3dce985aaff6336e1b31586ef4d1c4504ca276aae82eae5b13853f5deb94",
+      "image_bytes": 108069,
+      "source_url": "https://www.tcgcollector.com/cards/4088/burmy-plant-cloak-pop-series-7-11-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 11
+    },
+    {
+      "id": 4089,
+      "set_id": 1187,
+      "set_ids": [
+        1187
+      ],
+      "name": "Burmy Sandy Cloak",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 17,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/77/87/d5/7787d5e280a45f2645a5d4854adc5c7beb36ed2c2c813ca253b01cb2bcafb926.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/01/d0/a3/01d0a3c3b99b71c9334750d363aceac21c016bbc5e4911e3d4ed833ce28880ae.jpg",
+      "image_path": "images/cards/1187/12-4089.webp",
+      "image_sha256": "5d027de9ff4ff58944b68e8aa0e315b0a91d9536e8b539578ae3406a3dc8d421",
+      "image_bytes": 103212,
+      "source_url": "https://www.tcgcollector.com/cards/4089/burmy-sandy-cloak-pop-series-7-12-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 12
+    },
+    {
+      "id": 4090,
+      "set_id": 1187,
+      "set_ids": [
+        1187
+      ],
+      "name": "Corsola",
+      "number": "13",
+      "number_value": 13,
+      "printed_total": 17,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/dd/f3/81/ddf38183ccebfcae474b119692c2a9153f8b3996db56a4298496dcbdb75fec15.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/80/61/a8/8061a8a5ff9b02b99c0bb9275b08121a97a918e679b2187bb9989d79d0dddad1.jpg",
+      "image_path": "images/cards/1187/13-4090.webp",
+      "image_sha256": "a65a05eea930b4336517bc59072b37438cdb1798f226094fa6e50d970e6c01ae",
+      "image_bytes": 105219,
+      "source_url": "https://www.tcgcollector.com/cards/4090/corsola-pop-series-7-13-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 13
+    },
+    {
+      "id": 4091,
+      "set_id": 1187,
+      "set_ids": [
+        1187
+      ],
+      "name": "Mareep",
+      "number": "14",
+      "number_value": 14,
+      "printed_total": 17,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ba/76/25/ba762529de6eb111bd3c747851cfd0d7ef3d55004894f00183411828a2b36c22.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/aa/9f/56/aa9f56e701eac0a821ee3e28a05b9409104ed270d48c900c256ed8323488b36a.jpg",
+      "image_path": "images/cards/1187/14-4091.webp",
+      "image_sha256": "4993c0ff9f72aff325f2fcf3f6961b1eb322d6f4c79fb085fe73705a137360e3",
+      "image_bytes": 89959,
+      "source_url": "https://www.tcgcollector.com/cards/4091/mareep-pop-series-7-14-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 14
+    },
+    {
+      "id": 4092,
+      "set_id": 1187,
+      "set_ids": [
+        1187,
+        1241
+      ],
+      "name": "Ralts",
+      "number": "15",
+      "number_value": 15,
+      "printed_total": 17,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/28/0b/0c/280b0c62c0ccedece66a07d60778210516cefe4fa6493cb69f93e075cf3f5568.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8f/6e/39/8f6e398588663e7b0b1a99d97c85f0a699f957b217aec6bfa6d18ba0ef6286b0.jpg",
+      "image_path": "images/cards/1187/15-4092.webp",
+      "image_sha256": "377889712a6d50a5d3e8d0992285fff0e81d1b686d305c3975b4f411f33d65cc",
+      "image_bytes": 112319,
+      "source_url": "https://www.tcgcollector.com/cards/4092/ralts-pop-series-7-15-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 15
+    },
+    {
+      "id": 4093,
+      "set_id": 1187,
+      "set_ids": [
+        1187
+      ],
+      "name": "Sentret",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 17,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/db/94/68/db9468978592e3b2add6922de405b952deb361a80298c075395f0ea13b6fe69a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/08/1e/aa/081eaa21bc41328dbd50552b02abe5acab5a74876a3fce363737369afbe638c8.jpg",
+      "image_path": "images/cards/1187/16-4093.webp",
+      "image_sha256": "813e9b02b838230d82a9766ca779412ea6fba0068f18bc4f08d612fbdf593f2f",
+      "image_bytes": 100586,
+      "source_url": "https://www.tcgcollector.com/cards/4093/sentret-pop-series-7-16-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 16
+    },
+    {
+      "id": 4094,
+      "set_id": 1187,
+      "set_ids": [
+        1187
+      ],
+      "name": "Spinda",
+      "number": "17",
+      "number_value": 17,
+      "printed_total": 17,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e4/b3/73/e4b3737b6e9f1efb68c1f636f43f90233a1318d70f761e37826724685f5f9bd0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d6/38/a7/d638a7be9e81e190535cc3262d68a2e2538ce4702bba074841a6f52b76dedf6a.jpg",
+      "image_path": "images/cards/1187/17-4094.webp",
+      "image_sha256": "21746df4564946139bfd7c91a2769746f0051e094a510b0bc41c9455523f682c",
+      "image_bytes": 101040,
+      "source_url": "https://www.tcgcollector.com/cards/4094/spinda-pop-series-7-17-17",
+      "scraped_at": "2026-10-18T22:25:10Z",
+      "position": 17
+    }
+  ]
+}

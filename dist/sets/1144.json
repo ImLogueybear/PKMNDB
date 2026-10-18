@@ -1,0 +1,1962 @@
+{
+  "set": {
+    "id": 1144,
+    "language": "en",
+    "name": "Unleashed",
+    "code": "UL",
+    "series": "HeartGold & SoulSilver Series",
+    "release_date": "2010-05-12",
+    "date_text": "May 12, 2010",
+    "card_count": 96,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/ea/55/d8/ea55d8492cc2bf7b7fe51b39c6babb144fb09ae28ca1890bd0484d22c4fdb167.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/db/03/3c/db033cda05127a367fc9971b6ca35509429ede99d5e0c4f9239e4f74c1c450de.svg",
+    "logo_path": "images/sets/1144-logo.webp",
+    "symbol_path": "images/sets/1144-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/1144/unleashed",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 96
+  },
+  "cards": [
+    {
+      "id": 5183,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Jirachi",
+      "number": "1",
+      "number_value": 1,
+      "printed_total": 95,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/57/27/5f/57275f8043d9ece3d1a283c2cfd3418f543d8b17e7f3c4168d723e9481748524.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/19/f7/08/19f70882425b07e569124afb35c4234702d689818c53dbb3c6909b6f398924bf.jpg",
+      "image_path": "images/cards/1144/1-5183.webp",
+      "image_sha256": "645df931bfdced2a62a3387419f9927f8284cf50915acc6d0419a55d95ab6d85",
+      "image_bytes": 199103,
+      "source_url": "https://www.tcgcollector.com/cards/5183/jirachi-unleashed-1-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 1
+    },
+    {
+      "id": 5184,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Magmortar",
+      "number": "2",
+      "number_value": 2,
+      "printed_total": 95,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/17/d7/62/17d762ef0c1fa803bbd9d45b1f91f704f00de49fa4729e0af5836227565b904b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/47/8c/31/478c31f0f6331eb2164cc8e068572a504a383fb9b4f5f7ff69640225044f3170.jpg",
+      "image_path": "images/cards/1144/2-5184.webp",
+      "image_sha256": "a19d866b198d9ae1f9d15d63bf2f50666d7a0b5f734471c0967898130ba4827f",
+      "image_bytes": 203995,
+      "source_url": "https://www.tcgcollector.com/cards/5184/magmortar-unleashed-2-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 2
+    },
+    {
+      "id": 5185,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Manaphy",
+      "number": "3",
+      "number_value": 3,
+      "printed_total": 95,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/85/fd/eb/85fdeb1edec80d0447912892a7fc83189506cf3e5049df169c9547fe4b58ec68.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fb/eb/77/fbeb77ad450bd38a6bef65653f07a5f18edeb66afc8b96bc02c441cb660a0410.jpg",
+      "image_path": "images/cards/1144/3-5185.webp",
+      "image_sha256": "813e9fc92771fb6f71720e16c7ca37f5e2844d5f2176a79e6bbc18435917c75b",
+      "image_bytes": 192390,
+      "source_url": "https://www.tcgcollector.com/cards/5185/manaphy-unleashed-3-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 3
+    },
+    {
+      "id": 5186,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Metagross",
+      "number": "4",
+      "number_value": 4,
+      "printed_total": 95,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/09/43/cb/0943cb7ea66faef2fcbbd1c6176bf4f60dd7678d305662c5a163ed0c76a188f3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/63/a8/ec/63a8ecbedda8bc46631a0942b90508638b6cdd5434d0c93d77a92927a4955bd2.jpg",
+      "image_path": "images/cards/1144/4-5186.webp",
+      "image_sha256": "5832ac6e82a415c113ca3e9338d7952eb05e419cf3c1f6ede2944e7276228861",
+      "image_bytes": 199122,
+      "source_url": "https://www.tcgcollector.com/cards/5186/metagross-unleashed-4-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 4
+    },
+    {
+      "id": 5187,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Mismagius",
+      "number": "5",
+      "number_value": 5,
+      "printed_total": 95,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/73/cf/ab/73cfab59305a1dc3dc8be39751569fe53acbe13d6e15161d0286e68012160fab.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/29/f1/a7/29f1a7276bd1508aa5dccf82be2b8dcd686ea625c6bc06d17114957fd12a8a13.jpg",
+      "image_path": "images/cards/1144/5-5187.webp",
+      "image_sha256": "8aff1f725a6d3cab6c4ea7fea94cd7585a40b1c1aea765b2a8d149f22be3c6c5",
+      "image_bytes": 194587,
+      "source_url": "https://www.tcgcollector.com/cards/5187/mismagius-unleashed-5-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 5
+    },
+    {
+      "id": 5188,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Octillery",
+      "number": "6",
+      "number_value": 6,
+      "printed_total": 95,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/76/c6/8f/76c68f73aab2b18ba9015db26282671e6f5337f101426fa6d00bfce1c1f07d3f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e7/6d/6b/e76d6bfe86bfc3a88bb096a9a5a2815d4754c7a9155436afa936fe401cfce1ff.jpg",
+      "image_path": "images/cards/1144/6-5188.webp",
+      "image_sha256": "32ea86b6a9c8cf49dc1a61331132ac398dcf4e26cdf8123cb77c28d0724194ee",
+      "image_bytes": 195513,
+      "source_url": "https://www.tcgcollector.com/cards/5188/octillery-unleashed-6-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 6
+    },
+    {
+      "id": 5189,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Politoed",
+      "number": "7",
+      "number_value": 7,
+      "printed_total": 95,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/c7/39/1f/c7391ffabdba31290d4e02f13908b4186d3e511b004de155f8b220be8c7b132c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ef/68/32/ef683234f240f6d24f9818eeb12f8c600991c0b0b95782fefb9a19953f8fa61c.jpg",
+      "image_path": "images/cards/1144/7-5189.webp",
+      "image_sha256": "160d8c6724d95648f524c576a27c63cd60ae4efc943e65e5c83dcbde1c0a2b70",
+      "image_bytes": 217306,
+      "source_url": "https://www.tcgcollector.com/cards/5189/politoed-unleashed-7-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 7
+    },
+    {
+      "id": 5190,
+      "set_id": 1144,
+      "set_ids": [
+        1144,
+        1254,
+        1256
+      ],
+      "name": "Shaymin",
+      "number": "8",
+      "number_value": 8,
+      "printed_total": 95,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/0c/51/2d/0c512d760de43129556ef70b841819d58d170fd5a029c6657417d1f363dd0a40.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/57/66/6b/57666b23c58e527c2423276cf296eaa47f5ab5c507fa50e2ad5a46d98e4d10dd.jpg",
+      "image_path": "images/cards/1144/8-5190.webp",
+      "image_sha256": "86b6c1e0cd8184fc09d823e2b665cf92646948f5b440cd968676374d1cbda0c6",
+      "image_bytes": 219835,
+      "source_url": "https://www.tcgcollector.com/cards/5190/shaymin-unleashed-8-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 8
+    },
+    {
+      "id": 5191,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Sudowoodo",
+      "number": "9",
+      "number_value": 9,
+      "printed_total": 95,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/3c/85/ba/3c85baac48c9817d8d7c7beb8d57d07356e9f5aff492a0a1f1b26c07b627f461.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e5/62/df/e562df118f6c9b9ba02627d2414042c45f3ee5eb7cead0b59d915a565a092e76.jpg",
+      "image_path": "images/cards/1144/9-5191.webp",
+      "image_sha256": "dc892134fad3886a8ce353bc0d6fea18cd040af825778299823eacf63141dcb5",
+      "image_bytes": 224519,
+      "source_url": "https://www.tcgcollector.com/cards/5191/sudowoodo-unleashed-9-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 9
+    },
+    {
+      "id": 5192,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Torterra",
+      "number": "10",
+      "number_value": 10,
+      "printed_total": 95,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/78/04/ae/7804aee4242465fafee4f44883005fb0cc2e927c043861518e0edd5d099b34bb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/95/61/3a/95613a6c409503bb1b3fc8f0ad51c14bef4e87631301ce9ae3f74d23262d753d.jpg",
+      "image_path": "images/cards/1144/10-5192.webp",
+      "image_sha256": "590de8b696b2106950a20423bd9dcafa4d96835cec4fab0e3442cec99b0af44c",
+      "image_bytes": 189239,
+      "source_url": "https://www.tcgcollector.com/cards/5192/torterra-unleashed-10-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 10
+    },
+    {
+      "id": 5193,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Xatu",
+      "number": "11",
+      "number_value": 11,
+      "printed_total": 95,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/35/07/32/3507321241ea3e3bce0029e99977cc8ce127e7a996060a08a3c4f76f41888ad8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bf/4c/cc/bf4ccc6c0ee1488f2e1be1e168f210b53ba3ca08ae1cae3b5e0e3d29b93e74a5.jpg",
+      "image_path": "images/cards/1144/11-5193.webp",
+      "image_sha256": "93bcf13f4cc43b608128c5f3459f141e96be7a652c305837618c88b63bca240e",
+      "image_bytes": 177137,
+      "source_url": "https://www.tcgcollector.com/cards/5193/xatu-unleashed-11-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 11
+    },
+    {
+      "id": 5194,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Beedrill",
+      "number": "12",
+      "number_value": 12,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/18/64/fc/1864fc5f74689e6b0a504fd3a0d4b40702c76bd786cde954925c65238a4d0276.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ed/db/ca/eddbca6d52e63f042087917d283159895d349715b476b39d9c4ea3973380013d.jpg",
+      "image_path": "images/cards/1144/12-5194.webp",
+      "image_sha256": "27da74604a5dd6dfd95543366e2c1733a56d4840cda24aaba45313a65146926c",
+      "image_bytes": 220022,
+      "source_url": "https://www.tcgcollector.com/cards/5194/beedrill-unleashed-12-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 12
+    },
+    {
+      "id": 5195,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Blastoise",
+      "number": "13",
+      "number_value": 13,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/cc/37/b9/cc37b9863b7b4532c15d3ddb792b382ae3ee7c8612264fe793a5217d69d9c2f0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/39/22/f0/3922f010b5e973cd0ddd093ac11db5a2230094c8799b45a97c5ca1a9dc1bba17.jpg",
+      "image_path": "images/cards/1144/13-5195.webp",
+      "image_sha256": "f358049e2fac15db0c0ab7fc7b7939a99c2f9e88d79c86e6da213ff42fc66504",
+      "image_bytes": 218236,
+      "source_url": "https://www.tcgcollector.com/cards/5195/blastoise-unleashed-13-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 13
+    },
+    {
+      "id": 5196,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Crobat",
+      "number": "14",
+      "number_value": 14,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/dc/90/fb/dc90fb1920c8f51552db8429e08013121fa5c2f7051bad8b444769aef390dc4f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7b/ea/2b/7bea2b0273416648c155eaa1c03de6bca56663a9c1fe71d5a3e0f8bf91b9bb64.jpg",
+      "image_path": "images/cards/1144/14-5196.webp",
+      "image_sha256": "0b5249a2bc0526dd2a7080dff782cb4bf0abba6476a38761555ede7b245616d0",
+      "image_bytes": 157048,
+      "source_url": "https://www.tcgcollector.com/cards/5196/crobat-unleashed-14-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 14
+    },
+    {
+      "id": 5197,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Fearow",
+      "number": "15",
+      "number_value": 15,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/6a/72/bb/6a72bb154eaa12f4421f14e083586aaba6563c0c6c6a5219609737aeb37cf4d5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ba/64/b5/ba64b5a0558903750b19d1f040f5eeeb71640381b98481c6ae556804a4910300.jpg",
+      "image_path": "images/cards/1144/15-5197.webp",
+      "image_sha256": "8563f34b0cda09fd3adae810a09c3b3f17b9d0d64b3a3e2f726855c4cfeea272",
+      "image_bytes": 186299,
+      "source_url": "https://www.tcgcollector.com/cards/5197/fearow-unleashed-15-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 15
+    },
+    {
+      "id": 5198,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Floatzel",
+      "number": "16",
+      "number_value": 16,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/81/c5/8c/81c58c8003db63b2529ecf8f76f5060a1f1a3eb6899a24d6fd00bc8fb0677257.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/92/dc/6b/92dc6bab132277a66dcb8414218b43215ba267f94f91f2547d176c457baf754b.jpg",
+      "image_path": "images/cards/1144/16-5198.webp",
+      "image_sha256": "a8e39c5791877e0ded4c40e5854610a44d38ac32a1cb1473b8c6bf07b60dad27",
+      "image_bytes": 205412,
+      "source_url": "https://www.tcgcollector.com/cards/5198/floatzel-unleashed-16-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 16
+    },
+    {
+      "id": 5199,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Kingdra",
+      "number": "17",
+      "number_value": 17,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/e0/bd/30/e0bd30940baab023189bebc1c4f87085ee96778c6ebb8b88c1ef4472a19eb800.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/15/10/97/15109708132af51f6b7df25f241243a5c78bc5a81f3b8f86b16314d0b515c07a.jpg",
+      "image_path": "images/cards/1144/17-5199.webp",
+      "image_sha256": "35e28556e0e32468ade5ac7b7dd6114050f1d73ff7088ea1a0ef1aa305b6633d",
+      "image_bytes": 219152,
+      "source_url": "https://www.tcgcollector.com/cards/5199/kingdra-unleashed-17-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 17
+    },
+    {
+      "id": 5200,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Lanturn",
+      "number": "18",
+      "number_value": 18,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/df/d9/d8/dfd9d8a2a77f54c6bc0e95b18a8c172b47d9b0b7e7ba752a144adc82c3df2446.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4c/8d/75/4c8d75d0204bafbbe4f0e3aca7ff7dbb9b2fcd1fb7ae6fdaf209c5296aa50638.jpg",
+      "image_path": "images/cards/1144/18-5200.webp",
+      "image_sha256": "129d2d5dfbf3ce0345e3ddb2d0150d71770238cd9dbf56fdcda66f22e36f660f",
+      "image_bytes": 198842,
+      "source_url": "https://www.tcgcollector.com/cards/5200/lanturn-unleashed-18-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 18
+    },
+    {
+      "id": 5201,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Lucario",
+      "number": "19",
+      "number_value": 19,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/20/b2/46/20b246a84bc5c0903651fd034afe9bd0513c5f784e06f0b251d79df72dbf8b1c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7e/4e/89/7e4e891445d7eb8c8ef8dc9e43fe75d50aef3d665ad630cb9ca395d810334828.jpg",
+      "image_path": "images/cards/1144/19-5201.webp",
+      "image_sha256": "1062ef7d84b1e61337f4dc39a5fe2f993e04f59a318f9595cd440f3be0cf2f6c",
+      "image_bytes": 210680,
+      "source_url": "https://www.tcgcollector.com/cards/5201/lucario-unleashed-19-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 19
+    },
+    {
+      "id": 5202,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Ninetales",
+      "number": "20",
+      "number_value": 20,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/02/2a/74/022a7450064ddce27c24340e23de1b3137572cd5df87a3b700be1d344e04e12a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/90/fd/36/90fd36706a804ead09d504bae02ce38e000b74e88758ab1fe68ff98bb44996c4.jpg",
+      "image_path": "images/cards/1144/20-5202.webp",
+      "image_sha256": "78b7b64b51e37f2932c59c9f7163010c7defb7869bfb9c130f816e709b9106b1",
+      "image_bytes": 201103,
+      "source_url": "https://www.tcgcollector.com/cards/5202/ninetales-unleashed-20-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 20
+    },
+    {
+      "id": 5203,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Poliwrath",
+      "number": "21",
+      "number_value": 21,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/80/15/69/801569e1ef3ab81bbdec8e4b58e9e28db15802852c478ec590f763d830220471.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e2/54/b3/e254b388b88708374181aa63ebb6701be1073e9990999877e0b9dc93833a54a3.jpg",
+      "image_path": "images/cards/1144/21-5203.webp",
+      "image_sha256": "f8e0c827f0f3ce1e5bb9527d57098e3495a4fd69152bb6e610c50615e6f7abcd",
+      "image_bytes": 202670,
+      "source_url": "https://www.tcgcollector.com/cards/5203/poliwrath-unleashed-21-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 21
+    },
+    {
+      "id": 5204,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Primeape",
+      "number": "22",
+      "number_value": 22,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/0b/c8/91/0bc89179ae63afdd8fda6498219dadb688c03f5ffd5e9eb713067e6d2d27816f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/49/a7/6f/49a76f024d1185ba7d58663aecca97b0f2e9e3b363f67827890e32c429b69a79.jpg",
+      "image_path": "images/cards/1144/22-5204.webp",
+      "image_sha256": "f96a841d5fe1c0ac7734b43f2fd446e55ddcb2f23a009c330a81f7283a89e7db",
+      "image_bytes": 209576,
+      "source_url": "https://www.tcgcollector.com/cards/5204/primeape-unleashed-22-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 22
+    },
+    {
+      "id": 5205,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Roserade",
+      "number": "23",
+      "number_value": 23,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ea/cf/97/eacf975aa8224fbfdad925881590b0346b97b8a592fddab064e3d1c016c82916.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/19/5d/0f/195d0ff969c658d242f241471e77721a599054106f661125d531cec97760d658.jpg",
+      "image_path": "images/cards/1144/23-5205.webp",
+      "image_sha256": "f3215e902b5672973db4e8b01c04f58cffc426657c1184ac8621304b4114ab66",
+      "image_bytes": 224152,
+      "source_url": "https://www.tcgcollector.com/cards/5205/roserade-unleashed-23-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 23
+    },
+    {
+      "id": 5206,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Steelix",
+      "number": "24",
+      "number_value": 24,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/9c/21/72/9c2172618da07d685da37786f88c4fec038bbbebbf9f12e18d822de4d28d78bf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/55/27/c4/5527c4ada111de985b5fd25a663a063199bd49e4eec1c48a27c16e9db020f4a4.jpg",
+      "image_path": "images/cards/1144/24-5206.webp",
+      "image_sha256": "d2f021f6d60977005f8decfaaed9c47701051503e8e45c56e7edb4d2a6444134",
+      "image_bytes": 246958,
+      "source_url": "https://www.tcgcollector.com/cards/5206/steelix-unleashed-24-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 24
+    },
+    {
+      "id": 5207,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Torkoal",
+      "number": "25",
+      "number_value": 25,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/45/4d/a7/454da7c9647b8279b766e1ce3546fc3d1f62d827e5d74bab0f4af8831fe82c29.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/62/8a/f3/628af3474b70a6e006d8112364a002288bca9713d647c3336606855a0a7a6994.jpg",
+      "image_path": "images/cards/1144/25-5207.webp",
+      "image_sha256": "5c3688a0f3c78195b6683d720aa48bd6d3c061a87b6570179a0945fffd3e8740",
+      "image_bytes": 174983,
+      "source_url": "https://www.tcgcollector.com/cards/5207/torkoal-unleashed-25-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 25
+    },
+    {
+      "id": 5208,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Tyranitar",
+      "number": "26",
+      "number_value": 26,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/d9/1f/51/d91f51bb8bbd5947eeb0725435e90cecc60f3c944f09a423794e1cba033c833d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2e/64/db/2e64db7a600fc874b3bae6e533e6ff8c03b45330443578c45f94f35fd5e44664.jpg",
+      "image_path": "images/cards/1144/26-5208.webp",
+      "image_sha256": "8671663e1e1093327341e8b8c784a5043869e13f26fef09e419ad23e55b175be",
+      "image_bytes": 181569,
+      "source_url": "https://www.tcgcollector.com/cards/5208/tyranitar-unleashed-26-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 26
+    },
+    {
+      "id": 5209,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Ursaring",
+      "number": "27",
+      "number_value": 27,
+      "printed_total": 95,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/bd/ac/cc/bdaccc570d47f738bc1e6b9d079c39189b606c5bf8aa0393a37075c85a1aab7b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ae/5e/15/ae5e15a70ccfb3de3c29c3327bbc53b8c8f486c2f6fffedf1c1256ddd72d33f8.jpg",
+      "image_path": "images/cards/1144/27-5209.webp",
+      "image_sha256": "ac5712ca0838373084fa1fe4e992e069d5cd5845c8b6bed787532fe449a9b5f9",
+      "image_bytes": 184226,
+      "source_url": "https://www.tcgcollector.com/cards/5209/ursaring-unleashed-27-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 27
+    },
+    {
+      "id": 5210,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Cherrim",
+      "number": "28",
+      "number_value": 28,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/8c/63/be/8c63bed5cb83f2708946cd71aa6be011eda297033ab88b02f530244c779b4afe.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/aa/fd/b9/aafdb95ec6d386de279499337bd22c7618e389923f7e2cd22e98f1c08b340c66.jpg",
+      "image_path": "images/cards/1144/28-5210.webp",
+      "image_sha256": "3600750d1600e9caa48b91aaf8a1ecc7286f7d0016e743c9e9b05ee919746996",
+      "image_bytes": 188600,
+      "source_url": "https://www.tcgcollector.com/cards/5210/cherrim-unleashed-28-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 28
+    },
+    {
+      "id": 5211,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Dunsparce",
+      "number": "29",
+      "number_value": 29,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/5e/89/54/5e8954416f44234110cd106d9550310bfffcbd261996a0d110db2ee3b75a617b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/72/96/b6/7296b60b0ce056e109310fc1b2e0c4a48c89b8c572435e21422812d55c6df719.jpg",
+      "image_path": "images/cards/1144/29-5211.webp",
+      "image_sha256": "013aab1acbfc9f73385eeab14666e5756758ef59164f6350d746a08676febb55",
+      "image_bytes": 195040,
+      "source_url": "https://www.tcgcollector.com/cards/5211/dunsparce-unleashed-29-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 29
+    },
+    {
+      "id": 5212,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Golbat",
+      "number": "30",
+      "number_value": 30,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/63/c7/44/63c744067db5475d171de2e8d5bdde5c3ab4467d1fac3cc16deb5ee9cfeb6040.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/21/b7/b3/21b7b3ee999119b11490fa00f9c491938210d8ec207cb4f43c2a58f50c711497.jpg",
+      "image_path": "images/cards/1144/30-5212.webp",
+      "image_sha256": "36c36decd9b50982ad59acd18e4d9d841bc3309cfc34c62956f6db39411b8f81",
+      "image_bytes": 159951,
+      "source_url": "https://www.tcgcollector.com/cards/5212/golbat-unleashed-30-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 30
+    },
+    {
+      "id": 5213,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Grotle",
+      "number": "31",
+      "number_value": 31,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b6/b5/de/b6b5decfe146d8d8c283ffaffdbbefcaf5ef9595e592e90fb768763641e075ba.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ff/f2/ea/fff2eadb404613b76fd1e1da8eaa32d7538f7eb5f2fdc4052a6df27078c2f02a.jpg",
+      "image_path": "images/cards/1144/31-5213.webp",
+      "image_sha256": "71f0bb856aa179defefadf540156a9863ae9f7196f6e8545b9acd9f54bebf1d5",
+      "image_bytes": 190041,
+      "source_url": "https://www.tcgcollector.com/cards/5213/grotle-unleashed-31-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 31
+    },
+    {
+      "id": 5214,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Kakuna",
+      "number": "32",
+      "number_value": 32,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f9/88/1d/f9881dd1c05971fbb2973a911ec5e099c419d8e85233314d710fe4787d42324a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6b/7e/4d/6b7e4ddd4921ad36d8ad455730c36ad260204d6cff69f58f9ed20d19774d994c.jpg",
+      "image_path": "images/cards/1144/32-5214.webp",
+      "image_sha256": "d9fb38187e3019cf010a2aa19bfb8e97046191323e74e0b0283f98911e598828",
+      "image_bytes": 202234,
+      "source_url": "https://www.tcgcollector.com/cards/5214/kakuna-unleashed-32-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 32
+    },
+    {
+      "id": 5215,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Metang",
+      "number": "33",
+      "number_value": 33,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/fc/76/74/fc7674660b552993d3d0954b8202388a6a1118df6a578e2ba4b7636864fca5ed.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ae/50/5e/ae505ec6f7b294a38055d7b8a55c453d62f28e08a29ae0a9340aad8640f6fd52.jpg",
+      "image_path": "images/cards/1144/33-5215.webp",
+      "image_sha256": "f2e164d9dcd533477a399976f53db59717645e21373a2a8e24c7c3664e9dd57d",
+      "image_bytes": 180057,
+      "source_url": "https://www.tcgcollector.com/cards/5215/metang-unleashed-33-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 33
+    },
+    {
+      "id": 5216,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Minun",
+      "number": "34",
+      "number_value": 34,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/74/0a/d4/740ad40c96038dfb761d2924e3eab94375ca6a55ae3a4d9d68882abf124776a2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/48/ab/8f/48ab8f10f4c1895d5aa49f96ced6852048803dff7740c1112405d9cb15ad0467.jpg",
+      "image_path": "images/cards/1144/34-5216.webp",
+      "image_sha256": "192f9dfd5186dbf20233da2866660f3ab416e04d090ca3cb54190b76b6d8fe66",
+      "image_bytes": 201640,
+      "source_url": "https://www.tcgcollector.com/cards/5216/minun-unleashed-34-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 34
+    },
+    {
+      "id": 5217,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Numel",
+      "number": "35",
+      "number_value": 35,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/0d/0d/d3/0d0dd33623e1f9e352117570520d086192333b3fcd1e59e9c99b792daafddd65.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e8/4b/2a/e84b2a9b9c2f6113a28e5efd78dfcb24740dd19dfc1460cf0e6385cb6e83b2f3.jpg",
+      "image_path": "images/cards/1144/35-5217.webp",
+      "image_sha256": "91fde70e25f8e481ba96359c042cc6f7efc6777d1d51df67aad89f6b7ce966c9",
+      "image_bytes": 174899,
+      "source_url": "https://www.tcgcollector.com/cards/5217/numel-unleashed-35-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 35
+    },
+    {
+      "id": 5218,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Plusle",
+      "number": "36",
+      "number_value": 36,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ed/b6/82/edb6826907fea5b14e376576b2c1807558f58aea8bf271d2a90818ade240afd4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/91/08/4a/91084a5bd5f91cd17993d55c7512fa13c1f304b8bfefe3c2bae51d113b9a272f.jpg",
+      "image_path": "images/cards/1144/36-5218.webp",
+      "image_sha256": "d385194907309fa26c1f3b642bcc9ab6bf642d89d01053c3c44a60dba9703dfe",
+      "image_bytes": 177730,
+      "source_url": "https://www.tcgcollector.com/cards/5218/plusle-unleashed-36-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 36
+    },
+    {
+      "id": 5219,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Poliwhirl",
+      "number": "37",
+      "number_value": 37,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/9d/d5/59/9dd55985e4805eac4d77b9f6bdcc1fe12f81c799309d0183f027fbebbe7bba29.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f5/2a/7c/f52a7cd2b6f3f0e3482264a13e3f189995a3fb04779096ee5e4198f95bdcfd14.jpg",
+      "image_path": "images/cards/1144/37-5219.webp",
+      "image_sha256": "0fc62431b955548e964c79d2368c86f834dfc11e56b766833c48fbb505151822",
+      "image_bytes": 202939,
+      "source_url": "https://www.tcgcollector.com/cards/5219/poliwhirl-unleashed-37-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 37
+    },
+    {
+      "id": 5220,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Pupitar",
+      "number": "38",
+      "number_value": 38,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b5/36/ab/b536abbfbb178686b19a8864f0b1e3f6df259996236bf958ae06c66bc6fd477d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/39/00/38/390038ce603c2c8e1c01cfe2fd04d1d834b7bb0cdfcb387fcb6a0abd9fb3223f.jpg",
+      "image_path": "images/cards/1144/38-5220.webp",
+      "image_sha256": "7bda145ced0fd0e06e0f4a3e0554d4ba711bb706dc34b1fa3e8a3911e3b0d4f8",
+      "image_bytes": 217201,
+      "source_url": "https://www.tcgcollector.com/cards/5220/pupitar-unleashed-38-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 38
+    },
+    {
+      "id": 5221,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Pupitar",
+      "number": "39",
+      "number_value": 39,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/bf/93/c5/bf93c5f385fde34925929e80331f5fd06bd09163544381837d9c2077b6d8f21a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/31/93/9f/31939fee2c044225178800a05569f3c31ec2ebf1196f0419851d59f3bd36f0f2.jpg",
+      "image_path": "images/cards/1144/39-5221.webp",
+      "image_sha256": "e019320a8f87e01adf74a625ab178b4feb40d0e01b074eecb7b578d5e61b6737",
+      "image_bytes": 194094,
+      "source_url": "https://www.tcgcollector.com/cards/5221/pupitar-unleashed-39-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 39
+    },
+    {
+      "id": 5222,
+      "set_id": 1144,
+      "set_ids": [
+        1144,
+        1250
+      ],
+      "name": "Seadra",
+      "number": "40",
+      "number_value": 40,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/9a/22/0c/9a220c7925888706416469a686ca9cba991acf91d7f319ea2b580c169f7310af.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5c/07/44/5c0744c67cbf9d614c183521feeabab3d5cc14ec3aebced10bb30f1d4c0c9f14.jpg",
+      "image_path": "images/cards/1144/40-5222.webp",
+      "image_sha256": "5bd5b74a452aabbc6c63ef65ed1af0d8177d9d19a05626ca55e5a597ee639de1",
+      "image_bytes": 198691,
+      "source_url": "https://www.tcgcollector.com/cards/5222/seadra-unleashed-40-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 40
+    },
+    {
+      "id": 5223,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Tauros",
+      "number": "41",
+      "number_value": 41,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/c6/f5/fc/c6f5fc4c381b5480dc3923d614714c6735b653a6ecc42ef13a53cf7dea20049e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/79/5c/24/795c242002fdd134d29aadb5b5adc5e53150a7614985f4cb66b694dc79063a6a.jpg",
+      "image_path": "images/cards/1144/41-5223.webp",
+      "image_sha256": "7a7262c26bacaa5c58f6dd758aba632aac64ad9af0424a5229e5dc730be95756",
+      "image_bytes": 206817,
+      "source_url": "https://www.tcgcollector.com/cards/5223/tauros-unleashed-41-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 41
+    },
+    {
+      "id": 5224,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Wartortle",
+      "number": "42",
+      "number_value": 42,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/79/18/8f/79188f3731b6f9b2b782ce0e3ec60340bd2a0eface7387d41848f3c674e6daba.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b0/f5/50/b0f55012fbeb44e577ef999cb687d7a9fcfc7361003857b57f9d63bed609570f.jpg",
+      "image_path": "images/cards/1144/42-5224.webp",
+      "image_sha256": "b9d4ccc933d90825f1d1b4071b1ab8527995496a8f180569c40ebd9a87b02f53",
+      "image_bytes": 205200,
+      "source_url": "https://www.tcgcollector.com/cards/5224/wartortle-unleashed-42-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 42
+    },
+    {
+      "id": 5225,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Aipom",
+      "number": "43",
+      "number_value": 43,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/27/2d/1e/272d1e91c9135c6fb2ca14911f5e82a465c1154639b407e415000fa537214cb4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fb/50/e4/fb50e471e34ecf8ca8e99999789f01a68e8f6157f062a77ef17e494f6e0556a5.jpg",
+      "image_path": "images/cards/1144/43-5225.webp",
+      "image_sha256": "777c00e226d3370c501dd51ceff5449d589cd6bba1fce77ca516ce48242668ca",
+      "image_bytes": 202705,
+      "source_url": "https://www.tcgcollector.com/cards/5225/aipom-unleashed-43-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 43
+    },
+    {
+      "id": 5226,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Beldum",
+      "number": "44",
+      "number_value": 44,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/3d/7c/cc/3d7ccc19545ccbc5d0f7c2255ee6c44e6d5f5929ab9561ad0a27d632260b6224.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/15/97/50/1597507b973d3b148bef82a227d9014be6c8034f7ca1293e37f1f7dadb81bca0.jpg",
+      "image_path": "images/cards/1144/44-5226.webp",
+      "image_sha256": "8ab578d40ff701350f111b3cf930cf67c933f27ce935ae68491797664d6acb6c",
+      "image_bytes": 170836,
+      "source_url": "https://www.tcgcollector.com/cards/5226/beldum-unleashed-44-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 44
+    },
+    {
+      "id": 5227,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Buizel",
+      "number": "45",
+      "number_value": 45,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/41/ad/05/41ad05fdb034d00b62d937c2ca7ef73c17325530f0de7d29a633d43b9ac4f281.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ea/6d/6f/ea6d6f1caee3d08033ced1b454be1e1f01e2f847a24ab8b191e567dfc1304c6d.jpg",
+      "image_path": "images/cards/1144/45-5227.webp",
+      "image_sha256": "150ffdf18a1ff95a5519d5254174d67d83a3e9e5a94f8db77bc66e92ee2339bb",
+      "image_bytes": 195473,
+      "source_url": "https://www.tcgcollector.com/cards/5227/buizel-unleashed-45-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 45
+    },
+    {
+      "id": 5228,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Carnivine",
+      "number": "46",
+      "number_value": 46,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/43/23/f8/4323f857b596aee294e931eb986d6cdcd59c75e1bf626214c353737c0086cb34.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b8/25/22/b82522ab4b024a1d4235b3e3e88cb021baa4fe92d0e770cc81b04fc50668c6cc.jpg",
+      "image_path": "images/cards/1144/46-5228.webp",
+      "image_sha256": "bbb6bb54df814d491089d3b74440ceb1358a10bfbbaa9035505dbecc4d4e8d53",
+      "image_bytes": 205858,
+      "source_url": "https://www.tcgcollector.com/cards/5228/carnivine-unleashed-46-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 46
+    },
+    {
+      "id": 5229,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Cherubi",
+      "number": "47",
+      "number_value": 47,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/90/71/a7/9071a74e812f43821a30cc7efe4da9bb33d5af982ce309ec6c2032011d1239cc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/94/d1/64/94d164edadf5de7e0def9a044cc1404999d816e0cf5078b9420bb4134e28233d.jpg",
+      "image_path": "images/cards/1144/47-5229.webp",
+      "image_sha256": "24f4833b2a0293f657567a9155bfd125d5b48ae9b86b383fa88f878d67246d06",
+      "image_bytes": 153197,
+      "source_url": "https://www.tcgcollector.com/cards/5229/cherubi-unleashed-47-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 47
+    },
+    {
+      "id": 5230,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Chinchou",
+      "number": "48",
+      "number_value": 48,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f7/4c/ed/f74cedf027f57215ea3be8d3f87671a452f30236c374cf60a27def3820e125b6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/59/c1/23/59c1235de07ba5d9a8c1e1c61a1350f2fb074123b1e4d481b36cc28e1c319831.jpg",
+      "image_path": "images/cards/1144/48-5230.webp",
+      "image_sha256": "6412634b8a5c46a192eedd55cd4668cc297c2dfeafdcf80158486c0d5debea9b",
+      "image_bytes": 180042,
+      "source_url": "https://www.tcgcollector.com/cards/5230/chinchou-unleashed-48-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 48
+    },
+    {
+      "id": 5231,
+      "set_id": 1144,
+      "set_ids": [
+        1144,
+        1250
+      ],
+      "name": "Horsea",
+      "number": "49",
+      "number_value": 49,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/29/0b/ac/290bac35c8c9576ad9d4e02dbf4a16ab849c846a20031e8e4d16088e808b87d3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0b/fd/d2/0bfdd21cc0d4defa5cfc147532d45ca37791ccc829376820d01d1881c6c3e767.jpg",
+      "image_path": "images/cards/1144/49-5231.webp",
+      "image_sha256": "798082b16ba5a05d2df617d4176ec0dc634776bf71d65f311cf5ed5d92ad7613",
+      "image_bytes": 175145,
+      "source_url": "https://www.tcgcollector.com/cards/5231/horsea-unleashed-49-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 49
+    },
+    {
+      "id": 5232,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Larvitar",
+      "number": "50",
+      "number_value": 50,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/27/c1/c6/27c1c69516df297eaebf8f566f41fbe7285189529e54492ca0e66b82b9be34f5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/87/94/99/87949912d08b924df767eabe7156cab19fd7de7efb3fad5122c641402e1ced9a.jpg",
+      "image_path": "images/cards/1144/50-5232.webp",
+      "image_sha256": "d275a1d7e6726dae0eac16fbd57aa3f9019c1c0f9ecdba2fd2a16be15148574c",
+      "image_bytes": 205523,
+      "source_url": "https://www.tcgcollector.com/cards/5232/larvitar-unleashed-50-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 50
+    },
+    {
+      "id": 5233,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Larvitar",
+      "number": "51",
+      "number_value": 51,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/2a/7b/70/2a7b70fc722e447e7c5bec26c633161f6a36cee19d64fa5ac157276426e39004.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/70/1a/67/701a674cdff58199da069bc90020ae10224f4eff5f72682c358cced56a93dacd.jpg",
+      "image_path": "images/cards/1144/51-5233.webp",
+      "image_sha256": "fa4851b5971d67d974247927eb9fd29a1617a9c236649b1f63d6e75e64b1b135",
+      "image_bytes": 190079,
+      "source_url": "https://www.tcgcollector.com/cards/5233/larvitar-unleashed-51-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 51
+    },
+    {
+      "id": 5234,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Magmar",
+      "number": "52",
+      "number_value": 52,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/91/8e/f5/918ef505b889dd7fd2350b094fc0831141ede99d4820642d09a1d996ce8882e8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/eb/86/a1/eb86a1d6633e303466c9ab810538cc801a77c9c80f1f9c26cb39b9c639d65abb.jpg",
+      "image_path": "images/cards/1144/52-5234.webp",
+      "image_sha256": "4b51f6d2b27eebae15840a5e2a450ee2a7a9ad0fe548866812705b8dbcc9f54f",
+      "image_bytes": 179214,
+      "source_url": "https://www.tcgcollector.com/cards/5234/magmar-unleashed-52-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 52
+    },
+    {
+      "id": 5235,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Mankey",
+      "number": "53",
+      "number_value": 53,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/4d/f8/f9/4df8f9a8eaa0cedcff470f80764f2032493b94abcf4b875775760b7e37f55b52.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/43/c8/bc/43c8bcce3f6c887e5e59aee4dce1a67266a67239d4241f932538cdd26979a18e.jpg",
+      "image_path": "images/cards/1144/53-5235.webp",
+      "image_sha256": "2bdfb24463804a18d84619c924ecdeb6828eb264d2096e6a3cadfcd92d7088ba",
+      "image_bytes": 215424,
+      "source_url": "https://www.tcgcollector.com/cards/5235/mankey-unleashed-53-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 53
+    },
+    {
+      "id": 5236,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Misdreavus",
+      "number": "54",
+      "number_value": 54,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/09/2c/91/092c91f0e2bd1c88509605d3fc9a38f4e08baf3d6dd2c9d09b85b31533380c7d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7c/0d/5c/7c0d5cecada6d748a4e285ed5172dcbe39ba7ef29902adc2c21abc3fe704d5ab.jpg",
+      "image_path": "images/cards/1144/54-5236.webp",
+      "image_sha256": "5f57cb18141545643d3be125d8371b8c8b7721c1b8900abf7c77f7915c833d0a",
+      "image_bytes": 185806,
+      "source_url": "https://www.tcgcollector.com/cards/5236/misdreavus-unleashed-54-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 54
+    },
+    {
+      "id": 5237,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Natu",
+      "number": "55",
+      "number_value": 55,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/22/39/11/223911dbc17692d01816763d3fa1647149ce834ca81a2dfff24cfa8ffc9b369c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2e/df/dd/2edfddccae351ddad68e4dc1c81c444a204d266ff2c3db7960e9cbb27df863ab.jpg",
+      "image_path": "images/cards/1144/55-5237.webp",
+      "image_sha256": "88b88174d2fdbe398a65708c0a723b35aead45dc92f75bc146c9e4cd38043783",
+      "image_bytes": 153515,
+      "source_url": "https://www.tcgcollector.com/cards/5237/natu-unleashed-55-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 55
+    },
+    {
+      "id": 5238,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Onix",
+      "number": "56",
+      "number_value": 56,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e4/a0/ca/e4a0cac04b670850136f018a00ff9db9aa811b832b251ffb9bf8138513156476.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/92/c8/04/92c804449ee43c08766e4ae6ca9797e9f6e29a276736b48e839096c355c503d9.jpg",
+      "image_path": "images/cards/1144/56-5238.webp",
+      "image_sha256": "1e2e0eb1be8b8725dd108842205e6f5f1eba94fb2c38a1254dd759a34f4110c1",
+      "image_bytes": 202293,
+      "source_url": "https://www.tcgcollector.com/cards/5238/onix-unleashed-56-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 56
+    },
+    {
+      "id": 5239,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Onix",
+      "number": "57",
+      "number_value": 57,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/7b/30/ca/7b30caa38de8827b042f38e4d5c1c4168d81cec975e2074f485be11cc3e7bb2d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/06/a5/f4/06a5f4048d02032cd5355b15be7645e22a0f3f71f7cc3a4e9816dabf7a2784e7.jpg",
+      "image_path": "images/cards/1144/57-5239.webp",
+      "image_sha256": "3f4e2fffeb6db8d869ee314a5d702fec8b7f084b6daf0ace0f05a94112d46346",
+      "image_bytes": 210252,
+      "source_url": "https://www.tcgcollector.com/cards/5239/onix-unleashed-57-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 57
+    },
+    {
+      "id": 5240,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Poliwag",
+      "number": "58",
+      "number_value": 58,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/7c/36/7a/7c367a2614444e091d8d2179addd4a2be09fc307f503c66b1b4e389199f81385.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/05/40/5b/05405baa9860fd844bbf6fc22ec4a8b7f4776ceac89e155c00f4af41b9e26286.jpg",
+      "image_path": "images/cards/1144/58-5240.webp",
+      "image_sha256": "3fd5eae4609216ead54aa056d8d77d05b16d71c0c6e1e30b9191986212273934",
+      "image_bytes": 190022,
+      "source_url": "https://www.tcgcollector.com/cards/5240/poliwag-unleashed-58-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 58
+    },
+    {
+      "id": 5241,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Remoraid",
+      "number": "59",
+      "number_value": 59,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/69/5d/28/695d28228665ea8c2eeb78cce27223217fbc40e4065f5754570b7c4a21d5eb08.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/63/84/cc/6384cc04903e76b4ac73a70ee3c49c3814d14b9935d5c3c9345a62847ec14744.jpg",
+      "image_path": "images/cards/1144/59-5241.webp",
+      "image_sha256": "fd18a8bdb3cee20ec4c2f0e955824352161d8979c9f57e51f9195daec301e397",
+      "image_bytes": 185916,
+      "source_url": "https://www.tcgcollector.com/cards/5241/remoraid-unleashed-59-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 59
+    },
+    {
+      "id": 5242,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Riolu",
+      "number": "60",
+      "number_value": 60,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/82/ab/cf/82abcf9d85e561d022e740c7c2706f1fca3a1b0eb40761e2857e0732be1a1d22.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/21/6b/ae/216bae351d3541dfb38c424f39a84b73e0f00047eff7842078289a87e8345507.jpg",
+      "image_path": "images/cards/1144/60-5242.webp",
+      "image_sha256": "e90cfe84acbc850fca64b5eb428387cb99548c5ea404089f2d920f0be2748911",
+      "image_bytes": 202596,
+      "source_url": "https://www.tcgcollector.com/cards/5242/riolu-unleashed-60-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 60
+    },
+    {
+      "id": 5243,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Roselia",
+      "number": "61",
+      "number_value": 61,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/76/14/de/7614de51f5c5ecfbb98bac9e2ef84e5cdfc1549b112dea7c1964c7ce966b756a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/be/91/bf/be91bf277e6a089caa28417b9b9e23c4f13f5ae46f2bce1912f41f43daebf5b4.jpg",
+      "image_path": "images/cards/1144/61-5243.webp",
+      "image_sha256": "40347b14029dea37cab0beb6b340892b09fb6357ef28ee55b247fbca7211ff2c",
+      "image_bytes": 208717,
+      "source_url": "https://www.tcgcollector.com/cards/5243/roselia-unleashed-61-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 61
+    },
+    {
+      "id": 5244,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Spearow",
+      "number": "62",
+      "number_value": 62,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/98/ba/33/98ba3350beee02b5b2ee72f2729def544bf6dda862f92ea1e3605cdc7bcf0026.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/de/a9/b3/dea9b3d856e89778228ef65c95d900f391bd1a448692fccf3441e757ef5406bf.jpg",
+      "image_path": "images/cards/1144/62-5244.webp",
+      "image_sha256": "5bb467df68286d48974f8393923451cab8109dc9291068475090c3929b00da62",
+      "image_bytes": 191425,
+      "source_url": "https://www.tcgcollector.com/cards/5244/spearow-unleashed-62-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 62
+    },
+    {
+      "id": 5245,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Squirtle",
+      "number": "63",
+      "number_value": 63,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/60/88/42/6088429d5eecfaa014a2f77b8610ad64341cd15804c9ec040ea888c5c7e90b13.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/24/f9/2d/24f92db6783125a7c0a4a2ee5cf12c83ea60d0d81695d9bfecd5bd0e6219b230.jpg",
+      "image_path": "images/cards/1144/63-5245.webp",
+      "image_sha256": "24c4d467eb4bc3b925e5b455ea28f701e30c25b9e7140d645e51c7bb23507ece",
+      "image_bytes": 180581,
+      "source_url": "https://www.tcgcollector.com/cards/5245/squirtle-unleashed-63-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 63
+    },
+    {
+      "id": 5246,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Stantler",
+      "number": "64",
+      "number_value": 64,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/43/7d/21/437d21cfc439cb4ae41e224f96e906a41032a5b06de54a223f50eda4ce6824b4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/69/e8/59/69e85991be3667fcd55b256305364fa5d7f11406cb8bcaf8390af3a72713bc8f.jpg",
+      "image_path": "images/cards/1144/64-5246.webp",
+      "image_sha256": "6329c297f95605e8e6efd3842fc5d78e9bbfe0ab51b95035cf96614c5f28035a",
+      "image_bytes": 210335,
+      "source_url": "https://www.tcgcollector.com/cards/5246/stantler-unleashed-64-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 64
+    },
+    {
+      "id": 5247,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Teddiursa",
+      "number": "65",
+      "number_value": 65,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/cb/4b/96/cb4b96e25926a256917a5a142df7e73be8be31c3fb5ab6b742a9878337ba9585.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/be/ff/15/beff151a0a4ddafd192d335d4cab5bb0bb4573efd2f99510a2841b4f960b5514.jpg",
+      "image_path": "images/cards/1144/65-5247.webp",
+      "image_sha256": "bf3d09ba9540f9cff841eb520fcb3afa24eba33806938072ed873cc23be0bc96",
+      "image_bytes": 174291,
+      "source_url": "https://www.tcgcollector.com/cards/5247/teddiursa-unleashed-65-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 65
+    },
+    {
+      "id": 5248,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Tropius",
+      "number": "66",
+      "number_value": 66,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/d1/88/a0/d188a036bf9575a2a03de0439ffd0cbf833e856616276639efd41f9b7f796078.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3c/5c/fc/3c5cfc368aee49ca93c7d734486ec7782c929ff76dfe7690b5129ed06531edf9.jpg",
+      "image_path": "images/cards/1144/66-5248.webp",
+      "image_sha256": "9fb326a64b4455b3be4c695941ff20d14a38fa9c7eeb9bd0561f95e933e487d3",
+      "image_bytes": 188899,
+      "source_url": "https://www.tcgcollector.com/cards/5248/tropius-unleashed-66-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 66
+    },
+    {
+      "id": 5249,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Turtwig",
+      "number": "67",
+      "number_value": 67,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/bc/a3/8f/bca38f2149c6a88821cc185ea033eaa52ec540bccaafcfdbdd4c4af70acde083.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1e/a6/84/1ea684f731b2efa796df632c7e7149ced9aeac6e7ae3fec8cc96c5a7b280349d.jpg",
+      "image_path": "images/cards/1144/67-5249.webp",
+      "image_sha256": "c3f6921c375548300e260b8dd7fa27ba1c5d5e6b2a9f7ab42fb8e948bc0bdb3f",
+      "image_bytes": 188230,
+      "source_url": "https://www.tcgcollector.com/cards/5249/turtwig-unleashed-67-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 67
+    },
+    {
+      "id": 5250,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Vulpix",
+      "number": "68",
+      "number_value": 68,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/35/41/f9/3541f92898f6cd1de8fb13742142bb6e4cf164803470ed2483cee3b15bbf746a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5d/4e/68/5d4e68f690e3ced3d6bf68f33731479bf214d6fa461b3c77ac4184f444531f12.jpg",
+      "image_path": "images/cards/1144/68-5250.webp",
+      "image_sha256": "5fd33055fd91f70a45f49b8013c43178d0ea61167730f9efe515595b9da68b2d",
+      "image_bytes": 175239,
+      "source_url": "https://www.tcgcollector.com/cards/5250/vulpix-unleashed-68-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 68
+    },
+    {
+      "id": 5251,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Weedle",
+      "number": "69",
+      "number_value": 69,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/4f/3b/18/4f3b184a672a65a6871cecd2f0d4e53459206841dd695f9f2bb59a37b6da84a3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cc/78/7f/cc787f6a6395b3d68e7a6c8e12f11cfbc0b30d42e5800cb45625a87571de4db3.jpg",
+      "image_path": "images/cards/1144/69-5251.webp",
+      "image_sha256": "65ed0a4c7ec702afdc38eb3b50a28d28392e21414405f59c0057cbe29a3c02dd",
+      "image_bytes": 188690,
+      "source_url": "https://www.tcgcollector.com/cards/5251/weedle-unleashed-69-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 69
+    },
+    {
+      "id": 5252,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Zubat",
+      "number": "70",
+      "number_value": 70,
+      "printed_total": 95,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ff/66/42/ff6642494cc0dd2fc82b71a3403ee3ee4ad341c10442a735f373aa0e125d75e2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/53/5d/db/535ddbd961578ec5ab2bc52179e690906ada55c967182c4fcc8409d2ee4a165f.jpg",
+      "image_path": "images/cards/1144/70-5252.webp",
+      "image_sha256": "397e45ed38d182f5a10dc7fb0550a4e82e80cbe3db93474204c8725a33c04728",
+      "image_bytes": 166835,
+      "source_url": "https://www.tcgcollector.com/cards/5252/zubat-unleashed-70-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 70
+    },
+    {
+      "id": 5253,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Cheerleader's Cheer",
+      "number": "71",
+      "number_value": 71,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/51/62/27/5162275c30baeba322b676c8e01e031da25a78518cd201bdd314b5d25b2d9d1d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/85/8a/c9/858ac9bb301da0ca18b3f49b6634a5167aa0ce1e63a2229e5c9f403a852f87ff.jpg",
+      "image_path": "images/cards/1144/71-5253.webp",
+      "image_sha256": "9b40ad7de094c3362475b39fb91b25df3800d0c2c2e6f0e7bfc5df01b0da4d3b",
+      "image_bytes": 188636,
+      "source_url": "https://www.tcgcollector.com/cards/5253/cheerleaders-cheer-unleashed-71-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 71
+    },
+    {
+      "id": 5254,
+      "set_id": 1144,
+      "set_ids": [
+        1144,
+        1256
+      ],
+      "name": "Dual Ball",
+      "number": "72",
+      "number_value": 72,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b6/27/1e/b6271e21b5a7b93420f805d13e71b7ee88beb055a389da9e4d4446017bb5d991.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/04/03/f1/0403f1ec8c56b44777515793cb87f368f2baad834ed08c98445cbcded22b678e.jpg",
+      "image_path": "images/cards/1144/72-5254.webp",
+      "image_sha256": "f7862225bdf0aac486527103f43ed92fa9c55097d474211b08a09b13209f9ad7",
+      "image_bytes": 168566,
+      "source_url": "https://www.tcgcollector.com/cards/5254/dual-ball-unleashed-72-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 72
+    },
+    {
+      "id": 5255,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Emcee's Chatter",
+      "number": "73",
+      "number_value": 73,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/11/2d/bf/112dbfd8da49ad30c3ee3df243dc5c372052d3e2f794f073931ce050f28f8bd4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d1/59/32/d1593273140673bfbfc32d0ced2fb619e063892444cff6ec26ff6a83c7f23f73.jpg",
+      "image_path": "images/cards/1144/73-5255.webp",
+      "image_sha256": "66472fa2a29912570be6c2e681ed1eb2da7240d544d806b1cedea024014aab17",
+      "image_bytes": 183723,
+      "source_url": "https://www.tcgcollector.com/cards/5255/emcees-chatter-unleashed-73-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 73
+    },
+    {
+      "id": 5256,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Energy Returner",
+      "number": "74",
+      "number_value": 74,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/fd/64/cb/fd64cbcab807530f9a9277076597505497eb29baebfb16a48be73c4709dcd4c4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8f/5d/d8/8f5dd8a79a939afcdc9f8c5d375609d3edaa85e0ab7263c512ba80cc9441713e.jpg",
+      "image_path": "images/cards/1144/74-5256.webp",
+      "image_sha256": "8feb938cb326b754f6e18125fa1b54a16781ccc4352c03b97747195ef2c69dab",
+      "image_bytes": 193098,
+      "source_url": "https://www.tcgcollector.com/cards/5256/energy-returner-unleashed-74-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 74
+    },
+    {
+      "id": 5257,
+      "set_id": 1144,
+      "set_ids": [
+        1144,
+        1251
+      ],
+      "name": "Engineer's Adjustments",
+      "number": "75",
+      "number_value": 75,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/cf/f0/f6/cff0f6fd803f94b504797cf9b248c00ec21111b18f868529fe25faaffe4bd167.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/53/99/bd/5399bd8a3c9b2166cd69a5c00a848e75fa4fe1ca553a53288c78828e7db39db0.jpg",
+      "image_path": "images/cards/1144/75-5257.webp",
+      "image_sha256": "861e51e4897660ea684bb60b8ef7ffeec02056cac987d216b3233d67184a6e28",
+      "image_bytes": 179077,
+      "source_url": "https://www.tcgcollector.com/cards/5257/engineers-adjustments-unleashed-75-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 75
+    },
+    {
+      "id": 5258,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Good Rod",
+      "number": "76",
+      "number_value": 76,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/4c/e0/dc/4ce0dcd56d22e352d5844ff9f4712af1604d86eae14a1891f73e3c70b958c2d4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/07/c7/0e/07c70e7f424f5b8428815b9a8a666a030558fd064d3bf1216c5e51e099153fda.jpg",
+      "image_path": "images/cards/1144/76-5258.webp",
+      "image_sha256": "c13563b0cbd3551859933f0f78348a6fb33dd54cf5027350ac284be36ff132a7",
+      "image_bytes": 199522,
+      "source_url": "https://www.tcgcollector.com/cards/5258/good-rod-unleashed-76-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 76
+    },
+    {
+      "id": 5259,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Interviewer's Questions",
+      "number": "77",
+      "number_value": 77,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/75/3b/95/753b955b32c560267ca447bd08a1b9f7c8080d7a9dbe4ad06a12c67113add863.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/55/cf/ca/55cfca1855c38b15930917631c56259c5df1659e27521587df2e60970d1cc192.jpg",
+      "image_path": "images/cards/1144/77-5259.webp",
+      "image_sha256": "a7e49c815056bf8856c3eb2d1a14c4a492d46fc9f130e4f16b56dff1d1d57b54",
+      "image_bytes": 199359,
+      "source_url": "https://www.tcgcollector.com/cards/5259/interviewers-questions-unleashed-77-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 77
+    },
+    {
+      "id": 5260,
+      "set_id": 1144,
+      "set_ids": [
+        1144,
+        1246,
+        1249,
+        1250
+      ],
+      "name": "Judge",
+      "number": "78",
+      "number_value": 78,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/a4/0d/9f/a40d9ff51340d4500a9c3755519f387d762ced3a1b9bec4a6cc28f14bea17265.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/98/87/ce/9887cef80a9f11a6d9159a2c8c3e39689f0620586eab5a026a3bdc7f6044f270.jpg",
+      "image_path": "images/cards/1144/78-5260.webp",
+      "image_sha256": "467a1bfbfed756904f1a139eb712face710a46b201bc1b34016572097073e6da",
+      "image_bytes": 182283,
+      "source_url": "https://www.tcgcollector.com/cards/5260/judge-unleashed-78-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 78
+    },
+    {
+      "id": 5261,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Life Herb",
+      "number": "79",
+      "number_value": 79,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/61/32/1b/61321b2aaf4deb35dfcfe34ff2260cbcabeffa784c58746d4810647f876cbb65.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3c/5c/73/3c5c73ec4699ab3ca0d574f49fb65b06cff1b6df960717072d83d7e4752c8a52.jpg",
+      "image_path": "images/cards/1144/79-5261.webp",
+      "image_sha256": "25583b13224042fc18a9ad623875aa4a346adc25e4dc751c13742174c0a4277c",
+      "image_bytes": 174400,
+      "source_url": "https://www.tcgcollector.com/cards/5261/life-herb-unleashed-79-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 79
+    },
+    {
+      "id": 5262,
+      "set_id": 1144,
+      "set_ids": [
+        1144,
+        1249
+      ],
+      "name": "PlusPower",
+      "number": "80",
+      "number_value": 80,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/45/b7/35/45b735fb533e903a1ebd67f4be27a837fc82ec40ea4337c603c6d99ce6b8a152.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/34/ce/da/34cedab82bf8e1c60db5e21ce36c16a9afd9af9ce5f93a58a7036e6dc28c0c4e.jpg",
+      "image_path": "images/cards/1144/80-5262.webp",
+      "image_sha256": "2be30b5cb516b0154c24e243872fd18c4b0c140e4f4244fc033e54c12bafc852",
+      "image_bytes": 163886,
+      "source_url": "https://www.tcgcollector.com/cards/5262/pluspower-unleashed-80-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 80
+    },
+    {
+      "id": 5263,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Pokémon Circulator",
+      "number": "81",
+      "number_value": 81,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/23/a7/89/23a7892e4cb656ed59f1aa71a3b2b13227d0b4818844690ca36622867b9763f7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/86/9d/c0/869dc015c8d5c9a3788cd6f86961a466a5268b6a09100cf14dbf4ceea6eb477c.jpg",
+      "image_path": "images/cards/1144/81-5263.webp",
+      "image_sha256": "ee3c99d8022c4c387931917fd47dad640feddd7f8c983cfa00b98cbbf9de7e00",
+      "image_bytes": 183499,
+      "source_url": "https://www.tcgcollector.com/cards/5263/pokemon-circulator-unleashed-81-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 81
+    },
+    {
+      "id": 5264,
+      "set_id": 1144,
+      "set_ids": [
+        1144,
+        1246,
+        1249,
+        1250,
+        1251,
+        1252,
+        1253
+      ],
+      "name": "Rare Candy",
+      "number": "82",
+      "number_value": 82,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/5d/e6/59/5de659d149bb97bc0f6617ee70cacf303420f0f6c7829a7688f5a40975bd0166.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c1/e5/e0/c1e5e04c9381af2d119a200799ebbab1dca90ca27252a129ba4d3cdc387d1e24.jpg",
+      "image_path": "images/cards/1144/82-5264.webp",
+      "image_sha256": "b2fb3c02e71dbf51646e9f6ee0c2c7cc28187f3223ab9a3d2b26be716ec5b0db",
+      "image_bytes": 183309,
+      "source_url": "https://www.tcgcollector.com/cards/5264/rare-candy-unleashed-82-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 82
+    },
+    {
+      "id": 5265,
+      "set_id": 1144,
+      "set_ids": [
+        1144,
+        1247
+      ],
+      "name": "Super Scoop Up",
+      "number": "83",
+      "number_value": 83,
+      "printed_total": 95,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/7e/44/8a/7e448a68d5f71353adacd5559bf89cd31c590e1744b5052f35a450bf8b100ee9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/51/f0/48/51f048029ac50c5f8d1e726da92963727dd1f190b0b838ee4a33ce63cac57d27.jpg",
+      "image_path": "images/cards/1144/83-5265.webp",
+      "image_sha256": "b3cf41c4f92752fc402fed079a0a90a394081bd996503d4ee307384018f284f3",
+      "image_bytes": 180371,
+      "source_url": "https://www.tcgcollector.com/cards/5265/super-scoop-up-unleashed-83-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 83
+    },
+    {
+      "id": 5266,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Crobat",
+      "number": "84",
+      "number_value": 84,
+      "printed_total": 95,
+      "rarity": "Rare Prime",
+      "image_url": "https://static.tcgcollector.com/content/images/f8/05/df/f805dfddae831014c7efa8c96c81f53a8db724d83cbd0c8309f5f0b880b5028f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/53/41/99/5341990c682f81b5e95386a611330204464f8a22db344623589b15895335cadb.jpg",
+      "image_path": "images/cards/1144/84-5266.webp",
+      "image_sha256": "eda29018311f010c8797c4f38acba60357e17cc3d8c346925dd47698d48f7866",
+      "image_bytes": 159263,
+      "source_url": "https://www.tcgcollector.com/cards/5266/crobat-unleashed-84-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 84
+    },
+    {
+      "id": 5267,
+      "set_id": 1144,
+      "set_ids": [
+        1144,
+        1250
+      ],
+      "name": "Kingdra",
+      "number": "85",
+      "number_value": 85,
+      "printed_total": 95,
+      "rarity": "Rare Prime",
+      "image_url": "https://static.tcgcollector.com/content/images/45/13/33/451333be7470ac5d5c93c4e653b81df828fc22f415cf6a6d374be7a485b9fa22.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a0/1c/bc/a01cbc0438ef510663d7257ae63f259e0f1b7fa0d9e2cf3574e6135c1d88315f.jpg",
+      "image_path": "images/cards/1144/85-5267.webp",
+      "image_sha256": "37856e009c1630820feb3dfb1e0a622727602b2b72ede7be79e3f030c0c3ae32",
+      "image_bytes": 187694,
+      "source_url": "https://www.tcgcollector.com/cards/5267/kingdra-unleashed-85-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 85
+    },
+    {
+      "id": 5268,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Lanturn",
+      "number": "86",
+      "number_value": 86,
+      "printed_total": 95,
+      "rarity": "Rare Prime",
+      "image_url": "https://static.tcgcollector.com/content/images/5a/45/73/5a4573ef5419d3478165becb7b4b902fa6c81d20bd61da94285447a87cc2acec.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/51/f4/b9/51f4b919521aab43c4074cba216ea7ed6688a0b154a0c701e546affebac5f24e.jpg",
+      "image_path": "images/cards/1144/86-5268.webp",
+      "image_sha256": "bcbb052b5d91e1d5bfef00d72687798e03b98afcb4aeb7c9d8ff72c2fca7e16d",
+      "image_bytes": 198282,
+      "source_url": "https://www.tcgcollector.com/cards/5268/lanturn-unleashed-86-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 86
+    },
+    {
+      "id": 5269,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Steelix",
+      "number": "87",
+      "number_value": 87,
+      "printed_total": 95,
+      "rarity": "Rare Prime",
+      "image_url": "https://static.tcgcollector.com/content/images/e3/ea/31/e3ea31018bd2accf4b636b28770edeac45038a86ab3e19395cfa2b8d8913ccf2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/38/df/b7/38dfb77b05cd132b1b5b08d24df1eef4f1b0ed22592105cc15b5c499c8cfb82e.jpg",
+      "image_path": "images/cards/1144/87-5269.webp",
+      "image_sha256": "4d90761014bc94cddec54538a2465f5f6f10249b251f8b15a56c6885550e64dd",
+      "image_bytes": 232358,
+      "source_url": "https://www.tcgcollector.com/cards/5269/steelix-unleashed-87-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 87
+    },
+    {
+      "id": 5270,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Tyranitar",
+      "number": "88",
+      "number_value": 88,
+      "printed_total": 95,
+      "rarity": "Rare Prime",
+      "image_url": "https://static.tcgcollector.com/content/images/7a/b1/71/7ab1717d8fe7d96da42c49749d9225508881f440f3d1b6c8a90e25f1ae983b30.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a5/c9/c4/a5c9c4075f9375fff27a8ac7090c4483b1a741f08c58c97635edd1f282cf839f.jpg",
+      "image_path": "images/cards/1144/88-5270.webp",
+      "image_sha256": "2184e5bd15f15de359dacc7667a76523b0364be9e82484624d206c2a99df944a",
+      "image_bytes": 184124,
+      "source_url": "https://www.tcgcollector.com/cards/5270/tyranitar-unleashed-88-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 88
+    },
+    {
+      "id": 5271,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Ursaring",
+      "number": "89",
+      "number_value": 89,
+      "printed_total": 95,
+      "rarity": "Rare Prime",
+      "image_url": "https://static.tcgcollector.com/content/images/ed/69/18/ed691833ce245bc2d607f0e5ab48e3dbce89e42ce9505814d20f40c9d4f91446.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/44/6a/26/446a266dcb244108946a7f006ad9c4b2d3c0eb0fd014828debb9d934f5758d55.jpg",
+      "image_path": "images/cards/1144/89-5271.webp",
+      "image_sha256": "c4aa8f55768521d374b3a1da69bfc9f5a69ffdc0903664e89425cd1d89e1e267",
+      "image_bytes": 188887,
+      "source_url": "https://www.tcgcollector.com/cards/5271/ursaring-unleashed-89-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 89
+    },
+    {
+      "id": 5272,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Entei & Raikou LEGEND",
+      "number": "90",
+      "number_value": 90,
+      "printed_total": 95,
+      "rarity": "LEGEND",
+      "image_url": "https://static.tcgcollector.com/content/images/50/a5/06/50a5065f854dc1b193a78277f02a0ed2892e1a57c2c0d6a6275ea60b97c25511.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/70/af/d3/70afd3719c9fe6caeb12aa5dadfbb32616869e842f44636ab6b2cb3d03cb0cc0.jpg",
+      "image_path": "images/cards/1144/90-5272.webp",
+      "image_sha256": "2dce23abb1ed0ecc1994e4724ba86c04a47aeb18503223cc0fa008415937851b",
+      "image_bytes": 200885,
+      "source_url": "https://www.tcgcollector.com/cards/5272/entei-and-raikou-legend-unleashed-90-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 90
+    },
+    {
+      "id": 5273,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Entei & Raikou LEGEND",
+      "number": "91",
+      "number_value": 91,
+      "printed_total": 95,
+      "rarity": "LEGEND",
+      "image_url": "https://static.tcgcollector.com/content/images/f8/e0/79/f8e079714a5a4399e17f8fb3b92d50eaf51586f8b65ac306d8f62577e7cfbc9a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/df/0a/32/df0a32c0699153819f28a5f2f4e9386814c380192c6846cb6a389ff1c7368907.jpg",
+      "image_path": "images/cards/1144/91-5273.webp",
+      "image_sha256": "fd8a134ef6af07164d6f5a7df9034a894eeb904989b00cd9ac6704fa3553ed34",
+      "image_bytes": 231177,
+      "source_url": "https://www.tcgcollector.com/cards/5273/entei-and-raikou-legend-unleashed-91-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 91
+    },
+    {
+      "id": 5274,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Raikou & Suicune LEGEND",
+      "number": "92",
+      "number_value": 92,
+      "printed_total": 95,
+      "rarity": "LEGEND",
+      "image_url": "https://static.tcgcollector.com/content/images/9b/94/de/9b94de3a5e27bdcc20aa22d2d9b702e6afa1594b64d70ae1ead5df8c2bad98d2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fc/6e/58/fc6e58f37a5a899c11a05646a46c28a53f549e2217e74003b2cb37c11c5425d4.jpg",
+      "image_path": "images/cards/1144/92-5274.webp",
+      "image_sha256": "f8c0bb3e17ab02f539728ec52dffd89d2b3adab6efad28316f5670038b4736f3",
+      "image_bytes": 213240,
+      "source_url": "https://www.tcgcollector.com/cards/5274/raikou-and-suicune-legend-unleashed-92-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 92
+    },
+    {
+      "id": 5275,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Raikou & Suicune LEGEND",
+      "number": "93",
+      "number_value": 93,
+      "printed_total": 95,
+      "rarity": "LEGEND",
+      "image_url": "https://static.tcgcollector.com/content/images/cc/72/52/cc725268c11363e3dc6201e8f161dc726dc65dd1893486b6149d8aeb9da0faed.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e9/27/e7/e927e78e2c13604af7ff0cff17092530e9182b194ac41d2e0f76898daf7df344.jpg",
+      "image_path": "images/cards/1144/93-5275.webp",
+      "image_sha256": "473aaf63c050a3a9e4642382e80693cafc918538fa97a377717e33d84460f912",
+      "image_bytes": 227170,
+      "source_url": "https://www.tcgcollector.com/cards/5275/raikou-and-suicune-legend-unleashed-93-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 93
+    },
+    {
+      "id": 5276,
+      "set_id": 1144,
+      "set_ids": [
+        1144,
+        1252
+      ],
+      "name": "Suicune & Entei LEGEND",
+      "number": "94",
+      "number_value": 94,
+      "printed_total": 95,
+      "rarity": "LEGEND",
+      "image_url": "https://static.tcgcollector.com/content/images/ac/cf/d8/accfd8ba1bf4c2ba00254eab65e6781fafafaeae77933b6a81cc2a9f66bb4bd3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/65/fd/ba/65fdbae2b618a70368a4b0ac387795aba2c928af3a7c41dc59bfa028a79f9506.jpg",
+      "image_path": "images/cards/1144/94-5276.webp",
+      "image_sha256": "bcbf16fdc4253014c878f48afa8eb5493b5bea28093aa0539ad4c96ba9d76a5e",
+      "image_bytes": 217956,
+      "source_url": "https://www.tcgcollector.com/cards/5276/suicune-and-entei-legend-unleashed-94-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 94
+    },
+    {
+      "id": 5277,
+      "set_id": 1144,
+      "set_ids": [
+        1144,
+        1252
+      ],
+      "name": "Suicune & Entei LEGEND",
+      "number": "95",
+      "number_value": 95,
+      "printed_total": 95,
+      "rarity": "LEGEND",
+      "image_url": "https://static.tcgcollector.com/content/images/5c/ea/29/5cea29634056692ef4efbb57c85c70acaa1c332e95e9fc150e706363d9d894b0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/04/11/b3/0411b360a4a3e9bf16a768b83d1418733c8e5c9ea35b63650716887bc553e8d1.jpg",
+      "image_path": "images/cards/1144/95-5277.webp",
+      "image_sha256": "2b1049f82f8a8a82356cb94f0dc25ec5a97e57ceeba5353965f407d0b1d0fc95",
+      "image_bytes": 216300,
+      "source_url": "https://www.tcgcollector.com/cards/5277/suicune-and-entei-legend-unleashed-95-95",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 95
+    },
+    {
+      "id": 5278,
+      "set_id": 1144,
+      "set_ids": [
+        1144
+      ],
+      "name": "Alph Lithograph",
+      "number": "TWO",
+      "number_value": null,
+      "printed_total": null,
+      "rarity": "Rare Secret",
+      "image_url": "https://static.tcgcollector.com/content/images/67/b5/f0/67b5f06ffe4dc60550375eb122b6a60e5f8b7bd4f34464d81d9943f76c6187d3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/41/06/4a/41064ae8ebaf0dca17084172ff107f69facc7e479d28105b970820aa49502abc.jpg",
+      "image_path": "images/cards/1144/TWO-5278.webp",
+      "image_sha256": "3132e8bca36a59927c25020d229968ebfd84ca1a6176e7edcee2ece326ccee81",
+      "image_bytes": 289091,
+      "source_url": "https://www.tcgcollector.com/cards/5278/alph-lithograph-unleashed-two",
+      "scraped_at": "2026-10-18T22:24:39Z",
+      "position": 96
+    }
+  ]
+}

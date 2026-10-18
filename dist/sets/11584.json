@@ -1,0 +1,4168 @@
+{
+  "set": {
+    "id": 11584,
+    "language": "en",
+    "name": "Scarlet & Violet 151",
+    "code": "MEW",
+    "series": "Scarlet & Violet Series",
+    "release_date": "2023-09-22",
+    "date_text": "Sep 22, 2023",
+    "card_count": 207,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/0a/fb/2b/0afb2b772316d7ed8eca012a53210a633966e80b8c2996b897e9238f014fb57a.png",
+    "symbol_url": "https://static.tcgcollector.com/content/images/7e/cc/01/7ecc01faf6d08c0452a2f2655881076d79c06b552711a553749abbb189d52161.png",
+    "logo_path": "images/sets/11584-logo.webp",
+    "symbol_path": "images/sets/11584-symbol.webp",
+    "source_url": "https://www.tcgcollector.com/sets/11584/scarlet-and-violet-151",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 207
+  },
+  "cards": [
+    {
+      "id": 42370,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Bulbasaur",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/80/b5/7e/80b57e04b3945785823f7e9834801eaaff823f32b60713529242b9ce3368e018.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8b/3a/26/8b3a26b0c6f65cd6f145193380ca45197c095156465eb8c8dd0710435f6cb6cf.jpg",
+      "image_path": "images/cards/11584/001-42370.webp",
+      "image_sha256": "22fd9052a10b0e7d21ddebf6d18e5d74de6145847aeaba2f2bafe7cb5e797e66",
+      "image_bytes": 117467,
+      "source_url": "https://www.tcgcollector.com/cards/42370/bulbasaur-scarlet-and-violet-151-001-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 1
+    },
+    {
+      "id": 42371,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Ivysaur",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/24/80/ce/2480cee503aba170b8897223e2b1af8c6eb2b3a351d4c5688c5d7450a690e732.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/36/39/e8/3639e89eb1d1a045776066294a03b4f8b382ee461c8c1ff665b722165cec3ec6.jpg",
+      "image_path": "images/cards/11584/002-42371.webp",
+      "image_sha256": "fab7b99003ea6580c8502a942d20da292208272ea065f5c7c2d93af2802ca037",
+      "image_bytes": 133127,
+      "source_url": "https://www.tcgcollector.com/cards/42371/ivysaur-scarlet-and-violet-151-002-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 2
+    },
+    {
+      "id": 42372,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Venusaur ex",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 165,
+      "rarity": "Double Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/11/30/05/11300511e7d04c6362c1d788affa4b6c9c938979b36ebd068f47c96a771a9fe4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/78/54/f1/7854f16ed700c0ead4720bb54aad8b5a57d1e3ec4d901bf80718100dd91a20ea.jpg",
+      "image_path": "images/cards/11584/003-42372.webp",
+      "image_sha256": "d9b97a14135a2d08ab8f901976a2f7e6c898975e047d06cea58979d4cb45e61b",
+      "image_bytes": 167523,
+      "source_url": "https://www.tcgcollector.com/cards/42372/venusaur-ex-scarlet-and-violet-151-003-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 3
+    },
+    {
+      "id": 42373,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Charmander",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/7c/3e/2d/7c3e2de3b9530bec2c93aa6db2707b8b320ec0c91cf0b4a83d0b8f07457f1c35.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0d/c5/c2/0dc5c2291d68a4664d72aa6ddcfcb6c55087eb4629aefc099cc52dc9e73cbc63.jpg",
+      "image_path": "images/cards/11584/004-42373.webp",
+      "image_sha256": "ab6db9dda021916807dd547d1285c4b26d78010f8afcfb66e546aea21224fc63",
+      "image_bytes": 138931,
+      "source_url": "https://www.tcgcollector.com/cards/42373/charmander-scarlet-and-violet-151-004-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 4
+    },
+    {
+      "id": 42374,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Charmeleon",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ae/38/02/ae38023aa81c990c886ce9363ceee2939e1b0b39c7f15783223a2d5daff91743.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3f/59/9d/3f599d2b326fd3012121d8fef3e61ea039f6b2633216d7a41c19a7d53b1cb042.jpg",
+      "image_path": "images/cards/11584/005-42374.webp",
+      "image_sha256": "8899d1b30b74c7ae2b686b1381c14b3560c58aa47957a69a03c359efec030e73",
+      "image_bytes": 144781,
+      "source_url": "https://www.tcgcollector.com/cards/42374/charmeleon-scarlet-and-violet-151-005-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 5
+    },
+    {
+      "id": 42375,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Charizard ex",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 165,
+      "rarity": "Double Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/45/ca/9d/45ca9db4068fb21ad49012873b289c1f580cfed20e8e799e9fe81e631f309f56.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3c/9e/ca/3c9ecab7be0c07537e3dff09ac9661ac0acd290c7a5c2c2325b3da995c70d289.jpg",
+      "image_path": "images/cards/11584/006-42375.webp",
+      "image_sha256": "31901678c3d2b58bc2f1cfef3b1b82d1f933fadf2d15ae0ebe90c44c68c08a44",
+      "image_bytes": 171720,
+      "source_url": "https://www.tcgcollector.com/cards/42375/charizard-ex-scarlet-and-violet-151-006-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 6
+    },
+    {
+      "id": 42376,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Squirtle",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/91/c8/48/91c8488e7667ff7ca3a0fff9edb04c35a02922e70586f4effe1e9a0c1ada4265.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/98/d1/25/98d125f1e2be158bd60f10d502b84a6dee454f264e008041e33ae4394e2b11cd.jpg",
+      "image_path": "images/cards/11584/007-42376.webp",
+      "image_sha256": "4d8114abf0ed9134bfdcd05d580448f3236bde4358258cddef630c7ca8638074",
+      "image_bytes": 145450,
+      "source_url": "https://www.tcgcollector.com/cards/42376/squirtle-scarlet-and-violet-151-007-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 7
+    },
+    {
+      "id": 42377,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Wartortle",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/87/97/90/8797906679659ce71a6b54152bf5a48c125ee9c4aa775013933fbbf435c8ef08.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7c/98/c0/7c98c0a375b282bef5684bda90be2374ef41019d267a2281577fb1942f3f0561.jpg",
+      "image_path": "images/cards/11584/008-42377.webp",
+      "image_sha256": "d06e8777e6e546c8b7d82b115889a7bb6dd5c40710afca0da20d0772c12d94e1",
+      "image_bytes": 139698,
+      "source_url": "https://www.tcgcollector.com/cards/42377/wartortle-scarlet-and-violet-151-008-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 8
+    },
+    {
+      "id": 42378,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Blastoise ex",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 165,
+      "rarity": "Double Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/89/3e/81/893e8185dbceceb0e20428a2b8266875dda5a8f3832338edf655d5a20ab4005f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/43/62/7e/43627e8b5def4fab6d2c2561c4dadceb3d759925949cdb52b609b4795e55a447.jpg",
+      "image_path": "images/cards/11584/009-42378.webp",
+      "image_sha256": "a48d794f544493dac7cb222d7abc23836ada7d32148d5d80faa7e7e6ad525a2f",
+      "image_bytes": 172548,
+      "source_url": "https://www.tcgcollector.com/cards/42378/blastoise-ex-scarlet-and-violet-151-009-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 9
+    },
+    {
+      "id": 42379,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Caterpie",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/fa/9e/4d/fa9e4dab64ca686ed7a4c152acf7eaca78dea51817818e3de2b88194b647d8f3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/12/61/71/1261715d45e75b90dbd87d6469d3f3ad479b10aca3781a99b09517b509339bfd.jpg",
+      "image_path": "images/cards/11584/010-42379.webp",
+      "image_sha256": "b00bf42e9259d347bb623ef7b578566eabf22d002838c1793115e1585ebc489f",
+      "image_bytes": 135841,
+      "source_url": "https://www.tcgcollector.com/cards/42379/caterpie-scarlet-and-violet-151-010-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 10
+    },
+    {
+      "id": 42380,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Metapod",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/07/bb/f9/07bbf9f401f82865513c3084363acec23a8e73daabc2427a99a750b0c7534044.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/18/1c/53/181c536dd63f421fc1819c5ed3a31a1cd921886b74b58b42145d3d7aa7b4acaa.jpg",
+      "image_path": "images/cards/11584/011-42380.webp",
+      "image_sha256": "ab8cb337e196a9e2a9e09fd8e5bf8948a54e796956114275414193d277f714c4",
+      "image_bytes": 146336,
+      "source_url": "https://www.tcgcollector.com/cards/42380/metapod-scarlet-and-violet-151-011-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 11
+    },
+    {
+      "id": 42381,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Butterfree",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/a4/cc/03/a4cc034662112bc70fd306b823278cb3dbf34eb2f2c717ce0d6c05c797503983.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7e/52/0d/7e520d0bd96ee71101f39019479e3d542420fe039ba6abb9df303f61cf6b3dc2.jpg",
+      "image_path": "images/cards/11584/012-42381.webp",
+      "image_sha256": "ea6c41589275a726b88d7f279074477480f8a75a9ecd4e791a3b909e223deb4d",
+      "image_bytes": 161629,
+      "source_url": "https://www.tcgcollector.com/cards/42381/butterfree-scarlet-and-violet-151-012-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 12
+    },
+    {
+      "id": 42382,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Weedle",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/35/12/44/35124451d640f3b2d99944e45f0af353450b1e182715fc317e87b2124f17ef8a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e7/f3/87/e7f387ac2966e152f494a0b2f05b11a3ad5709a4c767f19d9b1103b114df6c4a.jpg",
+      "image_path": "images/cards/11584/013-42382.webp",
+      "image_sha256": "887d3b09aca47dc5ee2167be8527f977cfab41c880b163626d34f9d2ed8a0adc",
+      "image_bytes": 118145,
+      "source_url": "https://www.tcgcollector.com/cards/42382/weedle-scarlet-and-violet-151-013-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 13
+    },
+    {
+      "id": 42383,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Kakuna",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/9b/70/8b/9b708bfdb5c4ba77d3d558c9d8e139ef30169760e2042c31924c5f3b73988ac9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f5/fa/f0/f5faf0fedeba28a3e4098aceef91086ec2295ac1458dd77edaa47ce403e49329.jpg",
+      "image_path": "images/cards/11584/014-42383.webp",
+      "image_sha256": "660fa54aea40db766890ab29e68dc0bd311a8a522090d27a26180f38a989de7a",
+      "image_bytes": 134892,
+      "source_url": "https://www.tcgcollector.com/cards/42383/kakuna-scarlet-and-violet-151-014-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 14
+    },
+    {
+      "id": 42384,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Beedrill",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/07/7f/86/077f86ed1916d6b9d7499c17a54ceae3597b235f3292a374410f7d308a80b7c9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a9/97/7b/a9977b8e8fbfbedb02ceb91e2a7f638b46de9aeb36b991c31b565719c61332d3.jpg",
+      "image_path": "images/cards/11584/015-42384.webp",
+      "image_sha256": "1d66cd225cf7887124507d784a67d8391be4df79017acb8a9bbb8a4300a333dd",
+      "image_bytes": 136245,
+      "source_url": "https://www.tcgcollector.com/cards/42384/beedrill-scarlet-and-violet-151-015-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 15
+    },
+    {
+      "id": 42385,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Pidgey",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/45/7f/d6/457fd625ac6f479a5d73dc0a532716d4143ecdac61aceca710b8a549ffa5fe7b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4b/23/54/4b2354dea6c9922bc1ed6516e8cc4bc8d8be1766543745bbf113fa2064caed27.jpg",
+      "image_path": "images/cards/11584/016-42385.webp",
+      "image_sha256": "cb056b5b27b71db4e2e78c6404ba5f7d3e4dbd8014bc3af8b8059ec2522517a9",
+      "image_bytes": 121694,
+      "source_url": "https://www.tcgcollector.com/cards/42385/pidgey-scarlet-and-violet-151-016-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 16
+    },
+    {
+      "id": 42386,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Pidgeotto",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a2/57/12/a25712d1b5660e9bcd2c7e5ba8418639968256faf59e08126bf1a3c62abc231e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0e/2e/9a/0e2e9ac2e620c6699496592956f3bd8d54d6f5d91198c7f4a1011b29216d1fac.jpg",
+      "image_path": "images/cards/11584/017-42386.webp",
+      "image_sha256": "4c1556296e11767b3d53df56ff9a301194a270a66b49357bbc3eec1e1ac5cbff",
+      "image_bytes": 104880,
+      "source_url": "https://www.tcgcollector.com/cards/42386/pidgeotto-scarlet-and-violet-151-017-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 17
+    },
+    {
+      "id": 42387,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Pidgeot",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/fe/07/44/fe074421d6d3f24ee65a80bba9417eab95230bdeb4cde2f2d83c62e0f6db0a99.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/85/7a/c5/857ac59347b4fd28cd8cfe35093ebc9a0f7445288920f2279acabee416bd08b8.jpg",
+      "image_path": "images/cards/11584/018-42387.webp",
+      "image_sha256": "122b75c5ef7ba9eff8dbe13bb2cc16a848fc5f9740177b8586c0c83cd4533491",
+      "image_bytes": 116030,
+      "source_url": "https://www.tcgcollector.com/cards/42387/pidgeot-scarlet-and-violet-151-018-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 18
+    },
+    {
+      "id": 42388,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Rattata",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/9c/a5/c1/9ca5c16983e3caa14dcd23d563fe15675d881cbcff5acacbc463190f9550c8e3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6c/1b/94/6c1b946fd61082cc52d0f4b6e3a7f141e97d6d05a719f8ea6cdb07027f6e1f39.jpg",
+      "image_path": "images/cards/11584/019-42388.webp",
+      "image_sha256": "5abc8daaddc7334faafc26db4902035e78edefd13ead91ab6d281d477e6071ea",
+      "image_bytes": 134194,
+      "source_url": "https://www.tcgcollector.com/cards/42388/rattata-scarlet-and-violet-151-019-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 19
+    },
+    {
+      "id": 42389,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Raticate",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/8d/0e/e0/8d0ee00ec91f3afe7ef5b8a6ed2412aff535870b173bc703ba0144beb2a554e4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d0/1d/f2/d01df29486db3236bc08b6ccc3fddff05fc497a726aca8c7e2e745d008865897.jpg",
+      "image_path": "images/cards/11584/020-42389.webp",
+      "image_sha256": "c55b16cae5819fb9fd7ab92c8bf60ddd22f26dd5608487f485204ef12d909175",
+      "image_bytes": 134617,
+      "source_url": "https://www.tcgcollector.com/cards/42389/raticate-scarlet-and-violet-151-020-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 20
+    },
+    {
+      "id": 42390,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Spearow",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/6a/a8/71/6aa871a55485f750fe8da3103d9d4e0032b16aa51467d54ecf67371ec4f197b2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0a/84/d6/0a84d61a7c76b1845268d9a80fd6bebd0c772a16e8b38557c29d02de89154ccc.jpg",
+      "image_path": "images/cards/11584/021-42390.webp",
+      "image_sha256": "a2ae0d96593d25787c12f8d39fd888a78adf4b37959e5399ef57e25b408b7ddd",
+      "image_bytes": 127537,
+      "source_url": "https://www.tcgcollector.com/cards/42390/spearow-scarlet-and-violet-151-021-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 21
+    },
+    {
+      "id": 42391,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Fearow",
+      "number": "022",
+      "number_value": 22,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/63/6e/bc/636ebc309303e6a04f60dfcb7267f8561930e19086f2a8c4287289d8758cf97d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/87/d7/c8/87d7c8fdf46e56bd5e2f7323d1348974950ecf2a2d2b933e812a6efb68c8a2a1.jpg",
+      "image_path": "images/cards/11584/022-42391.webp",
+      "image_sha256": "185dd28cb83f8409baf81cd3655c9ae33577d60d8016a1f1434c6be2a93a06e9",
+      "image_bytes": 130818,
+      "source_url": "https://www.tcgcollector.com/cards/42391/fearow-scarlet-and-violet-151-022-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 22
+    },
+    {
+      "id": 42392,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Ekans",
+      "number": "023",
+      "number_value": 23,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/4e/54/b3/4e54b3873c7ed9b6705862701fc108a4c2ce482042fbaaaba1d02ee332c44945.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3d/be/27/3dbe276e216d7a0969f4c03626a9cfe4d434c833f360ac326b1bcb2154a75bd9.jpg",
+      "image_path": "images/cards/11584/023-42392.webp",
+      "image_sha256": "ee38070b33b0c03c9e87918dc55969f37a709ceb8b7bc06a02d4af0a04096460",
+      "image_bytes": 143401,
+      "source_url": "https://www.tcgcollector.com/cards/42392/ekans-scarlet-and-violet-151-023-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 23
+    },
+    {
+      "id": 42393,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Arbok ex",
+      "number": "024",
+      "number_value": 24,
+      "printed_total": 165,
+      "rarity": "Double Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/52/2e/19/522e195f8ea55978c02b801cb201b4f7e998c96d50ed802a521205d19856a7f9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/37/71/23/37712320a5e40314671bc7a06cb77092cf4ef121801a0f4a0233cb9230e934bb.jpg",
+      "image_path": "images/cards/11584/024-42393.webp",
+      "image_sha256": "bcf31b0dd788d92f609a1b7a1804b48afa899abb8987661dba702d1a9830c20a",
+      "image_bytes": 144027,
+      "source_url": "https://www.tcgcollector.com/cards/42393/arbok-ex-scarlet-and-violet-151-024-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 24
+    },
+    {
+      "id": 42394,
+      "set_id": 11584,
+      "set_ids": [
+        11584,
+        12126
+      ],
+      "name": "Pikachu",
+      "number": "025",
+      "number_value": 25,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/b0/f0/4e/b0f04ecd7de33ecfa03726130586b0ddb5d9cde29a7884b728a37a2f914f0020.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d0/5c/b1/d05cb1b6c4772beca514759319320c3e27a456cf370bd0a488a7a9c4f6627679.jpg",
+      "image_path": "images/cards/11584/025-42394.webp",
+      "image_sha256": "4d3894f83efea851aa85bc63d41e0b56fb5da171e60ee6a5fb0b4da836f9d84b",
+      "image_bytes": 122355,
+      "source_url": "https://www.tcgcollector.com/cards/42394/pikachu-scarlet-and-violet-151-025-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 25
+    },
+    {
+      "id": 42395,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Raichu",
+      "number": "026",
+      "number_value": 26,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/4e/bc/60/4ebc6056c0f935e337cb1ce4456ea1087b22c3a8a7b94977a763badb6d0dcebd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/81/76/69/8176692b588e55091a66c02ce872443bb385fb44ffe680d9947039d7db60733e.jpg",
+      "image_path": "images/cards/11584/026-42395.webp",
+      "image_sha256": "9299e62c8885a905a83b185d38581a8b17426f03a84bb6e91121b2a9d69f5ff9",
+      "image_bytes": 137551,
+      "source_url": "https://www.tcgcollector.com/cards/42395/raichu-scarlet-and-violet-151-026-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 26
+    },
+    {
+      "id": 42396,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Sandshrew",
+      "number": "027",
+      "number_value": 27,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/20/e8/fd/20e8fd80aa166966efde67f61daeac68370204f606cd6e51dced792c7b0e2ed3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7b/fb/62/7bfb62bac11f788716db09ea50209ea8cc87d2595b330e5422df8b23c410e445.jpg",
+      "image_path": "images/cards/11584/027-42396.webp",
+      "image_sha256": "8ef6b3b89011aea85b467bbe7024e13c37fca945cac42592ddfe9b4383c00d36",
+      "image_bytes": 135690,
+      "source_url": "https://www.tcgcollector.com/cards/42396/sandshrew-scarlet-and-violet-151-027-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 27
+    },
+    {
+      "id": 42397,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Sandslash",
+      "number": "028",
+      "number_value": 28,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/cb/73/9b/cb739b7b5644e87efc98f718f5d231af3b68ff9bd7fae3074ea596cb637ac785.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5e/ce/bf/5ecebf8810549ee5bfe0fe74cc0dbdca85a415f2cb6cca9ec3472a82a4c30926.jpg",
+      "image_path": "images/cards/11584/028-42397.webp",
+      "image_sha256": "0b7b936742a36250144567105b54363340aeabae7bf3aabe876413ed04519352",
+      "image_bytes": 147658,
+      "source_url": "https://www.tcgcollector.com/cards/42397/sandslash-scarlet-and-violet-151-028-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 28
+    },
+    {
+      "id": 42398,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Nidoran ♀",
+      "number": "029",
+      "number_value": 29,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/02/c8/38/02c8386303d265ee6c2fb892f89b1f62b319d797fd468180e9e9fe62b5ba7742.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/dd/4c/54/dd4c54ae381a2b44bdd216be380da3c4d2c208193d4ca4d84d3b46d70ecc0eff.jpg",
+      "image_path": "images/cards/11584/029-42398.webp",
+      "image_sha256": "655457dc756740a8aca6097216d44ebf171447fbb2cb1612c4e16969de668b21",
+      "image_bytes": 141332,
+      "source_url": "https://www.tcgcollector.com/cards/42398/nidoran-female-scarlet-and-violet-151-029-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 29
+    },
+    {
+      "id": 42399,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Nidorina",
+      "number": "030",
+      "number_value": 30,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/78/53/de/7853de67f023263a36ceca064793c30d08f8d3804b9ee2dfca046fcea1d4b758.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/74/9d/e9/749de9f8dd96705901747cbc9cba4fe9023d46b51312494ae5a0aa68f1075b82.jpg",
+      "image_path": "images/cards/11584/030-42399.webp",
+      "image_sha256": "9ca80f50f24b63b82866f28c0d5b76e0c0ff2fc57ae17936b8d412d72239db84",
+      "image_bytes": 145078,
+      "source_url": "https://www.tcgcollector.com/cards/42399/nidorina-scarlet-and-violet-151-030-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 30
+    },
+    {
+      "id": 42400,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Nidoqueen",
+      "number": "031",
+      "number_value": 31,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/9c/43/ed/9c43ed38e7687269446e285c04c9487bfbbc6c618306e92277dca37ae140dbcc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e2/22/95/e2229502f2e0b3b879ae34f00311ce28e6f51a6524b707e3e6ff9d9d603310da.jpg",
+      "image_path": "images/cards/11584/031-42400.webp",
+      "image_sha256": "4f546899c11a4203d1f69478d3d063332fcb4baf42fde81d1dab6a9c4f9f8e3c",
+      "image_bytes": 149588,
+      "source_url": "https://www.tcgcollector.com/cards/42400/nidoqueen-scarlet-and-violet-151-031-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 31
+    },
+    {
+      "id": 42401,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Nidoran ♂",
+      "number": "032",
+      "number_value": 32,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a6/b6/c2/a6b6c2b9d0ffcb0e406f8ac5c13e049063c214060f06b3c6a5296785cc1a48a8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7f/60/04/7f600472635dda9eb7fd3ae4e7b3b1640aa739765d3e7c91e3c245e434645cbc.jpg",
+      "image_path": "images/cards/11584/032-42401.webp",
+      "image_sha256": "0fadaec49e4b34b1c55de8d0fb5b07b84dbb2665cd76d89673d36266402f0bc2",
+      "image_bytes": 131017,
+      "source_url": "https://www.tcgcollector.com/cards/42401/nidoran-male-scarlet-and-violet-151-032-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 32
+    },
+    {
+      "id": 42402,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Nidorino",
+      "number": "033",
+      "number_value": 33,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/c7/7d/f5/c77df5544493d3189dba279c4fa08528619d4883fd0a9134534b2c09ee874f18.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c3/30/9b/c3309b882157b2b0f858678457d967ed941cefd8256d6df9022134d867b95333.jpg",
+      "image_path": "images/cards/11584/033-42402.webp",
+      "image_sha256": "1c1943ab1f0271aed0d560bb2b51f2fc4564d0eed3d91ebe9147797b72a58a11",
+      "image_bytes": 137555,
+      "source_url": "https://www.tcgcollector.com/cards/42402/nidorino-scarlet-and-violet-151-033-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 33
+    },
+    {
+      "id": 42403,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Nidoking",
+      "number": "034",
+      "number_value": 34,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/99/ed/b1/99edb19ef69dc8f44a35e02c741f593726a41459e987bd7c30157855ad19b9ff.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bf/65/fd/bf65fd9b9d470ec961efe4016251a64b5d3612e07e8c2e95aa3e5fb67b97176c.jpg",
+      "image_path": "images/cards/11584/034-42403.webp",
+      "image_sha256": "b902ebe500ba779326aeab5b753c3328949704b27778331c83fd37e9c611ea04",
+      "image_bytes": 155622,
+      "source_url": "https://www.tcgcollector.com/cards/42403/nidoking-scarlet-and-violet-151-034-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 34
+    },
+    {
+      "id": 42404,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Clefairy",
+      "number": "035",
+      "number_value": 35,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/8c/34/cf/8c34cf84214cf8bd80ffe006ec1597770f1ead0a749f41121a1a48e06e783024.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3e/54/99/3e549981411793fe3bf9db453f88b203dd6842f5606571b3d8926be71825766f.jpg",
+      "image_path": "images/cards/11584/035-42404.webp",
+      "image_sha256": "0c2e96192f40d6a031a40b34ea3e6344050e4350c70bb0e031d9c7d357bad598",
+      "image_bytes": 129201,
+      "source_url": "https://www.tcgcollector.com/cards/42404/clefairy-scarlet-and-violet-151-035-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 35
+    },
+    {
+      "id": 42405,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Clefable",
+      "number": "036",
+      "number_value": 36,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b5/09/52/b509529e67c928c6c6ccab516b2d468f5855a682e7d434d96eaf9a4ec06ecaa7.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bb/58/32/bb583207b05b9a7495b976da37216e3b59dea94f99334adff805431eb4dd6b8e.jpg",
+      "image_path": "images/cards/11584/036-42405.webp",
+      "image_sha256": "4b1991c334f54945d62579ece7de92039af68be3a1a880d83f355350eaae4b94",
+      "image_bytes": 139838,
+      "source_url": "https://www.tcgcollector.com/cards/42405/clefable-scarlet-and-violet-151-036-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 36
+    },
+    {
+      "id": 42406,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Vulpix",
+      "number": "037",
+      "number_value": 37,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e6/fd/f8/e6fdf898d68e346d0cfb0f0a25654752c5a08a25d7fa9fe7b021b5145989a824.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a7/23/8c/a7238c080764450d7c1f13deb144927d5c267678e44635543bd128f0ffcb5efb.jpg",
+      "image_path": "images/cards/11584/037-42406.webp",
+      "image_sha256": "f1d88ea2b35f9399b39169de08ed6b4e4b7ff48996349b6a4fa31af6f55c970b",
+      "image_bytes": 130093,
+      "source_url": "https://www.tcgcollector.com/cards/42406/vulpix-scarlet-and-violet-151-037-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 37
+    },
+    {
+      "id": 42407,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Ninetales ex",
+      "number": "038",
+      "number_value": 38,
+      "printed_total": 165,
+      "rarity": "Double Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ce/5b/24/ce5b24ca0eb088c3f481a20035bb575c7383112919479c67c42eff1739470bfe.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c7/63/24/c7632455cf867a59e62e850dd00ed6c85b834ca212155f462227a24e28155f0d.jpg",
+      "image_path": "images/cards/11584/038-42407.webp",
+      "image_sha256": "f28c0b83b86f5dc18f7076725f22748eaf4303b9922d12ab8fb3d0cebdad9bc8",
+      "image_bytes": 147803,
+      "source_url": "https://www.tcgcollector.com/cards/42407/ninetales-ex-scarlet-and-violet-151-038-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 38
+    },
+    {
+      "id": 42408,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Jigglypuff",
+      "number": "039",
+      "number_value": 39,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a1/10/83/a110830d3e3d8558685d620dfe3b61f7e8936317f865e92442b1c7c02d0c243b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c2/a1/76/c2a1764c20aefb4a243351ec954ebb63a34293c8c22a4288d7f0ebe64ad75810.jpg",
+      "image_path": "images/cards/11584/039-42408.webp",
+      "image_sha256": "c9a37ab29563a4c7cd16dc0627f34bca955e1214fed4638b4c3f1377210a8206",
+      "image_bytes": 139252,
+      "source_url": "https://www.tcgcollector.com/cards/42408/jigglypuff-scarlet-and-violet-151-039-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 39
+    },
+    {
+      "id": 42409,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Wigglytuff ex",
+      "number": "040",
+      "number_value": 40,
+      "printed_total": 165,
+      "rarity": "Double Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/57/44/77/574477da1b538900ef6207c82ce802be6417b54f843132783efa405215c332da.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8d/77/ef/8d77ef5cb99cf06d2ed983a97bfbe46bc445706fe15598849cb239a81ad9ed07.jpg",
+      "image_path": "images/cards/11584/040-42409.webp",
+      "image_sha256": "47c59862fa4ebdbb312763340359a2a2886bd202e5acb9e2d26653052f129734",
+      "image_bytes": 122116,
+      "source_url": "https://www.tcgcollector.com/cards/42409/wigglytuff-ex-scarlet-and-violet-151-040-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 40
+    },
+    {
+      "id": 42410,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Zubat",
+      "number": "041",
+      "number_value": 41,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/5a/91/d9/5a91d92de83085c2c3bed7e9d6dee5c06dabb968d86f4fca0cf66a0ff1ae5077.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f4/af/17/f4af177f2541883eccf06c19b174514dda995bb43b9af28dca43eb51ee620af8.jpg",
+      "image_path": "images/cards/11584/041-42410.webp",
+      "image_sha256": "a821fc38aa3a3ffa913134b7073884f3bbb30bae2d04bce0adeed7e0d2f33357",
+      "image_bytes": 146563,
+      "source_url": "https://www.tcgcollector.com/cards/42410/zubat-scarlet-and-violet-151-041-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 41
+    },
+    {
+      "id": 42411,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Golbat",
+      "number": "042",
+      "number_value": 42,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/58/1b/a9/581ba9c614d13d198095e03f8350d7bafc9658e6e40232e802a0b25d9f4d1f95.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/07/56/27/0756278ecf9c01f17c07906d7dcc20d5e128469358a4ea2cfe51ecb4cc7d5c78.jpg",
+      "image_path": "images/cards/11584/042-42411.webp",
+      "image_sha256": "b9211bc09546668b4ae65097257745f4adc1124514844e1153b86689f6f26d41",
+      "image_bytes": 155625,
+      "source_url": "https://www.tcgcollector.com/cards/42411/golbat-scarlet-and-violet-151-042-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 42
+    },
+    {
+      "id": 42412,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Oddish",
+      "number": "043",
+      "number_value": 43,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/70/ce/c2/70cec271d9bbc2b800c97e29f65bbf571d7df8b9cb22b10f9631df7f4e5d7fc3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e1/c0/6d/e1c06d472f60c38153096595b4285a0b58a6cb91ebe2a43a7fe7b8883eb41a84.jpg",
+      "image_path": "images/cards/11584/043-42412.webp",
+      "image_sha256": "e484aaf758877aabefb4469ae9718155ace621cd58acea4dd6418aa9baf5d027",
+      "image_bytes": 124088,
+      "source_url": "https://www.tcgcollector.com/cards/42412/oddish-scarlet-and-violet-151-043-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 43
+    },
+    {
+      "id": 42413,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Gloom",
+      "number": "044",
+      "number_value": 44,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/70/da/73/70da7320d9eaff25697e11779cc2e6aa7727d930fe1e9c85344be92365cc8b05.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e5/76/84/e5768436bd7ec4c2236dcec22b000376063579039cb5b3599ee94fcaaf4963c4.jpg",
+      "image_path": "images/cards/11584/044-42413.webp",
+      "image_sha256": "c8876299b072f71fba9b82e1231a72b90cbdded3d28320480ab1e6a72d26004a",
+      "image_bytes": 154170,
+      "source_url": "https://www.tcgcollector.com/cards/42413/gloom-scarlet-and-violet-151-044-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 44
+    },
+    {
+      "id": 42414,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Vileplume",
+      "number": "045",
+      "number_value": 45,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/b5/6c/27/b56c278a1a4c5c75d91ca646da485722531f6556c6e33fdbd55368fe31b2bf7a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/29/43/30/294330179767b3995a94639eb0d8bb13c581677efbe949ea89ba64d7d5274dc2.jpg",
+      "image_path": "images/cards/11584/045-42414.webp",
+      "image_sha256": "2da01ad06dec8a176b5633f606f0a1fcb66a7b30234b7540ad907140f6a0057c",
+      "image_bytes": 158931,
+      "source_url": "https://www.tcgcollector.com/cards/42414/vileplume-scarlet-and-violet-151-045-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 45
+    },
+    {
+      "id": 42415,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Paras",
+      "number": "046",
+      "number_value": 46,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a9/54/08/a954084807544e078234eabeb9d607859d22f29313a169292218503a354955fe.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/39/c6/be/39c6be84a0ca6cb383e64ffbe7fa6638f655637b14b35a1176275cfd155fb861.jpg",
+      "image_path": "images/cards/11584/046-42415.webp",
+      "image_sha256": "8ef05b4bc9df2f7ca41b1d2ff4163676a137fcca66191ef4ae3a685cf4f2ccf3",
+      "image_bytes": 138864,
+      "source_url": "https://www.tcgcollector.com/cards/42415/paras-scarlet-and-violet-151-046-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 46
+    },
+    {
+      "id": 42416,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Parasect",
+      "number": "047",
+      "number_value": 47,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/15/dd/b0/15ddb0b4bf76541ba9e349a6f67cf49854abf6f271e72baf24774cbfa6036241.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4e/97/1a/4e971ad1a655aa882d39a39d0feee56930e72d47038e09472479110d1e38c3f5.jpg",
+      "image_path": "images/cards/11584/047-42416.webp",
+      "image_sha256": "548f623dea04cb31f401fa26757653982290692fe07b4376c8cdd0238e8614af",
+      "image_bytes": 146929,
+      "source_url": "https://www.tcgcollector.com/cards/42416/parasect-scarlet-and-violet-151-047-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 47
+    },
+    {
+      "id": 42417,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Venonat",
+      "number": "048",
+      "number_value": 48,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/d6/3c/de/d63cde6db0adbc4da84ef209dfffc2631add4f0a7fe6bf515a3d664797e6afdb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f8/c2/eb/f8c2eb28f873d72218eb6b75de221ef5353d423d30ec3345412b9b2c5fe536cd.jpg",
+      "image_path": "images/cards/11584/048-42417.webp",
+      "image_sha256": "560c9703a5334a25396d4dd93f29c2ba10955d37fffcc4e1b53e04322c64800a",
+      "image_bytes": 119186,
+      "source_url": "https://www.tcgcollector.com/cards/42417/venonat-scarlet-and-violet-151-048-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 48
+    },
+    {
+      "id": 42418,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Venomoth",
+      "number": "049",
+      "number_value": 49,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/9d/d3/2f/9dd32f5a2a363cff74f5939a6a10b1db2c2f48843bb9e252b07eb0d133779766.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2d/1b/21/2d1b21989aced1ae0ed73119983c9f60b41226357869e28fdba4ac50d1b0a38e.jpg",
+      "image_path": "images/cards/11584/049-42418.webp",
+      "image_sha256": "02a3e11792fdf7a3438d05ead2281dcf231e8915bcae2783d933fc40b91d9b51",
+      "image_bytes": 143735,
+      "source_url": "https://www.tcgcollector.com/cards/42418/venomoth-scarlet-and-violet-151-049-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 49
+    },
+    {
+      "id": 42419,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Diglett",
+      "number": "050",
+      "number_value": 50,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/c9/ef/6e/c9ef6e5146a6dd92642bdd7f533a258f4ecc29ad66083d88cff4fe220026a63f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f2/83/a7/f283a71fd5289f578071046f2d180cfa173abea8fa46ff53bda6ba1ecbdc9596.jpg",
+      "image_path": "images/cards/11584/050-42419.webp",
+      "image_sha256": "73a1ff2c70c09ea49f8601d438852c807aa15cc099e5572775a03d3135dff55b",
+      "image_bytes": 121567,
+      "source_url": "https://www.tcgcollector.com/cards/42419/diglett-scarlet-and-violet-151-050-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 50
+    },
+    {
+      "id": 42420,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Dugtrio",
+      "number": "051",
+      "number_value": 51,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b4/cd/8d/b4cd8df9a23ac36bdde9d57febe70eefc3aa065b0d15be2e93c3f2575fb8081e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e9/7d/1d/e97d1d7e8b73c25e2015dbe1dd452f587ab6f6c03bf03584b0821b6f49323f8a.jpg",
+      "image_path": "images/cards/11584/051-42420.webp",
+      "image_sha256": "d918b1faeed2bd188ebe55ed4e55d0b19dd3af255753962de0ff7234b7b189c5",
+      "image_bytes": 132470,
+      "source_url": "https://www.tcgcollector.com/cards/42420/dugtrio-scarlet-and-violet-151-051-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 51
+    },
+    {
+      "id": 42421,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Meowth",
+      "number": "052",
+      "number_value": 52,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/5e/b1/0a/5eb10a15ca5414c7389ce5a8f7cb8261598f16c38256cd56a13146d373fefa4a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0a/16/64/0a1664cacb535f5fddfbd8b8378c56257d05507f5f97885e4d3198eaaace17c7.jpg",
+      "image_path": "images/cards/11584/052-42421.webp",
+      "image_sha256": "1dc67d8f2f6b5e04f23cebe0097f70fce6fa1b1a2b85a8aaa1eb69e48882f53b",
+      "image_bytes": 132139,
+      "source_url": "https://www.tcgcollector.com/cards/42421/meowth-scarlet-and-violet-151-052-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 52
+    },
+    {
+      "id": 42422,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Persian",
+      "number": "053",
+      "number_value": 53,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/cf/75/97/cf759767467fe83819e7d0b4ac2019d27d1f05be0ee88563b5929f9fdd588235.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/90/20/d2/9020d2151cc166231b67ce2cb291849373ffa4838bc1f962dfb3b0dc2a12a66c.jpg",
+      "image_path": "images/cards/11584/053-42422.webp",
+      "image_sha256": "a518d9285ffccd32e4de463b744e2acc6f77680d384170c63f6514a2045b14e4",
+      "image_bytes": 125169,
+      "source_url": "https://www.tcgcollector.com/cards/42422/persian-scarlet-and-violet-151-053-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 53
+    },
+    {
+      "id": 42423,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Psyduck",
+      "number": "054",
+      "number_value": 54,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f0/81/7e/f0817e30de8c52f2589dd9c4d8363c0ca641ff479da5fc98604e63ddb56b8fe2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b5/39/f8/b539f8f65244eb4bd551b84205530f39924cd646f659670ed65524bdb902e51c.jpg",
+      "image_path": "images/cards/11584/054-42423.webp",
+      "image_sha256": "cae6d68d5100d51de573ff7f5f63aff11ceaf512c09511e49e32ec984b7b3d7c",
+      "image_bytes": 142244,
+      "source_url": "https://www.tcgcollector.com/cards/42423/psyduck-scarlet-and-violet-151-054-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 54
+    },
+    {
+      "id": 42424,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Golduck",
+      "number": "055",
+      "number_value": 55,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d9/e4/4e/d9e44e45f94f69e420e57e01197f9836efcc37e9cb45621ed8fe029e0e6d01dd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a4/6d/b2/a46db2dd9432d7cdde172ca43f3d334b02cc2750b56a4b4886ed2671fa40cc16.jpg",
+      "image_path": "images/cards/11584/055-42424.webp",
+      "image_sha256": "94656a12a88869dc4f2ed48463992800ba844dd650f4cb2a8057b192408c1d56",
+      "image_bytes": 150875,
+      "source_url": "https://www.tcgcollector.com/cards/42424/golduck-scarlet-and-violet-151-055-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 55
+    },
+    {
+      "id": 42425,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Mankey",
+      "number": "056",
+      "number_value": 56,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/15/3a/be/153abedc2672456aefb8296338413b6dc9dc4a43161afae0b2f864a33773b99a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8b/e0/d5/8be0d5d50d11e6147937a45e4a774f877bd740ac5cc26f12b48d11928258b678.jpg",
+      "image_path": "images/cards/11584/056-42425.webp",
+      "image_sha256": "dfe8736f61c2bf78f8cef1710a64cf0b76336a6dbc341894e9b943c514665f8b",
+      "image_bytes": 163252,
+      "source_url": "https://www.tcgcollector.com/cards/42425/mankey-scarlet-and-violet-151-056-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 56
+    },
+    {
+      "id": 42426,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Primeape",
+      "number": "057",
+      "number_value": 57,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/c5/9f/90/c59f90bbfb1218dc9d0a494206086eb4c78741db12fbd6f0d383ad4dbd65a806.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ef/ef/df/efefdf33b71c66f001e605ecf541efd7b515d94dea58854f03d77ed78c04773e.jpg",
+      "image_path": "images/cards/11584/057-42426.webp",
+      "image_sha256": "c6fc9c477e6eb4854630779376c522866bcdcf8775a48e0e3a1a4e8ea234d8c4",
+      "image_bytes": 163201,
+      "source_url": "https://www.tcgcollector.com/cards/42426/primeape-scarlet-and-violet-151-057-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 57
+    },
+    {
+      "id": 42427,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Growlithe",
+      "number": "058",
+      "number_value": 58,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/16/e2/e6/16e2e66c2366c77f78582b5378b2954373836217da8fa200626bd546871255c5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/07/81/94/0781942a9dd267e50af4cb1e8973492a24ec43778ec8c5b36b1095a1640c29e8.jpg",
+      "image_path": "images/cards/11584/058-42427.webp",
+      "image_sha256": "76031fda05e996f7b875fda784c78d1e32b62771e9f0da37e7c73fd79adf0925",
+      "image_bytes": 133332,
+      "source_url": "https://www.tcgcollector.com/cards/42427/growlithe-scarlet-and-violet-151-058-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 58
+    },
+    {
+      "id": 42428,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Arcanine",
+      "number": "059",
+      "number_value": 59,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/dc/9d/06/dc9d0693185ee7214b971aa79eb247234df11bdc01c9a4ad35f56c83edfa26e8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bf/f7/f6/bff7f6f3bd946aaf597bdcbc4fde5feaa562a81d60e214680d1faeef0084a7aa.jpg",
+      "image_path": "images/cards/11584/059-42428.webp",
+      "image_sha256": "b6227e593038c17c23a49f6d90e05e47e7b357f7f1c95d9240a09beac7ad3b96",
+      "image_bytes": 141468,
+      "source_url": "https://www.tcgcollector.com/cards/42428/arcanine-scarlet-and-violet-151-059-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 59
+    },
+    {
+      "id": 42429,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Poliwag",
+      "number": "060",
+      "number_value": 60,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e9/a6/0f/e9a60f9ebd92c4e1bb65cb8ef1646f58c2b50904ce53d3d0b148f2f189565667.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/36/30/9f/36309fb898044d31ea9063af6eb1f90c6200b95c134ad35d95913a93b0b14f6c.jpg",
+      "image_path": "images/cards/11584/060-42429.webp",
+      "image_sha256": "133808f5568509ec02cf9b6f7d9e1c07e35b1a01929f37b4cb688fa3176ce015",
+      "image_bytes": 138637,
+      "source_url": "https://www.tcgcollector.com/cards/42429/poliwag-scarlet-and-violet-151-060-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 60
+    },
+    {
+      "id": 42430,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Poliwhirl",
+      "number": "061",
+      "number_value": 61,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/aa/af/b6/aaafb65fcf17d6e22c21b32edae2c1984dab2f6121157392cff911f7c9e601c2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a0/e4/d7/a0e4d7429d6b293e554d99c2681566acc3e70bdc39057c506261d6242e92c6a6.jpg",
+      "image_path": "images/cards/11584/061-42430.webp",
+      "image_sha256": "f2dc33e8845b0842e9ba9a93a523c5320cc20df58b956ffc9f6db60f958da48d",
+      "image_bytes": 142129,
+      "source_url": "https://www.tcgcollector.com/cards/42430/poliwhirl-scarlet-and-violet-151-061-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 61
+    },
+    {
+      "id": 42431,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Poliwrath",
+      "number": "062",
+      "number_value": 62,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/fe/97/35/fe9735cfa20a462b1ba08c66d3619aa9607905eb4bb0b79ce7f79b3cef8c7135.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c0/02/50/c002509d2beea47c473dc0f79380289c76dedb478669f4458ce7063bc78a68de.jpg",
+      "image_path": "images/cards/11584/062-42431.webp",
+      "image_sha256": "e258dfcc48f4cc93d0e7f3c7d47d152db2a7f10c99c04cdd7ff3495bc3b2401d",
+      "image_bytes": 154147,
+      "source_url": "https://www.tcgcollector.com/cards/42431/poliwrath-scarlet-and-violet-151-062-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 62
+    },
+    {
+      "id": 42432,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Abra",
+      "number": "063",
+      "number_value": 63,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a4/05/b2/a405b2838de2d8164f187f12dd2d04890fd0353a975ff5c1838932e2b993bc75.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5a/94/43/5a9443fe94442b8ada746992e4fc599415b509d088fa2efa700f27cfcc1d2a69.jpg",
+      "image_path": "images/cards/11584/063-42432.webp",
+      "image_sha256": "8f2b76c40c41a0acaa843cda476abb9b8b09fce4f1e7147dee255090fa6c9cfa",
+      "image_bytes": 121596,
+      "source_url": "https://www.tcgcollector.com/cards/42432/abra-scarlet-and-violet-151-063-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 63
+    },
+    {
+      "id": 42433,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Kadabra",
+      "number": "064",
+      "number_value": 64,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f2/3a/c4/f23ac4d0d9b897384d631a46ff124603c51e0b4d7934f1041f25246c7ad3f18e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5b/71/92/5b7192758a24f5437fc46d9ad62e53d298bff14630ab4f62875e7db29f9b64e7.jpg",
+      "image_path": "images/cards/11584/064-42433.webp",
+      "image_sha256": "b3e742d6fb97a798ee2b7c58eb510c09ab7fdd8d4e40b2b0020dbb0af65ba3c0",
+      "image_bytes": 135026,
+      "source_url": "https://www.tcgcollector.com/cards/42433/kadabra-scarlet-and-violet-151-064-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 64
+    },
+    {
+      "id": 42434,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Alakazam ex",
+      "number": "065",
+      "number_value": 65,
+      "printed_total": 165,
+      "rarity": "Double Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/38/1b/e2/381be24a36d3e64e1965dd2c2b716a318b45662f60d9abec11f999f9f4beffb1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c6/89/8f/c6898fea36c83f2d3796e5a4999b7837dbc0143fdad12422899336ca66988327.jpg",
+      "image_path": "images/cards/11584/065-42434.webp",
+      "image_sha256": "375770b25db615dd6b97e36f6cccc6c48bd4c5a33246a23f788235bb9c000a4a",
+      "image_bytes": 141094,
+      "source_url": "https://www.tcgcollector.com/cards/42434/alakazam-ex-scarlet-and-violet-151-065-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 65
+    },
+    {
+      "id": 42435,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Machop",
+      "number": "066",
+      "number_value": 66,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/5c/4a/1e/5c4a1ea131edd2059e4aa4a87e31eae857a6880df6ab9e29160c999246e3e590.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c3/1b/1a/c31b1a8c43202eaccdc816eda1e16661725c6779748122e27ba6ebff798c6b47.jpg",
+      "image_path": "images/cards/11584/066-42435.webp",
+      "image_sha256": "7e556dea95be060ab7fbf68b5f9d8ace186b2eb4fe1606bdec4c3eaac4752443",
+      "image_bytes": 136153,
+      "source_url": "https://www.tcgcollector.com/cards/42435/machop-scarlet-and-violet-151-066-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 66
+    },
+    {
+      "id": 42436,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Machoke",
+      "number": "067",
+      "number_value": 67,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/fc/89/84/fc8984072ee17045b505bc438aee00106d4b60f23da9b73f846015dfc29078a3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f4/bd/c3/f4bdc39d0e8f42ca752d9348d886b19baebb19204c077019d987cce401c4f4de.jpg",
+      "image_path": "images/cards/11584/067-42436.webp",
+      "image_sha256": "4e82935b3ff4910cd9235c954460628b2703bed81cd09b7cba88171e5f3abbd1",
+      "image_bytes": 156072,
+      "source_url": "https://www.tcgcollector.com/cards/42436/machoke-scarlet-and-violet-151-067-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 67
+    },
+    {
+      "id": 42437,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Machamp",
+      "number": "068",
+      "number_value": 68,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/53/07/39/5307392f66ce83ee54d150fed5be52ae4801a490cdac5297f5929f79ddd73355.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fa/67/ba/fa67babed5e0c9384690bdbfac09c151e15bafb6eaedb1af85466a6e152b85d1.jpg",
+      "image_path": "images/cards/11584/068-42437.webp",
+      "image_sha256": "aad318f45051848a7fedca79df4257a258d31bc31a916401355f40676a6204cf",
+      "image_bytes": 160634,
+      "source_url": "https://www.tcgcollector.com/cards/42437/machamp-scarlet-and-violet-151-068-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 68
+    },
+    {
+      "id": 42438,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Bellsprout",
+      "number": "069",
+      "number_value": 69,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/d2/9b/16/d29b169d650869d6dab9cc4234f205aa8b09adbf08aec3a902fbc3f73a4451e2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e9/53/f0/e953f046aa6d96714e91d515301be536e277727424ed5c99891cc9a4716bb4c4.jpg",
+      "image_path": "images/cards/11584/069-42438.webp",
+      "image_sha256": "17e9af3b58eab5584650257e69c4c2065880cfe142ac1d2b989c9cebc05a9891",
+      "image_bytes": 140588,
+      "source_url": "https://www.tcgcollector.com/cards/42438/bellsprout-scarlet-and-violet-151-069-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 69
+    },
+    {
+      "id": 42439,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Weepinbell",
+      "number": "070",
+      "number_value": 70,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/06/a0/ab/06a0ab7c9bb0743684cc6aced2b0adc95f10244da2d5450f649aa56d99dc6884.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/21/ae/42/21ae42160aaaa9813029280389e98730649c646edd88f90347cb4a4309299103.jpg",
+      "image_path": "images/cards/11584/070-42439.webp",
+      "image_sha256": "e3b709bcc08b87e914d6185da4091c5c30c49eebd0f2961e61d84829cbc552ec",
+      "image_bytes": 131856,
+      "source_url": "https://www.tcgcollector.com/cards/42439/weepinbell-scarlet-and-violet-151-070-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 70
+    },
+    {
+      "id": 42440,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Victreebel",
+      "number": "071",
+      "number_value": 71,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/48/c7/77/48c7776cfbd2f6b0bb8deb0f4ecae760662a5144af794a0be236e6e374d8a17b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7b/df/f4/7bdff4027f527f93a6a4f65f5b14d2e4c3e74e19a654ecabf855def00542364f.jpg",
+      "image_path": "images/cards/11584/071-42440.webp",
+      "image_sha256": "89d5c9573785a30c70079f1fb007710ee02a0a9fa65793e68503e1e6bf2de114",
+      "image_bytes": 144557,
+      "source_url": "https://www.tcgcollector.com/cards/42440/victreebel-scarlet-and-violet-151-071-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 71
+    },
+    {
+      "id": 42441,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Tentacool",
+      "number": "072",
+      "number_value": 72,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ea/55/46/ea554639ae7c9f6852e0e37baad4338d313a0ccf412e100273fbfcc4832597ec.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d1/df/72/d1df7202277f10befb932e66f011541be83d01fa04b0c9124830bcdd7b91fcb4.jpg",
+      "image_path": "images/cards/11584/072-42441.webp",
+      "image_sha256": "8c3ea4a06b0c264beafe855c04b35a3e884cc0d2b4fa0c0cbba29058cd88d274",
+      "image_bytes": 131012,
+      "source_url": "https://www.tcgcollector.com/cards/42441/tentacool-scarlet-and-violet-151-072-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 72
+    },
+    {
+      "id": 42442,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Tentacruel",
+      "number": "073",
+      "number_value": 73,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ab/be/3e/abbe3ea0412295db7e7505657be9dab0a343c24f6ce5d66474ec152f7f653b88.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/07/5d/1e/075d1e0c793a0814ebe6d52a2d122c24040e77e69039619140749b5077dd81c6.jpg",
+      "image_path": "images/cards/11584/073-42442.webp",
+      "image_sha256": "5b11378091488fdc09c6ab06037a865ab317904602f1bc55d743ad8c7a20838a",
+      "image_bytes": 150352,
+      "source_url": "https://www.tcgcollector.com/cards/42442/tentacruel-scarlet-and-violet-151-073-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 73
+    },
+    {
+      "id": 42443,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Geodude",
+      "number": "074",
+      "number_value": 74,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/a5/2c/a1/a52ca1b25fcd9e59f9aa75b65ca2db36c2e622dbaedb23ca62a9b46662e73ef6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b1/68/3d/b1683dd1d130c6dd7201d6dd0dacfd01657156831dc58f2cd64408b9c88181c3.jpg",
+      "image_path": "images/cards/11584/074-42443.webp",
+      "image_sha256": "23b2a641a6db43db42615dc99cc41d00b38a463cda6980e0ff63205d14e72e5c",
+      "image_bytes": 141505,
+      "source_url": "https://www.tcgcollector.com/cards/42443/geodude-scarlet-and-violet-151-074-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 74
+    },
+    {
+      "id": 42444,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Graveler",
+      "number": "075",
+      "number_value": 75,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/bb/40/05/bb4005a72972bd1e2f1014aa02596d2da970a628b759254943f3df124ac83a15.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1d/2c/42/1d2c424a93389e70e594ca0d9d907e2bc7e8f4a8718652bccd90f6d7ad34f508.jpg",
+      "image_path": "images/cards/11584/075-42444.webp",
+      "image_sha256": "4a85f9b30109a447a0fd591f301eedf437567e1b73e0313d78d0c49c866543eb",
+      "image_bytes": 137756,
+      "source_url": "https://www.tcgcollector.com/cards/42444/graveler-scarlet-and-violet-151-075-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 75
+    },
+    {
+      "id": 42445,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Golem ex",
+      "number": "076",
+      "number_value": 76,
+      "printed_total": 165,
+      "rarity": "Double Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/76/da/1e/76da1e64e49f65dec1da22bd93c970b874620c28404f7feec0318b01cdd47467.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0a/92/aa/0a92aa5374660dfb843cd452ebf9e398878be3602100d0c17be55aace3828545.jpg",
+      "image_path": "images/cards/11584/076-42445.webp",
+      "image_sha256": "ec0bbb92c668dc2e1d0adc2e7b7971eca5ec3983a3d81b7871d77253bfdece2d",
+      "image_bytes": 150137,
+      "source_url": "https://www.tcgcollector.com/cards/42445/golem-ex-scarlet-and-violet-151-076-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 76
+    },
+    {
+      "id": 42446,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Ponyta",
+      "number": "077",
+      "number_value": 77,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/76/26/f5/7626f581179aa87a3d73248a189ad92c271eb099a7acd4cef10baf9fa69a2e4c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c6/e1/0e/c6e10e44057410a62c4274ccc230ea9bc0d04473a216d90691bdad20dc1fb91a.jpg",
+      "image_path": "images/cards/11584/077-42446.webp",
+      "image_sha256": "e3723b89d041a1460c201fa0d4c0f563602a54d34ef6c117f818d235b0fb5ca5",
+      "image_bytes": 129744,
+      "source_url": "https://www.tcgcollector.com/cards/42446/ponyta-scarlet-and-violet-151-077-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 77
+    },
+    {
+      "id": 42447,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Rapidash",
+      "number": "078",
+      "number_value": 78,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d5/63/d2/d563d2e977b67f85a38128ae85f09158571e83f82386244481398eb6db132f54.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/47/a6/7c/47a67c8b3ca08c716ca2bcad53f101d44afdb16f4f15795b8cb5420736abdcc3.jpg",
+      "image_path": "images/cards/11584/078-42447.webp",
+      "image_sha256": "49e391d32d23ac894d18a6479b7a321e90320d7206336351659f1bb51b34b614",
+      "image_bytes": 138450,
+      "source_url": "https://www.tcgcollector.com/cards/42447/rapidash-scarlet-and-violet-151-078-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 78
+    },
+    {
+      "id": 42448,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Slowpoke",
+      "number": "079",
+      "number_value": 79,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e7/a1/0e/e7a10ea4782bf26387bb1a8cad7f65168e7d033d92638c09635be554460e9c4c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/46/81/c4/4681c42989241d19d31ca348b7058371b3f50a79f5259cc99e87fe63bf0eb9fa.jpg",
+      "image_path": "images/cards/11584/079-42448.webp",
+      "image_sha256": "d5e8cbd914d9b2c500f9f4141326c92e2bd15f3d5948fcaf60c7637c3c7e8b17",
+      "image_bytes": 121326,
+      "source_url": "https://www.tcgcollector.com/cards/42448/slowpoke-scarlet-and-violet-151-079-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 79
+    },
+    {
+      "id": 42449,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Slowbro",
+      "number": "080",
+      "number_value": 80,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/21/ea/20/21ea20b88ab7d9e8538fc05f04ed519d8bb495666b330731e10b53e6c99bf3fa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/90/4f/61/904f6143a0008bff01cc5cdb79021841e547a58b7e95d37c2bdeb804a2f909e7.jpg",
+      "image_path": "images/cards/11584/080-42449.webp",
+      "image_sha256": "8848350c9ccc2828fe6f554b0f31d7f9121d9ca027c65ac815ffd6c750d62fba",
+      "image_bytes": 124633,
+      "source_url": "https://www.tcgcollector.com/cards/42449/slowbro-scarlet-and-violet-151-080-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 80
+    },
+    {
+      "id": 42450,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Magnemite",
+      "number": "081",
+      "number_value": 81,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/6d/9b/21/6d9b21757e8160e58d381175c21094c311a3df02cc228d61472657f404f4d959.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ea/8a/f4/ea8af48fd3001b1f2eec8a4f3aaae6b5e055929a0477a56bb32328da2d3261b4.jpg",
+      "image_path": "images/cards/11584/081-42450.webp",
+      "image_sha256": "65d26cd442bf4f0b26f05c643980b002d5c0c8ae49364b96b9e9c7cde7d66951",
+      "image_bytes": 103230,
+      "source_url": "https://www.tcgcollector.com/cards/42450/magnemite-scarlet-and-violet-151-081-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 81
+    },
+    {
+      "id": 42451,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Magneton",
+      "number": "082",
+      "number_value": 82,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/cc/c8/05/ccc805680ab666ee113bdf13a7bcd803ada5c89e86d5cb85394d76d3aa679f3b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/93/13/91/931391c90bf7afa12667e689667027ae4bd76242fcd2291ea4524fadf71750f9.jpg",
+      "image_path": "images/cards/11584/082-42451.webp",
+      "image_sha256": "c8369d69a3542daef928b83983a7ca0cb70f92e28d0122e105f8264ac5b85c2a",
+      "image_bytes": 116949,
+      "source_url": "https://www.tcgcollector.com/cards/42451/magneton-scarlet-and-violet-151-082-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 82
+    },
+    {
+      "id": 42452,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Farfetch'd",
+      "number": "083",
+      "number_value": 83,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/31/91/1e/31911e13195485c36e81482bc22587f3b0d55ddab6648f5ba15214ab1651167e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0b/bc/7b/0bbc7b3c46022f931dd598c985eb2e2363a642be8ee55e3d4fee25f11bae1a45.jpg",
+      "image_path": "images/cards/11584/083-42452.webp",
+      "image_sha256": "d4442c1e6eb5fcc642f1e2f6afadc2a303cd4df37bc5605d90477e8de5653cf1",
+      "image_bytes": 137850,
+      "source_url": "https://www.tcgcollector.com/cards/42452/farfetchd-scarlet-and-violet-151-083-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 83
+    },
+    {
+      "id": 42453,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Doduo",
+      "number": "084",
+      "number_value": 84,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/31/55/b8/3155b89c8144942edf1ebf2fc430bcd4006aa76c8879337344c7cf446e7661ca.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e9/6d/92/e96d92615b6f7a06f8f116e4b45da17f7b68f749a7419e4dd3966bf3fa30f585.jpg",
+      "image_path": "images/cards/11584/084-42453.webp",
+      "image_sha256": "48a6c2daeb4b17c8c77eafe6a60b1a96f7df8cfb662c3c78c45e917e5d149462",
+      "image_bytes": 119569,
+      "source_url": "https://www.tcgcollector.com/cards/42453/doduo-scarlet-and-violet-151-084-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 84
+    },
+    {
+      "id": 42454,
+      "set_id": 11584,
+      "set_ids": [
+        1221,
+        11584
+      ],
+      "name": "Dodrio",
+      "number": "085",
+      "number_value": 85,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/eb/03/7d/eb037d566a413ebe3c64851d1b6787a6873db22c67bb3a1caffad54c74abc015.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d6/e6/d4/d6e6d4746f480213ad306672c1e202810aae1512aa6d06ec16478aaf9188f7d8.jpg",
+      "image_path": "images/cards/11584/085-42454.webp",
+      "image_sha256": "c6c087fb59170f9e984269f59e995582bbba0dea212f99841117453ebb13c6d1",
+      "image_bytes": 144472,
+      "source_url": "https://www.tcgcollector.com/cards/42454/dodrio-scarlet-and-violet-151-085-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 85
+    },
+    {
+      "id": 42455,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Seel",
+      "number": "086",
+      "number_value": 86,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/72/d0/9d/72d09d9fa5d3344712223569d227c8bf7dcab3126f9e08a6f6f7f7adc1194383.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b7/b8/b2/b7b8b2d1baead60a0e5d1c6e4bea0dd0ee2e19b29c36f1123319e04380d91785.jpg",
+      "image_path": "images/cards/11584/086-42455.webp",
+      "image_sha256": "533e44c65d482fba4d5bbbbe2e04b64da26abec2b0f7ff1855cb7a0ed349ac59",
+      "image_bytes": 128742,
+      "source_url": "https://www.tcgcollector.com/cards/42455/seel-scarlet-and-violet-151-086-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 86
+    },
+    {
+      "id": 42456,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Dewgong",
+      "number": "087",
+      "number_value": 87,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d7/0f/b0/d70fb0ba94ddb87ddb18d6f05545a28f3c3f1bde85fc6117b988ed7a851d621c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e6/9a/96/e69a9619ea4f8d9ea7cd3ae097e17e1cbfd286f9147e49d8f7b6397041ba1b11.jpg",
+      "image_path": "images/cards/11584/087-42456.webp",
+      "image_sha256": "d50780e05a0433d356d043cdc72aa21bf63f3ceb48b8d34f3c546a9fb28c88bb",
+      "image_bytes": 150683,
+      "source_url": "https://www.tcgcollector.com/cards/42456/dewgong-scarlet-and-violet-151-087-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 87
+    },
+    {
+      "id": 42457,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Grimer",
+      "number": "088",
+      "number_value": 88,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/4f/0c/d5/4f0cd520d689959aa0b90e0d3f4a5e7266b62fdedc44d90ad9bf8a5854143e62.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/85/41/d4/8541d4a05620ef385496fc307e06399530cc39e50dfd24c45c0f8806eb16f492.jpg",
+      "image_path": "images/cards/11584/088-42457.webp",
+      "image_sha256": "5cb12a118488c357642f407178c2f9cc2bf0f6378305b772e3531086962565bf",
+      "image_bytes": 134366,
+      "source_url": "https://www.tcgcollector.com/cards/42457/grimer-scarlet-and-violet-151-088-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 88
+    },
+    {
+      "id": 42458,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Muk",
+      "number": "089",
+      "number_value": 89,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/48/34/75/48347567675c7ed9e52e0c45b98badb5e07510b362d53a0e782f5ccd174eae62.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/39/0f/b5/390fb55942e598f7b7bc9f9c3ae0eb78c8c866eec3f81049141d181588885a92.jpg",
+      "image_path": "images/cards/11584/089-42458.webp",
+      "image_sha256": "479df2971ef79d8e7e1a36cc4cdda5abc62523c3d32469af61e8900b6c4e8e39",
+      "image_bytes": 148187,
+      "source_url": "https://www.tcgcollector.com/cards/42458/muk-scarlet-and-violet-151-089-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 89
+    },
+    {
+      "id": 42459,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Shellder",
+      "number": "090",
+      "number_value": 90,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/45/ae/35/45ae35a526e4376bd253dee2c1439b31557eab87793b11c5a255bd0f664b0aa5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ee/05/14/ee0514e850cc9145687705d1d015cdce3bdb5a7e610dea9aa65d8fe91a951321.jpg",
+      "image_path": "images/cards/11584/090-42459.webp",
+      "image_sha256": "927c6c643ed88db660bdf9b6512ee3f0721bb403db3f285e3bda94ee85850fbb",
+      "image_bytes": 142403,
+      "source_url": "https://www.tcgcollector.com/cards/42459/shellder-scarlet-and-violet-151-090-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 90
+    },
+    {
+      "id": 42460,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Cloyster",
+      "number": "091",
+      "number_value": 91,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/20/11/01/2011015f87c6851bf7e79e93a4190209a45095f27bd6b5cf4cc2ead5dccca45e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e7/21/a2/e721a2d96ca80af049894b5923050eb46104d93382b582433a6de89c5d0e4c40.jpg",
+      "image_path": "images/cards/11584/091-42460.webp",
+      "image_sha256": "8a56704c6de6d7c4e35c8ded101b8d5e3b79fa20746a9ce5a4a6aa215637c5c5",
+      "image_bytes": 162388,
+      "source_url": "https://www.tcgcollector.com/cards/42460/cloyster-scarlet-and-violet-151-091-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 91
+    },
+    {
+      "id": 42461,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Gastly",
+      "number": "092",
+      "number_value": 92,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/34/31/86/343186cdbd14d1a2e9a5a0f4f9b2063b5787770160207956e349059b899adc83.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/53/2f/b3/532fb3059875167f036bba358f30c9ed283e51c73a605ad16d3186958a5bf299.jpg",
+      "image_path": "images/cards/11584/092-42461.webp",
+      "image_sha256": "d1d2930e6175441074810edfbd9129222d47914082fec1980e5fec7f0bdea362",
+      "image_bytes": 162270,
+      "source_url": "https://www.tcgcollector.com/cards/42461/gastly-scarlet-and-violet-151-092-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 92
+    },
+    {
+      "id": 42462,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Haunter",
+      "number": "093",
+      "number_value": 93,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/18/d0/04/18d0044ac1cd000f12aab739648bfdfe3e19e14079335005bf4449732c483772.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/24/b7/1d/24b71d1276086d18ed56acc416d4ae3e684b784438c70638671e5b62c40271c8.jpg",
+      "image_path": "images/cards/11584/093-42462.webp",
+      "image_sha256": "77eb5f26a4f6a2b8aa16b7d26fe18ce0640bcc4ed65d021af04548d602fcde64",
+      "image_bytes": 180588,
+      "source_url": "https://www.tcgcollector.com/cards/42462/haunter-scarlet-and-violet-151-093-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 93
+    },
+    {
+      "id": 42463,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Gengar",
+      "number": "094",
+      "number_value": 94,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/0f/8f/ce/0f8fcecfe350f172b6d8c8bb2bb9b31f6255630a8908416c86cede3dca7f7849.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d6/c3/b0/d6c3b00fea33dc0413c2bf843d8476e00be167b3fa541d078f53e4d6369cc83e.jpg",
+      "image_path": "images/cards/11584/094-42463.webp",
+      "image_sha256": "8e8427a159a229e1b88779bd3dd59b36994d403636069c724f742de9b1eefc6c",
+      "image_bytes": 172450,
+      "source_url": "https://www.tcgcollector.com/cards/42463/gengar-scarlet-and-violet-151-094-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 94
+    },
+    {
+      "id": 42464,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Onix",
+      "number": "095",
+      "number_value": 95,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/66/23/54/66235411d7d64383d40dccd0431096b38636b85cdcab896eecf974853a1e7f17.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/97/5c/90/975c90b1b371a7dc144aa62203f6bdb21a436ce321507490d19a9ab364a8933d.jpg",
+      "image_path": "images/cards/11584/095-42464.webp",
+      "image_sha256": "65a75c4b8c4319aa02b1f3b9514f147e20653f16c17b0137fb89f4348fbd0d91",
+      "image_bytes": 143905,
+      "source_url": "https://www.tcgcollector.com/cards/42464/onix-scarlet-and-violet-151-095-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 95
+    },
+    {
+      "id": 42465,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Drowzee",
+      "number": "096",
+      "number_value": 96,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/99/86/0b/99860b2602174dec53d8cbe0b8fc1be920f876fd9ac678d8109800e73b5b9a79.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fd/78/52/fd78529eefe971228f8b8c7c10d45d05a79502c13db1019fb6eea17aab76ddd1.jpg",
+      "image_path": "images/cards/11584/096-42465.webp",
+      "image_sha256": "83b98b3456ea262ea75f78f803da7cd6677da6753923954cbfc64c0c341d6ab1",
+      "image_bytes": 121629,
+      "source_url": "https://www.tcgcollector.com/cards/42465/drowzee-scarlet-and-violet-151-096-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 96
+    },
+    {
+      "id": 42466,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Hypno",
+      "number": "097",
+      "number_value": 97,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/be/82/3a/be823aa237a766b6d0540e7c6bb68771b795b289fe6909a3bb1a2d3180dd9955.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/04/7d/a9/047da99b84a718a7b43de057d7963ec4d4115dc3b101b9644ec89a51c197d90d.jpg",
+      "image_path": "images/cards/11584/097-42466.webp",
+      "image_sha256": "b1dada2bfab7dfea5d3316a49fb8c9c604baad913c8f23ffb341b3d766616604",
+      "image_bytes": 143983,
+      "source_url": "https://www.tcgcollector.com/cards/42466/hypno-scarlet-and-violet-151-097-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 97
+    },
+    {
+      "id": 42467,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Krabby",
+      "number": "098",
+      "number_value": 98,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/45/c3/90/45c39043fc053f76fc70dc6a0ceb2bf915e214d9996918ca1d0e452fea2f1487.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/82/96/9e/82969e00339632bc96f0ded602d273d43f390efc06db2ed47abcd07a49c46b3e.jpg",
+      "image_path": "images/cards/11584/098-42467.webp",
+      "image_sha256": "9aa5036c028fdd9284748c60bbeedafbd1c080ff2272b5fc4db820a97acb2cde",
+      "image_bytes": 156649,
+      "source_url": "https://www.tcgcollector.com/cards/42467/krabby-scarlet-and-violet-151-098-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 98
+    },
+    {
+      "id": 42468,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Kingler",
+      "number": "099",
+      "number_value": 99,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/be/19/71/be197121b3917dc104327e7003cedd1f40d35e4947ff469e1eaa67eb5fa696e1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e2/e4/81/e2e4816172cd658727132e284e0f6e08928a047222d40dcb7e878d9b52a3d65f.jpg",
+      "image_path": "images/cards/11584/099-42468.webp",
+      "image_sha256": "2d965cba441ed77719c0d48ce0cd4fdd4ede6e499b490fd13fb78fb56c2331af",
+      "image_bytes": 152995,
+      "source_url": "https://www.tcgcollector.com/cards/42468/kingler-scarlet-and-violet-151-099-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 99
+    },
+    {
+      "id": 42469,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Voltorb",
+      "number": "100",
+      "number_value": 100,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/5e/a1/7e/5ea17e3b67903085f5eda533aefc85990e16ef73e39af484750d44bb281c0b4d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cc/63/ff/cc63ffb095334169ef941e6320ff3d18ed516a029195665b7bbcae2160ebae95.jpg",
+      "image_path": "images/cards/11584/100-42469.webp",
+      "image_sha256": "6a4f43d7a39ee3c3b9a3ba2349316eebffcac7c1561915bcf579ad70c06d5607",
+      "image_bytes": 131739,
+      "source_url": "https://www.tcgcollector.com/cards/42469/voltorb-scarlet-and-violet-151-100-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 100
+    },
+    {
+      "id": 42470,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Electrode",
+      "number": "101",
+      "number_value": 101,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/c2/f4/a7/c2f4a7d902916c9ed01f927fdae7da7e9970ec5662e61255b23cf51fa54fea3e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/29/8f/72/298f72233c33a34aa8681a0c259e0a798fcae41b3f4f122feb5b037edb1f6f27.jpg",
+      "image_path": "images/cards/11584/101-42470.webp",
+      "image_sha256": "b023b752bf0f724b89f78e8b2a78848d47fe924a25b03e063b45e1a5fa4585d4",
+      "image_bytes": 143902,
+      "source_url": "https://www.tcgcollector.com/cards/42470/electrode-scarlet-and-violet-151-101-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 101
+    },
+    {
+      "id": 42471,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Exeggcute",
+      "number": "102",
+      "number_value": 102,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/25/d5/49/25d549bbb2afb2d0849cd291b7df2321f6d29c2594c7aa384b61c93d7b7ae80b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/63/94/e4/6394e418b2b568e8112bc6c410da0431f81417e1483d4e4b645b5bad9b032963.jpg",
+      "image_path": "images/cards/11584/102-42471.webp",
+      "image_sha256": "1f0cb817987be86d9be1ac12b60f83a04a04fdc0c744df840b41fbd470201430",
+      "image_bytes": 144816,
+      "source_url": "https://www.tcgcollector.com/cards/42471/exeggcute-scarlet-and-violet-151-102-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 102
+    },
+    {
+      "id": 42472,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Exeggutor",
+      "number": "103",
+      "number_value": 103,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/24/2b/f3/242bf3f77b6a7a146f484619ed2827ad874558144276100c9b7408193a8726bf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/60/c4/d3/60c4d3ddd86959ebcb489aebe51d5c35453a5be533d0e6d41c71d431a307362f.jpg",
+      "image_path": "images/cards/11584/103-42472.webp",
+      "image_sha256": "7416510b2d64829280b679804d13ebf486a1dd17dd7344b80591b067d007c446",
+      "image_bytes": 166781,
+      "source_url": "https://www.tcgcollector.com/cards/42472/exeggutor-scarlet-and-violet-151-103-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 103
+    },
+    {
+      "id": 42473,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Cubone",
+      "number": "104",
+      "number_value": 104,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/b4/0a/95/b40a95c88c4d18c5070fc3f14d204c0a639b23133fbb8324d2064308e284eda9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/25/4e/65/254e652e06ed08c7cd8d43fa170ea1beaffeecd6558062bb82d460cc8ff1b5fa.jpg",
+      "image_path": "images/cards/11584/104-42473.webp",
+      "image_sha256": "e210f01a86f2b4291960b22f53fcedefbf29574b1b5df25e702f790907a6ecac",
+      "image_bytes": 166815,
+      "source_url": "https://www.tcgcollector.com/cards/42473/cubone-scarlet-and-violet-151-104-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 104
+    },
+    {
+      "id": 42474,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Marowak",
+      "number": "105",
+      "number_value": 105,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/b9/42/3e/b9423e94773203cd3a8dd450f4afbde110454dd0969de17c5d90580ce436fa99.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ca/3c/10/ca3c105fb11bf906ff50f7915f30ff45c88dfc7ab4d1bc5aad5489418a8fa6e7.jpg",
+      "image_path": "images/cards/11584/105-42474.webp",
+      "image_sha256": "bd1008b63c0136d9e15aee30ec34b5dce6016c5733472dc9eb7ba416a5fde545",
+      "image_bytes": 181742,
+      "source_url": "https://www.tcgcollector.com/cards/42474/marowak-scarlet-and-violet-151-105-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 105
+    },
+    {
+      "id": 42475,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Hitmonlee",
+      "number": "106",
+      "number_value": 106,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/8a/54/90/8a5490766fdfe295bce2399137249e6eab26268ce965207bb848bae486bf89d4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6a/59/0f/6a590fa627d6465b3729df66923149e571220fad04b894d46a75373cecacb1dc.jpg",
+      "image_path": "images/cards/11584/106-42475.webp",
+      "image_sha256": "f84d67da9a62f271e8fda6963f0384c1b8964935423bc42bc8f38d919df5bae4",
+      "image_bytes": 157150,
+      "source_url": "https://www.tcgcollector.com/cards/42475/hitmonlee-scarlet-and-violet-151-106-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 106
+    },
+    {
+      "id": 42476,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Hitmonchan",
+      "number": "107",
+      "number_value": 107,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/03/d1/61/03d161869c13d9268dd824ab84062ff5da9fa5372725b2241f1773cfb2b4c414.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0f/5e/e7/0f5ee717436c72a236c86f8269ccb4a911f4641dfcd260e50f4a48127ee00014.jpg",
+      "image_path": "images/cards/11584/107-42476.webp",
+      "image_sha256": "d738817f2a2fa0fc02c30b57a834a24836302cb340a9c4837f40dca323138492",
+      "image_bytes": 182885,
+      "source_url": "https://www.tcgcollector.com/cards/42476/hitmonchan-scarlet-and-violet-151-107-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 107
+    },
+    {
+      "id": 42477,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Lickitung",
+      "number": "108",
+      "number_value": 108,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/80/fa/3d/80fa3d9a3190aa450167d4c496d4f5704b9ba6767ab5711ca0d5e15a5d9819cd.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c8/8d/6b/c88d6bbdd0f18d7a77bc2801f99dfb1b40d3123f646dc644964547ba93291190.jpg",
+      "image_path": "images/cards/11584/108-42477.webp",
+      "image_sha256": "14871003a8fe3db19f6e921d9212115aac6cf063ec8efc28a03755dd1dc0de77",
+      "image_bytes": 125797,
+      "source_url": "https://www.tcgcollector.com/cards/42477/lickitung-scarlet-and-violet-151-108-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 108
+    },
+    {
+      "id": 42478,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Koffing",
+      "number": "109",
+      "number_value": 109,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/0f/ca/aa/0fcaaae98eb93b88967169966bc0ead2bd8fa53afa1333b8790f80dbc68b23a9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/95/25/f2/9525f28c22e64ea7e58d6805d2be2a5f78dda9686f9df88772eda59ed87244f5.jpg",
+      "image_path": "images/cards/11584/109-42478.webp",
+      "image_sha256": "5ee98837c297fbaf770d37bf3e057fd1940aaf3d304dfd28977675d3dd6e6d5a",
+      "image_bytes": 155321,
+      "source_url": "https://www.tcgcollector.com/cards/42478/koffing-scarlet-and-violet-151-109-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 109
+    },
+    {
+      "id": 42479,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Weezing",
+      "number": "110",
+      "number_value": 110,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/1c/43/d0/1c43d05e6253ce67a2aaee66da464bc4481027a9b0c8268f6a3ce0d8cc34697e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/79/2f/98/792f98d9c5746c4430a9eec5b911ac9c5de3af8d61066980b2c62333553612f7.jpg",
+      "image_path": "images/cards/11584/110-42479.webp",
+      "image_sha256": "23076b7fe4ce80cc7c6e2327f68a7f48052aa09f234190db4523677dae109a25",
+      "image_bytes": 190782,
+      "source_url": "https://www.tcgcollector.com/cards/42479/weezing-scarlet-and-violet-151-110-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 110
+    },
+    {
+      "id": 42480,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Rhyhorn",
+      "number": "111",
+      "number_value": 111,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/f1/c2/ff/f1c2ff2d58cc518c7cb953f4e52a4686d82275ff0780c0b8ada7d7da31bff6cc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b7/29/05/b72905a4f19c8ff02fe6314d712b40653922e791f0aaf5ebd4c03e76cb88a658.jpg",
+      "image_path": "images/cards/11584/111-42480.webp",
+      "image_sha256": "ba4691f1c8283a16f4a665723f7b5a9f5d63d72244a5575a39338f6cbb76f8d1",
+      "image_bytes": 147116,
+      "source_url": "https://www.tcgcollector.com/cards/42480/rhyhorn-scarlet-and-violet-151-111-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 111
+    },
+    {
+      "id": 42481,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Rhydon",
+      "number": "112",
+      "number_value": 112,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/17/8e/bf/178ebf2719ccfd937c1492e678cf1a9d7cc7162fed28a8d5fe2facd6b68d02be.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/df/61/83/df61832da6591f58a5448ba7e56bd16af397a53b78c445701bd4cfe6b5b59a98.jpg",
+      "image_path": "images/cards/11584/112-42481.webp",
+      "image_sha256": "dabd683bcbe3743e7221717a7df00b1f330be313cac65adec3cb9726ac8293ba",
+      "image_bytes": 162386,
+      "source_url": "https://www.tcgcollector.com/cards/42481/rhydon-scarlet-and-violet-151-112-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 112
+    },
+    {
+      "id": 42482,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Chansey",
+      "number": "113",
+      "number_value": 113,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/03/72/fd/0372fd50039cd85afb97bb9d0b8ba049a67d38c8205cd28f369130464f645e9e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e5/f7/b0/e5f7b01c3c530d2f138414af4f7e882ec08c998b849c7b4059fc0ccac9b8e49d.jpg",
+      "image_path": "images/cards/11584/113-42482.webp",
+      "image_sha256": "dc83fb9c1de955c72fad8cf5298300dd153d38341ad875ca5abbfce0edf22c7c",
+      "image_bytes": 136747,
+      "source_url": "https://www.tcgcollector.com/cards/42482/chansey-scarlet-and-violet-151-113-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 113
+    },
+    {
+      "id": 42483,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Tangela",
+      "number": "114",
+      "number_value": 114,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/bb/c0/3f/bbc03f17b2d078de7ed8df42b56a332faf8185c0c8f406fdc23e0cf649df9d01.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2f/89/98/2f8998ca8702bb726bcb8e1b2eabbfdf3a2e6e620d7048300b6613cc95b3672c.jpg",
+      "image_path": "images/cards/11584/114-42483.webp",
+      "image_sha256": "6e747b193b788942aec38dbfb683a45eba6352ab79a550037ad8f8b22072839c",
+      "image_bytes": 129078,
+      "source_url": "https://www.tcgcollector.com/cards/42483/tangela-scarlet-and-violet-151-114-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 114
+    },
+    {
+      "id": 42484,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Kangaskhan ex",
+      "number": "115",
+      "number_value": 115,
+      "printed_total": 165,
+      "rarity": "Double Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/aa/48/87/aa4887f8d8b1419141873a521ae7e00e7626a9a6f4dbf1e16bd93e08f15a4c5f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ab/2b/9c/ab2b9cac08bc743068b6285026935324ca7d1e2756b86a27b8b7c80706a08046.jpg",
+      "image_path": "images/cards/11584/115-42484.webp",
+      "image_sha256": "03d68cae6e178dd75714edbfae94a3adc61efd5459d88a052d585b6d5a912792",
+      "image_bytes": 139635,
+      "source_url": "https://www.tcgcollector.com/cards/42484/kangaskhan-ex-scarlet-and-violet-151-115-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 115
+    },
+    {
+      "id": 42485,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Horsea",
+      "number": "116",
+      "number_value": 116,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/cf/b2/e6/cfb2e62995995efa23ad9e1abdca1b0abdec606d3f909e84f5d9b458a50fdc6e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/24/46/07/244607082566165bf402bacfa6a7a650da2187428f1916698ca04c8593738edf.jpg",
+      "image_path": "images/cards/11584/116-42485.webp",
+      "image_sha256": "df2c688c5dc07f623ea9ec541537cf7163ec9d06af80dd6fbd079f3278fe22d6",
+      "image_bytes": 137208,
+      "source_url": "https://www.tcgcollector.com/cards/42485/horsea-scarlet-and-violet-151-116-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 116
+    },
+    {
+      "id": 42486,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Seadra",
+      "number": "117",
+      "number_value": 117,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ea/c7/ba/eac7baf5aec2c8e719d4353288cde8df36bf4ca60994af09c13e4c0ec7a2c0a3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/22/40/83/2240832ef95745e5bbe88d569724ce44ccf14326fcf7b435f0a4786acf8c2c86.jpg",
+      "image_path": "images/cards/11584/117-42486.webp",
+      "image_sha256": "625df6bb74fd642bb6002988c37a8d9029df76dd103ba8b36135913f6731f539",
+      "image_bytes": 153115,
+      "source_url": "https://www.tcgcollector.com/cards/42486/seadra-scarlet-and-violet-151-117-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 117
+    },
+    {
+      "id": 42487,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Goldeen",
+      "number": "118",
+      "number_value": 118,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/19/50/36/1950368a8e8574d26503241544288c8fe6c06688af219ee2433988b31f527c57.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c4/33/cd/c433cd726e6b3f0db4ea699e537d36a6c60e6c65b3997aa329b5e58420fd7043.jpg",
+      "image_path": "images/cards/11584/118-42487.webp",
+      "image_sha256": "ed5168c1daacd9b3d3aaa83626b4a5b4e14d2cc44aee5b76c10384b264a758ca",
+      "image_bytes": 134922,
+      "source_url": "https://www.tcgcollector.com/cards/42487/goldeen-scarlet-and-violet-151-118-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 118
+    },
+    {
+      "id": 42488,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Seaking",
+      "number": "119",
+      "number_value": 119,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ce/18/60/ce186058076ca8d186b22487684dd1eb643739375d51bfff916c7e83b7be77ca.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/27/e0/72/27e072afa5f5dc2063f7f7ff260e731ac15a00caf8c34bfc02a13beae2baf2e0.jpg",
+      "image_path": "images/cards/11584/119-42488.webp",
+      "image_sha256": "bbceb7635395f365a996e8a893b10997724e09196f3ed901030ca278d0c86662",
+      "image_bytes": 155060,
+      "source_url": "https://www.tcgcollector.com/cards/42488/seaking-scarlet-and-violet-151-119-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 119
+    },
+    {
+      "id": 42489,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Staryu",
+      "number": "120",
+      "number_value": 120,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/fb/2c/f1/fb2cf1bb2b7c8ffd407c661f56d63672048153039beef4ee5a4287642b542e8e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/20/70/a9/2070a9aed1fc58ba5c5dad305c1396fb15a725c4615be802cf28cd6240f2bffb.jpg",
+      "image_path": "images/cards/11584/120-42489.webp",
+      "image_sha256": "f3facd6c510d3bb401159bbb95f0ecf92feaaf1629c327901ee5ff2e6da5dbae",
+      "image_bytes": 186686,
+      "source_url": "https://www.tcgcollector.com/cards/42489/staryu-scarlet-and-violet-151-120-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 120
+    },
+    {
+      "id": 42490,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Starmie",
+      "number": "121",
+      "number_value": 121,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/98/45/86/984586c8e0a201ed52d8f48307480c5ca0d18dd6be0217e66deedb682577ce53.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/88/fa/0b/88fa0b34585bd02a4c1611185735abc017696e65244586ab4fc6c92d388f83eb.jpg",
+      "image_path": "images/cards/11584/121-42490.webp",
+      "image_sha256": "5b85db78c9ba8185777389aad2649d3febad2efa9ea9b3518cb598375b1161df",
+      "image_bytes": 190475,
+      "source_url": "https://www.tcgcollector.com/cards/42490/starmie-scarlet-and-violet-151-121-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 121
+    },
+    {
+      "id": 42491,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Mr. Mime",
+      "number": "122",
+      "number_value": 122,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/cd/0c/b2/cd0cb28d0bac9935a0dbd4a86b3a80487e7f0b8d7a6ff1bc99c1af6e30512408.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6a/01/65/6a01659cf8148e2492d5567c8d3790e6f527ec190c020db58f0a231640f40ec4.jpg",
+      "image_path": "images/cards/11584/122-42491.webp",
+      "image_sha256": "bfbd16a2e271d054c55e090c1fa017ca61e615e954198fe41602ebe0ea1b4dad",
+      "image_bytes": 160161,
+      "source_url": "https://www.tcgcollector.com/cards/42491/mr-mime-scarlet-and-violet-151-122-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 122
+    },
+    {
+      "id": 42492,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Scyther",
+      "number": "123",
+      "number_value": 123,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/46/95/b8/4695b89415cdb0d7fa64d45ad8019aeb8166a499883edbb16a5d656fbd507cc9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/27/ed/57/27ed57b06b1073a1e6204539e3c17b6d956666446c66c4293d7e5888541149b2.jpg",
+      "image_path": "images/cards/11584/123-42492.webp",
+      "image_sha256": "99ea4462f952efe345cc01715fb95fe5a8ad2304296b159e71527b011abf13b7",
+      "image_bytes": 135214,
+      "source_url": "https://www.tcgcollector.com/cards/42492/scyther-scarlet-and-violet-151-123-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 123
+    },
+    {
+      "id": 42493,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Jynx ex",
+      "number": "124",
+      "number_value": 124,
+      "printed_total": 165,
+      "rarity": "Double Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f5/40/33/f540331b9d70ffa75f0fa420edc2adb0ce651a28322aad7c7c76336e1dc33ea9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/25/84/1f/25841f014b80d39d7e4415d8fdaca7fd43adb2d350d958304a5cd3c6f6dee1bb.jpg",
+      "image_path": "images/cards/11584/124-42493.webp",
+      "image_sha256": "1a8341d121eba58c6427fac4915c4c71ac47b21d6cd61e3baa59084efecb32c8",
+      "image_bytes": 143379,
+      "source_url": "https://www.tcgcollector.com/cards/42493/jynx-ex-scarlet-and-violet-151-124-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 124
+    },
+    {
+      "id": 42494,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Electabuzz",
+      "number": "125",
+      "number_value": 125,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/ff/f0/aa/fff0aad8841e10d9ed6a3eef5efe46b120a0951c619e5a2b63b6b2ad7a3ff98f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0c/a5/52/0ca552d31497f2cfa826467a0d5a9802ba25017eb4575899acd8747347667127.jpg",
+      "image_path": "images/cards/11584/125-42494.webp",
+      "image_sha256": "ac596408e6fc24dde14414cd20670618af8a1de3d08c3e8f1b8a7f94745efaec",
+      "image_bytes": 143789,
+      "source_url": "https://www.tcgcollector.com/cards/42494/electabuzz-scarlet-and-violet-151-125-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 125
+    },
+    {
+      "id": 42495,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Magmar",
+      "number": "126",
+      "number_value": 126,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/db/0a/99/db0a99f3f7b8e264d3578e64c24592dff27964aed1e1520db29e2ad7b89879c3.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/38/a5/10/38a5107ac085dc6f0b18b68a551d36e047cd9be96945f1a291b8bb0ce7768edd.jpg",
+      "image_path": "images/cards/11584/126-42495.webp",
+      "image_sha256": "8d7a6e74b25382a065b7aa35e63f1c2c4d63a56f919d293cebcf5f02e4f8eaaf",
+      "image_bytes": 145089,
+      "source_url": "https://www.tcgcollector.com/cards/42495/magmar-scarlet-and-violet-151-126-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 126
+    },
+    {
+      "id": 42496,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Pinsir",
+      "number": "127",
+      "number_value": 127,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/93/a4/4c/93a44c968d15a1b1f02bff780a76d1c2ace17a7d485b12f15b17e94940e613db.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0b/c5/16/0bc5160a0ad8f3b86002d68d90afbdaff98b769762a1be2761cda02956c9d7e9.jpg",
+      "image_path": "images/cards/11584/127-42496.webp",
+      "image_sha256": "2f42bd87a066f1f860da6d46d9ef17e794e9795c378a4e793406bab50782c53a",
+      "image_bytes": 136217,
+      "source_url": "https://www.tcgcollector.com/cards/42496/pinsir-scarlet-and-violet-151-127-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 127
+    },
+    {
+      "id": 42497,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Tauros",
+      "number": "128",
+      "number_value": 128,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/6a/9e/87/6a9e87818964a9c852d6b4d67f16dc394c0078a82d02a988a5b47c0bf368d899.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e2/05/99/e2059909c7bfb3fff5e859dc28b8255d2a2bfb3dabdc43ba8c4883f6134be96d.jpg",
+      "image_path": "images/cards/11584/128-42497.webp",
+      "image_sha256": "faefa7825985c79122e5139fb2ac99ce03832ab082a3e7206d9ab85caa24861f",
+      "image_bytes": 120648,
+      "source_url": "https://www.tcgcollector.com/cards/42497/tauros-scarlet-and-violet-151-128-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 128
+    },
+    {
+      "id": 42498,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Magikarp",
+      "number": "129",
+      "number_value": 129,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e3/2f/96/e32f96aef421deb007f4a9e78e2f2b94ccef35c1b6cfe08103c2cc498f2b8144.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4b/4f/46/4b4f46c99a471fe7966e4937ec3bdb15d9338fba80e04bb9db9802523a1c46c9.jpg",
+      "image_path": "images/cards/11584/129-42498.webp",
+      "image_sha256": "666f2e4b051d1cc13e484fac9a56ccca679bb758394345e47f74084f9b138243",
+      "image_bytes": 146970,
+      "source_url": "https://www.tcgcollector.com/cards/42498/magikarp-scarlet-and-violet-151-129-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 129
+    },
+    {
+      "id": 42499,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Gyarados",
+      "number": "130",
+      "number_value": 130,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/16/84/88/1684885ee9a268fd44806bea2e41b5fe95b51ab12ecbbd0f2c8e89e171e68443.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fe/c7/ec/fec7ecf4a3a77a66e03bcb6ec677005318422d93fe3dbd9dd689932ec433c85f.jpg",
+      "image_path": "images/cards/11584/130-42499.webp",
+      "image_sha256": "65c054bb41ef8bb1c15696c47423c662577b1691d3c79fcaf4e9276204f27b96",
+      "image_bytes": 162862,
+      "source_url": "https://www.tcgcollector.com/cards/42499/gyarados-scarlet-and-violet-151-130-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 130
+    },
+    {
+      "id": 42500,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Lapras",
+      "number": "131",
+      "number_value": 131,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/46/83/52/468352f046bd1aeaa64e8fb9bdd001381963f43942f671ee1c4d3e5673a2a3d6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/4a/69/9e/4a699e004dff1cacc20f7aa2e30f18d34a17b7f39e7312dc0d536a812bfefe05.jpg",
+      "image_path": "images/cards/11584/131-42500.webp",
+      "image_sha256": "2d82b930f3dbe25f5462a13f7683a3f819b0f8719a388feddaba3b9c500090d0",
+      "image_bytes": 146234,
+      "source_url": "https://www.tcgcollector.com/cards/42500/lapras-scarlet-and-violet-151-131-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 131
+    },
+    {
+      "id": 42501,
+      "set_id": 11584,
+      "set_ids": [
+        11584,
+        12114
+      ],
+      "name": "Ditto",
+      "number": "132",
+      "number_value": 132,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/79/31/d3/7931d307c51eb92f26d22fcd20cd0c469d9a04becca19a3483cf8acfbded34ce.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/99/51/9e/99519e7981be93a4ea48016bf24050e54c0eb9b07003d775ba7b18a95c1206f9.jpg",
+      "image_path": "images/cards/11584/132-42501.webp",
+      "image_sha256": "7400d4996c5c56970a5c9f3c5329c8a2341d9c208d6bf1adaf2e48b5cd5a0b88",
+      "image_bytes": 146535,
+      "source_url": "https://www.tcgcollector.com/cards/42501/ditto-scarlet-and-violet-151-132-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 132
+    },
+    {
+      "id": 42502,
+      "set_id": 11584,
+      "set_ids": [
+        11584,
+        12126
+      ],
+      "name": "Eevee",
+      "number": "133",
+      "number_value": 133,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/6b/15/69/6b15691280beb5c360b9be78cc17e4fdf45f2f1d82aa70a754f31114f97c457a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e4/4e/a9/e44ea97c8cbbc90996f83a6cdfbdda4fb167484e7910b365e614ecaeab490701.jpg",
+      "image_path": "images/cards/11584/133-42502.webp",
+      "image_sha256": "f30ddfcc3b589de1d0474a179df0716c5ae266e81b85dd47c45cde5aa774f499",
+      "image_bytes": 140358,
+      "source_url": "https://www.tcgcollector.com/cards/42502/eevee-scarlet-and-violet-151-133-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 133
+    },
+    {
+      "id": 42503,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Vaporeon",
+      "number": "134",
+      "number_value": 134,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/8d/76/e8/8d76e89eebecebc769cf1fff610be851ac30ee370fdc25e0e949683cdf0a70e8.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ec/60/51/ec605108abc4aa87d92201f12d7f49c12bd79e5cfb8fb423b80b7a54b1f7500d.jpg",
+      "image_path": "images/cards/11584/134-42503.webp",
+      "image_sha256": "1abe2d17723fcd613bd9899b6fd623278333e9117eef78eab56a8d151db6b9bf",
+      "image_bytes": 164011,
+      "source_url": "https://www.tcgcollector.com/cards/42503/vaporeon-scarlet-and-violet-151-134-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 134
+    },
+    {
+      "id": 42504,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Jolteon",
+      "number": "135",
+      "number_value": 135,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/56/a2/2c/56a22c9868b393e813fc501c34c252ed8223927e1255aa621749c5483bb26cd2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/59/f5/ff/59f5ff78735b2f36c9f8bda3d5b7d6093845cf638843741bcd3edb47f71d3fd9.jpg",
+      "image_path": "images/cards/11584/135-42504.webp",
+      "image_sha256": "433c24d5fd81328b277296c482fee7b31c26c037ca3ea8482d068d85c991bdfd",
+      "image_bytes": 145653,
+      "source_url": "https://www.tcgcollector.com/cards/42504/jolteon-scarlet-and-violet-151-135-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 135
+    },
+    {
+      "id": 42505,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Flareon",
+      "number": "136",
+      "number_value": 136,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/09/15/67/0915676a58401e612df2074d9bb94644f04db540eade9bea35055bc68c88b8ab.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9a/71/62/9a716235d5caf5f19d8c42b26428e59e8e8a89cc147730604a86d61c73472882.jpg",
+      "image_path": "images/cards/11584/136-42505.webp",
+      "image_sha256": "6f3b7c2e94fb531a0d121c0a2f57a0cfd29f58ce1152f7e89fc3eef552b9a955",
+      "image_bytes": 163772,
+      "source_url": "https://www.tcgcollector.com/cards/42505/flareon-scarlet-and-violet-151-136-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 136
+    },
+    {
+      "id": 42506,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Porygon",
+      "number": "137",
+      "number_value": 137,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/13/f1/8f/13f18f6800ffc41845e10aa21d3ba8ff77ffbeb945057be0acf67ec02aaac62b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ab/d8/88/abd888f2f088ad276ec68e2c6d5c1709d98820d091936d7563a2f8ac9f28f43a.jpg",
+      "image_path": "images/cards/11584/137-42506.webp",
+      "image_sha256": "8cee5cb215a33f1142ee16c8d1f1ffd5aaadc56d92082dc46d2fb5caf498be0c",
+      "image_bytes": 109268,
+      "source_url": "https://www.tcgcollector.com/cards/42506/porygon-scarlet-and-violet-151-137-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 137
+    },
+    {
+      "id": 42507,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Omanyte",
+      "number": "138",
+      "number_value": 138,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/12/55/32/12553249ab1f147074d62b5aebef46a156c4e50f3a67b48d4467161bb1f6257f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6a/13/3b/6a133bfd9e6ec4fccada413f8a1418f7539af2250d8dba316f0c503faa1454bf.jpg",
+      "image_path": "images/cards/11584/138-42507.webp",
+      "image_sha256": "d98aae132dd9853998063f9b445434605287e47a1dcb53e4cca1e44afe72773e",
+      "image_bytes": 148933,
+      "source_url": "https://www.tcgcollector.com/cards/42507/omanyte-scarlet-and-violet-151-138-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 138
+    },
+    {
+      "id": 42508,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Omastar",
+      "number": "139",
+      "number_value": 139,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/eb/18/f2/eb18f21dc0f7f7f77299b3299e5fd232073dad20b9de0859df8068a2e9f2a72e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f4/17/e3/f417e30f29599b8705788df260cb77c812c63dfefc431aac5cd046454222a224.jpg",
+      "image_path": "images/cards/11584/139-42508.webp",
+      "image_sha256": "0ddf7fc9316f861f628714da942650b2cb2c83ace951893fa3cad3eebb1bd425",
+      "image_bytes": 170931,
+      "source_url": "https://www.tcgcollector.com/cards/42508/omastar-scarlet-and-violet-151-139-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 139
+    },
+    {
+      "id": 42509,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Kabuto",
+      "number": "140",
+      "number_value": 140,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f3/4c/30/f34c30800e127f724b72bdd6d565bc3d95c3511e1c7e54d1c1a5d6d655b853e4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0e/27/01/0e2701ab23262bece3d2d2167784724b1718f23cc1f70b3bb2ed13292157e0a2.jpg",
+      "image_path": "images/cards/11584/140-42509.webp",
+      "image_sha256": "2227a53e52857e70bfce5c1d9ac8a53dfdf996a4c1034d520af15412327f4137",
+      "image_bytes": 140464,
+      "source_url": "https://www.tcgcollector.com/cards/42509/kabuto-scarlet-and-violet-151-140-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 140
+    },
+    {
+      "id": 42510,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Kabutops",
+      "number": "141",
+      "number_value": 141,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f2/3e/55/f23e557364e094ab291819263979350fb7d1e9db04c3490acec35cf71af61281.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/5d/e8/05/5de805f167887ef7e77d33545cbb1bf6464fc3fb4302a4fea5a7b9635c35c5a2.jpg",
+      "image_path": "images/cards/11584/141-42510.webp",
+      "image_sha256": "fd32264e70fb36a0ad0659bba405e984466ed0ebbdff8f0f5956a54692c3f908",
+      "image_bytes": 163619,
+      "source_url": "https://www.tcgcollector.com/cards/42510/kabutops-scarlet-and-violet-151-141-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 141
+    },
+    {
+      "id": 42511,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Aerodactyl",
+      "number": "142",
+      "number_value": 142,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/08/93/87/0893874d6b159bbd861cf01321639128c46959caff1dc2ec015e69dee209ec16.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/99/5a/3d/995a3d7f182dd43105d9a650f198c22d3189cdf85263e9420bbe70dbd51198fe.jpg",
+      "image_path": "images/cards/11584/142-42511.webp",
+      "image_sha256": "6a012c863d64b7a74f175eb02e12dd272a7a4e457a31c37ef59360e634711b76",
+      "image_bytes": 171667,
+      "source_url": "https://www.tcgcollector.com/cards/42511/aerodactyl-scarlet-and-violet-151-142-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 142
+    },
+    {
+      "id": 42512,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Snorlax",
+      "number": "143",
+      "number_value": 143,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/30/15/0f/30150f324949cc7315ee05e9b993f802cc6fed48c874416469f68e2384b97b92.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9f/4c/ee/9f4ceec1b78e903a860891fc678081b78baf5431b6bd2e1d399cf8bd2398ee3e.jpg",
+      "image_path": "images/cards/11584/143-42512.webp",
+      "image_sha256": "dafc5e9f237f33f489e6833cf0ba5203644a6588292b45843804eeeed92ca017",
+      "image_bytes": 131220,
+      "source_url": "https://www.tcgcollector.com/cards/42512/snorlax-scarlet-and-violet-151-143-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 143
+    },
+    {
+      "id": 42513,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Articuno",
+      "number": "144",
+      "number_value": 144,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/d4/ee/9f/d4ee9f198e58b34390280ae876be66547b2d4744d2218b4c694c39b3c941b743.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/37/89/17/37891735f767da9c14c300cc175db16365ff1484c8454726e5eb6cd98a2a29ed.jpg",
+      "image_path": "images/cards/11584/144-42513.webp",
+      "image_sha256": "1d3d7585c02a8f1fede07418919e7b31e0ca5c019b56dffef9dde2cafc6d14c6",
+      "image_bytes": 159523,
+      "source_url": "https://www.tcgcollector.com/cards/42513/articuno-scarlet-and-violet-151-144-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 144
+    },
+    {
+      "id": 42514,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Zapdos ex",
+      "number": "145",
+      "number_value": 145,
+      "printed_total": 165,
+      "rarity": "Double Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/52/04/03/5204032974ed116966fce329ae6a38098404629fd07c1fb7c644cf923e375bdf.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/52/d7/4d/52d74dacc159717dfa4b0dc69ba8532325a8b2706fa0f822469dd827fc434ad6.jpg",
+      "image_path": "images/cards/11584/145-42514.webp",
+      "image_sha256": "c537a340e88ce75b90e0fc63ba48d760511b683fa819b7b2ecddc6a9e3d8cc34",
+      "image_bytes": 155217,
+      "source_url": "https://www.tcgcollector.com/cards/42514/zapdos-ex-scarlet-and-violet-151-145-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 145
+    },
+    {
+      "id": 42515,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Moltres",
+      "number": "146",
+      "number_value": 146,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/85/70/73/85707386b80c5a4a96c3295bfce02f7932c38a613c08695e829799f7ba2cddc5.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d6/8f/b5/d68fb5961adfcbab8c54d64ebe542aaa8347298b3e0f1f53d3e1baf845c841ca.jpg",
+      "image_path": "images/cards/11584/146-42515.webp",
+      "image_sha256": "691784c266eb51d8184bb93146712fac24d8456a8a41e6edb7887e9ba80545cf",
+      "image_bytes": 147005,
+      "source_url": "https://www.tcgcollector.com/cards/42515/moltres-scarlet-and-violet-151-146-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 146
+    },
+    {
+      "id": 42516,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Dratini",
+      "number": "147",
+      "number_value": 147,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/17/30/bb/1730bbbeefd1f6908c47b8efeaa7cb07186b7d928275c000fe75d5a6caba6618.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1e/1d/bf/1e1dbf1fd776cf671a425201698e8ada9ab138f0bd4c8942e32971098803853f.jpg",
+      "image_path": "images/cards/11584/147-42516.webp",
+      "image_sha256": "1e71c0d3be474f84cb02ef4f891923091276054f247164b585bafe3d9336c7dc",
+      "image_bytes": 127457,
+      "source_url": "https://www.tcgcollector.com/cards/42516/dratini-scarlet-and-violet-151-147-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 147
+    },
+    {
+      "id": 42517,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Dragonair",
+      "number": "148",
+      "number_value": 148,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/d0/17/4a/d0174a293198e6327ba71e731bfe15382d43b428d727f62e21f0360ecf333f55.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7a/a2/25/7aa225f1b15d5cfb96ef776d6b587878821f9bd6ae0bb8d14dfe4658fb068ac7.jpg",
+      "image_path": "images/cards/11584/148-42517.webp",
+      "image_sha256": "c7b62519158ef9d0150c29c127b555455e51ec42afe1fd977958becd7d4da6bc",
+      "image_bytes": 136728,
+      "source_url": "https://www.tcgcollector.com/cards/42517/dragonair-scarlet-and-violet-151-148-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 148
+    },
+    {
+      "id": 42518,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Dragonite",
+      "number": "149",
+      "number_value": 149,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/2e/d8/1d/2ed81dc4a480f86edeb763efe33407a6e3d740474536806736ebf707291abfc2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/75/de/e5/75dee5ca80390379380d58b558d94b807d022ea0e7eb83563d125d355502738a.jpg",
+      "image_path": "images/cards/11584/149-42518.webp",
+      "image_sha256": "4df0e195647b252ef265a0c17774db81753d1dd6d6e3a5bf7b13d6c602ffa855",
+      "image_bytes": 141839,
+      "source_url": "https://www.tcgcollector.com/cards/42518/dragonite-scarlet-and-violet-151-149-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 149
+    },
+    {
+      "id": 42519,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Mewtwo",
+      "number": "150",
+      "number_value": 150,
+      "printed_total": 165,
+      "rarity": "Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/aa/4e/32/aa4e328ed582564a9f9d54bf6e6a28430fb1cfc046099cdadd7c1954acc3471b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/30/61/83/306183f5a05a20b9937349e050d53f3e9bd5ecbde73c58601e0372383975bbc7.jpg",
+      "image_path": "images/cards/11584/150-42519.webp",
+      "image_sha256": "b66f11d4acdcfe9a5635577f353e6ba71a9a7c37ebd8e51f2a4bbb5406177cca",
+      "image_bytes": 167393,
+      "source_url": "https://www.tcgcollector.com/cards/42519/mewtwo-scarlet-and-violet-151-150-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 150
+    },
+    {
+      "id": 42520,
+      "set_id": 11584,
+      "set_ids": [
+        1221,
+        11584,
+        12114
+      ],
+      "name": "Mew ex",
+      "number": "151",
+      "number_value": 151,
+      "printed_total": 165,
+      "rarity": "Double Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/37/53/f7/3753f7dc9c9c42c8ee6a08a5ef9e8a0f710409b97861499a87b74c3de5c92bba.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b3/75/44/b37544a106b020014d0b472c87b8c4d670bf9950d3b60c5a21a055d719be2b43.jpg",
+      "image_path": "images/cards/11584/151-42520.webp",
+      "image_sha256": "0eb8d6b31e4111b393642489354579e8363cb5cba7079c58dbafdefeaac82eca",
+      "image_bytes": 151876,
+      "source_url": "https://www.tcgcollector.com/cards/42520/mew-ex-scarlet-and-violet-151-151-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 151
+    },
+    {
+      "id": 42521,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Antique Dome Fossil",
+      "number": "152",
+      "number_value": 152,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/70/31/ea/7031ea9e9f9e049f0ca533d29d2ddce111f724f888eab7489a70e938fdccc53a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/03/5f/ba/035fba323ec3babafb478b2140f35c9d13be7138311b551ab1224319ad515909.jpg",
+      "image_path": "images/cards/11584/152-42521.webp",
+      "image_sha256": "a7cfbd69cf56f8ae10282b4b8463d05fb70fbbf8d8017962b91009ea51c7c995",
+      "image_bytes": 146205,
+      "source_url": "https://www.tcgcollector.com/cards/42521/antique-dome-fossil-scarlet-and-violet-151-152-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 152
+    },
+    {
+      "id": 42522,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Antique Helix Fossil",
+      "number": "153",
+      "number_value": 153,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/31/e0/f2/31e0f24618102daf8153e3f88ee4992922c97f0cb4a70b2e0e92b25ec2146b3f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/77/f8/52/77f852051505d83a2293a6debee01ae3f10ccd293568d745af0f4ab501b14e8f.jpg",
+      "image_path": "images/cards/11584/153-42522.webp",
+      "image_sha256": "e50079c5d4ac69284318414fe558f1d1bb30a58f3718783d3a7f070764de38f1",
+      "image_bytes": 137950,
+      "source_url": "https://www.tcgcollector.com/cards/42522/antique-helix-fossil-scarlet-and-violet-151-153-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 153
+    },
+    {
+      "id": 42523,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Antique Old Amber",
+      "number": "154",
+      "number_value": 154,
+      "printed_total": 165,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/0a/7e/9e/0a7e9ebec2b8410c24e334207092921504a8baf5163b307e772add828b4661e0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/38/9f/fa/389ffa67ea5d96e1f9758a3ff60fe7e28ab40e7ba571328477b6b114b34f83fe.jpg",
+      "image_path": "images/cards/11584/154-42523.webp",
+      "image_sha256": "44b8bac939fc6be271a5964a79992bd92479f7d613db47bad05a4fbbeb36d9cd",
+      "image_bytes": 126065,
+      "source_url": "https://www.tcgcollector.com/cards/42523/antique-old-amber-scarlet-and-violet-151-154-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 154
+    },
+    {
+      "id": 42524,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Big Air Balloon",
+      "number": "155",
+      "number_value": 155,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/f4/b5/f4/f4b5f4beea9cffc6d28e72659fd6d5bec55b6c59ffc95e995cb44b20da1310fa.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bc/53/88/bc538804bf9c18b7ddb57d8c9d8a8a948c6d8873104f2b5e0f7df624cb1693ea.jpg",
+      "image_path": "images/cards/11584/155-42524.webp",
+      "image_sha256": "9ae77001a9119a1b1286f5859f08fc0c8fb9b3b6303638ac9118690554266933",
+      "image_bytes": 92865,
+      "source_url": "https://www.tcgcollector.com/cards/42524/big-air-balloon-scarlet-and-violet-151-155-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 155
+    },
+    {
+      "id": 42525,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Bill's Transfer",
+      "number": "156",
+      "number_value": 156,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/9b/41/f4/9b41f47c71debf56d51728266384105c455ecb5f7bfce433c50928125fdc7b56.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9e/58/5a/9e585a5fb9e0da498ce9e9517e86fcb4928a41d01f98daf4815528c1d621d10a.jpg",
+      "image_path": "images/cards/11584/156-42525.webp",
+      "image_sha256": "8983d9f67119e17c9475b3975d4c517b455dbc2dff6ac9ff4167ff4e7583f980",
+      "image_bytes": 111376,
+      "source_url": "https://www.tcgcollector.com/cards/42525/bills-transfer-scarlet-and-violet-151-156-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 156
+    },
+    {
+      "id": 42526,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Cycling Road",
+      "number": "157",
+      "number_value": 157,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/af/6d/f0/af6df0aef15f362d494870663930031aa3ce8e68f0c253ce5b0d19c93d6acdff.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/75/75/d5/7575d51bda50653a2755a6c32c812f27514b4350fc5924a42c1d815eac46f7cb.jpg",
+      "image_path": "images/cards/11584/157-42526.webp",
+      "image_sha256": "166666b59139af22ec841b9c43c3d58ca36d2370308919e870f873bcb3c0c45c",
+      "image_bytes": 105717,
+      "source_url": "https://www.tcgcollector.com/cards/42526/cycling-road-scarlet-and-violet-151-157-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 157
+    },
+    {
+      "id": 42527,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Daisy's Help",
+      "number": "158",
+      "number_value": 158,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/8c/5e/b0/8c5eb0cedfc443698a65e91b88ae667e39e740d033ea0bdb6b641a9cf63abe73.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ea/85/f4/ea85f4d47584f0f21541ee6f59c7a67977e968e514c4f7981bd1be2075dbb3d7.jpg",
+      "image_path": "images/cards/11584/158-42527.webp",
+      "image_sha256": "ee24fd184c011f752dd0e6262fa9f0aadfeee863b40864bedac7a9d8f2e38ea6",
+      "image_bytes": 95008,
+      "source_url": "https://www.tcgcollector.com/cards/42527/daisys-help-scarlet-and-violet-151-158-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 158
+    },
+    {
+      "id": 42528,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Energy Sticker",
+      "number": "159",
+      "number_value": 159,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/48/08/02/4808029d1fead4afff780a2edd649bcdf3532f150a3168fe69c0a95128a69ca9.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/0f/18/49/0f184942b99cb381ac1eb62cf53d7c4687a778f61c0dd34c067133d1bb219f9c.jpg",
+      "image_path": "images/cards/11584/159-42528.webp",
+      "image_sha256": "7c04758faac96a3cd7c1a4bc4a2e6e4b4613c367b21f8bb8e1fe960ac0fa6e74",
+      "image_bytes": 101240,
+      "source_url": "https://www.tcgcollector.com/cards/42528/energy-sticker-scarlet-and-violet-151-159-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 159
+    },
+    {
+      "id": 42529,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Erika's Invitation",
+      "number": "160",
+      "number_value": 160,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/ec/1f/c0/ec1fc031047ed806d34309164dec352ec89e551c5a9fd48477dd6ae93802080c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/d1/3d/57/d13d5780a53f9ebd907f13864d921931f84321b34abd2670509018006e138c77.jpg",
+      "image_path": "images/cards/11584/160-42529.webp",
+      "image_sha256": "c879a3a87ed9bd23118006b1dde61fea1ac9b3bd03ba97229d283aedae99453e",
+      "image_bytes": 130852,
+      "source_url": "https://www.tcgcollector.com/cards/42529/erikas-invitation-scarlet-and-violet-151-160-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 160
+    },
+    {
+      "id": 42530,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Giovanni's Charisma",
+      "number": "161",
+      "number_value": 161,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/b0/29/f4/b029f474664962b407de1da0f81d8f9369e14a2295857ed72f51c0e033c6437b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/de/e2/10/dee21070e5c6d5db34ef4f6a8fbfae8d54f7c9eff6793de374caa82050527be8.jpg",
+      "image_path": "images/cards/11584/161-42530.webp",
+      "image_sha256": "fcf76564c29ef5b6410bc3c2da0eeec89185bef8e43721e3fac3b33fb0ffabdf",
+      "image_bytes": 104698,
+      "source_url": "https://www.tcgcollector.com/cards/42530/giovannis-charisma-scarlet-and-violet-151-161-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 161
+    },
+    {
+      "id": 42531,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Grabber",
+      "number": "162",
+      "number_value": 162,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/04/c2/a0/04c2a0e0e13f35a13cc9054f5d209f6494a9fc6e2f59429af8577efe5ecd7f2b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c9/78/1e/c9781e94ddfba70e1a515ff8f70166a6baea3b90ecb1b2fbe9e5e4609bd457db.jpg",
+      "image_path": "images/cards/11584/162-42531.webp",
+      "image_sha256": "10c94afb0b5c054fcdb3bc8e648a5ef27fa638bd293062508bac3ea75d8f6d4c",
+      "image_bytes": 103593,
+      "source_url": "https://www.tcgcollector.com/cards/42531/grabber-scarlet-and-violet-151-162-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 162
+    },
+    {
+      "id": 42532,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Leftovers",
+      "number": "163",
+      "number_value": 163,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/79/e1/e8/79e1e829674e05248466468ad9dc2fec3bdac1ca6dc1ae671eacd667ff658083.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/cd/de/1f/cdde1f5b7e8844867aa7e30f3de2e26d36639e2177b10ef2f397742dfe02a1aa.jpg",
+      "image_path": "images/cards/11584/163-42532.webp",
+      "image_sha256": "55f4804fcd38ce262b69f155e94fd208b0473991a9978573a495b1dfb39ec965",
+      "image_bytes": 99909,
+      "source_url": "https://www.tcgcollector.com/cards/42532/leftovers-scarlet-and-violet-151-163-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 163
+    },
+    {
+      "id": 42533,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Protective Goggles",
+      "number": "164",
+      "number_value": 164,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/fd/0b/e9/fd0be95adf98e8faed347ba68dfd5fe242dc0f0f27e451cd564cc5259f714f81.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b0/86/8f/b0868f7e5fa4437e1ad89c4c3ec3d7483af82d9cdbdf50e09480860056fad6de.jpg",
+      "image_path": "images/cards/11584/164-42533.webp",
+      "image_sha256": "cb2fd16ef9723bd2d363a828b0b06eec8ce7b800fc6b0720247e594a2ab0f9d0",
+      "image_bytes": 101365,
+      "source_url": "https://www.tcgcollector.com/cards/42533/protective-goggles-scarlet-and-violet-151-164-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 164
+    },
+    {
+      "id": 42534,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Rigid Band",
+      "number": "165",
+      "number_value": 165,
+      "printed_total": 165,
+      "rarity": "Uncommon",
+      "image_url": "https://static.tcgcollector.com/content/images/06/b7/23/06b723a5cd2a2d993c5b8faeb970e581fe7eca49ec431f981c855ffc9db583a0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/02/4a/ea/024aea1a0874f5e9edfe34367d6f00c10906ee49c810ee451531d133b57c2034.jpg",
+      "image_path": "images/cards/11584/165-42534.webp",
+      "image_sha256": "71ac4811c437383d11adba3cabb6a712b3cf3645922d5e73358775b23eb5647a",
+      "image_bytes": 111524,
+      "source_url": "https://www.tcgcollector.com/cards/42534/rigid-band-scarlet-and-violet-151-165-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 165
+    },
+    {
+      "id": 42535,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Bulbasaur",
+      "number": "166",
+      "number_value": 166,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f6/2d/be/f62dbe38dbfb428070ceb4c53f01ab5beebe4396bb90eea17992bce8a9a6c01c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ed/dd/ba/edddbaafd4c323c947e815b59e6c71162e86838ac9b3ae657eb5fc641d509235.jpg",
+      "image_path": "images/cards/11584/166-42535.webp",
+      "image_sha256": "d4e777a58f847415b91f997c6a5b6fedaaf9c0a36e869d455c67d039e8928990",
+      "image_bytes": 173534,
+      "source_url": "https://www.tcgcollector.com/cards/42535/bulbasaur-scarlet-and-violet-151-166-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 166
+    },
+    {
+      "id": 42536,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Ivysaur",
+      "number": "167",
+      "number_value": 167,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/60/e6/bf/60e6bfb897b1bc145008decb12a864bfc9c530521eadc119216646fac7df8258.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a1/0b/14/a10b14c4329a0152fd03a2647156df5587167912b7aa7c135e1eb51450b55875.jpg",
+      "image_path": "images/cards/11584/167-42536.webp",
+      "image_sha256": "e0a9d91e4a02f22240d3972b1e8730f0190e6a11ef09cf0ee680e7ce4df67775",
+      "image_bytes": 164496,
+      "source_url": "https://www.tcgcollector.com/cards/42536/ivysaur-scarlet-and-violet-151-167-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 167
+    },
+    {
+      "id": 42537,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Charmander",
+      "number": "168",
+      "number_value": 168,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/66/82/eb/6682ebd009b7226f749b21aa7f171c32cf5652d7a41b2f93f1648a760f0d68bc.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/df/7b/eb/df7beb962195e8d586f968c9f6c31b668f0a9a2bf13bf318ae603c3b65d734f8.jpg",
+      "image_path": "images/cards/11584/168-42537.webp",
+      "image_sha256": "97ab8efdae7c98dde6f1427697beebf1eeff1eabf57061209e85d4f73423e30d",
+      "image_bytes": 123375,
+      "source_url": "https://www.tcgcollector.com/cards/42537/charmander-scarlet-and-violet-151-168-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 168
+    },
+    {
+      "id": 42538,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Charmeleon",
+      "number": "169",
+      "number_value": 169,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/d1/b4/18/d1b4186e2919c5b63100ca5689b23184dbf7efa1782b02f8dcb6e46f687a9c2d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/74/d2/26/74d2265f767c4b08e45678b2d643e51e31099057c93c614def4e57ff0d275d50.jpg",
+      "image_path": "images/cards/11584/169-42538.webp",
+      "image_sha256": "f1e46e8f5cfaccb99c9ec86033007570c92d00ca37afbf95c69692b46afa4a44",
+      "image_bytes": 120214,
+      "source_url": "https://www.tcgcollector.com/cards/42538/charmeleon-scarlet-and-violet-151-169-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 169
+    },
+    {
+      "id": 42539,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Squirtle",
+      "number": "170",
+      "number_value": 170,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/c7/7a/0b/c77a0b7f84ee1e5cb2ae463ae06fdafa9fade5938ab2a481ceb94494fd6a1c3b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/a9/11/5c/a9115ced757eec64edf804c8d2608686f8ea8ee3556a4512a969eb347961ae69.jpg",
+      "image_path": "images/cards/11584/170-42539.webp",
+      "image_sha256": "8e49c8e7c9031b01f029c486220679317ee16e948c29a56320ea66fc26f3a63f",
+      "image_bytes": 187845,
+      "source_url": "https://www.tcgcollector.com/cards/42539/squirtle-scarlet-and-violet-151-170-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 170
+    },
+    {
+      "id": 42540,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Wartortle",
+      "number": "171",
+      "number_value": 171,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/82/30/42/823042feb309c3cc8abf193e65eba30f1d4b46b2955c488b781830285629bffe.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/98/49/5b/98495bec268f590888288dbfc9b079e84464c507cbd3b3972282555b50a7088e.jpg",
+      "image_path": "images/cards/11584/171-42540.webp",
+      "image_sha256": "19dd4bbbcddf21ef1444fa320fdb1b35dd7d2845557b87b83ff1d976f7d39d21",
+      "image_bytes": 148361,
+      "source_url": "https://www.tcgcollector.com/cards/42540/wartortle-scarlet-and-violet-151-171-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 171
+    },
+    {
+      "id": 42541,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Caterpie",
+      "number": "172",
+      "number_value": 172,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/1a/32/e1/1a32e141f1d4bda757dfe78b9918ae1f70b4be4a217e8f718e946ee71bd54c3e.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/fa/e1/74/fae1744ac3c5911d3a10da5024eeb48fa68b68590ed10f89c2bd96672a130e9d.jpg",
+      "image_path": "images/cards/11584/172-42541.webp",
+      "image_sha256": "0232b2579d162bc74dc7a5d179cfa490a126c8b79a287c904d497a74e0ff85d0",
+      "image_bytes": 156986,
+      "source_url": "https://www.tcgcollector.com/cards/42541/caterpie-scarlet-and-violet-151-172-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 172
+    },
+    {
+      "id": 42542,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Pikachu",
+      "number": "173",
+      "number_value": 173,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/db/db/65/dbdb657490f13a2b935861e6f4ba316fc874f777582a8bd59b3112f2d4fd5b42.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/59/ad/ba/59adbab45814c78400f536ae3616171ebd3aa40afe6e3acebefab0e6bacb6b57.jpg",
+      "image_path": "images/cards/11584/173-42542.webp",
+      "image_sha256": "e66e994c389d69b1659e1324e2b7dc4d70bfa5ebc4570de70e33d9b30a2d32f6",
+      "image_bytes": 180773,
+      "source_url": "https://www.tcgcollector.com/cards/42542/pikachu-scarlet-and-violet-151-173-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 173
+    },
+    {
+      "id": 42543,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Nidoking",
+      "number": "174",
+      "number_value": 174,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/d0/4f/ee/d04feed00e426fad739364965c2b0a06d01ed642aca1cb0f32ba520342800dd2.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/76/c2/b7/76c2b759cb96fcf48c47b65d3b9a6eb55ca59a3b8725a464243abfd5a8bc4967.jpg",
+      "image_path": "images/cards/11584/174-42543.webp",
+      "image_sha256": "93c831ca64f46f12d32d7057b19c4179b46bf73ea53fcf66f5287e8a86826b26",
+      "image_bytes": 173662,
+      "source_url": "https://www.tcgcollector.com/cards/42543/nidoking-scarlet-and-violet-151-174-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 174
+    },
+    {
+      "id": 42544,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Psyduck",
+      "number": "175",
+      "number_value": 175,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/bc/ac/4b/bcac4bcef67fb830b9940c6374dca3cf683ec4e79f7ba2e838413832cdd75051.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/81/76/01/8176013b754b8237b599714809430105281cc03533d88aed5c565575121aa047.jpg",
+      "image_path": "images/cards/11584/175-42544.webp",
+      "image_sha256": "16d11df7a4e46c566380cf0d82e4ca613f1dec6422741f31eaba4228d55ac1da",
+      "image_bytes": 179811,
+      "source_url": "https://www.tcgcollector.com/cards/42544/psyduck-scarlet-and-violet-151-175-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 175
+    },
+    {
+      "id": 42545,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Poliwhirl",
+      "number": "176",
+      "number_value": 176,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/81/38/6d/81386df2493fa7f51ec6a4dd1ccba4516b78e2b5b3e9a61692caedbfef72d6ba.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/26/e3/2b/26e32b312b603075b5ce570ec960f2c5b7cf3f571db521b24876e4b13485a2df.jpg",
+      "image_path": "images/cards/11584/176-42545.webp",
+      "image_sha256": "ce558be2e0925d1118cf782e8888f7e3e274305933852ffbddacebc393e9c98e",
+      "image_bytes": 203184,
+      "source_url": "https://www.tcgcollector.com/cards/42545/poliwhirl-scarlet-and-violet-151-176-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 176
+    },
+    {
+      "id": 42546,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Machoke",
+      "number": "177",
+      "number_value": 177,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/99/3c/da/993cda83bee9ea7c3e2b7da86f81e0a318e11f6d72af45a302700a97f33c0302.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/2d/ae/8d/2dae8d06b255f076b5a21990629e0fa164759b7b3856dd504a40f0f040e94a53.jpg",
+      "image_path": "images/cards/11584/177-42546.webp",
+      "image_sha256": "d702e7a5feccb69779fc51bec8fce22b1da40b0e61e8fb6e3434be582ae62c1a",
+      "image_bytes": 201418,
+      "source_url": "https://www.tcgcollector.com/cards/42546/machoke-scarlet-and-violet-151-177-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 177
+    },
+    {
+      "id": 42547,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Tangela",
+      "number": "178",
+      "number_value": 178,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/39/fd/a2/39fda24032beb8323131e35b314f4c738c121667fc68827b779d95e63e345300.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3f/9d/04/3f9d04103d8378eb16f1bd71b5b371255eab9fc78d75ecc37267cb4b41c66382.jpg",
+      "image_path": "images/cards/11584/178-42547.webp",
+      "image_sha256": "57812b46a052e76e30e2a1f7492978e469b2eaf60aab309831eaab5c0f9ce707",
+      "image_bytes": 184909,
+      "source_url": "https://www.tcgcollector.com/cards/42547/tangela-scarlet-and-violet-151-178-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 178
+    },
+    {
+      "id": 42548,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Mr. Mime",
+      "number": "179",
+      "number_value": 179,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/04/05/e2/0405e2e544a375a042504b30d212f27f5f38eac018c2034a6c32268176414af4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/89/90/a1/8990a1be935d92f8a4ef3a47815c8a29301d326ea1bb0de36962c0f09d6f2157.jpg",
+      "image_path": "images/cards/11584/179-42548.webp",
+      "image_sha256": "e94ce42862ae2131a08d4bc09312c880dc1df901d22935e3594f6c49800f169a",
+      "image_bytes": 147833,
+      "source_url": "https://www.tcgcollector.com/cards/42548/mr-mime-scarlet-and-violet-151-179-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 179
+    },
+    {
+      "id": 42549,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Omanyte",
+      "number": "180",
+      "number_value": 180,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/3f/77/f9/3f77f9a988fb6a35c29e428e82e282a97d39cf3058f6c6969ce53285b09ae597.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/3d/6d/5a/3d6d5aca8e713ac00c535516c7a28c5f05a12cb99841ed1bad4675f70e91742a.jpg",
+      "image_path": "images/cards/11584/180-42549.webp",
+      "image_sha256": "8faef8b388d59a8a4f02f017bd3f302f37d518ccfa801e3fe6d4debd7ecc782d",
+      "image_bytes": 158488,
+      "source_url": "https://www.tcgcollector.com/cards/42549/omanyte-scarlet-and-violet-151-180-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 180
+    },
+    {
+      "id": 42550,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Dragonair",
+      "number": "181",
+      "number_value": 181,
+      "printed_total": 165,
+      "rarity": "Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/ae/16/81/ae1681095b8963c70c23543478f60321a9183083e86e0125ff0144cf0c073f75.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/47/bb/28/47bb2858dfa57d62ef21c0a9dbae4d92768e14d8641b63cf8767e0f6d8d3fa5d.jpg",
+      "image_path": "images/cards/11584/181-42550.webp",
+      "image_sha256": "c667649a4657b0dea0d32ef0173278293126cd0e9c8e054142c7fc3d3e008ae9",
+      "image_bytes": 167785,
+      "source_url": "https://www.tcgcollector.com/cards/42550/dragonair-scarlet-and-violet-151-181-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 181
+    },
+    {
+      "id": 42551,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Venusaur ex",
+      "number": "182",
+      "number_value": 182,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/9c/d9/7c/9cd97cb8292574e285e6c7402bfb870dcf530952a0f8bdbcf38ff2743a5a4481.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/78/b2/3c/78b23cef8a0ba5c8322f0b5863dbce907d8ab98a5057cb2ab6002090d0eb8025.jpg",
+      "image_path": "images/cards/11584/182-42551.webp",
+      "image_sha256": "d2deb040a84ed9cb2b62380135b4caa6c2060f7a2e3720d08b542c92c939f6c2",
+      "image_bytes": 144718,
+      "source_url": "https://www.tcgcollector.com/cards/42551/venusaur-ex-scarlet-and-violet-151-182-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 182
+    },
+    {
+      "id": 42552,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Charizard ex",
+      "number": "183",
+      "number_value": 183,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/a6/b1/fd/a6b1fd452e3f6df4290b3992b22c2dcd57be90bcee8443e06e8cf196a01f04ed.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1c/14/16/1c14164df7459bbfc0081d1cbb48cd2af5a2324bd124a406e984e75602592b71.jpg",
+      "image_path": "images/cards/11584/183-42552.webp",
+      "image_sha256": "38b985fc40adf6813d3a322c932d4940c282b76fc366ec5178044d5adc364c0c",
+      "image_bytes": 143377,
+      "source_url": "https://www.tcgcollector.com/cards/42552/charizard-ex-scarlet-and-violet-151-183-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 183
+    },
+    {
+      "id": 42553,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Blastoise ex",
+      "number": "184",
+      "number_value": 184,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/18/09/12/1809126456213892504212f2c7c01e1d4283f95edd0145a2ff1dd971b833e20f.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/28/b9/c5/28b9c5565618bc3876f39a03dd2d54dedd70352fe3a808c61936c2324704690e.jpg",
+      "image_path": "images/cards/11584/184-42553.webp",
+      "image_sha256": "e8b079cd6211cfcba3486f9c864934e7be80ca3093219f433170ca7da17b9e47",
+      "image_bytes": 148559,
+      "source_url": "https://www.tcgcollector.com/cards/42553/blastoise-ex-scarlet-and-violet-151-184-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 184
+    },
+    {
+      "id": 42554,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Arbok ex",
+      "number": "185",
+      "number_value": 185,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/33/d0/f1/33d0f1efc3f1aa3f8d710e040c04265772962584ec2360d3e63fb822e8a73db6.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/50/ee/ac/50eeacc582c8f3d1aa064ac1c86292aba87dcdaf7e8a66591ef638d65d7ae1b6.jpg",
+      "image_path": "images/cards/11584/185-42554.webp",
+      "image_sha256": "cbb77e3666864b1bc7820e22e253323e195b82742e3fff715f6168da6a629275",
+      "image_bytes": 153964,
+      "source_url": "https://www.tcgcollector.com/cards/42554/arbok-ex-scarlet-and-violet-151-185-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 185
+    },
+    {
+      "id": 42555,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Ninetales ex",
+      "number": "186",
+      "number_value": 186,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/01/51/53/0151539e51ff43e047a0429458fab37674d1323dec9daff0ddbb937c136f2c6a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/e8/34/ce/e834ce9aa1868b55abccaebd7c3cec801ada0fd02a4918c75e3246b07e1bc770.jpg",
+      "image_path": "images/cards/11584/186-42555.webp",
+      "image_sha256": "fde493176a48c7712efbc925a7b6f9985ded2e38a7bbebb3ea79a1736fb12cd8",
+      "image_bytes": 146553,
+      "source_url": "https://www.tcgcollector.com/cards/42555/ninetales-ex-scarlet-and-violet-151-186-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 186
+    },
+    {
+      "id": 42556,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Wigglytuff ex",
+      "number": "187",
+      "number_value": 187,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/d3/4f/11/d34f116d7af0b6ab825ffbbadd65893b3a22b7bca3b9af1eee9543073d15e71d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/80/5f/e7/805fe7565c070a2a67b6982079e2eb56d213e8e25c9f0106e0aa779a35bd53b2.jpg",
+      "image_path": "images/cards/11584/187-42556.webp",
+      "image_sha256": "24fd0e6edb7c78b2097fe749f2c45200f96513caeff2f78152623f93dafb3f21",
+      "image_bytes": 130053,
+      "source_url": "https://www.tcgcollector.com/cards/42556/wigglytuff-ex-scarlet-and-violet-151-187-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 187
+    },
+    {
+      "id": 42557,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Alakazam ex",
+      "number": "188",
+      "number_value": 188,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/c3/20/49/c320495baa1414f3a4eac70cda57ff0c0c688468d6278de791c9ac075a22079c.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ed/5f/09/ed5f0998bd99c2f3347993a23b51af21baa85b048585c5a933a95e1aa96c0047.jpg",
+      "image_path": "images/cards/11584/188-42557.webp",
+      "image_sha256": "2a77c8337064dd998eea6d51cdb105e53d5580df81ea9d75dcb9ee984870a76a",
+      "image_bytes": 154705,
+      "source_url": "https://www.tcgcollector.com/cards/42557/alakazam-ex-scarlet-and-violet-151-188-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 188
+    },
+    {
+      "id": 42558,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Golem ex",
+      "number": "189",
+      "number_value": 189,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/b4/7d/d0/b47dd04544e0d28e237225c0ea28b0eddb0e056ddd553e87353151e402897f3a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/c5/67/06/c567060f84d42a5914f130f9af7c63c32da36c053519bb98ca937ed137da8d21.jpg",
+      "image_path": "images/cards/11584/189-42558.webp",
+      "image_sha256": "26b8a0667963c02c5876fc6b7c69930b44d0ac1952a21c789da1a1c543e7ca6f",
+      "image_bytes": 144186,
+      "source_url": "https://www.tcgcollector.com/cards/42558/golem-ex-scarlet-and-violet-151-189-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 189
+    },
+    {
+      "id": 42559,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Kangaskhan ex",
+      "number": "190",
+      "number_value": 190,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/48/9f/11/489f114148907a76d22b7bd91f3fa6be6969ba90e6b077273c93cfc615f4b45d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b1/1f/e6/b11fe6ed1da88aea01937c5e22418579ea0948be6721c19265e6110bdd24a528.jpg",
+      "image_path": "images/cards/11584/190-42559.webp",
+      "image_sha256": "ba12135093d9445f2afc9b96d5b4c7a8763e94f967370299578bc6e09fe32b0c",
+      "image_bytes": 120685,
+      "source_url": "https://www.tcgcollector.com/cards/42559/kangaskhan-ex-scarlet-and-violet-151-190-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 190
+    },
+    {
+      "id": 42560,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Jynx ex",
+      "number": "191",
+      "number_value": 191,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/db/8f/6f/db8f6f507499dc811d9096605c1a4b4bf356c82a65594eded62b979d5a2a0320.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9d/ac/73/9dac73ee1915b068aea6778c3690ec36fd4f55deeadf284b9d0566db09fc6952.jpg",
+      "image_path": "images/cards/11584/191-42560.webp",
+      "image_sha256": "087f17196a097c89ac90a571d517e6e3f1b79201026f4faabd521ed435d19a92",
+      "image_bytes": 139018,
+      "source_url": "https://www.tcgcollector.com/cards/42560/jynx-ex-scarlet-and-violet-151-191-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 191
+    },
+    {
+      "id": 42561,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Zapdos ex",
+      "number": "192",
+      "number_value": 192,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/5c/f6/53/5cf653314249030d41bf93fe827aa6a348bf31d36f75ee9ca7252b1daced39de.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/58/74/14/587414ee9f7f24e8f4e9ba6865b198a0acddc308535598829221b822fddbaba5.jpg",
+      "image_path": "images/cards/11584/192-42561.webp",
+      "image_sha256": "e6260849389e536d5a00162cde93000102a0df7536e8aa9a8c2b8a6f351239ba",
+      "image_bytes": 159039,
+      "source_url": "https://www.tcgcollector.com/cards/42561/zapdos-ex-scarlet-and-violet-151-192-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 192
+    },
+    {
+      "id": 42562,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Mew ex",
+      "number": "193",
+      "number_value": 193,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/79/d3/dc/79d3dcf35cbfffa605f0c00e3f1ae6762147c77663fc7cace8b2673bc07bf69b.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/13/c7/a1/13c7a175551489c2dd4dd994ec5d950a023352040e1e4e12033333c340d99983.jpg",
+      "image_path": "images/cards/11584/193-42562.webp",
+      "image_sha256": "ab997989e2c872c6ae49538fb188e63d6fd30ea6468c89391c665e668402327d",
+      "image_bytes": 140668,
+      "source_url": "https://www.tcgcollector.com/cards/42562/mew-ex-scarlet-and-violet-151-193-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 193
+    },
+    {
+      "id": 42563,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Bill's Transfer",
+      "number": "194",
+      "number_value": 194,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/fa/f0/25/faf025dbf0b67bb7d1419ec52bfdb29f5233c0dbf43b8847a0e08e3eb2438762.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/93/8a/32/938a324df27fa928c70d49296844fa6ef3f492997617b8294d22b80fcb87094c.jpg",
+      "image_path": "images/cards/11584/194-42563.webp",
+      "image_sha256": "8f8f3e0ea963bf6df0d59514576b53cb917d0fa15f0f4f2d7dfd9771eb4e2140",
+      "image_bytes": 136802,
+      "source_url": "https://www.tcgcollector.com/cards/42563/bills-transfer-scarlet-and-violet-151-194-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 194
+    },
+    {
+      "id": 42564,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Daisy's Help",
+      "number": "195",
+      "number_value": 195,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/b6/8c/29/b68c29933830a732fa14ccea596ed68757fe6f40e0606f7dc57d76f4217a8e84.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8c/92/e1/8c92e1191c609412935a4495efa15e22c93d2c7bfe2b52fbc601404b6f0d7586.jpg",
+      "image_path": "images/cards/11584/195-42564.webp",
+      "image_sha256": "df8e6ec5aba69facf7bf48716b643909e123f4bc146f926acde248123a4fec25",
+      "image_bytes": 120056,
+      "source_url": "https://www.tcgcollector.com/cards/42564/daisys-help-scarlet-and-violet-151-195-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 195
+    },
+    {
+      "id": 42565,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Erika's Invitation",
+      "number": "196",
+      "number_value": 196,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/fe/4a/93/fe4a936f48b3b72f4c32089d452b614989b091591d12691464ddc27063cf879d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/09/e3/43/09e3437fe35a011a8c4dbfc5f846e72c696ed839f00e372e23d1f9b1ade6eebe.jpg",
+      "image_path": "images/cards/11584/196-42565.webp",
+      "image_sha256": "cfae568ab11e614eebd4dd34d6938c30f20abff077f62334948fc8fe3af6bb24",
+      "image_bytes": 142286,
+      "source_url": "https://www.tcgcollector.com/cards/42565/erikas-invitation-scarlet-and-violet-151-196-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 196
+    },
+    {
+      "id": 42566,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Giovanni's Charisma",
+      "number": "197",
+      "number_value": 197,
+      "printed_total": 165,
+      "rarity": "Ultra Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/88/0d/14/880d1417b32d619e702b1abc82cfdbe19b38a1c0c89b21af9546eb5b2ca1d942.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/1d/4c/96/1d4c9605746f122373c52ab2e7696b63d445614022476966a54c9b1ba3fd1d7d.jpg",
+      "image_path": "images/cards/11584/197-42566.webp",
+      "image_sha256": "52d2745e90f7b11ab77c19ec2e856c38b978c139f23b91028e11802f1e008b10",
+      "image_bytes": 120663,
+      "source_url": "https://www.tcgcollector.com/cards/42566/giovannis-charisma-scarlet-and-violet-151-197-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 197
+    },
+    {
+      "id": 42567,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Venusaur ex",
+      "number": "198",
+      "number_value": 198,
+      "printed_total": 165,
+      "rarity": "Special Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/02/57/e8/0257e857baf6a7e766c0c7bfd6fc1ff43d9d158794eac0238216c9051562d1f1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/bd/80/2e/bd802e7b72e9223995ecd56139fda7369121fe48fc5eba324deceb73d8a4ce8f.jpg",
+      "image_path": "images/cards/11584/198-42567.webp",
+      "image_sha256": "8e09187eb3fb4c22097359c699362f365e1fc8833435dd6ac869a7a9d5b3d7cf",
+      "image_bytes": 189159,
+      "source_url": "https://www.tcgcollector.com/cards/42567/venusaur-ex-scarlet-and-violet-151-198-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 198
+    },
+    {
+      "id": 42568,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Charizard ex",
+      "number": "199",
+      "number_value": 199,
+      "printed_total": 165,
+      "rarity": "Special Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/d5/e8/98/d5e898340bda7f029b5a2c6e63acba77b6963a0fba772489db14c4b33d1b4c1a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7a/79/d1/7a79d1ea17fb9182ad1fc53bfbf041813c11ed4e7c32a27e2158731e95dd59d8.jpg",
+      "image_path": "images/cards/11584/199-42568.webp",
+      "image_sha256": "e6f0e7bb648d8d4478e19413439d640c8e95a89a7e1aa489d7398a167b3c1856",
+      "image_bytes": 127796,
+      "source_url": "https://www.tcgcollector.com/cards/42568/charizard-ex-scarlet-and-violet-151-199-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 199
+    },
+    {
+      "id": 42569,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Blastoise ex",
+      "number": "200",
+      "number_value": 200,
+      "printed_total": 165,
+      "rarity": "Special Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/a3/a2/06/a3a206177208de4a1c1af4b0a3c163f3cad7f4f03c3c60a14739d46bfb7627ee.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/84/85/53/84855318b4b9adc2819e12e1a43bfb085e20f5c6af549441c7dce4a42e0844e4.jpg",
+      "image_path": "images/cards/11584/200-42569.webp",
+      "image_sha256": "b7e711b3d2e030c64b3eb4e375d003e11994be1495198fb24dbe5ec12d62a196",
+      "image_bytes": 165758,
+      "source_url": "https://www.tcgcollector.com/cards/42569/blastoise-ex-scarlet-and-violet-151-200-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 200
+    },
+    {
+      "id": 42570,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Alakazam ex",
+      "number": "201",
+      "number_value": 201,
+      "printed_total": 165,
+      "rarity": "Special Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/64/5f/d7/645fd754318ff500e9afa4faef5534948bb28995b99baa40e1a6d1721c689ad1.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/ef/e9/8b/efe98b13227ac730e4f046479d652007a5b2dac1b0a188a23e92a5693315950b.jpg",
+      "image_path": "images/cards/11584/201-42570.webp",
+      "image_sha256": "d55e51f45fb4c597e0129d8e36bd61dc6327c5c23685e01a76f36701934c4d6a",
+      "image_bytes": 208872,
+      "source_url": "https://www.tcgcollector.com/cards/42570/alakazam-ex-scarlet-and-violet-151-201-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 201
+    },
+    {
+      "id": 42571,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Zapdos ex",
+      "number": "202",
+      "number_value": 202,
+      "printed_total": 165,
+      "rarity": "Special Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/2d/3f/f2/2d3ff27f615a62f2317e2916cf534cfb4a36645ae996562210fa07863b881ee4.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/6c/64/31/6c6431080fd722fb988c4d9d0f4e1757a69a03dd309b654bd7bbf24b82f0d75a.jpg",
+      "image_path": "images/cards/11584/202-42571.webp",
+      "image_sha256": "62ada54c33fa9ee57dee809337b1babf03f4821c6dbf1d8ba46409f43d9413c0",
+      "image_bytes": 177610,
+      "source_url": "https://www.tcgcollector.com/cards/42571/zapdos-ex-scarlet-and-violet-151-202-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 202
+    },
+    {
+      "id": 42572,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Erika's Invitation",
+      "number": "203",
+      "number_value": 203,
+      "printed_total": 165,
+      "rarity": "Special Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/f6/c3/cb/f6c3cb8b07c704a0f81952317af32f0da0c412dac11b9a3e1b821b0883629746.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/be/ec/09/beec096e8071fdc7ae71f5674fa02dbb95b4069a3f6e940e1826f1154e8d4309.jpg",
+      "image_path": "images/cards/11584/203-42572.webp",
+      "image_sha256": "2564ed14b8864d9f8b8c7f87a2bb7b8bd623e24ecabf3c7dff9aae94de61fde2",
+      "image_bytes": 175237,
+      "source_url": "https://www.tcgcollector.com/cards/42572/erikas-invitation-scarlet-and-violet-151-203-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 203
+    },
+    {
+      "id": 42573,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Giovanni's Charisma",
+      "number": "204",
+      "number_value": 204,
+      "printed_total": 165,
+      "rarity": "Special Illustration Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/d0/74/a8/d074a8706b703d600982043c780ae33eac79a1c1088ae8ad967b8bb804e92f7d.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/38/0e/98/380e98346bd5b421a465a506f7423cdd530f10acd2bdf172fa6cc1348e054442.jpg",
+      "image_path": "images/cards/11584/204-42573.webp",
+      "image_sha256": "ae21a0c550ee2e7e28f1d35f56f1599f6889173afaacff44a175af32bd626f56",
+      "image_bytes": 127900,
+      "source_url": "https://www.tcgcollector.com/cards/42573/giovannis-charisma-scarlet-and-violet-151-204-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 204
+    },
+    {
+      "id": 42574,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Mew ex",
+      "number": "205",
+      "number_value": 205,
+      "printed_total": 165,
+      "rarity": "Hyper Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/28/dc/ed/28dced3ba12ddca595c8b49167d14b4e426ac156e303bd2120a8609182bd6e81.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/71/1d/79/711d79677bb5539e7b350e5236930f443e8cfbc125f852bc4c5440c26ece6317.jpg",
+      "image_path": "images/cards/11584/205-42574.webp",
+      "image_sha256": "f4d7c31600f1b2667f43c6eea319fb89f998d89bff6190715831e67ed41892de",
+      "image_bytes": 133271,
+      "source_url": "https://www.tcgcollector.com/cards/42574/mew-ex-scarlet-and-violet-151-205-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 205
+    },
+    {
+      "id": 42575,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Switch",
+      "number": "206",
+      "number_value": 206,
+      "printed_total": 165,
+      "rarity": "Hyper Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/d7/52/b6/d752b6ef6327f4488271cedd478201319d2138bd4b12edf470099008d31547ca.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/9e/20/04/9e200471fa1c2f7bb107dc5605a5f0d6462126487f424f40ed84c6c097bb32f6.jpg",
+      "image_path": "images/cards/11584/206-42575.webp",
+      "image_sha256": "55b9af2685e9e4595d87914199fe473046e805869e08ef91b4aa88bd98e355e7",
+      "image_bytes": 127313,
+      "source_url": "https://www.tcgcollector.com/cards/42575/switch-scarlet-and-violet-151-206-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 206
+    },
+    {
+      "id": 42576,
+      "set_id": 11584,
+      "set_ids": [
+        11584
+      ],
+      "name": "Basic Psychic Energy",
+      "number": "207",
+      "number_value": 207,
+      "printed_total": 165,
+      "rarity": "Hyper Rare",
+      "image_url": "https://static.tcgcollector.com/content/images/4e/6c/6a/4e6c6a301453c5716f768d0e42e719121fbca97e1c7168e9361642d60e74d18a.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/22/85/18/228518a23cdf1d8cd96a6c231c769001ecdd3a2012727240579d83270b386a5e.jpg",
+      "image_path": "images/cards/11584/207-42576.webp",
+      "image_sha256": "6d744b1a7a17c6f821327cfbaef04e86f185e2860c6a4d2a3fd22553855b5aba",
+      "image_bytes": 76056,
+      "source_url": "https://www.tcgcollector.com/cards/42576/basic-psychic-energy-scarlet-and-violet-151-207-165",
+      "scraped_at": "2026-10-18T22:21:18Z",
+      "position": 207
+    }
+  ]
+}

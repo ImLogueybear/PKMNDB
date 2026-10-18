@@ -1,0 +1,195 @@
+{
+  "set": {
+    "id": 126,
+    "language": "en",
+    "name": "Holiday Calendar 2023",
+    "code": null,
+    "series": "Other",
+    "release_date": "2023-09-01",
+    "date_text": "Sep 01, 2023",
+    "card_count": 8,
+    "released": true,
+    "logo_url": "https://static.tcgcollector.com/content/images/e1/b6/e0/e1b6e0ec2f21bfa2ceca01eaedb09c7e305b1970ed80504e301ddc25b3890bdf.png",
+    "symbol_url": null,
+    "logo_path": "images/sets/126-logo.webp",
+    "symbol_path": null,
+    "source_url": "https://www.tcgcollector.com/sets/126/holiday-calendar-2023",
+    "scraped_at": "2026-10-18T22:30:18Z",
+    "cards_loaded": 8
+  },
+  "cards": [
+    {
+      "id": 39270,
+      "set_id": 11500,
+      "set_ids": [
+        126,
+        1219,
+        11500
+      ],
+      "name": "Alolan Vulpix V",
+      "number": "033",
+      "number_value": 33,
+      "printed_total": 195,
+      "rarity": "Holo Rare V",
+      "image_url": "https://static.tcgcollector.com/content/images/f2/2d/96/f22d96d31b613f6835d9950a78bbcee07980e78901fc4aa5cd0722a753f9dbc0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/58/1d/b4/581db49ec27083cce401932a4d1251af1d76b998b6052d7539a43c13e99b36b1.jpg",
+      "image_path": "images/cards/11500/033-39270.webp",
+      "image_sha256": "d5feed7e4d8f06edc92c189d05c44b581a4af1736a81b6427036bbafd1a81607",
+      "image_bytes": 142539,
+      "source_url": "https://www.tcgcollector.com/cards/39270/alolan-vulpix-v-silver-tempest-033-195",
+      "scraped_at": "2026-10-18T22:21:38Z",
+      "position": 1
+    },
+    {
+      "id": 39286,
+      "set_id": 11500,
+      "set_ids": [
+        126,
+        11500
+      ],
+      "name": "Pikachu",
+      "number": "049",
+      "number_value": 49,
+      "printed_total": 195,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/71/75/45/7175459c42bd8cfcd31a021a6407a8042200fde8d764328b203fa9454c0aa5df.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/18/e2/86/18e28635fc7b3f03696a6c01de33c34e2030e6286cf8b1128b5caf297c4bd8af.jpg",
+      "image_path": "images/cards/11500/049-39286.webp",
+      "image_sha256": "302814617fa4dd569a2a607c626d7cae267ff8d5aa085696896fde66368e2025",
+      "image_bytes": 151378,
+      "source_url": "https://www.tcgcollector.com/cards/39286/pikachu-silver-tempest-049-195",
+      "scraped_at": "2026-10-18T22:21:38Z",
+      "position": 2
+    },
+    {
+      "id": 38898,
+      "set_id": 11498,
+      "set_ids": [
+        126,
+        11498
+      ],
+      "name": "Glastrier",
+      "number": "051",
+      "number_value": 51,
+      "printed_total": 196,
+      "rarity": "Rare Holo",
+      "image_url": "https://static.tcgcollector.com/content/images/ee/41/c9/ee41c9351f2b0f8dafd8a6a721a24f2c3c5d488936c8bb1e547bdd3f8b52d9fb.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/65/00/d2/6500d21e9fadd3d2b7d7a2b239d2fac97e0cbd99801509fcf84cbf2766ecf3b0.jpg",
+      "image_path": "images/cards/11498/051-38898.webp",
+      "image_sha256": "69fda7750bb115f47b1751edd2cadbf0cb587f8086ff758e13f7f3eef4290d9f",
+      "image_bytes": 181917,
+      "source_url": "https://www.tcgcollector.com/cards/38898/glastrier-lost-origin-051-196",
+      "scraped_at": "2026-10-18T22:21:41Z",
+      "position": 3
+    },
+    {
+      "id": 38111,
+      "set_id": 11468,
+      "set_ids": [
+        126,
+        11468
+      ],
+      "name": "Stantler",
+      "number": "125",
+      "number_value": 125,
+      "printed_total": 189,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/64/79/43/647943f503eafb59ef12f619d22549da9fcc5f14361f851fe3dfe7559f49d644.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/16/5f/bf/165fbf13c1e0744146229ef230b3ce68a7b5d0eacbc66918f9e10934d443b531.jpg",
+      "image_path": "images/cards/11468/125-38111.webp",
+      "image_sha256": "53b8667b63178f9ed07ddfb8ff418db21879ae41ba21ea0482ae5aaba6ca30f5",
+      "image_bytes": 155563,
+      "source_url": "https://www.tcgcollector.com/cards/38111/stantler-astral-radiance-125-189",
+      "scraped_at": "2026-10-18T22:21:48Z",
+      "position": 4
+    },
+    {
+      "id": 35841,
+      "set_id": 11440,
+      "set_ids": [
+        126,
+        11440
+      ],
+      "name": "Snom",
+      "number": "084",
+      "number_value": 84,
+      "printed_total": 264,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/e4/00/b6/e400b649b64d5910de005a4662c96a3c820c21187dcc25613ced030b71ae2e23.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/7b/48/f8/7b48f830d6db1bbd46d60e01b90d2a29602d3a25399511eccf9845e3b85b1022.jpg",
+      "image_path": "images/cards/11440/084-35841.webp",
+      "image_sha256": "1e05f092a34145f8cb8b8f3eec6e621cbf36e1de50d05a739c101ae0101b5757",
+      "image_bytes": 162408,
+      "source_url": "https://www.tcgcollector.com/cards/35841/snom-fusion-strike-084-264",
+      "scraped_at": "2026-10-18T22:21:57Z",
+      "position": 5
+    },
+    {
+      "id": 35175,
+      "set_id": 11432,
+      "set_ids": [
+        126,
+        1217,
+        1218,
+        11432
+      ],
+      "name": "Glaceon V",
+      "number": "040",
+      "number_value": 40,
+      "printed_total": 203,
+      "rarity": "Holo Rare V",
+      "image_url": "https://static.tcgcollector.com/content/images/9e/fb/56/9efb56c8de0df9c28aa34e2c202b8ed82875d223adfa33f176e4f00346c39442.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/b6/10/45/b610450617168196eacb37d9a14fb13538d641be2f841a2e8c3329da201ea877.jpg",
+      "image_path": "images/cards/11432/040-35175.webp",
+      "image_sha256": "b8e243faca8901be3aca5cf48d6d2dca377c40f9866b3044265ee419c35b610e",
+      "image_bytes": 201109,
+      "source_url": "https://www.tcgcollector.com/cards/35175/glaceon-v-evolving-skies-040-203",
+      "scraped_at": "2026-10-18T22:22:01Z",
+      "position": 6
+    },
+    {
+      "id": 35176,
+      "set_id": 11432,
+      "set_ids": [
+        126,
+        1217,
+        1218,
+        11432
+      ],
+      "name": "Glaceon VMAX",
+      "number": "041",
+      "number_value": 41,
+      "printed_total": 203,
+      "rarity": "Holo Rare VMAX",
+      "image_url": "https://static.tcgcollector.com/content/images/fb/ca/e3/fbcae36dd108736336151ba56e87c56564cc2fb9740a5f03804545e3af2641c0.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/8a/87/3b/8a873b89366d5e2eac863aae752fc2b3912c18a3d97887a8e6f824358fe250e1.jpg",
+      "image_path": "images/cards/11432/041-35176.webp",
+      "image_sha256": "f46bd59f64b5e05c6283c21cc4a96b623db8975c4be6eafe324f8f768d626c46",
+      "image_bytes": 238142,
+      "source_url": "https://www.tcgcollector.com/cards/35176/glaceon-vmax-evolving-skies-041-203",
+      "scraped_at": "2026-10-18T22:22:01Z",
+      "position": 7
+    },
+    {
+      "id": 35178,
+      "set_id": 11432,
+      "set_ids": [
+        126,
+        11432
+      ],
+      "name": "Cryogonal",
+      "number": "043",
+      "number_value": 43,
+      "printed_total": 203,
+      "rarity": "Common",
+      "image_url": "https://static.tcgcollector.com/content/images/c2/e7/46/c2e74613b3cff75cd7e1e6ec7b1f3fddf2171e02524270b17d78d6cfac718b01.jpg",
+      "image_thumb_url": "https://static.tcgcollector.com/content/images/f7/91/22/f79122440006b557f12a6d7708733f32eeb7fdf47e99e7c57f747bbcb2de551b.jpg",
+      "image_path": "images/cards/11432/043-35178.webp",
+      "image_sha256": "c1b2b3e1bcc56bcb92597d76f391e67701299d24036933695db1f9561669bb5b",
+      "image_bytes": 209315,
+      "source_url": "https://www.tcgcollector.com/cards/35178/cryogonal-evolving-skies-043-203",
+      "scraped_at": "2026-10-18T22:22:01Z",
+      "position": 8
+    }
+  ]
+}
