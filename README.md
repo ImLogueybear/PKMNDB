@@ -9,21 +9,24 @@ Last updated: 2026-10-19
 - 784 sets (783 released, 1 upcoming)
   - 333 English/international sets
   - 451 Japanese sets
-- 54,203 set-card memberships
-- 49,822 unique cards (21,891 English, 27,931 Japanese)
+- 54,233 set-card memberships
+- 49,852 unique cards (21,891 English, 27,961 Japanese)
 - Unnumbered Energies excluded from both catalogs; Topps Series excluded from
   the English catalog
 - French and German set releases excluded
 
 ## Japanese Catalog
 
-- 451 sets, 27,931 unique cards, 28,492 set-card memberships
+- 451 sets, 27,961 unique cards, 28,522 set-card memberships
 - Original Base Set is listed as `Expansion Pack` (`11182`)
 - Jungle is `11201`; Fossil is `Mystery of the Fossils` (`11172`)
 - Japanese collector numbers use `No. 001`; `printed_total` is usually unknown
 - Card fronts are JPG, up to 356px wide; English fronts are WebP, up to 733px
 - Set logos and symbols use a mix of WebP and PNG
-- `25th Anniversary Creatures Deck` (`11651`) has no card list on the source
+- `25th Anniversary Creatures Deck` (`11651`) was filled from Bulbapedia's
+  30-card deck list and PokeDataVault card fronts; the upstream source has no
+  card list. Its `001`-`030` numbers are checklist positions (the physical
+  cards are unnumbered except `011/008` on three cards).
 - Japanese rows are marked `language = 'ja'`
 
 ## Files
@@ -33,6 +36,11 @@ Last updated: 2026-10-19
 - `dist/cards.jsonl` — one unique card per line, including `set_ids`.
 - `dist/sets/<set_id>.json` — set metadata plus its ordered card list.
 - `dist/manifest.json` — snapshot counts and schema version.
+- `dist/scan-index.json` — pointer to the R2-hosted card-scan index.
+- `data/sources/creatures-deck.json` — curated 30-card source list for set
+  11651.
+- `scripts/add-creatures-deck.mjs` — imports that deck, uploads its fronts to
+  R2, and updates the SQLite database and dist exports.
 
 Card front image binaries are not stored in this repository because the full
 set is over 7 GB. The database includes each card's language, local image path,
@@ -96,6 +104,22 @@ A custom domain is recommended for production applications.
 Use `sets.id` and `cards.id` as the stable keys. Set codes are not unique, and
 collector numbers can collide within a set, so neither is safe as a primary key.
 The `(set_id, card_id)` pair identifies a set membership.
+
+## Scan index
+
+PKMNDB also owns the prebuilt card-scan index used by CardTable/PocketVault:
+
+- Manifest: `https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/scan/cardtable/index.json`
+- Shards: `https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/scan/cardtable/<setId>.bin`
+- Format 2 / scan version 4; 843 set shards, 57,428 packed descriptors.
+- `dist/scan-index.json` is the small pointer manifest committed in this repo.
+
+The shards are derived from CardTable's app catalogue (stable app set/card ids)
+and PKMNDB card images. Rebuild the catalogue with
+`node scripts/build-scan-catalog.mjs`, then run the PocketVault/PKMNDB
+descriptor builder (`format` 2, `SCAN_VERSION` 4) and upload the resulting
+shards plus `index.json` to `scan/cardtable/`. The CardTable set-id mapping is
+in `data/scan/cardtable-set-map.json`.
 
 ## Notes
 
