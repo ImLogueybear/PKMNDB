@@ -1,0 +1,389 @@
+{
+  "set": {
+    "id": 12131,
+    "language": "ja",
+    "name": "Palkia LV.X Constructed Standard Deck",
+    "code": null,
+    "series": "Diamond & Pearl Era",
+    "release_date": "2007-07-05",
+    "date_text": "Jul 05, 2007",
+    "card_count": 18,
+    "released": true,
+    "logo_path": "images/sets/12131-logo.webp",
+    "symbol_path": "images/sets/12131-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/12131-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/12131-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 18
+  },
+  "cards": [
+    {
+      "id": 52301,
+      "set_id": 12131,
+      "set_ids": [
+        11681,
+        12131
+      ],
+      "language": "ja",
+      "name": "Burmy Sandy Cloak",
+      "number": "No. 010",
+      "number_value": 10,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12131/No-010-52301.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-010-52301.webp",
+      "image_sha256": "9511c64f3394a1900a5d4bfe80db8515b8ba825749df8f6e9d35e4a7663213f7",
+      "image_bytes": 21956,
+      "scraped_at": "2026-10-19T00:55:01Z",
+      "position": 1
+    },
+    {
+      "id": 52302,
+      "set_id": 12131,
+      "set_ids": [
+        11681,
+        12131
+      ],
+      "language": "ja",
+      "name": "Corsola",
+      "number": "No. 011",
+      "number_value": 11,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12131/No-011-52302.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-011-52302.webp",
+      "image_sha256": "41e0bec8bae437c9d0bb1eb65fa9b10a4ad8879cf2bc3188ce78db2394a757e8",
+      "image_bytes": 25584,
+      "scraped_at": "2026-10-19T00:55:01Z",
+      "position": 2
+    },
+    {
+      "id": 52303,
+      "set_id": 12131,
+      "set_ids": [
+        11681,
+        12131
+      ],
+      "language": "ja",
+      "name": "Palkia",
+      "number": "No. 012",
+      "number_value": 12,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12131/No-012-52303.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-012-52303.webp",
+      "image_sha256": "716664a30c5706bd8eafff66b61e4234a7fc0134359758c73fa771f42df1e051",
+      "image_bytes": 27774,
+      "scraped_at": "2026-10-19T00:55:01Z",
+      "position": 3
+    },
+    {
+      "id": 52304,
+      "set_id": 12131,
+      "set_ids": [
+        11681,
+        12131
+      ],
+      "language": "ja",
+      "name": "Palkia LV.X",
+      "number": "No. 013",
+      "number_value": 13,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12131/No-013-52304.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-013-52304.webp",
+      "image_sha256": "e81c87554cbcd2a4e00ac123d847ac2d4fb6299f1e9e1fe02b84b0b1bb8c467f",
+      "image_bytes": 28736,
+      "scraped_at": "2026-10-19T00:55:01Z",
+      "position": 4
+    },
+    {
+      "id": 52305,
+      "set_id": 12131,
+      "set_ids": [
+        11681,
+        12131
+      ],
+      "language": "ja",
+      "name": "Ralts",
+      "number": "No. 014",
+      "number_value": 14,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12131/No-014-52305.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-014-52305.webp",
+      "image_sha256": "58860c0a85a563248b3dc857d8e28eb5a7599d2e9b79bf5cbb23c2007187e207",
+      "image_bytes": 25722,
+      "scraped_at": "2026-10-19T00:55:01Z",
+      "position": 5
+    },
+    {
+      "id": 52306,
+      "set_id": 12131,
+      "set_ids": [
+        11681,
+        12131
+      ],
+      "language": "ja",
+      "name": "Kirlia",
+      "number": "No. 015",
+      "number_value": 15,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12131/No-015-52306.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-015-52306.webp",
+      "image_sha256": "1fca4c4e5ca52700a69e5df7ae31d483a3560f868d025fa9a27458135435ac9b",
+      "image_bytes": 23252,
+      "scraped_at": "2026-10-19T00:55:01Z",
+      "position": 6
+    },
+    {
+      "id": 52307,
+      "set_id": 12131,
+      "set_ids": [
+        11681,
+        12131
+      ],
+      "language": "ja",
+      "name": "Gallade",
+      "number": "No. 016",
+      "number_value": 16,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12131/No-016-52307.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-016-52307.webp",
+      "image_sha256": "e22e39cfe45334a675f53e86512b7747042a54879baa8a779e97c5595d5c25a0",
+      "image_bytes": 27926,
+      "scraped_at": "2026-10-19T00:55:01Z",
+      "position": 7
+    },
+    {
+      "id": 52308,
+      "set_id": 12131,
+      "set_ids": [
+        11681,
+        12131
+      ],
+      "language": "ja",
+      "name": "Wormadam Sandy Cloak",
+      "number": "No. 017",
+      "number_value": 17,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12131/No-017-52308.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-017-52308.webp",
+      "image_sha256": "611269a2b57f07831fd2e7bb66949243e5bc67129c87c1ed385127d07291d88b",
+      "image_bytes": 27020,
+      "scraped_at": "2026-10-19T00:55:01Z",
+      "position": 8
+    },
+    {
+      "id": 52309,
+      "set_id": 12131,
+      "set_ids": [
+        11681,
+        12131
+      ],
+      "language": "ja",
+      "name": "Spinda",
+      "number": "No. 018",
+      "number_value": 18,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12131/No-018-52309.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-018-52309.webp",
+      "image_sha256": "1a54970d76c1afeb5ff6f64b7c0f59041a7e9b1c8cf6666d15aea7d96e27d8d1",
+      "image_bytes": 22296,
+      "scraped_at": "2026-10-19T00:55:01Z",
+      "position": 9
+    },
+    {
+      "id": 52317,
+      "set_id": 12131,
+      "set_ids": [
+        11681,
+        12131
+      ],
+      "language": "ja",
+      "name": "Potion",
+      "number": "No. 020",
+      "number_value": 20,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12131/No-020-52317.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-020-52317.webp",
+      "image_sha256": "a1e7909280ed82792ed5ddc852bb5ca2f5983c30d76fab572bfa2e1212a9e434",
+      "image_bytes": 12376,
+      "scraped_at": "2026-10-19T00:55:01Z",
+      "position": 10
+    },
+    {
+      "id": 52310,
+      "set_id": 12131,
+      "set_ids": [
+        11681,
+        12130,
+        12131
+      ],
+      "language": "ja",
+      "name": "Switch",
+      "number": "No. 021",
+      "number_value": 21,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12131/No-021-52310.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-021-52310.webp",
+      "image_sha256": "d2ae1e87277f10386e8c82503b51514404a10f3644f8f7d95aa8318acf7ca370",
+      "image_bytes": 15614,
+      "scraped_at": "2026-10-19T00:55:01Z",
+      "position": 11
+    },
+    {
+      "id": 52312,
+      "set_id": 12131,
+      "set_ids": [
+        11681,
+        12130,
+        12131
+      ],
+      "language": "ja",
+      "name": "Night Maintenance",
+      "number": "No. 022",
+      "number_value": 22,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12131/No-022-52312.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-022-52312.webp",
+      "image_sha256": "5134525bd61f216d386628ca6afcf5fa4c2fc93f1617949a0b811aa26c82e434",
+      "image_bytes": 15538,
+      "scraped_at": "2026-10-19T00:55:01Z",
+      "position": 12
+    },
+    {
+      "id": 52313,
+      "set_id": 12131,
+      "set_ids": [
+        11681,
+        12130,
+        12131
+      ],
+      "language": "ja",
+      "name": "Professor Rowan",
+      "number": "No. 023",
+      "number_value": 23,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12131/No-023-52313.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-023-52313.webp",
+      "image_sha256": "aab38dbd8bec4820c034f4be6e88d9c56f23b7117586e82ffe80909728e637eb",
+      "image_bytes": 19476,
+      "scraped_at": "2026-10-19T00:55:01Z",
+      "position": 13
+    },
+    {
+      "id": 52314,
+      "set_id": 12131,
+      "set_ids": [
+        11681,
+        12130,
+        12131
+      ],
+      "language": "ja",
+      "name": "Bebe's Search",
+      "number": "No. 024",
+      "number_value": 24,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12131/No-024-52314.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-024-52314.webp",
+      "image_sha256": "0fb48b7465101dafc764c8e463a6a3cd09469979df4724bb50af0bfa61f5f8a5",
+      "image_bytes": 22206,
+      "scraped_at": "2026-10-19T00:55:01Z",
+      "position": 14
+    },
+    {
+      "id": 52315,
+      "set_id": 12131,
+      "set_ids": [
+        11681,
+        12130,
+        12131
+      ],
+      "language": "ja",
+      "name": "Rival",
+      "number": "No. 025",
+      "number_value": 25,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12131/No-025-52315.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-025-52315.webp",
+      "image_sha256": "b63908bfec8a1fe7abaed873b50adfd90b56998f5445495e10cc9e65f068d70e",
+      "image_bytes": 19618,
+      "scraped_at": "2026-10-19T00:55:01Z",
+      "position": 15
+    },
+    {
+      "id": 27264,
+      "set_id": 12131,
+      "set_ids": [
+        11231,
+        12130,
+        12131
+      ],
+      "language": "ja",
+      "name": "Professor Oak's Visit",
+      "number": "No. 115",
+      "number_value": 115,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/12131/No-115-27264.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-115-27264.webp",
+      "image_sha256": "2f82bdaad91208505002be59e00ccf4d9101aeb6f9315438ea022a63e456719a",
+      "image_bytes": 69148,
+      "scraped_at": "2026-10-19T00:55:03Z",
+      "position": 16
+    },
+    {
+      "id": 27265,
+      "set_id": 12131,
+      "set_ids": [
+        11231,
+        12130,
+        12131
+      ],
+      "language": "ja",
+      "name": "Team Galactic's Mars",
+      "number": "No. 116",
+      "number_value": 116,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/12131/No-116-27265.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-116-27265.webp",
+      "image_sha256": "fd0a81cedc538867ade3275d3da87a2cdb7a9bbac26276e5e498ea56abe94112",
+      "image_bytes": 66480,
+      "scraped_at": "2026-10-19T00:55:03Z",
+      "position": 17
+    },
+    {
+      "id": 27266,
+      "set_id": 12131,
+      "set_ids": [
+        11231,
+        12130,
+        12131
+      ],
+      "language": "ja",
+      "name": "Roseanne's Research",
+      "number": "No. 117",
+      "number_value": 117,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/12131/No-117-27266.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12131/No-117-27266.webp",
+      "image_sha256": "f7cf4d718c99e29ba35665bf301e25a12de3b636984d44fc56c7d63c7cc95bc2",
+      "image_bytes": 92432,
+      "scraped_at": "2026-10-19T00:55:03Z",
+      "position": 18
+    }
+  ]
+}

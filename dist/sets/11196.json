@@ -1,0 +1,1731 @@
+{
+  "set": {
+    "id": 11196,
+    "language": "ja",
+    "name": "Advent of Arceus",
+    "code": "DPt4",
+    "series": "Platinum Era",
+    "release_date": "2009-07-08",
+    "date_text": "Jul 08, 2009",
+    "card_count": 90,
+    "released": true,
+    "logo_path": "images/sets/11196-logo.webp",
+    "symbol_path": "images/sets/11196-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11196-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11196-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 90
+  },
+  "cards": [
+    {
+      "id": 26320,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Beedrill G",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/001-26320.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/001-26320.jpg",
+      "image_sha256": "a84b35b5583f5b3cfe9bdccc758ec7323bf3672151d377d6d89b1d894b1b0561",
+      "image_bytes": 55336,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 1
+    },
+    {
+      "id": 26321,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Tangela",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/002-26321.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/002-26321.jpg",
+      "image_sha256": "dbcfe2b4bd4a8ffa477b0a40c73ba838538811b3525abffc701f61b8def1adc2",
+      "image_bytes": 52227,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 2
+    },
+    {
+      "id": 26322,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Tangrowth",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/003-26322.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/003-26322.jpg",
+      "image_sha256": "cc4c52754ccd3073e76840ba2423292bc5327b78df6a32728c16644bd015ad08",
+      "image_bytes": 51106,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 3
+    },
+    {
+      "id": 26323,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Tangrowth LV.X",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 90,
+      "rarity": "Rare Holo LV.X",
+      "image_path": "images/cards/11196/004-26323.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/004-26323.jpg",
+      "image_sha256": "da746df7e49bde677ae5fd24166cacc73353b150e198430cae923a552c48d63c",
+      "image_bytes": 61598,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 4
+    },
+    {
+      "id": 26324,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Treecko",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/005-26324.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/005-26324.jpg",
+      "image_sha256": "31878e154f299b2602ca5133f258cfa12c90d182ecb74f5c89d5d4c3e71bdc6c",
+      "image_bytes": 49313,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 5
+    },
+    {
+      "id": 26325,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Grovyle",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/006-26325.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/006-26325.jpg",
+      "image_sha256": "e2839868ffff65a5052df99e8c66d07cca20c0795b9d5378e6901298f29e0221",
+      "image_bytes": 50727,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 6
+    },
+    {
+      "id": 26326,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Sceptile",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/007-26326.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/007-26326.jpg",
+      "image_sha256": "d91e64a49a9b552c7efb48e005c950306787dbb54b4df4a0f7462431d546e070",
+      "image_bytes": 51505,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 7
+    },
+    {
+      "id": 26327,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Burmy Plant Cloak",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/008-26327.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/008-26327.jpg",
+      "image_sha256": "f17f2055133d5be4abaf8ddc9a6f024e8f13266af6b0ce8f9b2be51cdfdf7e3c",
+      "image_bytes": 52035,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 8
+    },
+    {
+      "id": 26328,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Burmy Sandy Cloak",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/009-26328.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/009-26328.jpg",
+      "image_sha256": "a467de12739aac3accb6e659dd4c0e8c1da715d15c12855a28a0d0fad2f6b962",
+      "image_bytes": 50636,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 9
+    },
+    {
+      "id": 26329,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Burmy Trash Cloak",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/010-26329.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/010-26329.jpg",
+      "image_sha256": "56c65efd84f6947b029a2099893e9cdbbb5c10a10b15927c28e9461be8d7789f",
+      "image_bytes": 53200,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 10
+    },
+    {
+      "id": 26330,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Wormadam Plant Cloak",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/011-26330.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/011-26330.jpg",
+      "image_sha256": "a7699024ede99a60e8acfb90b3306ce40f81ffc8be053cfcb48ca1f106cc129c",
+      "image_bytes": 54999,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 11
+    },
+    {
+      "id": 26331,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Mothim",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/012-26331.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/012-26331.jpg",
+      "image_sha256": "8aa8ab690427752a642b1e4189c921df900839361335d0710efc3647470b00bd",
+      "image_bytes": 54183,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 12
+    },
+    {
+      "id": 26332,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Cherubi",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/013-26332.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/013-26332.jpg",
+      "image_sha256": "bb392ee4d5cfd34d8ab5e354a94bcd93d9f102bb7590153d1ad2e93613d77108",
+      "image_bytes": 47198,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 13
+    },
+    {
+      "id": 26333,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Cherrim",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/014-26333.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/014-26333.jpg",
+      "image_sha256": "3ababfd4dfac876a4dbcdfe119fd920e40662523c7453f275370dcaf0b0ffd48",
+      "image_bytes": 48383,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 14
+    },
+    {
+      "id": 26334,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Charmander",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/015-26334.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/015-26334.jpg",
+      "image_sha256": "5d57c2379940e5b6603bee8a0ec433425cb16a5e492273b129be514d8b04960e",
+      "image_bytes": 49811,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 15
+    },
+    {
+      "id": 26335,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Charmeleon",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/016-26335.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/016-26335.jpg",
+      "image_sha256": "35092975aa2120fb0b765c454898ece26291d804904f407e5b969ff17a12d659",
+      "image_bytes": 50972,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 16
+    },
+    {
+      "id": 26336,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Charizard",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/017-26336.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/017-26336.jpg",
+      "image_sha256": "7dda1e989e183e0c1c60d2c5b0bc1ec13194eed4b42dc84da48fb7d7390f2fcb",
+      "image_bytes": 56902,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 17
+    },
+    {
+      "id": 26337,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Ponyta",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/018-26337.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/018-26337.jpg",
+      "image_sha256": "a631b47ff55382900d7f7edfb6ec4efa5c564b26d1e65b5b6e8140339bebde98",
+      "image_bytes": 54891,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 18
+    },
+    {
+      "id": 26338,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Ponyta",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/019-26338.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/019-26338.jpg",
+      "image_sha256": "8a22b665e179a3b1c4743e220eb34dfd1312e94294459c700e486faf246cf909",
+      "image_bytes": 54720,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 19
+    },
+    {
+      "id": 26339,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Rapidash",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/020-26339.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/020-26339.jpg",
+      "image_sha256": "746c4ca6d00372c158b9f8e1f9c9cc70451b6a777aa04761dec63ea258e03799",
+      "image_bytes": 53136,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 20
+    },
+    {
+      "id": 26340,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Heatran",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/021-26340.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/021-26340.jpg",
+      "image_sha256": "2a28f5518f43c311f4b8171076e48c12d59d628f28b816902bb7ba0560231b18",
+      "image_bytes": 53014,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 21
+    },
+    {
+      "id": 26341,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Omanyte",
+      "number": "022",
+      "number_value": 22,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/022-26341.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/022-26341.jpg",
+      "image_sha256": "cdb22db803fc4345e2334f5c25455975e20a9dee915ec36728bf723e10017cc9",
+      "image_bytes": 50719,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 22
+    },
+    {
+      "id": 26342,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Omastar",
+      "number": "023",
+      "number_value": 23,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/023-26342.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/023-26342.jpg",
+      "image_sha256": "a1ffb413d3eae84a0e4fc195abed8cfff88eb4ce6c2932ea8a539f025fadb223",
+      "image_bytes": 54124,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 23
+    },
+    {
+      "id": 26343,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Wingull",
+      "number": "024",
+      "number_value": 24,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/024-26343.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/024-26343.jpg",
+      "image_sha256": "3315472d74b2f4f13dc8c9cfc78cba4f46074efa332daa941f35ab876e3ecd9d",
+      "image_bytes": 53239,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 24
+    },
+    {
+      "id": 26344,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Pelipper",
+      "number": "025",
+      "number_value": 25,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/025-26344.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/025-26344.jpg",
+      "image_sha256": "50ceb51c72f4dc7d7eda680451247bbb001ed5b3357f62c8f115a922b0a5db9f",
+      "image_bytes": 50051,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 25
+    },
+    {
+      "id": 26345,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Snorunt",
+      "number": "026",
+      "number_value": 26,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/026-26345.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/026-26345.jpg",
+      "image_sha256": "4e5172e5d9f372a61b613129521e4c29d5d0e09e357f1bf8ac5186ad92208d09",
+      "image_bytes": 51659,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 26
+    },
+    {
+      "id": 26346,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Glalie",
+      "number": "027",
+      "number_value": 27,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/027-26346.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/027-26346.jpg",
+      "image_sha256": "5545d18ff266875526ff07bf889a638a497ce472226e4098acbded573b518aec",
+      "image_bytes": 56299,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 27
+    },
+    {
+      "id": 26347,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Froslass",
+      "number": "028",
+      "number_value": 28,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/028-26347.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/028-26347.jpg",
+      "image_sha256": "0037625a107d7d8e7481feaac27b59300bd860bbcc80bedc4705040051e99f19",
+      "image_bytes": 52340,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 28
+    },
+    {
+      "id": 26348,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Arceus",
+      "number": "029",
+      "number_value": 29,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/029-26348.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/029-26348.jpg",
+      "image_sha256": "52b5be3300e388c7b48e11f7840fcc1f625356128cba2251ac589d78464b1d14",
+      "image_bytes": 67114,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 29
+    },
+    {
+      "id": 26349,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Pichu",
+      "number": "030",
+      "number_value": 30,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/030-26349.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/030-26349.jpg",
+      "image_sha256": "0f2fec430e2428e3850d9b31cc1eedeb43737fcffa109754cc7583b28b44ee10",
+      "image_bytes": 58549,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 30
+    },
+    {
+      "id": 26350,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Pikachu",
+      "number": "031",
+      "number_value": 31,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/031-26350.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/031-26350.jpg",
+      "image_sha256": "2e185a4e5a7f1282a599276ccc722f15e90c6abc3f92a311f700870dc7245f1d",
+      "image_bytes": 49943,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 31
+    },
+    {
+      "id": 26351,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Raichu",
+      "number": "032",
+      "number_value": 32,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/032-26351.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/032-26351.jpg",
+      "image_sha256": "f1832d502aa7f7a9f43a7b881c381ae147bfe078f6fb46dfabd8e1facdce1bd0",
+      "image_bytes": 51081,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 32
+    },
+    {
+      "id": 26352,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Zapdos G",
+      "number": "033",
+      "number_value": 33,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/033-26352.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/033-26352.jpg",
+      "image_sha256": "8c0b2a6e87b015097d1f7763ea7cd931a1bf39e46e7a80ee10c6cf88a0ac6d70",
+      "image_bytes": 59769,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 33
+    },
+    {
+      "id": 26353,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Electrike",
+      "number": "034",
+      "number_value": 34,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/034-26353.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/034-26353.jpg",
+      "image_sha256": "a1242a4df93111d9ed48b6070c45f51fa1a00f1cc5ac1c35c8046cdfcd12fce3",
+      "image_bytes": 55947,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 34
+    },
+    {
+      "id": 26354,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Manectric",
+      "number": "035",
+      "number_value": 35,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/035-26354.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/035-26354.jpg",
+      "image_sha256": "7cc15903405c160232dfed41cff366eedc97517fd6d061582d63004be89f6e8b",
+      "image_bytes": 58561,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 35
+    },
+    {
+      "id": 26355,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Shinx",
+      "number": "036",
+      "number_value": 36,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/036-26355.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/036-26355.jpg",
+      "image_sha256": "2d54de35d1fc998deef31854b789025d8aff4aeb1bd281bfd30d55166c65f0f4",
+      "image_bytes": 50172,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 36
+    },
+    {
+      "id": 26356,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Shinx",
+      "number": "037",
+      "number_value": 37,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/037-26356.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/037-26356.jpg",
+      "image_sha256": "10daeaf5d895e6726dfb7c6845060c427d55b53d16890fef57f54f72d43c2ff8",
+      "image_bytes": 48123,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 37
+    },
+    {
+      "id": 26357,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Luxio",
+      "number": "038",
+      "number_value": 38,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/038-26357.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/038-26357.jpg",
+      "image_sha256": "fe7086efc44382d7aadbf226fa77cafe50ac5d9ad1c852adf587d6f5d17ea0e4",
+      "image_bytes": 49294,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 38
+    },
+    {
+      "id": 26358,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Luxray",
+      "number": "039",
+      "number_value": 39,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/039-26358.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/039-26358.jpg",
+      "image_sha256": "5286066da0b853d6c6e508bc4d8b42b010c621e5eb07395b03233cf3a457639d",
+      "image_bytes": 57356,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 39
+    },
+    {
+      "id": 26359,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Gastly",
+      "number": "040",
+      "number_value": 40,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/040-26359.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/040-26359.jpg",
+      "image_sha256": "2d79caa1e4ef4f29d1f9e5d641a2cd0fc41aac7eb54fe451f6b60c1cf2e06be0",
+      "image_bytes": 49568,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 40
+    },
+    {
+      "id": 26360,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Haunter",
+      "number": "041",
+      "number_value": 41,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/041-26360.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/041-26360.jpg",
+      "image_sha256": "b5bfe85f07fb60035f44c2e22eef79555a09d2fde1a0c49a17ce99792477e15e",
+      "image_bytes": 53518,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 41
+    },
+    {
+      "id": 26361,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Gengar",
+      "number": "042",
+      "number_value": 42,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/042-26361.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/042-26361.jpg",
+      "image_sha256": "15fcd1f589851a693bc98d386d294aa8069b2f00042ad349e124ed7d6ff925a1",
+      "image_bytes": 50023,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 42
+    },
+    {
+      "id": 26362,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Gengar LV.X",
+      "number": "043",
+      "number_value": 43,
+      "printed_total": 90,
+      "rarity": "Rare Holo LV.X",
+      "image_path": "images/cards/11196/043-26362.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/043-26362.jpg",
+      "image_sha256": "f0736b84bc63a1d60053df29fccea533142f7c6787080c6d077aed88f2c57100",
+      "image_bytes": 57436,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 43
+    },
+    {
+      "id": 26363,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Gulpin",
+      "number": "044",
+      "number_value": 44,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/044-26363.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/044-26363.jpg",
+      "image_sha256": "5385bbcfb909eb3cc87ff3e5be8ccd86085fa2c1e5d0e32c4583cd32efa30e33",
+      "image_bytes": 51790,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 44
+    },
+    {
+      "id": 26364,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Swalot",
+      "number": "045",
+      "number_value": 45,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/045-26364.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/045-26364.jpg",
+      "image_sha256": "cc6aef04a078f3b841e6e1c7c8be286a71f4241bf1eb482cffc119da5834ef46",
+      "image_bytes": 48654,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 45
+    },
+    {
+      "id": 26365,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Geodude",
+      "number": "046",
+      "number_value": 46,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/046-26365.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/046-26365.jpg",
+      "image_sha256": "523f93848486bac39ea28ecb92508093117f4c3de4cfd35c705a95ff25d034e0",
+      "image_bytes": 54622,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 46
+    },
+    {
+      "id": 26366,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Graveler",
+      "number": "047",
+      "number_value": 47,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/047-26366.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/047-26366.jpg",
+      "image_sha256": "f4e90b7f5ac76fa3e06c68f9aeea492018d20401670216b08415be5862b9a3f0",
+      "image_bytes": 54661,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 47
+    },
+    {
+      "id": 26367,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Golem",
+      "number": "048",
+      "number_value": 48,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/048-26367.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/048-26367.jpg",
+      "image_sha256": "e7d00fc93ada1322c898d9aecb2f2261e5fe4b7b748db4894edbd8747c37cf28",
+      "image_bytes": 58821,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 48
+    },
+    {
+      "id": 26368,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Kabuto",
+      "number": "049",
+      "number_value": 49,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/049-26368.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/049-26368.jpg",
+      "image_sha256": "5de26e7f0046238d4f21377d84665ec897aaa7ceb43b8615d3a19581af4f7d26",
+      "image_bytes": 51322,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 49
+    },
+    {
+      "id": 26369,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Kabutops",
+      "number": "050",
+      "number_value": 50,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/050-26369.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/050-26369.jpg",
+      "image_sha256": "b7e23c70a56bd316630997c5df38c13f7bace9604b5114da97acc95bfe487efb",
+      "image_bytes": 56153,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 50
+    },
+    {
+      "id": 26370,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Aerodactyl",
+      "number": "051",
+      "number_value": 51,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/051-26370.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/051-26370.jpg",
+      "image_sha256": "08876cf0312a97ad73e5b3971a4ca0d3e14d268cd6330d8b35b5639e5a03b864",
+      "image_bytes": 56625,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 51
+    },
+    {
+      "id": 26371,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Makuhita",
+      "number": "052",
+      "number_value": 52,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/052-26371.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/052-26371.jpg",
+      "image_sha256": "86cba76fc3c4cffd56e8335562134c1b717a48d07ba2ad3110007968b684331c",
+      "image_bytes": 50672,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 52
+    },
+    {
+      "id": 26372,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Hariyama",
+      "number": "053",
+      "number_value": 53,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/053-26372.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/053-26372.jpg",
+      "image_sha256": "49d0d9f723fb32e631b06031d5b946313a91bba5f137acebb39b7d76f66d9171",
+      "image_bytes": 56557,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 53
+    },
+    {
+      "id": 26373,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Nosepass",
+      "number": "054",
+      "number_value": 54,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/054-26373.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/054-26373.jpg",
+      "image_sha256": "caf8ceb5aca39f5243bb40192cf78869c34b9bd90bb2aa9bf24483878fc3285b",
+      "image_bytes": 56746,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 54
+    },
+    {
+      "id": 26374,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Wormadam Sandy Cloak",
+      "number": "055",
+      "number_value": 55,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/055-26374.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/055-26374.jpg",
+      "image_sha256": "b8a25a56efb2bd6570809ee30bd069bdd63dda1179c2c1ba416db8341384a6ea",
+      "image_bytes": 50279,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 55
+    },
+    {
+      "id": 26375,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Croagunk",
+      "number": "056",
+      "number_value": 56,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/056-26375.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/056-26375.jpg",
+      "image_sha256": "56dd9363c780fdf26ab5fad7adf2b13c4b070d39eae25aca12594e3469a979ab",
+      "image_bytes": 58428,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 56
+    },
+    {
+      "id": 26376,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Toxicroak",
+      "number": "057",
+      "number_value": 57,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/057-26376.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/057-26376.jpg",
+      "image_sha256": "6cdea588dfaee3f27371e52882838ba97a7f4fc7e4f2fc6dbc6e8c37f777eb59",
+      "image_bytes": 57358,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 57
+    },
+    {
+      "id": 26377,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Arceus",
+      "number": "058",
+      "number_value": 58,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/058-26377.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/058-26377.jpg",
+      "image_sha256": "0b0edbf4c92ca65a4d8ee7d7ba22824e636f99fb7a26da20929849d3e7b1d46c",
+      "image_bytes": 60727,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 58
+    },
+    {
+      "id": 26378,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Spiritomb",
+      "number": "059",
+      "number_value": 59,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/059-26378.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/059-26378.jpg",
+      "image_sha256": "07a4762feea2a4b4d34a075555e6d283c92a28a557b69b23de3cd542c36f3b0a",
+      "image_bytes": 59878,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 59
+    },
+    {
+      "id": 26379,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Arceus",
+      "number": "060",
+      "number_value": 60,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/060-26379.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/060-26379.jpg",
+      "image_sha256": "df2b611d8dc0a0471bc035890c24f5096c21d41550a8c5832c3fcee06d436cf1",
+      "image_bytes": 60414,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 60
+    },
+    {
+      "id": 26380,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Wormadam Trash Cloak",
+      "number": "061",
+      "number_value": 61,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/061-26380.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/061-26380.jpg",
+      "image_sha256": "4bcedbb2772b65b5fca6829deb472c3068bae038dfdb7c0ac1e3e2d104c550c5",
+      "image_bytes": 63895,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 61
+    },
+    {
+      "id": 26381,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Bronzor",
+      "number": "062",
+      "number_value": 62,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/062-26381.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/062-26381.jpg",
+      "image_sha256": "154c3735034478b2733a6258aa1980019f99ee60c9b71b3b92c4f3e361cfed64",
+      "image_bytes": 65264,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 62
+    },
+    {
+      "id": 26382,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Bronzong",
+      "number": "063",
+      "number_value": 63,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/063-26382.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/063-26382.jpg",
+      "image_sha256": "3bba04b6b02fb071293101dd7c8f961868dffc76a2d42b36fa35ba20f914e753",
+      "image_bytes": 58189,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 63
+    },
+    {
+      "id": 26383,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Probopass",
+      "number": "064",
+      "number_value": 64,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/064-26383.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/064-26383.jpg",
+      "image_sha256": "f1c4ceef06a3d59b920df5ae7ad83d4b2b9b3a09acf16233d39ff9e9959106e8",
+      "image_bytes": 65059,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 64
+    },
+    {
+      "id": 26384,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Arceus",
+      "number": "065",
+      "number_value": 65,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/065-26384.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/065-26384.jpg",
+      "image_sha256": "da2b377bba5e2f222ed6bccce2514c88ace6bebe2a5c2b37f4e47ba155922eee",
+      "image_bytes": 65505,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 65
+    },
+    {
+      "id": 26385,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Rattata",
+      "number": "066",
+      "number_value": 66,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/066-26385.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/066-26385.jpg",
+      "image_sha256": "8f2b60492e8bd974a667323200d26c30eda4e6d520484fbaa66b5aebebae53e4",
+      "image_bytes": 47196,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 66
+    },
+    {
+      "id": 26386,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Raticate",
+      "number": "067",
+      "number_value": 67,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/067-26386.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/067-26386.jpg",
+      "image_sha256": "f5e1e62f1a5b3e10bad90183067cdc07faea52c65064e2559ff68f49c5c1f803",
+      "image_bytes": 53704,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 67
+    },
+    {
+      "id": 26387,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Bagon",
+      "number": "068",
+      "number_value": 68,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/068-26387.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/068-26387.jpg",
+      "image_sha256": "021591cfd8ad4cef68127c7d400f7d00918af1a853c830c36bb2a52d7e631ad2",
+      "image_bytes": 54048,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 68
+    },
+    {
+      "id": 26388,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Bagon",
+      "number": "069",
+      "number_value": 69,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/069-26388.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/069-26388.jpg",
+      "image_sha256": "80b294e478f1f6554a935bd6842c5912c406b6c2f62326f3a5fd6ede6edcc72a",
+      "image_bytes": 48009,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 69
+    },
+    {
+      "id": 26389,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Shelgon",
+      "number": "070",
+      "number_value": 70,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/070-26389.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/070-26389.jpg",
+      "image_sha256": "649bb647d66304d7cc5b95de702004dd5dcd3a5a0e807c22b7ae7a2d63a88f9c",
+      "image_bytes": 47025,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 70
+    },
+    {
+      "id": 26390,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Salamence",
+      "number": "071",
+      "number_value": 71,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/071-26390.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/071-26390.jpg",
+      "image_sha256": "5562432b11aa9d7f0c6050eaa13d7c35379d891f0c3a9db7de7d0e2424ff4b78",
+      "image_bytes": 57281,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 71
+    },
+    {
+      "id": 26391,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Salamence LV.X",
+      "number": "072",
+      "number_value": 72,
+      "printed_total": 90,
+      "rarity": "Rare Holo LV.X",
+      "image_path": "images/cards/11196/072-26391.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/072-26391.jpg",
+      "image_sha256": "4abb1b0575f107a7929e2982ccb5c3a9a9fd77df807e9fc11a8bcf305636bee0",
+      "image_bytes": 59549,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 72
+    },
+    {
+      "id": 26392,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Buneary",
+      "number": "073",
+      "number_value": 73,
+      "printed_total": 90,
+      "rarity": "Common",
+      "image_path": "images/cards/11196/073-26392.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/073-26392.jpg",
+      "image_sha256": "0474ddc3ed7d583e84841cb7706fc7db8a2c90c978cd550810be1b8ad460ba08",
+      "image_bytes": 50484,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 73
+    },
+    {
+      "id": 26393,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Lopunny",
+      "number": "074",
+      "number_value": 74,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/074-26393.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/074-26393.jpg",
+      "image_sha256": "8fcb98c56f0988ac95e4cb7283556ef5d7b4c8745c68b7b6e554e5028eb68943",
+      "image_bytes": 61542,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 74
+    },
+    {
+      "id": 26394,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Porygon-Z G",
+      "number": "075",
+      "number_value": 75,
+      "printed_total": 90,
+      "rarity": "Rare",
+      "image_path": "images/cards/11196/075-26394.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/075-26394.jpg",
+      "image_sha256": "523891bf246f90783eec0ae1c48f9e35b9245aac6906653e1b446c6300c4f9d9",
+      "image_bytes": 54236,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 75
+    },
+    {
+      "id": 26395,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Arceus",
+      "number": "076",
+      "number_value": 76,
+      "printed_total": 90,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11196/076-26395.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/076-26395.jpg",
+      "image_sha256": "a162ac0cb2a93f97e2784a6270157907f9041800f4faa438a383a1a380f66df3",
+      "image_bytes": 60670,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 76
+    },
+    {
+      "id": 26396,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Arceus LV.X",
+      "number": "077",
+      "number_value": 77,
+      "printed_total": 90,
+      "rarity": "Rare Holo LV.X",
+      "image_path": "images/cards/11196/077-26396.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/077-26396.jpg",
+      "image_sha256": "778e7e4d3ac8e451716109fe3ca99c035fe0219cefee807e66fd1fb3b679b470",
+      "image_bytes": 63684,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 77
+    },
+    {
+      "id": 26397,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Energy Search",
+      "number": "078",
+      "number_value": 78,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/078-26397.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/078-26397.jpg",
+      "image_sha256": "197c3bb62594879c56102f9a3c1f4189338429fe26bb560d520a42fa0139a9c2",
+      "image_bytes": 43325,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 78
+    },
+    {
+      "id": 26398,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Beginning Door",
+      "number": "079",
+      "number_value": 79,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/079-26398.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/079-26398.jpg",
+      "image_sha256": "2c8185a64562d35ae256f8283c5fd830db7b398e9dcc83849003303bfcec8557",
+      "image_bytes": 43566,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 79
+    },
+    {
+      "id": 26399,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Pokémon Rescue",
+      "number": "080",
+      "number_value": 80,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/080-26399.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/080-26399.jpg",
+      "image_sha256": "137b67579d14ccba56a9ac81e9508d1b97643ee3ff2d8d897a0b121af6d28da4",
+      "image_bytes": 40831,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 80
+    },
+    {
+      "id": 26400,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Helix Fossil",
+      "number": "081",
+      "number_value": 81,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/081-26400.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/081-26400.jpg",
+      "image_sha256": "ba2b9d2824d29c3023361375e24f23a2fe9f252d9cec2121ce0b2ed847a2a7c4",
+      "image_bytes": 54807,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 81
+    },
+    {
+      "id": 26401,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Dome Fossil",
+      "number": "082",
+      "number_value": 82,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/082-26401.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/082-26401.jpg",
+      "image_sha256": "01f4cec3fa17e8a6528f76751fde1a3caee8b38adf4ee79ce201c2da7da82da9",
+      "image_bytes": 56914,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 82
+    },
+    {
+      "id": 26402,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Old Amber",
+      "number": "083",
+      "number_value": 83,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/083-26402.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/083-26402.jpg",
+      "image_sha256": "ab84c6a9e29d6cfa1e326e996e3ecf14240a48b83890b41d87d19d0876bdc3fb",
+      "image_bytes": 49279,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 83
+    },
+    {
+      "id": 26403,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Lucky Egg",
+      "number": "084",
+      "number_value": 84,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/084-26403.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/084-26403.jpg",
+      "image_sha256": "49ee2883b5808a0b8f78cfc14e1fc408a07b687c6be0ce382325ddf6e0bfc4e7",
+      "image_bytes": 46389,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 84
+    },
+    {
+      "id": 26404,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Expert Belt",
+      "number": "085",
+      "number_value": 85,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/085-26404.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/085-26404.jpg",
+      "image_sha256": "7bb54b02f7c37826741bf72dc0e738cadd43dfe20bf78612c3b482af508e1a76",
+      "image_bytes": 56746,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 85
+    },
+    {
+      "id": 26405,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Bench Shield",
+      "number": "086",
+      "number_value": 86,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/086-26405.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/086-26405.jpg",
+      "image_sha256": "11d88be21467c903c697c7e4017ccb5430e55b57ba6270920617cc19bca53b96",
+      "image_bytes": 48151,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 86
+    },
+    {
+      "id": 26406,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Professor Oak's Visit",
+      "number": "087",
+      "number_value": 87,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/087-26406.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/087-26406.jpg",
+      "image_sha256": "724082e5fa921ac65e40311ee52d2a9d3beb6afff1859e9736eb3dba90fc2f32",
+      "image_bytes": 47768,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 87
+    },
+    {
+      "id": 26407,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Department Store Girl",
+      "number": "088",
+      "number_value": 88,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/088-26407.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/088-26407.jpg",
+      "image_sha256": "bed9bdd7c76195b510f1dbd62669fe5faf4514658a2c869d5b118cc9c2ae046e",
+      "image_bytes": 55436,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 88
+    },
+    {
+      "id": 26408,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Bebe's Search",
+      "number": "089",
+      "number_value": 89,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/089-26408.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/089-26408.jpg",
+      "image_sha256": "43a9b6f983fe998f8d17b2716a45e2d42b850c18b941e1f12e15db776f01a493",
+      "image_bytes": 57817,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 89
+    },
+    {
+      "id": 26409,
+      "set_id": 11196,
+      "set_ids": [
+        11196
+      ],
+      "language": "ja",
+      "name": "Ultimate Zone",
+      "number": "090",
+      "number_value": 90,
+      "printed_total": 90,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11196/090-26409.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11196/090-26409.jpg",
+      "image_sha256": "a79c88a95a24876dd03314985f4e040a7919d1b83daddd0995d9ab8e1ceec2f9",
+      "image_bytes": 52481,
+      "scraped_at": "2026-10-19T00:54:24Z",
+      "position": 90
+    }
+  ]
+}

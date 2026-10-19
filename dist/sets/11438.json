@@ -1,0 +1,401 @@
+{
+  "set": {
+    "id": 11438,
+    "language": "ja",
+    "name": "Black Deck Kit",
+    "code": null,
+    "series": "PCG Era",
+    "release_date": "2004-10-15",
+    "date_text": "Oct 15, 2004",
+    "card_count": 20,
+    "released": true,
+    "logo_path": "images/sets/11438-logo.webp",
+    "symbol_path": "images/sets/11438-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11438-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11438-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 20
+  },
+  "cards": [
+    {
+      "id": 35434,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Spinarak",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/001-35434.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/001-35434.webp",
+      "image_sha256": "5e860510ae7ed25042ba1ba6dea0470c7806d395f9a8693e8591ae4252609785",
+      "image_bytes": 37766,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 1
+    },
+    {
+      "id": 35435,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Dark Ariados",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/002-35435.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/002-35435.webp",
+      "image_sha256": "04c675a8ff2a6e6805db14677c9aa5e7cc3acd9c94089aa0f8448208e7ce3f5c",
+      "image_bytes": 62546,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 2
+    },
+    {
+      "id": 35436,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Slugma",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/003-35436.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/003-35436.webp",
+      "image_sha256": "cb6f25218e946c1e65311f2ec31ca30bcf033dffb02cb442b44ff0442200aa26",
+      "image_bytes": 46636,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 3
+    },
+    {
+      "id": 35437,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Houndour",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/004-35437.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/004-35437.webp",
+      "image_sha256": "7ad0063f08590314ff6a3b069d33473266b826fa07c69c6b1d719b54be4c660a",
+      "image_bytes": 53912,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 4
+    },
+    {
+      "id": 35438,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Dark Magcargo",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/005-35438.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/005-35438.webp",
+      "image_sha256": "64683c4a82986773733d78087de6577fed6cadda51d97beb4da5dea7819e8708",
+      "image_bytes": 51388,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 5
+    },
+    {
+      "id": 35439,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Dark Houndoom",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/006-35439.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/006-35439.webp",
+      "image_sha256": "dc04906082f0732118d9c5eb1184dd3d54aa3f81c32f0d9d734552c21928533c",
+      "image_bytes": 58736,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 6
+    },
+    {
+      "id": 35440,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Larvitar",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/007-35440.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/007-35440.webp",
+      "image_sha256": "a48f27e86e04b2281218ff094e3562b50eb1c7421972b3be36abec3996c2175a",
+      "image_bytes": 45088,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 7
+    },
+    {
+      "id": 35441,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Larvitar",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/008-35441.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/008-35441.webp",
+      "image_sha256": "1ad2515f90fde29d8deca508210748ccbc6d69056ae3528a4f1d9943478b9e42",
+      "image_bytes": 47332,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 8
+    },
+    {
+      "id": 35442,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Dark Pupitar",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/009-35442.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/009-35442.webp",
+      "image_sha256": "6715fa6417581a5b39e1c7f31b0c6f2751cfae391bdbd9bcce1d25344873cd00",
+      "image_bytes": 72998,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 9
+    },
+    {
+      "id": 35443,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Dark Pupitar",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/010-35443.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/010-35443.webp",
+      "image_sha256": "daadf0cb13ff18dfed4844ed7d512aa9909edbb5ab372d23997a4686a0ab66a7",
+      "image_bytes": 54798,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 10
+    },
+    {
+      "id": 35444,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Dark Tyranitar",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/011-35444.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/011-35444.webp",
+      "image_sha256": "107522a5df81dcab6f991bf43275cc5cceb9f9f3bac9e2942639b8df1562add0",
+      "image_bytes": 67352,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 11
+    },
+    {
+      "id": 35445,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Dark Tyranitar",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/012-35445.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/012-35445.webp",
+      "image_sha256": "c1e96cf45de6f712d7aaad18d5fcbd61ff907ef74a4a92479e13458d3b0e82a3",
+      "image_bytes": 49542,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 12
+    },
+    {
+      "id": 35446,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Rattata",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/013-35446.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/013-35446.webp",
+      "image_sha256": "73f971da5171572757234097627d02eff8ff92b23c2341b5b118aab04376a8d1",
+      "image_bytes": 53202,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 13
+    },
+    {
+      "id": 35447,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Rocket's Moltres ex",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/014-35447.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/014-35447.webp",
+      "image_sha256": "82a848f9300139d198c670d6d324d818392163825a244fe9e321b8c9734e8f4e",
+      "image_bytes": 42046,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 14
+    },
+    {
+      "id": 35448,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Energy Search",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/015-35448.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/015-35448.webp",
+      "image_sha256": "b32654440c8e997e76011c05267fa59dbebeeee3c1ba9a3a6c1b90e9666fd0de",
+      "image_bytes": 36842,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 15
+    },
+    {
+      "id": 35449,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Potion",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/016-35449.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/016-35449.webp",
+      "image_sha256": "b7f1dc346b20da1a7969d48459112495e8afb597fbabfb1639c774a4002f4fb8",
+      "image_bytes": 31512,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 16
+    },
+    {
+      "id": 35450,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Rocket's Poké Ball",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/017-35450.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/017-35450.webp",
+      "image_sha256": "21e11b97edfb1cde705d4749e3157d41ffbba7f7881d63f5eeb804e423590e14",
+      "image_bytes": 38414,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 17
+    },
+    {
+      "id": 35451,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Rocket's Admin.",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/018-35451.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/018-35451.webp",
+      "image_sha256": "22ec53871d92f1089d9a7c9b2df0babd213e1fc8c119f5165a13e2b01b487119",
+      "image_bytes": 55244,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 18
+    },
+    {
+      "id": 35452,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "Rocket's Mission",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/019-35452.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/019-35452.webp",
+      "image_sha256": "125bdc882e327b76c18f0f2b2810f429ba1c264d739e97b25e56edc0f145fdef",
+      "image_bytes": 47952,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 19
+    },
+    {
+      "id": 35453,
+      "set_id": 11438,
+      "set_ids": [
+        11438
+      ],
+      "language": "ja",
+      "name": "R Energy",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11438/020-35453.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11438/020-35453.webp",
+      "image_sha256": "d0d85e5712eb502499e20f94e324ed2c9eff0b522198a9a6343e61b6679a6afe",
+      "image_bytes": 39964,
+      "scraped_at": "2026-10-19T00:55:49Z",
+      "position": 20
+    }
+  ]
+}

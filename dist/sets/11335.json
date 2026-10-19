@@ -1,0 +1,610 @@
+{
+  "set": {
+    "id": 11335,
+    "language": "ja",
+    "name": "Trainer Battle Decks",
+    "code": "SMK",
+    "series": "Sun & Moon Era",
+    "release_date": "2019-01-25",
+    "date_text": "Jan 25, 2019",
+    "card_count": 31,
+    "released": true,
+    "logo_path": "images/sets/11335-logo.webp",
+    "symbol_path": "images/sets/11335-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11335-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11335-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 31
+  },
+  "cards": [
+    {
+      "id": 19632,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Psyduck",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/001-19632.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/001-19632.jpg",
+      "image_sha256": "003626dc3b7e267f04e864a870bc939a59352202fe84de023f595c317c78fdec",
+      "image_bytes": 180645,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 1
+    },
+    {
+      "id": 19633,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Horsea",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/002-19633.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/002-19633.jpg",
+      "image_sha256": "caf92e5e1cf05d23e6620df1b42e9a249a0de9fd6d6a671578049565a9944497",
+      "image_bytes": 171761,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 2
+    },
+    {
+      "id": 19634,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Staryu",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/003-19634.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/003-19634.jpg",
+      "image_sha256": "b5a21bc4e7480e582f836f723a78391a0d860cbf5f8377991b63d618a0d2a190",
+      "image_bytes": 208809,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 3
+    },
+    {
+      "id": 19635,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Starmie-GX",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/004-19635.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/004-19635.jpg",
+      "image_sha256": "0e180ed8e8af883e2418e3ac575f214f2cb9ca057a2652049ba9b57fbbb65684",
+      "image_bytes": 206104,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 4
+    },
+    {
+      "id": 19636,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Magikarp",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/005-19636.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/005-19636.jpg",
+      "image_sha256": "7f1fe201cba794f22a20e3073d4e05d458d6fac546e574195435ff9890bff931",
+      "image_bytes": 194280,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 5
+    },
+    {
+      "id": 19637,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Gyarados",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/006-19637.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/006-19637.jpg",
+      "image_sha256": "5dce2d600c9adb665b7e55a1fa9f9dc251ffdb8867b7a5a26b81f8470b7682d5",
+      "image_bytes": 208539,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 6
+    },
+    {
+      "id": 19638,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Lapras",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/007-19638.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/007-19638.jpg",
+      "image_sha256": "3f83cb58aa63ef4199309e30a02a3a8aebfb7914d5b7320d2064c4405e0797e3",
+      "image_bytes": 197532,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 7
+    },
+    {
+      "id": 19639,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Geodude",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/008-19639.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/008-19639.jpg",
+      "image_sha256": "b837f27129d27994468b22aa08d8be66759e97592c8b14ba62fbb7721a14307e",
+      "image_bytes": 173241,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 8
+    },
+    {
+      "id": 19640,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Graveler",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/009-19640.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/009-19640.jpg",
+      "image_sha256": "15080c84d2899e92ff576ca382a482ddaaf44c08bc16fd226d71e6e71ecf470c",
+      "image_bytes": 190306,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 9
+    },
+    {
+      "id": 19641,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Golem",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/010-19641.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/010-19641.jpg",
+      "image_sha256": "617d6314d191f8cef800c2b6f78a15d1ae76bf17c2120c8bdc2b165cb82d3b33",
+      "image_bytes": 186045,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 10
+    },
+    {
+      "id": 19642,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Onix-GX",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/011-19642.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/011-19642.jpg",
+      "image_sha256": "ee8d84250c83af6bb0cf342666a94727f9a2c748a99204b01e6658b126a1070e",
+      "image_bytes": 211951,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 11
+    },
+    {
+      "id": 19643,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Cubone",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/012-19643.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/012-19643.jpg",
+      "image_sha256": "6c3f544577f2aece522ae94613b63eb13475f1ed6d954e8cd2aa33dca84573ed",
+      "image_bytes": 174810,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 12
+    },
+    {
+      "id": 19644,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Rhyhorn",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/013-19644.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/013-19644.jpg",
+      "image_sha256": "79fef17738cd9b4fadb536381692ba59a78d17f7c68f37b5dbf4caa3ddd382b2",
+      "image_bytes": 173290,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 13
+    },
+    {
+      "id": 19645,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Rhydon",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/014-19645.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/014-19645.jpg",
+      "image_sha256": "42828a0c7c789f42eaa6db7ba5eded644e9709da5582087ddff082277d93d5b1",
+      "image_bytes": 184341,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 14
+    },
+    {
+      "id": 19646,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Sudowoodo",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/015-19646.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/015-19646.jpg",
+      "image_sha256": "b6cf12a4666dafcc10a5f27d87c7af79a02a766db5c86aa14980eeb9f9af4b3c",
+      "image_bytes": 218816,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 15
+    },
+    {
+      "id": 19647,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Acro Bike",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/016-19647.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/016-19647.jpg",
+      "image_sha256": "78917e5f9359c2654da3b4aed9f43c31ab70dc5906b5e6298a461010b5a9c445",
+      "image_bytes": 132708,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 16
+    },
+    {
+      "id": 19648,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Nest Ball",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/017-19648.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/017-19648.jpg",
+      "image_sha256": "e12a26f3430c9b762a687c2a5ddac7db7ef1fa283994356accfc0b5aa3fbbf9c",
+      "image_bytes": 112153,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 17
+    },
+    {
+      "id": 19649,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Ultra Ball",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/018-19649.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/018-19649.jpg",
+      "image_sha256": "a170400cc32a1ccdd3f63a7a1413fef878e7227b29bac7e459edc23b725cd2b2",
+      "image_bytes": 129399,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 18
+    },
+    {
+      "id": 19650,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Switch",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/019-19650.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/019-19650.jpg",
+      "image_sha256": "0aa1480e23dff6341d7cc6463adc205e74d91b0700591fc2a2bb22a7f83a7227",
+      "image_bytes": 110406,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 19
+    },
+    {
+      "id": 19651,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Pokémon Catcher",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/020-19651.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/020-19651.jpg",
+      "image_sha256": "f794c2f605a9ee4b15028893b52e2ee7939c67d5da0b9d734c99ea5dd88afc4c",
+      "image_bytes": 112111,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 20
+    },
+    {
+      "id": 19652,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Misty's Water Command",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/021-19652.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/021-19652.jpg",
+      "image_sha256": "7da9923a7dce574c9eafb5b1804ee12f88a2577555d87f1b7a2a602de6df2049",
+      "image_bytes": 171233,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 21
+    },
+    {
+      "id": 19653,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Misty's Determination",
+      "number": "022",
+      "number_value": 22,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/022-19653.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/022-19653.jpg",
+      "image_sha256": "4329563481c896b29c18cf94c05c1ab17eecf451420d7fbf8c52b1f81f386983",
+      "image_bytes": 150906,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 22
+    },
+    {
+      "id": 19654,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Cynthia",
+      "number": "023",
+      "number_value": 23,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/023-19654.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/023-19654.jpg",
+      "image_sha256": "556e0c5aaf96de7c1cd980275e7e462a89805749221255feeaa2bc20dc0b944a",
+      "image_bytes": 116571,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 23
+    },
+    {
+      "id": 19655,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Brock's Grit",
+      "number": "024",
+      "number_value": 24,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/024-19655.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/024-19655.jpg",
+      "image_sha256": "72c46dd7e4ab6e410b0419add05fb6f830f5f96dfc5871abf15b137e2eaf9d75",
+      "image_bytes": 123868,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 24
+    },
+    {
+      "id": 19656,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Brock's Training",
+      "number": "025",
+      "number_value": 25,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/025-19656.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/025-19656.jpg",
+      "image_sha256": "310c02a80cd6d9399d07c8ea615004e25c7684b7016f0485c9e732258b4e9e2c",
+      "image_bytes": 156699,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 25
+    },
+    {
+      "id": 19657,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Hau",
+      "number": "026",
+      "number_value": 26,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/026-19657.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/026-19657.jpg",
+      "image_sha256": "4d59892054b22c6c1917d3d364883954b7f199a8ffb3951bdf5bb84af6beac08",
+      "image_bytes": 117246,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 26
+    },
+    {
+      "id": 19658,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Pokémon Center Lady",
+      "number": "027",
+      "number_value": 27,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/027-19658.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/027-19658.jpg",
+      "image_sha256": "1af627cd770e5335cabc820b2325b762e65ad22355aaf2a584749be5c3eae5f1",
+      "image_bytes": 131303,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 27
+    },
+    {
+      "id": 19659,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Lillie",
+      "number": "028",
+      "number_value": 28,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/028-19659.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/028-19659.jpg",
+      "image_sha256": "96a020afacb546f9accc6504c0d09dd7a27f11ae99ba2b00a3ec912af521bf97",
+      "image_bytes": 131325,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 28
+    },
+    {
+      "id": 19660,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Misty's Cerulean City Gym",
+      "number": "029",
+      "number_value": 29,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/029-19660.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/029-19660.jpg",
+      "image_sha256": "e1cc7b042fe575bbb278d2ac7c354332e1ef424e8bd8dab80366cac38f8681a5",
+      "image_bytes": 140932,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 29
+    },
+    {
+      "id": 19661,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Brock's Pewter City Gym",
+      "number": "030",
+      "number_value": 30,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/030-19661.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/030-19661.jpg",
+      "image_sha256": "880cbd5fcb3188dac35a6429a21f3ae03f64b17cb388ef7a2796f595af8f7a1a",
+      "image_bytes": 123849,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 30
+    },
+    {
+      "id": 19662,
+      "set_id": 11335,
+      "set_ids": [
+        11335
+      ],
+      "language": "ja",
+      "name": "Double Colorless Energy",
+      "number": "031",
+      "number_value": 31,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11335/031-19662.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11335/031-19662.jpg",
+      "image_sha256": "1719e5830a20b597d2fe3c7e5ee864a9b69d64062e7f013ce43e55739b050104",
+      "image_bytes": 109854,
+      "scraped_at": "2026-10-19T00:52:09Z",
+      "position": 31
+    }
+  ]
+}

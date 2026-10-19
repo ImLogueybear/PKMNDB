@@ -1,0 +1,401 @@
+{
+  "set": {
+    "id": 11349,
+    "language": "ja",
+    "name": "Zygarde-EX Perfect Battle Deck",
+    "code": "XYG",
+    "series": "XY Era",
+    "release_date": "2016-03-18",
+    "date_text": "Mar 18, 2016",
+    "card_count": 20,
+    "released": true,
+    "logo_path": "images/sets/11349-logo.webp",
+    "symbol_path": "images/sets/11349-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11349-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11349-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 20
+  },
+  "cards": [
+    {
+      "id": 23030,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Diglett",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/001-23030.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/001-23030.jpg",
+      "image_sha256": "d15ce36fa06432b55eb47c61fcfb04faaae4969043b172918b96389756109e56",
+      "image_bytes": 173171,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 1
+    },
+    {
+      "id": 23031,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Larvitar",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/002-23031.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/002-23031.jpg",
+      "image_sha256": "e55317daac05cb871bcd7395ccc89389a0c3910cce79ff1bf409ba933d0fe95a",
+      "image_bytes": 179109,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 2
+    },
+    {
+      "id": 23032,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Regirock-EX",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/003-23032.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/003-23032.jpg",
+      "image_sha256": "61011b56d0bcd4b6d18c4acdc2bb5e6bcc59d02102814c682e0a60be8616e9ba",
+      "image_bytes": 231563,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 3
+    },
+    {
+      "id": 23033,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Riolu",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/004-23033.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/004-23033.jpg",
+      "image_sha256": "274a21282ac91ff71b31a47510b6a72fa033e26c7fb5729df59777a3087a54ff",
+      "image_bytes": 167883,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 4
+    },
+    {
+      "id": 23034,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Lucario",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/005-23034.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/005-23034.jpg",
+      "image_sha256": "e5bd9f15b5467c4fb99f5e9a1ebc2a7225995f90b71861036d94fee666d29567",
+      "image_bytes": 188125,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 5
+    },
+    {
+      "id": 23035,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Hawlucha",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/006-23035.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/006-23035.jpg",
+      "image_sha256": "103e7b8150ec9f5596dd93e958e9c0c04584626425601bc7ddd6ac5f74f4e7f3",
+      "image_bytes": 176139,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 6
+    },
+    {
+      "id": 23036,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Carbink",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/007-23036.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/007-23036.jpg",
+      "image_sha256": "8a9cdd881237ffdae4cdec1816ef329c7c2206a23e02b7d00026fe34964eec2c",
+      "image_bytes": 188527,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 7
+    },
+    {
+      "id": 23037,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Carbink BREAK",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/008-23037.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/008-23037.jpg",
+      "image_sha256": "270370736e2d3f94d9f799bc72e38c123bdb8695dbf36c3c14e8aa3ef0db65b4",
+      "image_bytes": 124633,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 8
+    },
+    {
+      "id": 23038,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Zygarde-EX",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/009-23038.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/009-23038.jpg",
+      "image_sha256": "178cac1b8c038d25028ae11ae2362f3c0d9edc2d3bd375b98997b877269c1bef",
+      "image_bytes": 221368,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 9
+    },
+    {
+      "id": 23039,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Ultra Ball",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/010-23039.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/010-23039.jpg",
+      "image_sha256": "648e9174f6e3a37c4fbef53cf9f7325b546e78d44c5c87c58726cc9a18372381",
+      "image_bytes": 150543,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 10
+    },
+    {
+      "id": 23040,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Switch",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/011-23040.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/011-23040.jpg",
+      "image_sha256": "520b64b0d18c8b69003d3b0ee304ee773795ae4a70f8fb100aa71d964c3cfa88",
+      "image_bytes": 149999,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 11
+    },
+    {
+      "id": 23041,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Pokémon Catcher",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/012-23041.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/012-23041.jpg",
+      "image_sha256": "131cf70133a014062202c435560a7b01f484ff06e5c74c345031ee5f00530db8",
+      "image_bytes": 154852,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 12
+    },
+    {
+      "id": 23042,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Power Memory",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/013-23042.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/013-23042.jpg",
+      "image_sha256": "ab4fe4e83e27377d073fbabe12bdd76bd2e6a2e31a1634789844ac6bb406367f",
+      "image_bytes": 178370,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 13
+    },
+    {
+      "id": 23043,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "N",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/014-23043.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/014-23043.jpg",
+      "image_sha256": "aef23eaba04aa7d97e586bc0bda3b343aee880f69c11610a536496e53462d3e8",
+      "image_bytes": 159606,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 14
+    },
+    {
+      "id": 23044,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Shauna",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/015-23044.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/015-23044.jpg",
+      "image_sha256": "4348fe46c283d31d9d278085d50a95e2dabab149edd0017825c00f18b3631494",
+      "image_bytes": 145386,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 15
+    },
+    {
+      "id": 23045,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Tierno",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/016-23045.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/016-23045.jpg",
+      "image_sha256": "d68aaa023f856f9ce0b77f74349719256dbc9f9f059f7f80384443fe430d4154",
+      "image_bytes": 148180,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 16
+    },
+    {
+      "id": 23046,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Professor Sycamore",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/017-23046.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/017-23046.jpg",
+      "image_sha256": "ec303623cc2bd47d256509df7ea9338e5245c75898f1d05d9c7576a8c9a7000f",
+      "image_bytes": 147797,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 17
+    },
+    {
+      "id": 23047,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Scorched Earth",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/018-23047.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/018-23047.jpg",
+      "image_sha256": "84caa47d9bc2ae37f74e732410b7330a24369cd2bd15ef670a5308e42daf4706",
+      "image_bytes": 155137,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 18
+    },
+    {
+      "id": 23048,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Strong Energy",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 19,
+      "rarity": null,
+      "image_path": "images/cards/11349/019-23048.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/019-23048.jpg",
+      "image_sha256": "4a7fdb01d7590f2712b3de9be7ecf264699afd8594b62556d16f5d8e7b1615a7",
+      "image_bytes": 127926,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 19
+    },
+    {
+      "id": 23049,
+      "set_id": 11349,
+      "set_ids": [
+        11349
+      ],
+      "language": "ja",
+      "name": "Fighting Energy",
+      "number": "No. 020",
+      "number_value": 20,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11349/No-020-23049.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11349/No-020-23049.webp",
+      "image_sha256": "4165c5770da86408f3a04b84444ae236c90eee48595d94a488d365c891f0bbec",
+      "image_bytes": 31086,
+      "scraped_at": "2026-10-19T00:52:54Z",
+      "position": 20
+    }
+  ]
+}

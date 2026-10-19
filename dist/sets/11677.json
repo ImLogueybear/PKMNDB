@@ -11,6 +11,8 @@
     "released": true,
     "logo_path": null,
     "symbol_path": null,
+    "logo_url": null,
+    "symbol_url": null,
     "scraped_at": "2026-10-18T22:30:18Z",
     "cards_loaded": 10
   },
@@ -21,12 +23,14 @@
       "set_ids": [
         11677
       ],
+      "language": "en",
       "name": "Hoppip",
       "number": "002",
       "number_value": 2,
       "printed_total": 93,
       "rarity": "Common",
       "image_path": "images/cards/11677/002-51431.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11677/002-51431.webp",
       "image_sha256": "6a2feb9b539a8463e27aa95ec8da93d5ce725c42c1fc439bf20e658fc63eaa3c",
       "image_bytes": 389498,
       "scraped_at": "2026-10-18T22:26:19Z",
@@ -38,12 +42,14 @@
       "set_ids": [
         11677
       ],
+      "language": "en",
       "name": "Koffing",
       "number": "004",
       "number_value": 4,
       "printed_total": 93,
       "rarity": "Common",
       "image_path": "images/cards/11677/004-51432.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11677/004-51432.webp",
       "image_sha256": "95010bd207c5c2604fe1b52bb75334d4179bd19f973574fc92701381fa99817e",
       "image_bytes": 396780,
       "scraped_at": "2026-10-18T22:26:19Z",
@@ -55,12 +61,14 @@
       "set_ids": [
         11677
       ],
+      "language": "en",
       "name": "Pikachu",
       "number": "016",
       "number_value": 16,
       "printed_total": 93,
       "rarity": "Common",
       "image_path": "images/cards/11677/016-51434.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11677/016-51434.webp",
       "image_sha256": "f43b0ba7cdc9db09f296ff79e9ae6d025789e9e3afa66c87014db22ad9563e31",
       "image_bytes": 322762,
       "scraped_at": "2026-10-18T22:26:19Z",
@@ -72,12 +80,14 @@
       "set_ids": [
         11677
       ],
+      "language": "en",
       "name": "Gastly",
       "number": "019",
       "number_value": 19,
       "printed_total": 93,
       "rarity": "Common",
       "image_path": "images/cards/11677/019-51430.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11677/019-51430.webp",
       "image_sha256": "7a36dbc706917f85d6f26c5bf37ea546b825f23f5ca4c5c49b427bc97569655f",
       "image_bytes": 421874,
       "scraped_at": "2026-10-18T22:26:19Z",
@@ -89,12 +99,14 @@
       "set_ids": [
         11677
       ],
+      "language": "en",
       "name": "Machop",
       "number": "021",
       "number_value": 21,
       "printed_total": 93,
       "rarity": "Common",
       "image_path": "images/cards/11677/021-51433.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11677/021-51433.webp",
       "image_sha256": "d4a817ca6d92500e570f40dc4f4cda97bc7d70abbb2660e45a7169567bce944a",
       "image_bytes": 587168,
       "scraped_at": "2026-10-18T22:26:19Z",
@@ -106,12 +118,14 @@
       "set_ids": [
         11677
       ],
+      "language": "en",
       "name": "Machoke",
       "number": "042",
       "number_value": 42,
       "printed_total": 93,
       "rarity": "Uncommon",
       "image_path": "images/cards/11677/042-51429.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11677/042-51429.webp",
       "image_sha256": "661656cb68e7b4efe791a53dd14d27b91cb798656f32647a4b3aad37298bfaf0",
       "image_bytes": 440540,
       "scraped_at": "2026-10-18T22:26:19Z",
@@ -123,12 +137,14 @@
       "set_ids": [
         11677
       ],
+      "language": "en",
       "name": "Chansey",
       "number": "048",
       "number_value": 48,
       "printed_total": 93,
       "rarity": "Uncommon",
       "image_path": "images/cards/11677/048-51428.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11677/048-51428.webp",
       "image_sha256": "d51ede5ff7d138f6138479722b65c0235a3af9905e502c53c41edf53b60cccba",
       "image_bytes": 390674,
       "scraped_at": "2026-10-18T22:26:19Z",
@@ -140,12 +156,14 @@
       "set_ids": [
         11677
       ],
+      "language": "en",
       "name": "Rapidash",
       "number": "074",
       "number_value": 74,
       "printed_total": 93,
       "rarity": "Rare",
       "image_path": "images/cards/11677/074-51427.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11677/074-51427.webp",
       "image_sha256": "f6f27283ab9008767110d62405536d707f04fda2d41b47fe0da0fb1b4226deb6",
       "image_bytes": 574554,
       "scraped_at": "2026-10-18T22:26:19Z",
@@ -157,12 +175,14 @@
       "set_ids": [
         11677
       ],
+      "language": "en",
       "name": "Pichu",
       "number": "083",
       "number_value": 83,
       "printed_total": 93,
       "rarity": "Rare",
       "image_path": "images/cards/11677/083-51426.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11677/083-51426.webp",
       "image_sha256": "b3a771425f13a27b3f61b0f40e481ba2e406f6eb5d24c4da36a8b6f1e9690b43",
       "image_bytes": 476122,
       "scraped_at": "2026-10-18T22:26:19Z",
@@ -174,12 +194,14 @@
       "set_ids": [
         11677
       ],
+      "language": "en",
       "name": "Machamp",
       "number": "088",
       "number_value": 88,
       "printed_total": 93,
       "rarity": "Rare",
       "image_path": "images/cards/11677/088-51425.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11677/088-51425.webp",
       "image_sha256": "64c9b9303845a0a94fef63c6d1e6812fc46e3d0d2a8d262b57738e5e09918e7f",
       "image_bytes": 591504,
       "scraped_at": "2026-10-18T22:26:19Z",

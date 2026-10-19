@@ -1,14 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-19T00:35:00Z",
-  "region": "intl",
-  "language": "en",
+  "generated_at": "2026-10-19T04:13:58Z",
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "image_base_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev",
   "counts": {
-    "sets": 333,
-    "released_sets": 332,
-    "cards": 21891,
-    "set_card_memberships": 25711,
-    "cards_with_images": 21891
+    "sets": 784,
+    "released_sets": 783,
+    "cards": 49822,
+    "cards_en": 21891,
+    "cards_ja": 27931,
+    "set_card_memberships": 54203,
+    "cards_with_images": 49822
   },
   "files": {
     "sets": "sets.json",

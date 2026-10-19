@@ -1,0 +1,496 @@
+{
+  "set": {
+    "id": 11279,
+    "language": "ja",
+    "name": "Great Detective Pikachu",
+    "code": "SMP2",
+    "series": "Sun & Moon Era",
+    "release_date": "2019-04-26",
+    "date_text": "Apr 26, 2019",
+    "card_count": 25,
+    "released": true,
+    "logo_path": "images/sets/11279-logo.png",
+    "symbol_path": "images/sets/11279-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11279-logo.png",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11279-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 25
+  },
+  "cards": [
+    {
+      "id": 19205,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Bulbasaur",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 24,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11279/001-19205.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/001-19205.jpg",
+      "image_sha256": "2265db12b2fa2f66ca6f7e1b9c56f711ecd6fd369dc5a628515028b0f3796d8c",
+      "image_bytes": 145248,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 1
+    },
+    {
+      "id": 19206,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Bulbasaur",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 24,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11279/002-19206.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/002-19206.jpg",
+      "image_sha256": "11302cee6d3433011d78697f46e01fd7fc771910a8f4d6f997a3b198d8c53ff0",
+      "image_bytes": 150179,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 2
+    },
+    {
+      "id": 19207,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Ludicolo",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 24,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11279/003-19207.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/003-19207.jpg",
+      "image_sha256": "5c0d54b1ffaf625abc1a4c66edeb02da22f19abad4cfb3ff3de7d4653e7206b6",
+      "image_bytes": 150265,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 3
+    },
+    {
+      "id": 19208,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Morelull",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 24,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11279/004-19208.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/004-19208.jpg",
+      "image_sha256": "20221e65ae27152b26f434c654b4aa0cf2cce698c7a4c223e8812fc1b271601d",
+      "image_bytes": 142203,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 4
+    },
+    {
+      "id": 19209,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Charmander",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 24,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11279/005-19209.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/005-19209.jpg",
+      "image_sha256": "b56b401183f909f731ee7087542f15fb09c999096f4bd5593547f701e701f6a8",
+      "image_bytes": 131551,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 5
+    },
+    {
+      "id": 19210,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Charizard",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 24,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11279/006-19210.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/006-19210.jpg",
+      "image_sha256": "ec496b5c010cc6c16396caf8644b6f29b2a6c6f92ecf6b195d00db49837d2403",
+      "image_bytes": 156562,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 6
+    },
+    {
+      "id": 19211,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Charizard-GX",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 24,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11279/007-19211.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/007-19211.jpg",
+      "image_sha256": "a476796771ca4b4a683b44f47d4cd06b98bb256acfdb2d666450c39845ee7e0a",
+      "image_bytes": 218642,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 7
+    },
+    {
+      "id": 19212,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Arcanine",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 24,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11279/008-19212.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/008-19212.jpg",
+      "image_sha256": "98af66d91197d23210ee800dca97959b7421316b42e9814321abcd2f9fb2719a",
+      "image_bytes": 147641,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 8
+    },
+    {
+      "id": 19213,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Psyduck",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 24,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11279/009-19213.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/009-19213.jpg",
+      "image_sha256": "6e628df874eb4b8b9dc9aa9a119f619f2c296bdd8a2c5a158f73676cecf28a22",
+      "image_bytes": 115212,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 9
+    },
+    {
+      "id": 19214,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Psyduck",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 24,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11279/010-19214.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/010-19214.jpg",
+      "image_sha256": "2f8e00ee9953e4dddd589d1b9d9f81219c01c27d8457023dad687366cdc540ea",
+      "image_bytes": 124151,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 10
+    },
+    {
+      "id": 19215,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Magikarp",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 24,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11279/011-19215.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/011-19215.jpg",
+      "image_sha256": "1675d3242b1b6c070bac9a929d2ebde571d3369925e1d35f3eda96a7e5ad426d",
+      "image_bytes": 124674,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 11
+    },
+    {
+      "id": 19216,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Greninja",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 24,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11279/012-19216.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/012-19216.jpg",
+      "image_sha256": "1e2177a49ea2abd4aaf550eff995ae02dd621d7edc689488c0c753a045d19f9e",
+      "image_bytes": 168639,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 12
+    },
+    {
+      "id": 19217,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Greninja-GX",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 24,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11279/013-19217.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/013-19217.jpg",
+      "image_sha256": "d23e0c0f22211965ef6150f676a2ef621d27f515a1d260d1f184c69a967f7e7e",
+      "image_bytes": 224022,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 13
+    },
+    {
+      "id": 19218,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Detective Pikachu",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 24,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11279/014-19218.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/014-19218.jpg",
+      "image_sha256": "8693fbfc4c85c41d8bc264f80ee877a15df9f9dfec3c65d17cfc101fbe35c2d4",
+      "image_bytes": 123227,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 14
+    },
+    {
+      "id": 19219,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Mr. Mime",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 24,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11279/015-19219.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/015-19219.jpg",
+      "image_sha256": "3a52bf2e5dc1ba1009996a04a2425132a734d0f357383bbdb6a711b7aadd786c",
+      "image_bytes": 123574,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 15
+    },
+    {
+      "id": 19220,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Mewtwo",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 24,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11279/016-19220.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/016-19220.jpg",
+      "image_sha256": "6d4ed5458e015c77122ac455e1e3a76f68a4b89038a4f8e2e0cda67b3832b281",
+      "image_bytes": 135872,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 16
+    },
+    {
+      "id": 19221,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Mewtwo-GX",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 24,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11279/017-19221.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/017-19221.jpg",
+      "image_sha256": "263d4f39abf4f945309a9a3c25d908180187a1054446e64eebd1848d7ae48b84",
+      "image_bytes": 182609,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 17
+    },
+    {
+      "id": 19222,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Machamp",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 24,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11279/018-19222.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/018-19222.jpg",
+      "image_sha256": "2d43a8c0880c8879c35ecb2da5311495c004fc5a3f24c90bd6fba61c1c904872",
+      "image_bytes": 156933,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 18
+    },
+    {
+      "id": 19223,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Jigglypuff",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 24,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11279/019-19223.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/019-19223.jpg",
+      "image_sha256": "e84c80ade2f54cc73c4e65a22d11038e9a6ecd92d02a9f3dc5fbc36d69fcbd66",
+      "image_bytes": 131170,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 19
+    },
+    {
+      "id": 19224,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Snubbull",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 24,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11279/020-19224.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/020-19224.jpg",
+      "image_sha256": "34ecbd68ea25c4665dd0f698188e39fc9678a022edfa453c72ae0e26addf622a",
+      "image_bytes": 136817,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 20
+    },
+    {
+      "id": 19225,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Snubbull",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": 24,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11279/021-19225.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/021-19225.jpg",
+      "image_sha256": "1805d3e99909a37b3704f59eca55e5e7e1ca0637ddb7aba7245672cd1f61f406",
+      "image_bytes": 130851,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 21
+    },
+    {
+      "id": 19226,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Lickitung",
+      "number": "022",
+      "number_value": 22,
+      "printed_total": 24,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11279/022-19226.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/022-19226.jpg",
+      "image_sha256": "40508f706f202150e25442eb2f108fcb3aa4a9c381aa992f14282ae8a2eebdcc",
+      "image_bytes": 138247,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 22
+    },
+    {
+      "id": 19227,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Ditto",
+      "number": "023",
+      "number_value": 23,
+      "printed_total": 24,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11279/023-19227.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/023-19227.jpg",
+      "image_sha256": "c3ca5924574393833a4778cb48e1333b4195755fc035d8a78d4fdcb1891d4e67",
+      "image_bytes": 132445,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 23
+    },
+    {
+      "id": 19228,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Slaking",
+      "number": "024",
+      "number_value": 24,
+      "printed_total": 24,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11279/024-19228.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/024-19228.jpg",
+      "image_sha256": "26644ed44f5eb6327d70cea5b08d635c965d066985c72ea77dc971c3baf3ab64",
+      "image_bytes": 146778,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 24
+    },
+    {
+      "id": 31492,
+      "set_id": 11279,
+      "set_ids": [
+        11279
+      ],
+      "language": "ja",
+      "name": "Lt. Yoshida",
+      "number": "025",
+      "number_value": 25,
+      "printed_total": 24,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11279/025-31492.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11279/025-31492.jpg",
+      "image_sha256": "008ff118be1fa7cd046072875ef3f8997e37dd4af10a58875c0607751c0a5e0e",
+      "image_bytes": 179338,
+      "scraped_at": "2026-10-19T00:52:03Z",
+      "position": 25
+    }
+  ]
+}

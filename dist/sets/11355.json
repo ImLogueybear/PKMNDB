@@ -1,0 +1,420 @@
+{
+  "set": {
+    "id": 11355,
+    "language": "ja",
+    "name": "Solgaleo-GX & Lunala-GX Legendary Starter Set",
+    "code": "SME",
+    "series": "Sun & Moon Era",
+    "release_date": "2017-11-10",
+    "date_text": "Nov 10, 2017",
+    "card_count": 21,
+    "released": true,
+    "logo_path": "images/sets/11355-logo.webp",
+    "symbol_path": "images/sets/11355-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11355-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11355-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 21
+  },
+  "cards": [
+    {
+      "id": 21294,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Mewtwo",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/001-21294.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/001-21294.jpg",
+      "image_sha256": "80eff7d2bdb4a8718c241979731fa38b97250fb0e89ec64eb8b58ac59471d0eb",
+      "image_bytes": 149751,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 1
+    },
+    {
+      "id": 21295,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Latios",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/002-21295.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/002-21295.jpg",
+      "image_sha256": "bdda8b2b735e00eeff566965e729580d6b6ae3acc7ce531f69a1885c38c14001",
+      "image_bytes": 154724,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 2
+    },
+    {
+      "id": 21296,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Cosmog",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/003-21296.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/003-21296.jpg",
+      "image_sha256": "be1dd3a6506b0bee4db4427dd4f0487a0aa503efa96e5c7f8e6a565887eba295",
+      "image_bytes": 151892,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 3
+    },
+    {
+      "id": 21297,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Cosmoem",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/004-21297.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/004-21297.jpg",
+      "image_sha256": "d581688b43118655f526502f3b5dbf75a26808985f1710b0ddfb6e88e54b4a10",
+      "image_bytes": 165295,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 4
+    },
+    {
+      "id": 21298,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Lunala-GX",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/005-21298.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/005-21298.jpg",
+      "image_sha256": "891f25a66a2a688b1cfab5c3bc76b12bd51abba7d3d7be944d59a62438f2feb6",
+      "image_bytes": 208973,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 5
+    },
+    {
+      "id": 21299,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Mawile",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/006-21299.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/006-21299.jpg",
+      "image_sha256": "95c6f1c058c5f670d6d3a22f8665b61c5fe62638d09b7169ed6451e7d3de4a0d",
+      "image_bytes": 198096,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 6
+    },
+    {
+      "id": 21300,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Solgaleo-GX",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/007-21300.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/007-21300.jpg",
+      "image_sha256": "1fde69a3966c39143fcefcdf0205f5027806abb39a054a5269a82a13a5acf303",
+      "image_bytes": 238526,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 7
+    },
+    {
+      "id": 21301,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Spinda",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/008-21301.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/008-21301.jpg",
+      "image_sha256": "48bc4dba083ba2e807307145496314dcfbb4a0445c7588afc3ff94402b97230c",
+      "image_bytes": 167746,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 8
+    },
+    {
+      "id": 21302,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Type: Null",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/009-21302.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/009-21302.jpg",
+      "image_sha256": "3163456f89c1f88037b0696466c6896449c960dea40f029dbf8bd05d6701f8ec",
+      "image_bytes": 172331,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 9
+    },
+    {
+      "id": 21303,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Silvally",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/010-21303.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/010-21303.jpg",
+      "image_sha256": "e405c1a65f34933a15d6ea78dc37a726d0c329f6186a50e98e7a5fc92fe2522a",
+      "image_bytes": 158853,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 10
+    },
+    {
+      "id": 21304,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Nest Ball",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/011-21304.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/011-21304.jpg",
+      "image_sha256": "7132f69065dd69af44084428e47277e9366ed0b8bf4cf46f37e2ccd2e0e6cf97",
+      "image_bytes": 112164,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 11
+    },
+    {
+      "id": 21305,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Ultra Ball",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/012-21305.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/012-21305.jpg",
+      "image_sha256": "ad5964fb9fd73e0f9b234d6e3186596a429b82ad400348a85f94b1f1d7087b39",
+      "image_bytes": 129449,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 12
+    },
+    {
+      "id": 21306,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Rare Candy",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/013-21306.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/013-21306.jpg",
+      "image_sha256": "364867a3abd25accf828bf72cfb1c6fe6ecb2c4de6da0a65055bb618a95f5adc",
+      "image_bytes": 120695,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 13
+    },
+    {
+      "id": 21307,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Switch",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/014-21307.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/014-21307.jpg",
+      "image_sha256": "81fa61446d16f6fec77c9bb15c3cf47546c1f0b0f4b73ba584dc4d94f25b6c18",
+      "image_bytes": 110438,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 14
+    },
+    {
+      "id": 21308,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Pokémon Catcher",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/015-21308.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/015-21308.jpg",
+      "image_sha256": "afe265483d030e2aab58961bea73a11be986ffbe90b9f9ec8d96eae5a18b0748",
+      "image_bytes": 112156,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 15
+    },
+    {
+      "id": 21309,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Rescue Stretcher",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/016-21309.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/016-21309.jpg",
+      "image_sha256": "b1c7d9df601b5d1cacfe7424a718ebdd4bf5c3e4b446aa816af7ce04400ef279",
+      "image_bytes": 127292,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 16
+    },
+    {
+      "id": 21310,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Cynthia",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/017-21310.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/017-21310.jpg",
+      "image_sha256": "5c1aa9dee2e1f5242f29be90ab44ec9b705317b7ef1adb328c95aaeed93c78b1",
+      "image_bytes": 116565,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 17
+    },
+    {
+      "id": 21311,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Hau",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/018-21311.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/018-21311.jpg",
+      "image_sha256": "1533da405f8cba8fdfff44da071225f301fdfcfa2f375a18a654c0a23061defd",
+      "image_bytes": 113656,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 18
+    },
+    {
+      "id": 21312,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Sophocles",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/019-21312.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/019-21312.jpg",
+      "image_sha256": "5ee15f22e132061a9bc3dad3a7f11e220a112b8d640de234f767d141bb41be2e",
+      "image_bytes": 130832,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 19
+    },
+    {
+      "id": 21313,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Lillie",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/020-21313.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/020-21313.jpg",
+      "image_sha256": "7f3a7c33e7abdcf2efaa5830d0c7ca2afcca4cba84230820b6a92309bce609a4",
+      "image_bytes": 136164,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 20
+    },
+    {
+      "id": 21314,
+      "set_id": 11355,
+      "set_ids": [
+        11355
+      ],
+      "language": "ja",
+      "name": "Double Colorless Energy",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": 21,
+      "rarity": null,
+      "image_path": "images/cards/11355/021-21314.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11355/021-21314.jpg",
+      "image_sha256": "3f1b4da0e7db320432918349dbc74a5649c0a8193c4f61a1244ae87b85d54bc0",
+      "image_bytes": 109972,
+      "scraped_at": "2026-10-19T00:52:29Z",
+      "position": 21
+    }
+  ]
+}

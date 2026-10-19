@@ -1,0 +1,59 @@
+{
+  "set": {
+    "id": 11478,
+    "language": "ja",
+    "name": "J Promos",
+    "code": null,
+    "series": "e-Card Era",
+    "release_date": "2001-08-01",
+    "date_text": "Aug 01, 2001",
+    "card_count": 2,
+    "released": true,
+    "logo_path": "images/sets/11478-logo.png",
+    "symbol_path": "images/sets/11478-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11478-logo.png",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11478-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 2
+  },
+  "cards": [
+    {
+      "id": 38371,
+      "set_id": 11478,
+      "set_ids": [
+        11478
+      ],
+      "language": "ja",
+      "name": "Timeless Celebi",
+      "number": "001/J",
+      "number_value": 1,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/11478/001-J-38371.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11478/001-J-38371.jpg",
+      "image_sha256": "638bd0e702a3c5893aba21c1764f1f36418e02e6d14ac795a19e7eb9ad86c93a",
+      "image_bytes": 50629,
+      "scraped_at": "2026-10-19T00:56:27Z",
+      "position": 1
+    },
+    {
+      "id": 38372,
+      "set_id": 11478,
+      "set_ids": [
+        11478
+      ],
+      "language": "ja",
+      "name": "Latias and Latios",
+      "number": "002/J",
+      "number_value": 2,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/11478/002-J-38372.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11478/002-J-38372.jpg",
+      "image_sha256": "d10cef2e555aa71a8e3534f0bf4f1931ac4f500e1d90214d356bd03b2fa611e0",
+      "image_bytes": 73140,
+      "scraped_at": "2026-10-19T00:56:27Z",
+      "position": 2
+    }
+  ]
+}

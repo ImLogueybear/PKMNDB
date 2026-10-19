@@ -1,0 +1,306 @@
+{
+  "set": {
+    "id": 11541,
+    "language": "ja",
+    "name": "Psychic Quick Construction Pack",
+    "code": null,
+    "series": "PCG Era",
+    "release_date": "2005-01-16",
+    "date_text": "Jan 16, 2005",
+    "card_count": 15,
+    "released": true,
+    "logo_path": "images/sets/11541-logo.webp",
+    "symbol_path": "images/sets/11541-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11541-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11541-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 15
+  },
+  "cards": [
+    {
+      "id": 41170,
+      "set_id": 11541,
+      "set_ids": [
+        11541
+      ],
+      "language": "ja",
+      "name": "Ralts",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11541/001-41170.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11541/001-41170.jpg",
+      "image_sha256": "496dbba82f8e94ffaa66b8a5084ac9e024f6e042565d649793c76830aa2f8c49",
+      "image_bytes": 26601,
+      "scraped_at": "2026-10-19T00:55:42Z",
+      "position": 1
+    },
+    {
+      "id": 41171,
+      "set_id": 11541,
+      "set_ids": [
+        11541
+      ],
+      "language": "ja",
+      "name": "Kirlia",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11541/002-41171.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11541/002-41171.jpg",
+      "image_sha256": "52a0328724898ef5d74163113fbf87ce64e111c4a60f9f0e6c8cbefb4365dd9a",
+      "image_bytes": 28402,
+      "scraped_at": "2026-10-19T00:55:42Z",
+      "position": 2
+    },
+    {
+      "id": 41172,
+      "set_id": 11541,
+      "set_ids": [
+        11541
+      ],
+      "language": "ja",
+      "name": "Spoink",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11541/003-41172.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11541/003-41172.jpg",
+      "image_sha256": "ccaec79b9a46405f572b6966911ff82546d368ddb2a8be17e6472fc85c642270",
+      "image_bytes": 34466,
+      "scraped_at": "2026-10-19T00:55:42Z",
+      "position": 3
+    },
+    {
+      "id": 41173,
+      "set_id": 11541,
+      "set_ids": [
+        11541
+      ],
+      "language": "ja",
+      "name": "Grumpig",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11541/004-41173.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11541/004-41173.webp",
+      "image_sha256": "8dce81ebb19228121b332f7a1d2dd4fc4870a4d49e887ba3204213865b3cdc19",
+      "image_bytes": 108234,
+      "scraped_at": "2026-10-19T00:55:42Z",
+      "position": 4
+    },
+    {
+      "id": 41174,
+      "set_id": 11541,
+      "set_ids": [
+        11541
+      ],
+      "language": "ja",
+      "name": "Duskull",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11541/005-41174.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11541/005-41174.jpg",
+      "image_sha256": "8b0961f010b957718f33cf3b33ce61db508f76368dcb016994d600a740f9b54b",
+      "image_bytes": 37452,
+      "scraped_at": "2026-10-19T00:55:42Z",
+      "position": 5
+    },
+    {
+      "id": 41175,
+      "set_id": 11541,
+      "set_ids": [
+        11541
+      ],
+      "language": "ja",
+      "name": "Dusclops ex",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11541/006-41175.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11541/006-41175.jpg",
+      "image_sha256": "938dcd854adb126dbfce462e5537bd4294d30a9fbe6342a04d70b11c98a256c5",
+      "image_bytes": 31555,
+      "scraped_at": "2026-10-19T00:55:42Z",
+      "position": 6
+    },
+    {
+      "id": 41176,
+      "set_id": 11541,
+      "set_ids": [
+        11541
+      ],
+      "language": "ja",
+      "name": "Chimecho",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11541/007-41176.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11541/007-41176.jpg",
+      "image_sha256": "8e3b3650fa60e9dd185b1c3a60470927045f03dcc59f7bba3bf1dda38a28ac5e",
+      "image_bytes": 43859,
+      "scraped_at": "2026-10-19T00:55:42Z",
+      "position": 7
+    },
+    {
+      "id": 41177,
+      "set_id": 11541,
+      "set_ids": [
+        11541
+      ],
+      "language": "ja",
+      "name": "Switch",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11541/008-41177.png",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11541/008-41177.png",
+      "image_sha256": "fd7c3800f9b8ebadf4b31a735f569a180e66201741b00fafa17879967884ad2c",
+      "image_bytes": 186316,
+      "scraped_at": "2026-10-19T00:55:42Z",
+      "position": 8
+    },
+    {
+      "id": 41178,
+      "set_id": 11541,
+      "set_ids": [
+        11541
+      ],
+      "language": "ja",
+      "name": "Mr. Stone's Project",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11541/009-41178.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11541/009-41178.jpg",
+      "image_sha256": "e95b68d4c0a671aa0a41ac1a2f152dca671bd2cb2285b1573fc66e0f605d957d",
+      "image_bytes": 43584,
+      "scraped_at": "2026-10-19T00:55:42Z",
+      "position": 9
+    },
+    {
+      "id": 41179,
+      "set_id": 11541,
+      "set_ids": [
+        11541
+      ],
+      "language": "ja",
+      "name": "Bill's Maintenance",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11541/010-41179.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11541/010-41179.jpg",
+      "image_sha256": "a74bda3ef2551a953c954da1c4949c41320ffce7027ab9cf4279c8739cfdfc37",
+      "image_bytes": 47487,
+      "scraped_at": "2026-10-19T00:55:42Z",
+      "position": 10
+    },
+    {
+      "id": 41180,
+      "set_id": 11541,
+      "set_ids": [
+        11541
+      ],
+      "language": "ja",
+      "name": "Psychic Energy",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11541/011-41180.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11541/011-41180.webp",
+      "image_sha256": "28fbe643c29400b93df8a6d53a0f2e985261a56c39abbcc246d3d51b1c517a19",
+      "image_bytes": 74550,
+      "scraped_at": "2026-10-19T00:55:42Z",
+      "position": 11
+    },
+    {
+      "id": 41181,
+      "set_id": 11541,
+      "set_ids": [
+        11541
+      ],
+      "language": "ja",
+      "name": "Psychic Energy",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11541/012-41181.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11541/012-41181.webp",
+      "image_sha256": "c64e118253c6e043a91be6568fefb5030239034df545a785daef46bcaaedd718",
+      "image_bytes": 80196,
+      "scraped_at": "2026-10-19T00:55:42Z",
+      "position": 12
+    },
+    {
+      "id": 41182,
+      "set_id": 11541,
+      "set_ids": [
+        11541
+      ],
+      "language": "ja",
+      "name": "Psychic Energy",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11541/013-41182.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11541/013-41182.webp",
+      "image_sha256": "7f6c15e1dbb01a66d5ee051a8195b0009bae73965778fe976893f32c70830a05",
+      "image_bytes": 80642,
+      "scraped_at": "2026-10-19T00:55:42Z",
+      "position": 13
+    },
+    {
+      "id": 41183,
+      "set_id": 11541,
+      "set_ids": [
+        11541
+      ],
+      "language": "ja",
+      "name": "Psychic Energy",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11541/014-41183.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11541/014-41183.webp",
+      "image_sha256": "bf1b368a7e92fbfb9acbefaac3d3369f268d3407f7bf63be7781314c19564f9f",
+      "image_bytes": 79774,
+      "scraped_at": "2026-10-19T00:55:42Z",
+      "position": 14
+    },
+    {
+      "id": 41184,
+      "set_id": 11541,
+      "set_ids": [
+        11541
+      ],
+      "language": "ja",
+      "name": "Psychic Energy",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11541/015-41184.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11541/015-41184.webp",
+      "image_sha256": "def0f6f1802c04686cd029567f806aa7a14b99fbd8ed3422abe322338fe78f92",
+      "image_bytes": 75934,
+      "scraped_at": "2026-10-19T00:55:42Z",
+      "position": 15
+    }
+  ]
+}

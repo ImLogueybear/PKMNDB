@@ -1,0 +1,306 @@
+{
+  "set": {
+    "id": 11542,
+    "language": "ja",
+    "name": "Fighting Quick Construction Pack",
+    "code": null,
+    "series": "PCG Era",
+    "release_date": "2005-01-16",
+    "date_text": "Jan 16, 2005",
+    "card_count": 15,
+    "released": true,
+    "logo_path": "images/sets/11542-logo.webp",
+    "symbol_path": "images/sets/11542-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11542-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11542-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 15
+  },
+  "cards": [
+    {
+      "id": 41110,
+      "set_id": 11542,
+      "set_ids": [
+        11542
+      ],
+      "language": "ja",
+      "name": "Rhyhorn",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11542/001-41110.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11542/001-41110.jpg",
+      "image_sha256": "529e4c983e12c2f4775f6c8557ae94fb9eee9bfd8f8838585b9c23028197aab1",
+      "image_bytes": 33305,
+      "scraped_at": "2026-10-19T00:55:41Z",
+      "position": 1
+    },
+    {
+      "id": 41111,
+      "set_id": 11542,
+      "set_ids": [
+        11542
+      ],
+      "language": "ja",
+      "name": "Rhydon",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11542/002-41111.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11542/002-41111.jpg",
+      "image_sha256": "c7ce4477b45299e64f066f97c6d0dee895fa3e8812de3e76e11d6bf869d5152c",
+      "image_bytes": 35419,
+      "scraped_at": "2026-10-19T00:55:41Z",
+      "position": 2
+    },
+    {
+      "id": 41112,
+      "set_id": 11542,
+      "set_ids": [
+        11542
+      ],
+      "language": "ja",
+      "name": "Makuhita",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11542/003-41112.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11542/003-41112.jpg",
+      "image_sha256": "4648ec7f1b6b755773172568e81d309f0800a1f82246b2fac4b099c7262d5182",
+      "image_bytes": 35307,
+      "scraped_at": "2026-10-19T00:55:41Z",
+      "position": 3
+    },
+    {
+      "id": 41113,
+      "set_id": 11542,
+      "set_ids": [
+        11542
+      ],
+      "language": "ja",
+      "name": "Hariyama",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11542/004-41113.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11542/004-41113.jpg",
+      "image_sha256": "b41b688ef652a2c38a2a6efc3fc2ce753ce74fdc5ab5aa59692f893459fd6433",
+      "image_bytes": 34269,
+      "scraped_at": "2026-10-19T00:55:41Z",
+      "position": 4
+    },
+    {
+      "id": 41114,
+      "set_id": 11542,
+      "set_ids": [
+        11542
+      ],
+      "language": "ja",
+      "name": "Nosepass",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11542/005-41114.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11542/005-41114.jpg",
+      "image_sha256": "5018520ec346486544359404291a4c35f800428857c1ec58eea5ffc004602d83",
+      "image_bytes": 35915,
+      "scraped_at": "2026-10-19T00:55:41Z",
+      "position": 5
+    },
+    {
+      "id": 41115,
+      "set_id": 11542,
+      "set_ids": [
+        11542
+      ],
+      "language": "ja",
+      "name": "Meditite",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11542/006-41115.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11542/006-41115.jpg",
+      "image_sha256": "450d96f834d6c8252eca9e269926ed4c35bb9344d912a6f61db0bb2cd89bc084",
+      "image_bytes": 44742,
+      "scraped_at": "2026-10-19T00:55:41Z",
+      "position": 6
+    },
+    {
+      "id": 41116,
+      "set_id": 11542,
+      "set_ids": [
+        11542
+      ],
+      "language": "ja",
+      "name": "Medicham ex",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11542/007-41116.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11542/007-41116.jpg",
+      "image_sha256": "a13c372136a5d6211b65c6857ba3d88a4be94fef92fadab1f97d4313fb2c4c70",
+      "image_bytes": 45929,
+      "scraped_at": "2026-10-19T00:55:41Z",
+      "position": 7
+    },
+    {
+      "id": 41117,
+      "set_id": 11542,
+      "set_ids": [
+        11542
+      ],
+      "language": "ja",
+      "name": "Potion",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11542/008-41117.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11542/008-41117.jpg",
+      "image_sha256": "eb2623c29a5043bbfdbb6f90c32ebce5fd4bad3598acd739b56a8bf0b85742f8",
+      "image_bytes": 24748,
+      "scraped_at": "2026-10-19T00:55:41Z",
+      "position": 8
+    },
+    {
+      "id": 41118,
+      "set_id": 11542,
+      "set_ids": [
+        11542
+      ],
+      "language": "ja",
+      "name": "Professor Cozmo's Discovery",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11542/009-41118.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11542/009-41118.jpg",
+      "image_sha256": "863c316ef0daa5083f404683c194c793c495f1700d94fad8622d54c623d1de55",
+      "image_bytes": 33371,
+      "scraped_at": "2026-10-19T00:55:41Z",
+      "position": 9
+    },
+    {
+      "id": 41119,
+      "set_id": 11542,
+      "set_ids": [
+        11542
+      ],
+      "language": "ja",
+      "name": "Mr. Stone's Project",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11542/010-41119.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11542/010-41119.jpg",
+      "image_sha256": "00c8af1ecfb896d8d3c75c9609601b1e723e6e9e2208802ecc0dff7d30a1ec5f",
+      "image_bytes": 42743,
+      "scraped_at": "2026-10-19T00:55:41Z",
+      "position": 10
+    },
+    {
+      "id": 41120,
+      "set_id": 11542,
+      "set_ids": [
+        11542
+      ],
+      "language": "ja",
+      "name": "Fighting Energy",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11542/011-41120.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11542/011-41120.webp",
+      "image_sha256": "f9f6092713434476d9af17b6881c6db1f16be77066e3d8d2aa7f59d7be80f527",
+      "image_bytes": 47708,
+      "scraped_at": "2026-10-19T00:55:41Z",
+      "position": 11
+    },
+    {
+      "id": 41121,
+      "set_id": 11542,
+      "set_ids": [
+        11542
+      ],
+      "language": "ja",
+      "name": "Fighting Energy",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11542/012-41121.png",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11542/012-41121.png",
+      "image_sha256": "fd7c3800f9b8ebadf4b31a735f569a180e66201741b00fafa17879967884ad2c",
+      "image_bytes": 186316,
+      "scraped_at": "2026-10-19T00:55:41Z",
+      "position": 12
+    },
+    {
+      "id": 41122,
+      "set_id": 11542,
+      "set_ids": [
+        11542
+      ],
+      "language": "ja",
+      "name": "Fighting Energy",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11542/013-41122.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11542/013-41122.webp",
+      "image_sha256": "80c7073bddd466e6497ac291758c30363943f3ad04fcd1d8c7a2df04cad44fc0",
+      "image_bytes": 47372,
+      "scraped_at": "2026-10-19T00:55:41Z",
+      "position": 13
+    },
+    {
+      "id": 41123,
+      "set_id": 11542,
+      "set_ids": [
+        11542
+      ],
+      "language": "ja",
+      "name": "Fighting Energy",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11542/014-41123.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11542/014-41123.webp",
+      "image_sha256": "958301e9c276eff773367e6754539b141a41ef94eb5a0b92a9e5e0210367fca2",
+      "image_bytes": 44588,
+      "scraped_at": "2026-10-19T00:55:41Z",
+      "position": 14
+    },
+    {
+      "id": 41124,
+      "set_id": 11542,
+      "set_ids": [
+        11542
+      ],
+      "language": "ja",
+      "name": "Fighting Energy",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 15,
+      "rarity": null,
+      "image_path": "images/cards/11542/015-41124.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11542/015-41124.webp",
+      "image_sha256": "2413bcd165abd67671588f41ebf9168bb261e01ca9bf08ac7afe9569e9fe7bed",
+      "image_bytes": 45290,
+      "scraped_at": "2026-10-19T00:55:41Z",
+      "position": 15
+    }
+  ]
+}

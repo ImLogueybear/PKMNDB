@@ -1,0 +1,382 @@
+{
+  "set": {
+    "id": 11368,
+    "language": "ja",
+    "name": "Team Plasma Powered Half Deck",
+    "code": "PPD",
+    "series": "Black & White Era",
+    "release_date": "2012-09-14",
+    "date_text": "Sep 14, 2012",
+    "card_count": 19,
+    "released": true,
+    "logo_path": "images/sets/11368-logo.webp",
+    "symbol_path": "images/sets/11368-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11368-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11368-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 19
+  },
+  "cards": [
+    {
+      "id": 25085,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Zubat",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/001-25085.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/001-25085.jpg",
+      "image_sha256": "edfdf0cad5688d4373a7bd166f672d10d08278227c905a0732cb639a887ac15a",
+      "image_bytes": 130744,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 1
+    },
+    {
+      "id": 25086,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Koffing",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/002-25086.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/002-25086.jpg",
+      "image_sha256": "7e1e3064231d782f588dd3fb860fbf9511c490ff1551b6817c023b4011bc2494",
+      "image_bytes": 137695,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 2
+    },
+    {
+      "id": 25087,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Trubbish",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/003-25087.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/003-25087.jpg",
+      "image_sha256": "d94f6b1219df9085332260bd3fa7b6258f3afd1936d14597801c21d5d735f939",
+      "image_bytes": 117576,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 3
+    },
+    {
+      "id": 25088,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Garbodor",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/004-25088.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/004-25088.jpg",
+      "image_sha256": "cf18d8f776e6c765fd3475eab5cf81eb91221586a2a3affc4246669f770665e9",
+      "image_bytes": 178364,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 4
+    },
+    {
+      "id": 25089,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Elgyem",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/005-25089.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/005-25089.jpg",
+      "image_sha256": "906ddb33566a33d7e6442f7c09d287f257e2d9d4297cd07a0092ed582e4f6ce1",
+      "image_bytes": 112554,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 5
+    },
+    {
+      "id": 25090,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Klink",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/006-25090.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/006-25090.jpg",
+      "image_sha256": "befd3ebfd693358e5c7b102e9bc8267498f1564cc5366037237edb22ee27de67",
+      "image_bytes": 203475,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 6
+    },
+    {
+      "id": 25091,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Klang",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/007-25091.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/007-25091.jpg",
+      "image_sha256": "318c825f677bf968b74295b0366844a49b1dcdace5f84c4207853ceb7ff47d49",
+      "image_bytes": 205821,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 7
+    },
+    {
+      "id": 25092,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Klinklang",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/008-25092.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/008-25092.jpg",
+      "image_sha256": "48522b1ce64186dc4423fb423fc4a5d5284e447c1fb5b727999c4546a60895e6",
+      "image_bytes": 230978,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 8
+    },
+    {
+      "id": 25093,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Durant",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/009-25093.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/009-25093.jpg",
+      "image_sha256": "b3fe2e1769d360e9cfb3e97afc37f260a608ada3dcb1905f396de11896b1062b",
+      "image_bytes": 200772,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 9
+    },
+    {
+      "id": 25094,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Patrat",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/010-25094.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/010-25094.jpg",
+      "image_sha256": "359bf4f7867b4b79f6dd2bff8dd22dc1125e4aa00343548d55490c2a791dbabb",
+      "image_bytes": 143050,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 10
+    },
+    {
+      "id": 25095,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Watchog",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/011-25095.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/011-25095.jpg",
+      "image_sha256": "a1eb805e366d6ef97c0ad7b34f183d5616121aae9769dfd1cf548cfa0007edb8",
+      "image_bytes": 183667,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 11
+    },
+    {
+      "id": 25096,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Colress Machine",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/012-25096.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/012-25096.jpg",
+      "image_sha256": "acb524e01999954f897d58c5d48bab1a403362752b474da0c489fafbe6281e9e",
+      "image_bytes": 149289,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 12
+    },
+    {
+      "id": 25097,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Hypnotoxic Laser",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/013-25097.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/013-25097.jpg",
+      "image_sha256": "c039834c7ddbebe518ba393affe1c764f10f8742574be019255cea3e260d465b",
+      "image_bytes": 168570,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 13
+    },
+    {
+      "id": 25098,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Colress",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/014-25098.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/014-25098.jpg",
+      "image_sha256": "7cd05a2d095e845a8f2af2e9d4eae6accada8b1c532d361aa9128f23b25e43ff",
+      "image_bytes": 174971,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 14
+    },
+    {
+      "id": 25099,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Team Plasma Grunt",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/015-25099.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/015-25099.jpg",
+      "image_sha256": "af820e9bf09e7ba00ad4995c7ed6d3a564f8d697b5997a4d60337cffceda4a0f",
+      "image_bytes": 168154,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 15
+    },
+    {
+      "id": 25100,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Plasma Frigate",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/016-25100.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/016-25100.jpg",
+      "image_sha256": "ae4777a7f3009430b3cf617899e8ff34f74d0a225a6f64385d9c3a582204a2dc",
+      "image_bytes": 166780,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 16
+    },
+    {
+      "id": 25101,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Plasma Energy",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 17,
+      "rarity": null,
+      "image_path": "images/cards/11368/017-25101.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/017-25101.jpg",
+      "image_sha256": "9e9824708bca721ab15859aba55b1d46112446c3822d9cc630ebb4b1d040c9ce",
+      "image_bytes": 138694,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 17
+    },
+    {
+      "id": 25102,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Psychic Energy",
+      "number": "No. 018",
+      "number_value": 18,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11368/No-018-25102.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/No-018-25102.webp",
+      "image_sha256": "31c956f5baf2e39f7a37883ed6c7635acbc5caae97c7ee0a2a705ad197bbb9d3",
+      "image_bytes": 45212,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 18
+    },
+    {
+      "id": 25103,
+      "set_id": 11368,
+      "set_ids": [
+        11368
+      ],
+      "language": "ja",
+      "name": "Metal Energy",
+      "number": "No. 019",
+      "number_value": 19,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11368/No-019-25103.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11368/No-019-25103.webp",
+      "image_sha256": "eabe9410c9e28b50b30a8c618ffa71d89188178bc68238058679d31f72d3e000",
+      "image_bytes": 136738,
+      "scraped_at": "2026-10-19T00:53:38Z",
+      "position": 19
+    }
+  ]
+}

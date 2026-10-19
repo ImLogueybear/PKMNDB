@@ -1,0 +1,363 @@
+{
+  "set": {
+    "id": 11312,
+    "language": "ja",
+    "name": "Premium Trainer Box",
+    "code": "SMB",
+    "series": "Sun & Moon Era",
+    "release_date": "2016-12-09",
+    "date_text": "Dec 09, 2016",
+    "card_count": 18,
+    "released": true,
+    "logo_path": "images/sets/11312-logo.webp",
+    "symbol_path": "images/sets/11312-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11312-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11312-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 18
+  },
+  "cards": [
+    {
+      "id": 22426,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Nest Ball",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/001-22426.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/001-22426.jpg",
+      "image_sha256": "8670a032ca1334bfa1653d0788d8fb651493bf2239156a430549449a8b011029",
+      "image_bytes": 95251,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 1
+    },
+    {
+      "id": 22427,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Ultra Ball",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/002-22427.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/002-22427.jpg",
+      "image_sha256": "c7b9e45c3050b7180bbf7dc4e71d9edac0289f2e4a3720a71f1d710f9869f674",
+      "image_bytes": 111158,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 2
+    },
+    {
+      "id": 22428,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Rare Candy",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/003-22428.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/003-22428.jpg",
+      "image_sha256": "fdaa9bf03780f2f05284e14e8642a156a3fd2d494fde4a70d0e0982f39f59f29",
+      "image_bytes": 104320,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 3
+    },
+    {
+      "id": 22429,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Professor Kukui",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/004-22429.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/004-22429.jpg",
+      "image_sha256": "16b7e89f318ff6c5b0b553246b2a3542b93c82eac4d04ffb8ce40cefa08a8952",
+      "image_bytes": 106202,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 4
+    },
+    {
+      "id": 22430,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Lillie",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/005-22430.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/005-22430.jpg",
+      "image_sha256": "16867fb5906175cd610811784ca5d128d79d6f2383ea4c3a6852ea3d94a89b5d",
+      "image_bytes": 116946,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 5
+    },
+    {
+      "id": 22431,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Double Colorless Energy",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/006-22431.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/006-22431.jpg",
+      "image_sha256": "b3096fbbba3d92bcfa1372b5fb52872d5f466b180555759e76bc3dc6b95c2ebf",
+      "image_bytes": 92091,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 6
+    },
+    {
+      "id": 22432,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Professor's Letter",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/007-22432.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/007-22432.webp",
+      "image_sha256": "aa4ae72113535e3624ac9ddaf917b0c496559019220a59ce2cd0b74694230152",
+      "image_bytes": 65786,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 7
+    },
+    {
+      "id": 22433,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "VS Seeker",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/008-22433.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/008-22433.webp",
+      "image_sha256": "7fea757dd8bafd7e38f5c6f7c7a76e21d29ce22681cee13dc00ddec93819e49f",
+      "image_bytes": 77808,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 8
+    },
+    {
+      "id": 22434,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Max Elixir",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/009-22434.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/009-22434.webp",
+      "image_sha256": "0e114a695d23c25dc4b5a86ff8cf50a8d5a8ce84f7609717c0d4682d0878b39f",
+      "image_bytes": 78440,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 9
+    },
+    {
+      "id": 22435,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Fighting Fury Belt",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/010-22435.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/010-22435.webp",
+      "image_sha256": "4d9ebbf4c4b9beb0f54edd205241e055e06f6cdc0f4ef2ba6423e1523d59385a",
+      "image_bytes": 90736,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 10
+    },
+    {
+      "id": 22436,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "N",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/011-22436.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/011-22436.webp",
+      "image_sha256": "1039f04c40bb75679ff482ba839ea161fd6e35d971e2ccba3ca420065a263be1",
+      "image_bytes": 88644,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 11
+    },
+    {
+      "id": 22437,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Skyla",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/012-22437.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/012-22437.webp",
+      "image_sha256": "37887b3639e77375eec265dfa05ecb8f4c0b74683a55d39dca90ff112773cb22",
+      "image_bytes": 78678,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 12
+    },
+    {
+      "id": 22438,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Professor Sycamore",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/013-22438.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/013-22438.webp",
+      "image_sha256": "f12ac7672ead762096d15e8c479b1629dfb8cdb799a3d2e5534a39e6ffd11fae",
+      "image_bytes": 77368,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 13
+    },
+    {
+      "id": 22439,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Lysandre",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/014-22439.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/014-22439.webp",
+      "image_sha256": "0943c036fef63f0282605c385a790c0b9408ddf67a650ed4d2a67937cf376809",
+      "image_bytes": 67104,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 14
+    },
+    {
+      "id": 22440,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Rough Seas",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/015-22440.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/015-22440.webp",
+      "image_sha256": "e41a8e71feb74a3516b0384b31d94e75ec24b8023c520567503b01fdb649a820",
+      "image_bytes": 99048,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 15
+    },
+    {
+      "id": 22441,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Forest of Giant Plants",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/016-22441.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/016-22441.webp",
+      "image_sha256": "7937bfe544319f53c95403da493c100e768bccb330ddf709d24c74ff5741413d",
+      "image_bytes": 83588,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 16
+    },
+    {
+      "id": 22442,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Strong Energy",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/017-22442.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/017-22442.webp",
+      "image_sha256": "df8480f1596701c533cbe10409e6fa71efc66506b6ff245b002dad0c5d5c49d7",
+      "image_bytes": 67142,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 17
+    },
+    {
+      "id": 22443,
+      "set_id": 11312,
+      "set_ids": [
+        11312
+      ],
+      "language": "ja",
+      "name": "Mystery Energy",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11312/018-22443.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11312/018-22443.webp",
+      "image_sha256": "2a623d9e3234621fcde2e3db0c26ca759410312afa9ebbc69909c29b0ba57e58",
+      "image_bytes": 62548,
+      "scraped_at": "2026-10-19T00:52:44Z",
+      "position": 18
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "set": {
+    "id": 11392,
+    "language": "ja",
+    "name": "Grimmsnarl Starter Set VMAX",
+    "code": "SC",
+    "series": "Sword & Shield Era",
+    "release_date": "2020-03-27",
+    "date_text": "Mar 27, 2020",
+    "card_count": 20,
+    "released": true,
+    "logo_path": "images/sets/11392-logo.png",
+    "symbol_path": "images/sets/11392-symbol.png",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11392-logo.png",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11392-symbol.png",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 20
+  },
+  "cards": [
+    {
+      "id": 33412,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Absol",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/001-33412.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/001-33412.jpg",
+      "image_sha256": "689b8c4250b16af858b283bab857f518e502e707168eb0e96d3246ca4c172245",
+      "image_bytes": 182082,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 1
+    },
+    {
+      "id": 33413,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Deino",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/002-33413.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/002-33413.jpg",
+      "image_sha256": "a5581ff2f74c97857616eee26dbb097aeb1fb16ee04ae1cb6397dc28c2cee5ff",
+      "image_bytes": 173723,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 2
+    },
+    {
+      "id": 33414,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Zweilous",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/003-33414.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/003-33414.jpg",
+      "image_sha256": "4494b8cee3f28ac5b6ebf8627f3e93da9e02b028e4e8609d839938cd6826269f",
+      "image_bytes": 192848,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 3
+    },
+    {
+      "id": 33415,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Hydreigon",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/004-33415.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/004-33415.jpg",
+      "image_sha256": "e73011121677e20c93dffe302b40ade4b6dfc033546336d557abed3e75ef9abd",
+      "image_bytes": 186181,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 4
+    },
+    {
+      "id": 33416,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Nickit",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/005-33416.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/005-33416.jpg",
+      "image_sha256": "9858d1097decd7a6a059736729f58c159ad7ac7043ec9a79023a6688d809a9f4",
+      "image_bytes": 174003,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 5
+    },
+    {
+      "id": 33417,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Grimmsnarl V",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/006-33417.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/006-33417.jpg",
+      "image_sha256": "f4c36f66f06ab914d667362f8b612b6624605276a784d69885a821ef0535af98",
+      "image_bytes": 187197,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 6
+    },
+    {
+      "id": 33418,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Grimmsnarl VMAX",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/007-33418.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/007-33418.jpg",
+      "image_sha256": "a71eea804aa21a145571b16527e7d13c4f1a4940ccd76ac8aefb7d1e9b808268",
+      "image_bytes": 246165,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 7
+    },
+    {
+      "id": 33419,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Lugia",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/008-33419.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/008-33419.jpg",
+      "image_sha256": "18f31d0ee648a7dff5737660e65bb2a466d3e352159005c83cd5fdcb398f4897",
+      "image_bytes": 166673,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 8
+    },
+    {
+      "id": 33420,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Quick Ball",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/009-33420.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/009-33420.jpg",
+      "image_sha256": "077ab174d99d9dd9f9e1a5c07cf0244ed8b1c935c73bd2165d9e334f54bf066c",
+      "image_bytes": 108747,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 9
+    },
+    {
+      "id": 33421,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Evolution Incense",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/010-33421.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/010-33421.jpg",
+      "image_sha256": "1109e33c32343cf5f1d04b43b91b3ba063f970e1a44d5ac56eb37f47bb3a5b36",
+      "image_bytes": 101441,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 10
+    },
+    {
+      "id": 33422,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Rotom Phone",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/011-33422.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/011-33422.jpg",
+      "image_sha256": "97685aef3f4d5ea8b931b98e8f1f1b3a94189682430411da6a9b0e2cf2f6115d",
+      "image_bytes": 108483,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 11
+    },
+    {
+      "id": 33423,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Rare Candy",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/012-33423.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/012-33423.jpg",
+      "image_sha256": "57a5c7bf00f2f6872adb9d240923f0583765b73a7da91c81df1be47d367fb92f",
+      "image_bytes": 121494,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 12
+    },
+    {
+      "id": 33424,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Pokégear 3.0",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/013-33424.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/013-33424.jpg",
+      "image_sha256": "4d8416eaab3b0ce63dfc6d9500505ed58faeb0fbdf1cc93cbc27957e5631703f",
+      "image_bytes": 120083,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 13
+    },
+    {
+      "id": 33425,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Switch",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/014-33425.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/014-33425.jpg",
+      "image_sha256": "515ef4f8ee2b5210da6163c618b01c6198e8549ed8c766bfba46996ac5a51e2a",
+      "image_bytes": 127275,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 14
+    },
+    {
+      "id": 33426,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Pokémon Catcher",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/015-33426.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/015-33426.jpg",
+      "image_sha256": "ba54cae3415487379ce0a6e6a52ce0f586793b29b7182c5b302b7fd86a78d62d",
+      "image_bytes": 117994,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 15
+    },
+    {
+      "id": 33427,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Reset Stamp",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/016-33427.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/016-33427.jpg",
+      "image_sha256": "911e12a6d53bae09428a5cd73bb9fced5161f2f4deaa6a04e202d309dbd07988",
+      "image_bytes": 114785,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 16
+    },
+    {
+      "id": 33428,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Cynthia",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/017-33428.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/017-33428.jpg",
+      "image_sha256": "c31881a293d72db497ea472a9da6cd0b7c91619041afbb9bdc104f3ca45ddaa5",
+      "image_bytes": 108599,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 17
+    },
+    {
+      "id": 33429,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Sonia",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/018-33429.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/018-33429.jpg",
+      "image_sha256": "43519abbb38c42a89d748b18379d0080e02ff452897a1044c04dd21fce55c9ce",
+      "image_bytes": 155866,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 18
+    },
+    {
+      "id": 33430,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Professor's Research",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/019-33430.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/019-33430.jpg",
+      "image_sha256": "bdcf195949da50c2d16a657fac68fcf00f5c826048684f69c23770bd2b64d01c",
+      "image_bytes": 146834,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 19
+    },
+    {
+      "id": 33431,
+      "set_id": 11392,
+      "set_ids": [
+        11392
+      ],
+      "language": "ja",
+      "name": "Hop",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11392/020-33431.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11392/020-33431.jpg",
+      "image_sha256": "f47aa30818d2e4b52c826d16a6a9939f4fdf00eac984330ef09240f90eefa684",
+      "image_bytes": 129404,
+      "scraped_at": "2026-10-19T00:51:41Z",
+      "position": 20
+    }
+  ]
+}

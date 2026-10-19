@@ -1,0 +1,401 @@
+{
+  "set": {
+    "id": 11356,
+    "language": "ja",
+    "name": "Reshiram-EX Battle Strength Deck",
+    "code": "BKR",
+    "series": "Black & White Era",
+    "release_date": "2011-10-21",
+    "date_text": "Oct 21, 2011",
+    "card_count": 20,
+    "released": true,
+    "logo_path": "images/sets/11356-logo.webp",
+    "symbol_path": "images/sets/11356-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11356-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11356-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 20
+  },
+  "cards": [
+    {
+      "id": 25520,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Growlithe",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/001-25520.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/001-25520.jpg",
+      "image_sha256": "fa44cb108a31b971b6f4d7cec2e2a4e553684727303f89f887ad8bb3017fb6fb",
+      "image_bytes": 127678,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 1
+    },
+    {
+      "id": 25521,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Arcanine",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/002-25521.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/002-25521.jpg",
+      "image_sha256": "af9d4b3520132e8fb5ef7fbff3e7f602b30a312441f9e9375fc88ec462a1fe65",
+      "image_bytes": 147468,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 2
+    },
+    {
+      "id": 25522,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Larvesta",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/003-25522.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/003-25522.jpg",
+      "image_sha256": "c62d8fbd38a2ce050c58096cca52b5e0e9b839bf519e41ab68d839a665352a78",
+      "image_bytes": 127061,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 3
+    },
+    {
+      "id": 25523,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Reshiram-EX",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/004-25523.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/004-25523.jpg",
+      "image_sha256": "f4f860252824e051a4e5073f4279787e90824a18c8ae91913b21164ba18a9817",
+      "image_bytes": 174892,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 4
+    },
+    {
+      "id": 25524,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Lapras",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/005-25524.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/005-25524.jpg",
+      "image_sha256": "fb7ceb8e80b6448c013ebeb8b3aa14c84e3c476642416ed546895d124290d8e0",
+      "image_bytes": 145961,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 5
+    },
+    {
+      "id": 25525,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Glaceon",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/006-25525.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/006-25525.jpg",
+      "image_sha256": "769d397422e71574df8a36ac977cbeb435674b7480e58f013d336b166c37773e",
+      "image_bytes": 151904,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 6
+    },
+    {
+      "id": 25526,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Tympole",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/007-25526.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/007-25526.jpg",
+      "image_sha256": "6d68d0f77ce34511d9cbeaedb10eb7e48c2071f456937787af4f763a5480745d",
+      "image_bytes": 130742,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 7
+    },
+    {
+      "id": 25527,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Palpitoad",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/008-25527.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/008-25527.jpg",
+      "image_sha256": "a3777f5593640c5f85b37709b75ed8d377092b882a3a1114481bf2f20194ee2b",
+      "image_bytes": 138054,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 8
+    },
+    {
+      "id": 25528,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Chansey",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/009-25528.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/009-25528.jpg",
+      "image_sha256": "259fb4552b208b3f6a340c94a0130d033d15f1766fd0c6f18137df153a6d53af",
+      "image_bytes": 131404,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 9
+    },
+    {
+      "id": 25529,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Eevee",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/010-25529.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/010-25529.jpg",
+      "image_sha256": "35a7293025507ec4cbabb1e4eb91504c3c5988d8892118513faabe6681ac3dd0",
+      "image_bytes": 139811,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 10
+    },
+    {
+      "id": 25530,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Ultra Ball",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/011-25530.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/011-25530.jpg",
+      "image_sha256": "c125611533587fa09d07ecfbcd5e2b5d1f54932525096a81a356bed3d1d46397",
+      "image_bytes": 149194,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 11
+    },
+    {
+      "id": 25531,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Switch",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/012-25531.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/012-25531.jpg",
+      "image_sha256": "5c56acf45ef8fef4a51036a3eebd141eb3fe6900fbf4acb16971081e211bfa10",
+      "image_bytes": 135637,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 12
+    },
+    {
+      "id": 25532,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Pokémon Catcher",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/013-25532.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/013-25532.jpg",
+      "image_sha256": "2c8627e512904be594e4569fd7beab486d430f3f23db6187ec4d38983016334e",
+      "image_bytes": 142366,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 13
+    },
+    {
+      "id": 25533,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Random Receiver",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/014-25533.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/014-25533.jpg",
+      "image_sha256": "ae04d42b8cc53187b83696afccd27c2c48b01791ec00ca023281a35b2f607446",
+      "image_bytes": 148604,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 14
+    },
+    {
+      "id": 25534,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Professor Juniper",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/015-25534.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/015-25534.jpg",
+      "image_sha256": "0d78947c9f11d2834f9f9b40b8c89fe8a71cf1c84fc7fccb0d3b811e74ccc4bb",
+      "image_bytes": 155218,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 15
+    },
+    {
+      "id": 25535,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "N",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/016-25535.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/016-25535.jpg",
+      "image_sha256": "77cdcb436847e399f8b0d573916f5d17870a8cae9a64675789ff70b9413d422d",
+      "image_bytes": 152774,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 16
+    },
+    {
+      "id": 25536,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Cheren",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/017-25536.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/017-25536.jpg",
+      "image_sha256": "1a3f784b1bba2c320c5f6efc10a5cdfe6e21a4c39b0f28a330bd614dbfb6b0ca",
+      "image_bytes": 145874,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 17
+    },
+    {
+      "id": 25537,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Double Colorless Energy",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 18,
+      "rarity": null,
+      "image_path": "images/cards/11356/018-25537.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/018-25537.jpg",
+      "image_sha256": "282051035ef3ee314e2138d2551297adc31e059b944cc4cd84fd083761b708da",
+      "image_bytes": 86713,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 18
+    },
+    {
+      "id": 25538,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Fire Energy",
+      "number": "No. 019",
+      "number_value": 19,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11356/No-019-25538.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/No-019-25538.webp",
+      "image_sha256": "13af95150698e52752a56106be0cbd154ef6a439ebb234df289846e36c00489f",
+      "image_bytes": 59080,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 19
+    },
+    {
+      "id": 25539,
+      "set_id": 11356,
+      "set_ids": [
+        11356
+      ],
+      "language": "ja",
+      "name": "Water Energy",
+      "number": "No. 020",
+      "number_value": 20,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11356/No-020-25539.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11356/No-020-25539.webp",
+      "image_sha256": "4b8b45c616a223b7772557b2faa64dbe20776e54dbe41aec6126b6dfb6cf90ec",
+      "image_bytes": 45460,
+      "scraped_at": "2026-10-19T00:53:53Z",
+      "position": 20
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "set": {
+    "id": 11426,
+    "language": "ja",
+    "name": "Inteleon VMAX High-Class Deck",
+    "code": "SGI",
+    "series": "Sword & Shield Era",
+    "release_date": "2021-05-28",
+    "date_text": "May 28, 2021",
+    "card_count": 24,
+    "released": true,
+    "logo_path": "images/sets/11426-logo.webp",
+    "symbol_path": "images/sets/11426-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11426-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11426-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 24
+  },
+  "cards": [
+    {
+      "id": 34554,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Lapras",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/001-34554.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/001-34554.jpg",
+      "image_sha256": "b91af87ba55175d10bbbaf6832895a95ecd5fa109d396f8cd8efaa3385dd16ac",
+      "image_bytes": 255061,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 1
+    },
+    {
+      "id": 34555,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Remoraid",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/002-34555.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/002-34555.jpg",
+      "image_sha256": "476ca8a023270ef8b72699ff1984da0b523e8b96705cf69f7e6a1b7bc5c49cb0",
+      "image_bytes": 225780,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 2
+    },
+    {
+      "id": 34556,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Octillery",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/003-34556.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/003-34556.jpg",
+      "image_sha256": "17a583477175e6a42fc1a2fc0d1f6c4e4e89b10b96a81dcca30ac89f24aba135",
+      "image_bytes": 267101,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 3
+    },
+    {
+      "id": 34557,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Basculin",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/004-34557.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/004-34557.jpg",
+      "image_sha256": "050b145afff760b953a2c4788895040f8cf9816257827ccd204122b073bf0065",
+      "image_bytes": 250120,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 4
+    },
+    {
+      "id": 34558,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Inteleon V",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/005-34558.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/005-34558.jpg",
+      "image_sha256": "b596a3b35c285862f0884f3e22e125005378c12688d8827c9af44699bbdc3021",
+      "image_bytes": 249406,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 5
+    },
+    {
+      "id": 34559,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Inteleon VMAX",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/006-34559.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/006-34559.jpg",
+      "image_sha256": "565e9771660cb88200d030ab8e57810f885d69f2c2cdfae384bd44f054a01161",
+      "image_bytes": 338941,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 6
+    },
+    {
+      "id": 34560,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Crobat V",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/007-34560.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/007-34560.jpg",
+      "image_sha256": "f5c3bccadf415d7428af132d6d566269ba570bec485f894f9b8f89824d559cb3",
+      "image_bytes": 209648,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 7
+    },
+    {
+      "id": 34561,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Buneary",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/008-34561.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/008-34561.jpg",
+      "image_sha256": "1803e334f59e79d7984e876ccc272d6a75a80ea9117ee03463a2f519abcd5894",
+      "image_bytes": 185136,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 8
+    },
+    {
+      "id": 34562,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Lopunny",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/009-34562.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/009-34562.jpg",
+      "image_sha256": "c6988cd76392cbf8e94ffb6caff05aec3b135bce078f3489eea73f76b96e511b",
+      "image_bytes": 185771,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 9
+    },
+    {
+      "id": 34563,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Hawlucha",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/010-34563.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/010-34563.jpg",
+      "image_sha256": "a0ba67296e968f460c44b9a1f3dfaae954659de52511e2cabf12802acdca9d66",
+      "image_bytes": 188131,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 10
+    },
+    {
+      "id": 34564,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Energy Retrieval",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/011-34564.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/011-34564.jpg",
+      "image_sha256": "be7fb5ae4705880503751c5b6112f2302290bee7ad654072366cef6be31a1935",
+      "image_bytes": 147821,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 11
+    },
+    {
+      "id": 34565,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Quick Ball",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/012-34565.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/012-34565.jpg",
+      "image_sha256": "1a5961b6eca1d560088721f0cd9db7b11f4951125c3e0d452a54873584a4dab3",
+      "image_bytes": 163049,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 12
+    },
+    {
+      "id": 34566,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Evolution Incense",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/013-34566.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/013-34566.jpg",
+      "image_sha256": "7e1e37bf823206409d826ea76d20fc582cb0218c3520375916c90cdf73868f30",
+      "image_bytes": 140011,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 13
+    },
+    {
+      "id": 34567,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Pokégear 3.0",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/014-34567.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/014-34567.jpg",
+      "image_sha256": "e7be32af39cd848909cc356bd3915f6d7622dbe0659a3bddcd36fe76912cd11a",
+      "image_bytes": 157409,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 14
+    },
+    {
+      "id": 34568,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Switch",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/015-34568.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/015-34568.jpg",
+      "image_sha256": "4b50cb4ff9f1f257817d19641f45841bf59e91ca640a48cc246c1e9c80cbb520",
+      "image_bytes": 157613,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 15
+    },
+    {
+      "id": 34569,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Korrina's Focus",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/016-34569.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/016-34569.jpg",
+      "image_sha256": "d4763691895ae87e20d6747c61f50039c36857f5256779c068867fc72f879956",
+      "image_bytes": 179920,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 16
+    },
+    {
+      "id": 34570,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Professor's Research",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/017-34570.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/017-34570.jpg",
+      "image_sha256": "c680d1e552a149169d0ec92d5b82f3c34c110f9a67ce7b6d1325f06e098fde44",
+      "image_bytes": 166091,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 17
+    },
+    {
+      "id": 34571,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Adventurer's Discovery",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/018-34571.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/018-34571.jpg",
+      "image_sha256": "234a41da8178f3e2d4e0e8de4479683750030b15cff63af72f67b23fc1e8a2c5",
+      "image_bytes": 186572,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 18
+    },
+    {
+      "id": 34572,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Boss's Orders",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/019-34572.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/019-34572.jpg",
+      "image_sha256": "86b59fb13fda3da316806cbe7928e895ba6e326c446ec5d5dd4fe62006459b4a",
+      "image_bytes": 154768,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 19
+    },
+    {
+      "id": 34573,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Marnie",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/020-34573.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/020-34573.jpg",
+      "image_sha256": "866c3b50824cb09e70a5c165fd5798e07cc6b8ceff7ae57ecb1e868f3f4303d6",
+      "image_bytes": 163877,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 20
+    },
+    {
+      "id": 34574,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Tower of Waters",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/021-34574.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/021-34574.jpg",
+      "image_sha256": "225b6f67134b4a567ae5d1671b92cd32bc4d12de8eddffb2e226ba664841bdea",
+      "image_bytes": 173950,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 21
+    },
+    {
+      "id": 34575,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Rapid Strike Energy",
+      "number": "022",
+      "number_value": 22,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/022-34575.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/022-34575.jpg",
+      "image_sha256": "96d165e7e0a1b9bc46402ad8592aee5aa05b0cdeca247a6e4bd8c89a4e4a45ad",
+      "image_bytes": 166726,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 22
+    },
+    {
+      "id": 34576,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Inteleon VMAX",
+      "number": "023",
+      "number_value": 23,
+      "printed_total": 22,
+      "rarity": null,
+      "image_path": "images/cards/11426/023-34576.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/023-34576.jpg",
+      "image_sha256": "abe3953ec1853e1e0ea881c6f4e71e5bee568913a5d786f2eae628708f1d3136",
+      "image_bytes": 364332,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 23
+    },
+    {
+      "id": 34577,
+      "set_id": 11426,
+      "set_ids": [
+        11426
+      ],
+      "language": "ja",
+      "name": "Water Energy",
+      "number": "No. 024",
+      "number_value": 24,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11426/No-024-34577.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11426/No-024-34577.jpg",
+      "image_sha256": "24f54e597c57aa70c83217144fb8f2a3dbfedf98d8447e9e9d9a5f12409c947d",
+      "image_bytes": 71802,
+      "scraped_at": "2026-10-19T00:51:22Z",
+      "position": 24
+    }
+  ]
+}

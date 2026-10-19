@@ -1,0 +1,743 @@
+{
+  "set": {
+    "id": 11579,
+    "language": "ja",
+    "name": "Ruler of the Black Flame Deck Build Box",
+    "code": "SVF",
+    "series": "Scarlet & Violet Era",
+    "release_date": "2023-07-28",
+    "date_text": "Jul 28, 2023",
+    "card_count": 38,
+    "released": true,
+    "logo_path": "images/sets/11579-logo.png",
+    "symbol_path": "images/sets/11579-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11579-logo.png",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11579-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 38
+  },
+  "cards": [
+    {
+      "id": 41877,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Radiant Charizard",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/001-41877.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/001-41877.jpg",
+      "image_sha256": "67c0fe5ab0e8c0b91fbe78b4288d022cec682807cc22264916e004e108f3e0b7",
+      "image_bytes": 239299,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 1
+    },
+    {
+      "id": 41878,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Lumineon V",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/002-41878.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/002-41878.jpg",
+      "image_sha256": "1317efc8b87b7a672de2649a6528cebe8f733375e57873f5bb601fc3501d9766",
+      "image_bytes": 249638,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 2
+    },
+    {
+      "id": 41879,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Manaphy",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/003-41879.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/003-41879.jpg",
+      "image_sha256": "1f70e0481684c54f49fa1f173d78fdf5976af9a70ef9a1e08807932d33e12274",
+      "image_bytes": 235782,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 3
+    },
+    {
+      "id": 41880,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Radiant Greninja",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/004-41880.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/004-41880.jpg",
+      "image_sha256": "a66c542c3afbf50cdfcffa26f36bb23a284a8cba896ecf69dcfb71b5dd0f8828",
+      "image_bytes": 258028,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 4
+    },
+    {
+      "id": 41881,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Mew",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/005-41881.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/005-41881.jpg",
+      "image_sha256": "8b3e387e1a2ed915a3f757c8ea859575d451b6b30920d22af79d25af18406fa6",
+      "image_bytes": 231112,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 5
+    },
+    {
+      "id": 41882,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Ralts",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/006-41882.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/006-41882.jpg",
+      "image_sha256": "3893a10ad794465cc5bbaff4b1ac52802a36ab67b2c1d5f380877de597a4f4d4",
+      "image_bytes": 228662,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 6
+    },
+    {
+      "id": 41883,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Kirlia",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/007-41883.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/007-41883.jpg",
+      "image_sha256": "3a857165f2e0ce2540330da4379f9a09d5dc79d9b185ae701e1b7b9c284e2ecc",
+      "image_bytes": 233389,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 7
+    },
+    {
+      "id": 41884,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Bidoof",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/008-41884.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/008-41884.jpg",
+      "image_sha256": "716ae891089c8edfe6c9c1f49f0bf0659b86e5c5b723813c2bb55b91dadb5bf2",
+      "image_bytes": 230500,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 8
+    },
+    {
+      "id": 41885,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Bibarel",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/009-41885.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/009-41885.jpg",
+      "image_sha256": "7dfd37f5000e9922cdd9adf8abbaa4dd223a81464f4022f9cbf4089491602fc0",
+      "image_bytes": 225130,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 9
+    },
+    {
+      "id": 41886,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Escape Rope",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/010-41886.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/010-41886.jpg",
+      "image_sha256": "bde305c717e660562dce4d50a4ab878186305666dc3d7c3c9d6d5cd4ae736b34",
+      "image_bytes": 170883,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 10
+    },
+    {
+      "id": 41887,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Canceling Cologne",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/011-41887.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/011-41887.jpg",
+      "image_sha256": "fac0529d55f5b5f2153e8424d359173059a8cb97c33a91ec6b05678b0a4880cd",
+      "image_bytes": 138932,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 11
+    },
+    {
+      "id": 41888,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Fog Crystal",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/012-41888.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/012-41888.jpg",
+      "image_sha256": "bd15e4930c0db741743e59937c505badc9a1247239dde827777d4662acb67409",
+      "image_bytes": 143672,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 12
+    },
+    {
+      "id": 41889,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Super Rod",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/013-41889.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/013-41889.jpg",
+      "image_sha256": "d10d524602b8f929b2aa46de938a8766b07f400ba648d861e96b97f04fa77770",
+      "image_bytes": 142784,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 13
+    },
+    {
+      "id": 41890,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Dark Patch",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/014-41890.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/014-41890.jpg",
+      "image_sha256": "03a5ad85977337972265e67d3594c2b1f5cad73eee33c5a49566ffb3ac6a42ee",
+      "image_bytes": 139174,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 14
+    },
+    {
+      "id": 41891,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Trekking Shoes",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/015-41891.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/015-41891.jpg",
+      "image_sha256": "86b115b5f2ba6571ac2b3cc01928b3312853be13e05aa28224efa4b00a900673",
+      "image_bytes": 156941,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 15
+    },
+    {
+      "id": 41892,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Nest Ball",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/016-41892.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/016-41892.jpg",
+      "image_sha256": "55a54bc20dbfa3eaf870104a41c2ef01c9d310a40fafb4f123ecca70e654e308",
+      "image_bytes": 119860,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 16
+    },
+    {
+      "id": 41893,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Ultra Ball",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/017-41893.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/017-41893.jpg",
+      "image_sha256": "dfb9f3e313e2096aaf1298cb420f6185bea8aedbf92d06ca1b34e515fb02469a",
+      "image_bytes": 132776,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 17
+    },
+    {
+      "id": 41894,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Battle VIP Pass",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/018-41894.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/018-41894.jpg",
+      "image_sha256": "45396eafcc72823b0369774c049224184057578bfbdc81aec22289d5df3e6f52",
+      "image_bytes": 145024,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 18
+    },
+    {
+      "id": 41895,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Hisuian Heavy Ball",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/019-41895.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/019-41895.jpg",
+      "image_sha256": "ea15e650502f64b237aa62aeac8b6be1cf20a0a50b4a278f9fdaa78b53ca1b71",
+      "image_bytes": 170843,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 19
+    },
+    {
+      "id": 41896,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Rare Candy",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/020-41896.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/020-41896.jpg",
+      "image_sha256": "feb12962242cf0cd11f1702689958e7036148506f57b7dcd23934cda342eb07b",
+      "image_bytes": 136319,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 20
+    },
+    {
+      "id": 41897,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Switch",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/021-41897.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/021-41897.jpg",
+      "image_sha256": "eb10bea946717dcd6977a559c9c31fa7d6c70290638c4e33c2b98ed893e27ddd",
+      "image_bytes": 143862,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 21
+    },
+    {
+      "id": 41898,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Level Ball",
+      "number": "022",
+      "number_value": 22,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/022-41898.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/022-41898.jpg",
+      "image_sha256": "7ce1bde1ba15983dbcc8fff3d9d9c272096075f8a7c9c21b1bbb65377cbf1a72",
+      "image_bytes": 128215,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 22
+    },
+    {
+      "id": 41899,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Lost Vacuum",
+      "number": "023",
+      "number_value": 23,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/023-41899.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/023-41899.jpg",
+      "image_sha256": "9be1a7b59ae8012224788da98e5d8001a98176bb1c871a8166d7a6646c34afae",
+      "image_bytes": 164041,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 23
+    },
+    {
+      "id": 41900,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Forest Seal Stone",
+      "number": "024",
+      "number_value": 24,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/024-41900.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/024-41900.jpg",
+      "image_sha256": "a3144dd272b0ddeb2c4f14fa680c7e0305e9cb83948729e8e585619eb45e3535",
+      "image_bytes": 201448,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 24
+    },
+    {
+      "id": 41901,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Irida",
+      "number": "025",
+      "number_value": 25,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/025-41901.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/025-41901.jpg",
+      "image_sha256": "0b09e1722f3323ffc8da080bb5f2e384673b7799459514532bce9b607c9c755f",
+      "image_bytes": 186072,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 25
+    },
+    {
+      "id": 41902,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Raihan",
+      "number": "026",
+      "number_value": 26,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/026-41902.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/026-41902.jpg",
+      "image_sha256": "453b11f02be6c11f2faebdd6e15c2909f801d6ec262d9c2035f488a4d8abc9cc",
+      "image_bytes": 184750,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 26
+    },
+    {
+      "id": 41903,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Avery",
+      "number": "027",
+      "number_value": 27,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/027-41903.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/027-41903.jpg",
+      "image_sha256": "6d32f3e8b68d3e76d14d68b07eedddff011f5befe9a7d51bec021f0d4e716769",
+      "image_bytes": 174516,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 27
+    },
+    {
+      "id": 41904,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Serena",
+      "number": "028",
+      "number_value": 28,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/028-41904.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/028-41904.jpg",
+      "image_sha256": "7d31711e5650dd817555f50ea9d63ac41d5a6c0bc3ac2925e731c08337588e94",
+      "image_bytes": 210115,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 28
+    },
+    {
+      "id": 41905,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Iono",
+      "number": "029",
+      "number_value": 29,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/029-41905.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/029-41905.jpg",
+      "image_sha256": "f2c5d130a2c975b8e8362961d4f03ac4d8438c4b505b0cd86f27c2b41df35cf3",
+      "image_bytes": 167161,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 29
+    },
+    {
+      "id": 41906,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Professor's Research",
+      "number": "030",
+      "number_value": 30,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/030-41906.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/030-41906.jpg",
+      "image_sha256": "547d42d7c5cfac587d8ca70b0dd7477debcb08694024cccfe91d20ff2ee87da1",
+      "image_bytes": 153403,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 30
+    },
+    {
+      "id": 41907,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Professor's Research",
+      "number": "031",
+      "number_value": 31,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/031-41907.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/031-41907.jpg",
+      "image_sha256": "8d7505bf8c538b73d5fe1626e407b5e4969f2335e7002be5b77ca7b654f1ec64",
+      "image_bytes": 146035,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 31
+    },
+    {
+      "id": 41908,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Boss's Orders",
+      "number": "032",
+      "number_value": 32,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/032-41908.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/032-41908.jpg",
+      "image_sha256": "b744780cbe2b4d3081c20bc70c1a3380721ec4f37237932b64499057f5996058",
+      "image_bytes": 147115,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 32
+    },
+    {
+      "id": 41909,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Cheryl",
+      "number": "033",
+      "number_value": 33,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/033-41909.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/033-41909.jpg",
+      "image_sha256": "8604c698861855d4dda120f1c04d7f0dd995b9b2136ebc8186b4b1ca57b6b111",
+      "image_bytes": 161800,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 33
+    },
+    {
+      "id": 41910,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Path to the Peak",
+      "number": "034",
+      "number_value": 34,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/034-41910.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/034-41910.jpg",
+      "image_sha256": "df896ed977a1b55b7850867372de602b33aacf5c4d31ca3ab660670f61ffd397",
+      "image_bytes": 167072,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 34
+    },
+    {
+      "id": 41911,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Beach Court",
+      "number": "035",
+      "number_value": 35,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/035-41911.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/035-41911.jpg",
+      "image_sha256": "f0b507826d806c1ef659e066a34a1abd50a91fa980a4f35e4b9a91bbbab92a1e",
+      "image_bytes": 153010,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 35
+    },
+    {
+      "id": 41912,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Artazon",
+      "number": "036",
+      "number_value": 36,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/036-41912.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/036-41912.jpg",
+      "image_sha256": "69ea4fb6745836e701e5714733578aa3c383e68d22b673e0b0dffcced91ffee3",
+      "image_bytes": 196300,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 36
+    },
+    {
+      "id": 41913,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Magma Basin",
+      "number": "037",
+      "number_value": 37,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/037-41913.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/037-41913.jpg",
+      "image_sha256": "b6e6384ebb8f03fa85ca348ffcdbd8bb8fb68400a9ff7f9388beb6b6722242db",
+      "image_bytes": 178828,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 37
+    },
+    {
+      "id": 41914,
+      "set_id": 11579,
+      "set_ids": [
+        11579
+      ],
+      "language": "ja",
+      "name": "Double Turbo Energy",
+      "number": "038",
+      "number_value": 38,
+      "printed_total": 38,
+      "rarity": null,
+      "image_path": "images/cards/11579/038-41914.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11579/038-41914.jpg",
+      "image_sha256": "f8b82554fe09877db592caae7e1fa8e568c2ea2e6f1e31a878c435a9b6ff5065",
+      "image_bytes": 135913,
+      "scraped_at": "2026-10-19T00:50:38Z",
+      "position": 38
+    }
+  ]
+}

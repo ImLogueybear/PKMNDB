@@ -1,0 +1,667 @@
+{
+  "set": {
+    "id": 11598,
+    "language": "ja",
+    "name": "Pokémon TCG Classic (Venusaur)",
+    "code": "CLF",
+    "series": "Scarlet & Violet Era",
+    "release_date": "2023-10-31",
+    "date_text": "Oct 31, 2023",
+    "card_count": 34,
+    "released": true,
+    "logo_path": "images/sets/11598-logo.png",
+    "symbol_path": "images/sets/11598-symbol.png",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11598-logo.png",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11598-symbol.png",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 34
+  },
+  "cards": [
+    {
+      "id": 43350,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Bulbasaur (Pokémon TCG Classic (Venusaur) 001/032)",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/001-43350.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/001-43350.jpg",
+      "image_sha256": "c2e1b8634a8d4ba78459bee97c4fbd6ee24dbc8eb71242a6c7446cac4ab68a88",
+      "image_bytes": 44926,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 1
+    },
+    {
+      "id": 43351,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Ivysaur (Pokémon TCG Classic (Venusaur) 002/032)",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/002-43351.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/002-43351.jpg",
+      "image_sha256": "b54b7d536cdd3d201440a99804c99c9d909f606d973ac16d2421c0f3bc98ba2d",
+      "image_bytes": 48976,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 2
+    },
+    {
+      "id": 43352,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Venusaur (Pokémon TCG Classic (Venusaur) 003/032)",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/003-43352.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/003-43352.jpg",
+      "image_sha256": "68d275495e31faffff806eb045d3e452c57f97fdcbf14ae571eb9b1c6883e474",
+      "image_bytes": 85174,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 3
+    },
+    {
+      "id": 43353,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Paras (Pokémon TCG Classic (Venusaur) 004/032)",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/004-43353.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/004-43353.jpg",
+      "image_sha256": "ea77e11d2c32bda8d8d6d9206ce7626929abf8f118b26f8a166c38ea1a9ad1ca",
+      "image_bytes": 62003,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 4
+    },
+    {
+      "id": 43354,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Parasect (Pokémon TCG Classic (Venusaur) 005/032)",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/005-43354.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/005-43354.jpg",
+      "image_sha256": "2407ed6b71cae19943a4f89e4244220d7a9ac3f6313066ae2c6b80c0fe57ea5d",
+      "image_bytes": 71636,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 5
+    },
+    {
+      "id": 43355,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Scyther (Pokémon TCG Classic (Venusaur) 006/032)",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/006-43355.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/006-43355.jpg",
+      "image_sha256": "ff7d4220ecc0bc2d477985ecadfc101d7a3aedc9711c4b2c230736dfc23230c0",
+      "image_bytes": 73816,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 6
+    },
+    {
+      "id": 43356,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Pinsir (Pokémon TCG Classic (Venusaur) 007/032)",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/007-43356.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/007-43356.jpg",
+      "image_sha256": "256996de0af1aec9b020a3d1688c7640ab0a707a7b7519a413429089fafd9d13",
+      "image_bytes": 70938,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 7
+    },
+    {
+      "id": 43357,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Sandshrew (Pokémon TCG Classic (Venusaur) 008/032)",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/008-43357.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/008-43357.jpg",
+      "image_sha256": "a1b84cf8cd5a2c7c6eb68f686b3b4d442991352dc8e7e3fec9d931c4be953339",
+      "image_bytes": 74570,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 8
+    },
+    {
+      "id": 43358,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Sandslash (Pokémon TCG Classic (Venusaur) 009/032)",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/009-43358.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/009-43358.jpg",
+      "image_sha256": "908a44f30e008bca8812c23171285e1057b7009052c41d1a141d0216cccba879",
+      "image_bytes": 77177,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 9
+    },
+    {
+      "id": 43359,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Onix (Pokémon TCG Classic (Venusaur) 010/032)",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/010-43359.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/010-43359.jpg",
+      "image_sha256": "d98e3c62869b860c2960f94e0cbc9de272ef57659a62feb6e034ad5aa5fab4db",
+      "image_bytes": 95174,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 10
+    },
+    {
+      "id": 43360,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Hitmonlee (Pokémon TCG Classic (Venusaur) 011/032)",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/011-43360.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/011-43360.jpg",
+      "image_sha256": "3ea3566c8ed437dd6a28b084e285100fa198cd6b3544f3c324ed7f3070e1bb60",
+      "image_bytes": 77482,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 11
+    },
+    {
+      "id": 43361,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Hitmonchan (Pokémon TCG Classic (Venusaur) 012/032)",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/012-43361.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/012-43361.jpg",
+      "image_sha256": "7c9cac2f9a6160bb8c10e57e40b66a383925e6e3a292914af9516cfeb7924adf",
+      "image_bytes": 79127,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 12
+    },
+    {
+      "id": 43362,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Doduo (Pokémon TCG Classic (Venusaur) 013/032)",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/013-43362.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/013-43362.jpg",
+      "image_sha256": "41cb0eb1772a155ea6b7f0c619d14a4e6db50bea629951fbc25a2f1bda9972a7",
+      "image_bytes": 69115,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 13
+    },
+    {
+      "id": 43363,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Dodrio (Pokémon TCG Classic (Venusaur) 014/032)",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/014-43363.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/014-43363.jpg",
+      "image_sha256": "ca70d8d24e4fb38be9e54501931083f748ea2e38284732c79f394da3fc5b381b",
+      "image_bytes": 68547,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 14
+    },
+    {
+      "id": 43364,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Chansey (Pokémon TCG Classic (Venusaur) 015/032)",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/015-43364.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/015-43364.jpg",
+      "image_sha256": "8854111703475b44fc7069a64cd73eebbb2e12e667270a108585086c2223f307",
+      "image_bytes": 80100,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 15
+    },
+    {
+      "id": 43365,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Snorlax (Pokémon TCG Classic (Venusaur) 016/032)",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/016-43365.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/016-43365.jpg",
+      "image_sha256": "5592b20bf8cdca4b61267227a2bc120848d778e7c6d2ea9816ad74b19d4b5519",
+      "image_bytes": 64958,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 16
+    },
+    {
+      "id": 43366,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Lugia ex (Pokémon TCG Classic (Venusaur) 017/032)",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/017-43366.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/017-43366.jpg",
+      "image_sha256": "fd6c456a7e6930d7cee98d4073be09b4be8e850a5dedc2ea390e77cd0406ca98",
+      "image_bytes": 75717,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 17
+    },
+    {
+      "id": 43367,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Super Rod (Pokémon TCG Classic (Venusaur) 018/032)",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/018-43367.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/018-43367.jpg",
+      "image_sha256": "e4bc1573560f8c7f58408441c4117dfb73615b3c0d4c28a8b59d9672854b7c80",
+      "image_bytes": 73761,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 18
+    },
+    {
+      "id": 43368,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Ultra Ball (Pokémon TCG Classic (Venusaur) 019/032)",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/019-43368.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/019-43368.jpg",
+      "image_sha256": "bb66b4b6aabfa9d04632494ae3634091ab1e2e75ab04f01a6b6b9256166ff7e7",
+      "image_bytes": 61516,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 19
+    },
+    {
+      "id": 43369,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Computer Search (Pokémon TCG Classic (Venusaur) 020/032)",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/020-43369.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/020-43369.jpg",
+      "image_sha256": "987ef3421400f6bc01a235d328c6876c9ab13dbe31eb84fb0b57b3fcc592d904",
+      "image_bytes": 62343,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 20
+    },
+    {
+      "id": 43370,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "VS Seeker (Pokémon TCG Classic (Venusaur) 021/032)",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/021-43370.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/021-43370.jpg",
+      "image_sha256": "83c0578e4409325e4d8d84c898757d90a873f62062e2690d04f2ba8adc6a129b",
+      "image_bytes": 65428,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 21
+    },
+    {
+      "id": 43371,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Rare Candy (Pokémon TCG Classic (Venusaur) 022/032)",
+      "number": "022",
+      "number_value": 22,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/022-43371.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/022-43371.jpg",
+      "image_sha256": "6f3e4540ae0c8c08dc7197f3288bac7b0cb298d997031fe5b6095df66888ffe1",
+      "image_bytes": 62742,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 22
+    },
+    {
+      "id": 43372,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Switch (Pokémon TCG Classic (Venusaur) 023/032)",
+      "number": "023",
+      "number_value": 23,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/023-43372.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/023-43372.jpg",
+      "image_sha256": "58257d907a96262c291eb8beb77a7995ad3b68d105ed95d7fa29f216c484924c",
+      "image_bytes": 60005,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 23
+    },
+    {
+      "id": 43373,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Poké Ball (Pokémon TCG Classic (Venusaur) 024/032)",
+      "number": "024",
+      "number_value": 24,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/024-43373.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/024-43373.jpg",
+      "image_sha256": "c9563d15b0ddacdf9d2c8ced98a94f9bc0de10906946b3f7da5e351ac1424c1f",
+      "image_bytes": 62257,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 24
+    },
+    {
+      "id": 43374,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Sun Seed (Pokémon TCG Classic (Venusaur) 025/032)",
+      "number": "025",
+      "number_value": 25,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/025-43374.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/025-43374.jpg",
+      "image_sha256": "462fbad54984ac94c44615d5de1b4f51925d534dbcbdd82a619b0a741d6e104c",
+      "image_bytes": 67556,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 25
+    },
+    {
+      "id": 43375,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Professor Oak (Pokémon TCG Classic (Venusaur) 026/032)",
+      "number": "026",
+      "number_value": 26,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/026-43375.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/026-43375.jpg",
+      "image_sha256": "a6ae195aa2b853ff84ea3e2948e9dfc78aa0942f195a6d0b48ec630272aa1765",
+      "image_bytes": 67021,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 26
+    },
+    {
+      "id": 43376,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Pokémon Fan Club (Pokémon TCG Classic (Venusaur) 027/032)",
+      "number": "027",
+      "number_value": 27,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/027-43376.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/027-43376.jpg",
+      "image_sha256": "556152d00ef2618400575883938bb411a211341bcb0e68444fbe210bac694fad",
+      "image_bytes": 63762,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 27
+    },
+    {
+      "id": 43377,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Pokémon Nurse (Pokémon TCG Classic (Venusaur) 028/032)",
+      "number": "028",
+      "number_value": 28,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/028-43377.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/028-43377.jpg",
+      "image_sha256": "0fdee5e61eed77712575dde586c7c984e3b55cc645f30126815c85f7e71aee53",
+      "image_bytes": 62298,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 28
+    },
+    {
+      "id": 43378,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Boss's Orders (Pokémon TCG Classic (Venusaur) 029/032)",
+      "number": "029",
+      "number_value": 29,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/029-43378.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/029-43378.jpg",
+      "image_sha256": "c36abb45b31eac87e10d7b14711a7db8d1e7a128bca3f4c8201698cbf7fe3c67",
+      "image_bytes": 59148,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 29
+    },
+    {
+      "id": 43379,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Bill (Pokémon TCG Classic (Venusaur) 030/032)",
+      "number": "030",
+      "number_value": 30,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/030-43379.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/030-43379.jpg",
+      "image_sha256": "096c474bb8751ec9daedfb0c5a1947557ef85f06ec0475f1b73c3bef94c2de2c",
+      "image_bytes": 57004,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 30
+    },
+    {
+      "id": 43380,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Rocket's Admin. (Pokémon TCG Classic (Venusaur) 031/032)",
+      "number": "031",
+      "number_value": 31,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/031-43380.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/031-43380.jpg",
+      "image_sha256": "09e2393c6fb2be1dca4ac3af9136f2202f90b0649a7aa04892b277e2b4945fa2",
+      "image_bytes": 61126,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 31
+    },
+    {
+      "id": 43381,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Double Colorless Energy (Pokémon TCG Classic",
+      "number": "032",
+      "number_value": 32,
+      "printed_total": 32,
+      "rarity": null,
+      "image_path": "images/cards/11598/032-43381.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/032-43381.jpg",
+      "image_sha256": "520ced47c6abc02649ea7a243d6d8c88d9b752643ae50302855db614b8686ddb",
+      "image_bytes": 71663,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 32
+    },
+    {
+      "id": 43382,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Grass Energy (Pokémon TCG Classic",
+      "number": "No. 033",
+      "number_value": 33,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11598/No-033-43382.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/No-033-43382.jpg",
+      "image_sha256": "73f81d2f7f2b04f78a6e4f6599e530065358fc6fb11c68785f923d86f219f6f0",
+      "image_bytes": 66233,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 33
+    },
+    {
+      "id": 43383,
+      "set_id": 11598,
+      "set_ids": [
+        11598
+      ],
+      "language": "ja",
+      "name": "Fighting Energy (Pokémon TCG Classic",
+      "number": "No. 034",
+      "number_value": 34,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11598/No-034-43383.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11598/No-034-43383.jpg",
+      "image_sha256": "e289e545e13006b742dd7769479493d847513e7df3e3b5f78cf7e89ca0367ead",
+      "image_bytes": 64076,
+      "scraped_at": "2026-10-19T00:50:31Z",
+      "position": 34
+    }
+  ]
+}

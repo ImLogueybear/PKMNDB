@@ -1,0 +1,344 @@
+{
+  "set": {
+    "id": 11347,
+    "language": "ja",
+    "name": "Golduck BREAK + Palkia-EX Combo Deck",
+    "code": "XYF",
+    "series": "XY Era",
+    "release_date": "2015-10-09",
+    "date_text": "Oct 09, 2015",
+    "card_count": 17,
+    "released": true,
+    "logo_path": "images/sets/11347-logo.webp",
+    "symbol_path": "images/sets/11347-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11347-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11347-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 17
+  },
+  "cards": [
+    {
+      "id": 23248,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Psyduck",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/001-23248.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/001-23248.jpg",
+      "image_sha256": "a292d6e7f1a46b80d2fcbb65c646eee3651e27b49232c68d8eebdb001f55e7cc",
+      "image_bytes": 156943,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 1
+    },
+    {
+      "id": 23249,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Golduck",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/002-23249.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/002-23249.jpg",
+      "image_sha256": "c064fa8bb176c1a2e9b295afd64aa810a7fc7a38d03659ac71066acee9e63d53",
+      "image_bytes": 175075,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 2
+    },
+    {
+      "id": 23250,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Golduck BREAK",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/003-23250.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/003-23250.jpg",
+      "image_sha256": "79ec124e01538a7afad1baf93c798e2f6112c2ecc138ad3248a15b954803ca3e",
+      "image_bytes": 120218,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 3
+    },
+    {
+      "id": 23251,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Shellder",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/004-23251.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/004-23251.jpg",
+      "image_sha256": "c4b67de18f313dbc2eae0b4b3f130bbc1b08a86b25ab8dfe00f71d4e22a3568c",
+      "image_bytes": 148653,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 4
+    },
+    {
+      "id": 23252,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Staryu",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/005-23252.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/005-23252.jpg",
+      "image_sha256": "3c7a1dfbdcaa29a18a2613a4dae35819f33cf2769905db03338dad978f983a29",
+      "image_bytes": 142063,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 5
+    },
+    {
+      "id": 23253,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Lapras",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/006-23253.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/006-23253.jpg",
+      "image_sha256": "8d64adc1b84098037e1db011511ee7fcd86e835e97fbebcd1eed3c1a852a0b8b",
+      "image_bytes": 157282,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 6
+    },
+    {
+      "id": 23254,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Palkia-EX",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/007-23254.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/007-23254.jpg",
+      "image_sha256": "3e8187d5d80ec0e8d79e7ffc0603ba5fd9de811ef03844ca18ec92968947da84",
+      "image_bytes": 230636,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 7
+    },
+    {
+      "id": 23255,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Dive Ball",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/008-23255.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/008-23255.jpg",
+      "image_sha256": "e855da0620a4bdaa3a062aa7dc7ce8326db2c3ebcd92284f23647153dc9914f9",
+      "image_bytes": 152109,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 8
+    },
+    {
+      "id": 23256,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "VS Seeker",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/009-23256.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/009-23256.jpg",
+      "image_sha256": "86d6dc06324a71f832b184810e4b73a8ce2842aebe4b05b11b3e8c1d2845479d",
+      "image_bytes": 147016,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 9
+    },
+    {
+      "id": 23257,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Switch",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/010-23257.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/010-23257.jpg",
+      "image_sha256": "b6d2d69411fa3ef46f21c3a379ff87f7ce9b822028f83625d15fc755aea70317",
+      "image_bytes": 150068,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 10
+    },
+    {
+      "id": 23258,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Pokémon Catcher",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/011-23258.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/011-23258.jpg",
+      "image_sha256": "77c8e90181bf395976d274d0db03c9d002ee31a308f2d2545245815fb5842c7c",
+      "image_bytes": 154893,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 11
+    },
+    {
+      "id": 23259,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Max Potion",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/012-23259.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/012-23259.jpg",
+      "image_sha256": "c63d596874aa549381c9dd8f5c501ea6e1f7fd0f8bdd0e955e01ffcb3a7bed1f",
+      "image_bytes": 151137,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 12
+    },
+    {
+      "id": 23260,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Professor Birch's Observations",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/013-23260.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/013-23260.jpg",
+      "image_sha256": "385b2f31309868c07cfee5818a56b5a0f5465af4ad5ff10de8bbb8fef5037844",
+      "image_bytes": 155715,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 13
+    },
+    {
+      "id": 23261,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Misty's Determination",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/014-23261.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/014-23261.jpg",
+      "image_sha256": "36275146a52f02ff6e70c88df72fbf4c748daf5fbb3e0c8feb7106858500c2b9",
+      "image_bytes": 159215,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 14
+    },
+    {
+      "id": 23262,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Tierno",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/015-23262.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/015-23262.jpg",
+      "image_sha256": "99e8552310d4094bec746baccb6b2c5178451721027c5c15883e0c7bdefc104a",
+      "image_bytes": 148355,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 15
+    },
+    {
+      "id": 23263,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Professor Sycamore",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 16,
+      "rarity": null,
+      "image_path": "images/cards/11347/016-23263.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/016-23263.jpg",
+      "image_sha256": "b3690d268561cafaaa0708582bd8d802b0258aa811f8e81b6780004ca9cc53a9",
+      "image_bytes": 147756,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 16
+    },
+    {
+      "id": 23264,
+      "set_id": 11347,
+      "set_ids": [
+        11347
+      ],
+      "language": "ja",
+      "name": "Water Energy",
+      "number": "No. 017",
+      "number_value": 17,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11347/No-017-23264.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11347/No-017-23264.webp",
+      "image_sha256": "0f42b43d74cae9c35fb503068c6f6b0532c725f49652135fbc89b0e3c09030b5",
+      "image_bytes": 32780,
+      "scraped_at": "2026-10-19T00:53:00Z",
+      "position": 17
+    }
+  ]
+}

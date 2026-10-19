@@ -1,0 +1,603 @@
+{
+  "set": {
+    "id": 12117,
+    "language": "ja",
+    "name": "Tamamushi City Gym Deck",
+    "code": null,
+    "series": "Original Era",
+    "release_date": "1998-07-25",
+    "date_text": "Jul 25, 1998",
+    "card_count": 28,
+    "released": true,
+    "logo_path": "images/sets/12117-logo.webp",
+    "symbol_path": "images/sets/12117-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/12117-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/12117-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 28
+  },
+  "cards": [
+    {
+      "id": 29730,
+      "set_id": 11242,
+      "set_ids": [
+        11242,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika's Oddish",
+      "number": "No. 003",
+      "number_value": 3,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/11242/No-003-29730.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11242/No-003-29730.jpg",
+      "image_sha256": "a836a7e8af25c06e8c375e8037db55e567800f925f39ac1c2d509fe88bcf596d",
+      "image_bytes": 80643,
+      "scraped_at": "2026-10-19T00:56:49Z",
+      "position": 1
+    },
+    {
+      "id": 29732,
+      "set_id": 11242,
+      "set_ids": [
+        11242,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika's Bellsprout",
+      "number": "No. 005",
+      "number_value": 5,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/11242/No-005-29732.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11242/No-005-29732.jpg",
+      "image_sha256": "c84ba3b1f91276c8f9252321c1e529166920ce51a153a061df1d9675a6d69117",
+      "image_bytes": 70302,
+      "scraped_at": "2026-10-19T00:56:49Z",
+      "position": 2
+    },
+    {
+      "id": 29733,
+      "set_id": 11242,
+      "set_ids": [
+        11242,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika's Tangela",
+      "number": "No. 006",
+      "number_value": 6,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/11242/No-006-29733.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11242/No-006-29733.jpg",
+      "image_sha256": "8e787e49cc4ac4439347c4597d66dfa197306441d1f8aac41d74fdc52a2992df",
+      "image_bytes": 85987,
+      "scraped_at": "2026-10-19T00:56:49Z",
+      "position": 3
+    },
+    {
+      "id": 29740,
+      "set_id": 11242,
+      "set_ids": [
+        11242,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika's Exeggutor",
+      "number": "No. 013",
+      "number_value": 13,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11242/No-013-29740.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11242/No-013-29740.jpg",
+      "image_sha256": "49d73e8653eeafcb4430aae8446d3b9019eba9fddab60b5e5093774853d60afb",
+      "image_bytes": 80692,
+      "scraped_at": "2026-10-19T00:56:49Z",
+      "position": 4
+    },
+    {
+      "id": 29741,
+      "set_id": 11242,
+      "set_ids": [
+        11242,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika's Vileplume",
+      "number": "No. 014",
+      "number_value": 14,
+      "printed_total": null,
+      "rarity": "Rare Holo",
+      "image_path": "images/cards/11242/No-014-29741.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11242/No-014-29741.jpg",
+      "image_sha256": "dad34ad08ac8e60c5e03b921cc5e092ee7b0febb7d89d8122e2b05bc491f3c4f",
+      "image_bytes": 89194,
+      "scraped_at": "2026-10-19T00:56:49Z",
+      "position": 5
+    },
+    {
+      "id": 29742,
+      "set_id": 11242,
+      "set_ids": [
+        11242,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika's Victreebel",
+      "number": "No. 015",
+      "number_value": 15,
+      "printed_total": null,
+      "rarity": "Rare",
+      "image_path": "images/cards/11242/No-015-29742.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11242/No-015-29742.jpg",
+      "image_sha256": "64683c1d59ef8ae9f73a4294060539a5051af029d2422159fdc73a6dbd9e367c",
+      "image_bytes": 92121,
+      "scraped_at": "2026-10-19T00:56:49Z",
+      "position": 6
+    },
+    {
+      "id": 29790,
+      "set_id": 11242,
+      "set_ids": [
+        11242,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika's Dratini",
+      "number": "No. 063",
+      "number_value": 63,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11242/No-063-29790.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11242/No-063-29790.jpg",
+      "image_sha256": "888a76164cdce287ba0feba6dad48b14d8460826232d78077dcfad0b15e48a22",
+      "image_bytes": 81551,
+      "scraped_at": "2026-10-19T00:56:49Z",
+      "position": 7
+    },
+    {
+      "id": 29799,
+      "set_id": 11242,
+      "set_ids": [
+        11242,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika's Maids",
+      "number": "No. 072",
+      "number_value": 72,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11242/No-072-29799.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11242/No-072-29799.jpg",
+      "image_sha256": "5d27f087a06eba38b9245ee4dc3d4eecf0a7e43d16961b971f4b1dd0c0646e93",
+      "image_bytes": 81312,
+      "scraped_at": "2026-10-19T00:56:49Z",
+      "position": 8
+    },
+    {
+      "id": 29800,
+      "set_id": 11242,
+      "set_ids": [
+        11242,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika's Perfume",
+      "number": "No. 073",
+      "number_value": 73,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11242/No-073-29800.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11242/No-073-29800.jpg",
+      "image_sha256": "0841954a2c49107d75648459ff79e9bc954a102edc7328f7376487df4c803fd1",
+      "image_bytes": 79341,
+      "scraped_at": "2026-10-19T00:56:49Z",
+      "position": 9
+    },
+    {
+      "id": 29801,
+      "set_id": 11242,
+      "set_ids": [
+        11242,
+        12117
+      ],
+      "language": "ja",
+      "name": "Charity",
+      "number": "No. 074",
+      "number_value": 74,
+      "printed_total": null,
+      "rarity": "Rare",
+      "image_path": "images/cards/11242/No-074-29801.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11242/No-074-29801.jpg",
+      "image_sha256": "24eed3c398d68638c0290e36d6c15af6e02d953052a5c8bea36e165106607914",
+      "image_bytes": 85359,
+      "scraped_at": "2026-10-19T00:56:49Z",
+      "position": 10
+    },
+    {
+      "id": 29805,
+      "set_id": 11242,
+      "set_ids": [
+        11242,
+        12117
+      ],
+      "language": "ja",
+      "name": "Celadon City Gym",
+      "number": "No. 078",
+      "number_value": 78,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11242/No-078-29805.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11242/No-078-29805.jpg",
+      "image_sha256": "2b41e1d202018b5da79a6397f6c5ac0c7c462dac4f144f9005bb7d7f7c937d28",
+      "image_bytes": 82025,
+      "scraped_at": "2026-10-19T00:56:49Z",
+      "position": 11
+    },
+    {
+      "id": 29809,
+      "set_id": 11242,
+      "set_ids": [
+        11242,
+        12117
+      ],
+      "language": "ja",
+      "name": "Good Manners",
+      "number": "No. 082",
+      "number_value": 82,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11242/No-082-29809.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11242/No-082-29809.jpg",
+      "image_sha256": "6f947efa4a6c39d427d10fea7c9a467a74700d9cae665cd7fc1e2133bcd61d0a",
+      "image_bytes": 81683,
+      "scraped_at": "2026-10-19T00:56:49Z",
+      "position": 12
+    },
+    {
+      "id": 47484,
+      "set_id": 12117,
+      "set_ids": [
+        11473,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika's Oddish",
+      "number": "No. 002",
+      "number_value": 2,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12117/No-002-47484.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12117/No-002-47484.webp",
+      "image_sha256": "e278e86b62530341670dca86bf3eb6bcc0ae483f4f9c535f0bdb50af590af32a",
+      "image_bytes": 48480,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 13
+    },
+    {
+      "id": 47485,
+      "set_id": 12117,
+      "set_ids": [
+        11473,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika's Gloom",
+      "number": "No. 003",
+      "number_value": 3,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12117/No-003-47485.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12117/No-003-47485.webp",
+      "image_sha256": "b61a7af7d34b9d04b948c97edb5d9baaa7646a5218764edcfc3d1023996b28a3",
+      "image_bytes": 60140,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 14
+    },
+    {
+      "id": 47486,
+      "set_id": 12117,
+      "set_ids": [
+        11473,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika's Bellsprout",
+      "number": "No. 004",
+      "number_value": 4,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12117/No-004-47486.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12117/No-004-47486.webp",
+      "image_sha256": "fe82dd4abe53c6624c3daf1862929ce1b8e815a6050eabd5c0cf3a2d3c18dc9f",
+      "image_bytes": 44758,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 15
+    },
+    {
+      "id": 47487,
+      "set_id": 12117,
+      "set_ids": [
+        11473,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika's Weepinbell",
+      "number": "No. 005",
+      "number_value": 5,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12117/No-005-47487.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12117/No-005-47487.webp",
+      "image_sha256": "b73041f71d2ea1812e9e80676931e5d529f8003e9da300c791c231f98381e3fc",
+      "image_bytes": 49780,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 16
+    },
+    {
+      "id": 47488,
+      "set_id": 12117,
+      "set_ids": [
+        11473,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika's Exeggcute",
+      "number": "No. 006",
+      "number_value": 6,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12117/No-006-47488.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12117/No-006-47488.webp",
+      "image_sha256": "d910350d0f15b188cfff236f04abd47fd4c77c2af0cfd6b69ae779b1f5630de5",
+      "image_bytes": 52766,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 17
+    },
+    {
+      "id": 47525,
+      "set_id": 12117,
+      "set_ids": [
+        11473,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika's Clefairy",
+      "number": "No. 043",
+      "number_value": 43,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12117/No-043-47525.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12117/No-043-47525.webp",
+      "image_sha256": "a942ab2ef5a647f4e2600eff1cfdbaca5fd2c5498cd1ebde84be70ca74781490",
+      "image_bytes": 45358,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 18
+    },
+    {
+      "id": 47530,
+      "set_id": 12120,
+      "set_ids": [
+        11473,
+        12115,
+        12117,
+        12120
+      ],
+      "language": "ja",
+      "name": "Energy Retrieval",
+      "number": "No. 048",
+      "number_value": 48,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12120/No-048-47530.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12120/No-048-47530.webp",
+      "image_sha256": "4c0dcf1a720966c41d2e323992d166de8b308076f381574e3074b16bfa975904",
+      "image_bytes": 33738,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 19
+    },
+    {
+      "id": 47532,
+      "set_id": 12120,
+      "set_ids": [
+        11473,
+        12115,
+        12116,
+        12117,
+        12119,
+        12120
+      ],
+      "language": "ja",
+      "name": "Potion",
+      "number": "No. 050",
+      "number_value": 50,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12120/No-050-47532.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12120/No-050-47532.webp",
+      "image_sha256": "16b76b790349cdfab72346e51606546c425005b75a9620ae4dea71a0a49cce05",
+      "image_bytes": 30958,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 20
+    },
+    {
+      "id": 47556,
+      "set_id": 12120,
+      "set_ids": [
+        11473,
+        12116,
+        12117,
+        12118,
+        12120
+      ],
+      "language": "ja",
+      "name": "Defender",
+      "number": "No. 053",
+      "number_value": 53,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12120/No-053-47556.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12120/No-053-47556.webp",
+      "image_sha256": "3730f95af431ee4904fd5e0edaab0eabc274e77e580e81abfc3d41252df2b049",
+      "image_bytes": 35778,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 21
+    },
+    {
+      "id": 47558,
+      "set_id": 12120,
+      "set_ids": [
+        11473,
+        12115,
+        12117,
+        12118,
+        12119,
+        12120
+      ],
+      "language": "ja",
+      "name": "Full Heal",
+      "number": "No. 055",
+      "number_value": 55,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12120/No-055-47558.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12120/No-055-47558.webp",
+      "image_sha256": "f0f598c17ffbb3dbd377b19fdae9819a24200e4c3acfedc6443f8d0718232b54",
+      "image_bytes": 28120,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 22
+    },
+    {
+      "id": 47559,
+      "set_id": 12119,
+      "set_ids": [
+        11473,
+        12115,
+        12117,
+        12118,
+        12119
+      ],
+      "language": "ja",
+      "name": "Switch",
+      "number": "No. 056",
+      "number_value": 56,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12119/No-056-47559.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12119/No-056-47559.webp",
+      "image_sha256": "0bd729f399a1e56bab59aeacc7c4fb12863d9fc6d32f7b9746c43248754d83ae",
+      "image_bytes": 40200,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 23
+    },
+    {
+      "id": 47563,
+      "set_id": 12117,
+      "set_ids": [
+        11473,
+        12117
+      ],
+      "language": "ja",
+      "name": "Energy Search",
+      "number": "No. 060",
+      "number_value": 60,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12117/No-060-47563.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12117/No-060-47563.webp",
+      "image_sha256": "5a5bdc33cd836856c0c5d9838250ea1a5e8ed7539b3aa8ac8a952521e0f9fd22",
+      "image_bytes": 36540,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 24
+    },
+    {
+      "id": 47564,
+      "set_id": 12117,
+      "set_ids": [
+        11473,
+        12117
+      ],
+      "language": "ja",
+      "name": "Erika",
+      "number": "No. 061",
+      "number_value": 61,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12117/No-061-47564.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12117/No-061-47564.webp",
+      "image_sha256": "d5ab5621e38089d7d0dc9ce153c363671fadf14da8bf8a85b18594d6495ecddd",
+      "image_bytes": 46122,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 25
+    },
+    {
+      "id": 47565,
+      "set_id": 12120,
+      "set_ids": [
+        11473,
+        12117,
+        12120
+      ],
+      "language": "ja",
+      "name": "PlusPower",
+      "number": "No. 062",
+      "number_value": 62,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12120/No-062-47565.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12120/No-062-47565.webp",
+      "image_sha256": "cf8f4b169f7a162e7bc2cd5d65c0554c22f01e572740efef291baeec21ed9808",
+      "image_bytes": 37154,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 26
+    },
+    {
+      "id": 47568,
+      "set_id": 12117,
+      "set_ids": [
+        11473,
+        12117
+      ],
+      "language": "ja",
+      "name": "Recycle",
+      "number": "No. 065",
+      "number_value": 65,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12117/No-065-47568.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12117/No-065-47568.webp",
+      "image_sha256": "895d31918945e3ed7d60463fb515a0b7ecebe475bb2b9b30b76de311e911ea31",
+      "image_bytes": 32730,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 27
+    },
+    {
+      "id": 47574,
+      "set_id": 12120,
+      "set_ids": [
+        11473,
+        12115,
+        12116,
+        12117,
+        12118,
+        12119,
+        12120
+      ],
+      "language": "ja",
+      "name": "Double Colorless Energy",
+      "number": "No. 071",
+      "number_value": 71,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/12120/No-071-47574.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12120/No-071-47574.webp",
+      "image_sha256": "e951be11a77699a2d2db94a65b95fcded260490cc679370919d39fb8287faffc",
+      "image_bytes": 24056,
+      "scraped_at": "2026-10-19T00:56:58Z",
+      "position": 28
+    }
+  ]
+}

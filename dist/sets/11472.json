@@ -1,0 +1,1038 @@
+{
+  "set": {
+    "id": 11472,
+    "language": "ja",
+    "name": "Vending Machine Series 3 (Green)",
+    "code": null,
+    "series": "Vending Machine Series",
+    "release_date": "1998-11-24",
+    "date_text": "Nov 24, 1998",
+    "card_count": 53,
+    "released": true,
+    "logo_path": "images/sets/11472-logo.webp",
+    "symbol_path": "images/sets/11472-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11472-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11472-symbol.webp",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 53
+  },
+  "cards": [
+    {
+      "id": 47581,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Arbok (Vending Machine Series 3",
+      "number": "No. 001",
+      "number_value": 1,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11472/No-001-47581.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-001-47581.webp",
+      "image_sha256": "a6047fbd19b8298fce1cb129831a565805f27a7e789fe5066db767293650c7d6",
+      "image_bytes": 292642,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 1
+    },
+    {
+      "id": 47582,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Nidorina (Vending Machine Series 3",
+      "number": "No. 002",
+      "number_value": 2,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11472/No-002-47582.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-002-47582.webp",
+      "image_sha256": "1b6b3a4f93fb2690943b437f8f6aca3278d26c1ea20e34beac1e7303ed14de5f",
+      "image_bytes": 152820,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 2
+    },
+    {
+      "id": 47583,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Nidorino (Vending Machine Series 3",
+      "number": "No. 003",
+      "number_value": 3,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11472/No-003-47583.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-003-47583.webp",
+      "image_sha256": "df3f72fa974daada434e350d2daf738b4f7befbdaa7bd2eb8dc1110b8376fc92",
+      "image_bytes": 123488,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 3
+    },
+    {
+      "id": 47584,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Venonat (Vending Machine Series 3",
+      "number": "No. 004",
+      "number_value": 4,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/11472/No-004-47584.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-004-47584.webp",
+      "image_sha256": "0681de5f2a27da1d045ae3ca1ccec551b91602ae0b8eaca9745f2c44224d9e2a",
+      "image_bytes": 105632,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 4
+    },
+    {
+      "id": 47585,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Bellsprout (Vending Machine Series 3",
+      "number": "No. 005",
+      "number_value": 5,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/11472/No-005-47585.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-005-47585.webp",
+      "image_sha256": "e110c8027c1ee9a448db4733fa17d7e683701d438faca8cde515545941feeef2",
+      "image_bytes": 130528,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 5
+    },
+    {
+      "id": 47586,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Weepinbell (Vending Machine Series 3",
+      "number": "No. 006",
+      "number_value": 6,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11472/No-006-47586.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-006-47586.webp",
+      "image_sha256": "3208c64c6258e94ed7028855c5a829d265b84a50486e5752227acf643719d34f",
+      "image_bytes": 109058,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 6
+    },
+    {
+      "id": 47587,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Weezing (Vending Machine Series 3",
+      "number": "No. 007",
+      "number_value": 7,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11472/No-007-47587.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-007-47587.webp",
+      "image_sha256": "eabaea82023785b49f83f6540f14e7a790c229f17ca250e20d93320d75b27745",
+      "image_bytes": 239210,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 7
+    },
+    {
+      "id": 47588,
+      "set_id": 12124,
+      "set_ids": [
+        11472,
+        12124
+      ],
+      "language": "ja",
+      "name": "Scyther (Vending Machine Series 3",
+      "number": "No. 008",
+      "number_value": 8,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/12124/No-008-47588.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12124/No-008-47588.webp",
+      "image_sha256": "08cc8e5652239a5c81b55fc63ff7b1fabf879b2fadd2b0dfa0a0a4c5d70a0cea",
+      "image_bytes": 90640,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 8
+    },
+    {
+      "id": 47589,
+      "set_id": 12124,
+      "set_ids": [
+        11472,
+        12124
+      ],
+      "language": "ja",
+      "name": "Vulpix (Vending Machine Series 3",
+      "number": "No. 009",
+      "number_value": 9,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/12124/No-009-47589.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12124/No-009-47589.webp",
+      "image_sha256": "6eb86772d391c62c62eb5bc4c54e2097c5a4966a113d2b87c114ce6e85361ec9",
+      "image_bytes": 283690,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 9
+    },
+    {
+      "id": 47590,
+      "set_id": 12124,
+      "set_ids": [
+        11472,
+        12124
+      ],
+      "language": "ja",
+      "name": "Growlithe (Vending Machine Series 3",
+      "number": "No. 010",
+      "number_value": 10,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/12124/No-010-47590.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12124/No-010-47590.webp",
+      "image_sha256": "06fb9eea91d066b5f570bab1fdb82d18caa4f8191a6e6921c9c8f0c5487e1dfa",
+      "image_bytes": 109574,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 10
+    },
+    {
+      "id": 47591,
+      "set_id": 12124,
+      "set_ids": [
+        11472,
+        12124
+      ],
+      "language": "ja",
+      "name": "Ponyta (Vending Machine Series 3",
+      "number": "No. 011",
+      "number_value": 11,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/12124/No-011-47591.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12124/No-011-47591.webp",
+      "image_sha256": "0f01b89d82c9aceb7fe4f8328b9d2efae8278d8e2f96ee817646312806ffee10",
+      "image_bytes": 261840,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 11
+    },
+    {
+      "id": 47592,
+      "set_id": 12124,
+      "set_ids": [
+        11472,
+        12124
+      ],
+      "language": "ja",
+      "name": "Magmar (Vending Machine Series 3",
+      "number": "No. 012",
+      "number_value": 12,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/12124/No-012-47592.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12124/No-012-47592.webp",
+      "image_sha256": "bce0e0b748bf7db4a45407c908a0e17f08ad1ff8a003f68ce8fed08386b01e4f",
+      "image_bytes": 145220,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 12
+    },
+    {
+      "id": 47593,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Golduck (Vending Machine Series 3",
+      "number": "No. 013",
+      "number_value": 13,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11472/No-013-47593.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-013-47593.webp",
+      "image_sha256": "90961525029e56049e2d8f1790b4950380b92a01f98c930ea43e15426156f6ac",
+      "image_bytes": 122810,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 13
+    },
+    {
+      "id": 47594,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Kingler (Vending Machine Series 3",
+      "number": "No. 014",
+      "number_value": 14,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11472/No-014-47594.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-014-47594.webp",
+      "image_sha256": "b286adbce7b0755d9069194649a6944f9adef83dbc239663ff8ac8730d35933e",
+      "image_bytes": 187308,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 14
+    },
+    {
+      "id": 47595,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Horsea (Vending Machine Series 3",
+      "number": "No. 015",
+      "number_value": 15,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/11472/No-015-47595.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-015-47595.webp",
+      "image_sha256": "77b6d9799003035131f22dd66d39fa7a8d14d573760c43e70faf6041d7c38ca5",
+      "image_bytes": 96726,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 15
+    },
+    {
+      "id": 47596,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Seadra (Vending Machine Series 3",
+      "number": "No. 016",
+      "number_value": 16,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11472/No-016-47596.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-016-47596.webp",
+      "image_sha256": "c684b206fcaee20ec8f4995796299b54fd5be86ae4201584ffeb893c70bee592",
+      "image_bytes": 118782,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 16
+    },
+    {
+      "id": 47597,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Staryu (Vending Machine Series 3",
+      "number": "No. 017",
+      "number_value": 17,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/11472/No-017-47597.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-017-47597.webp",
+      "image_sha256": "e431cf623b897240139cd62d915da4dcb23ac463df1fe482180fdd1c75667030",
+      "image_bytes": 116196,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 17
+    },
+    {
+      "id": 47598,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Omanyte (Vending Machine Series 3",
+      "number": "No. 018",
+      "number_value": 18,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11472/No-018-47598.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-018-47598.webp",
+      "image_sha256": "28227c028973e152e6534885a1dc65c52b62b1d3bf5261f88ec38697fb35a789",
+      "image_bytes": 160926,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 18
+    },
+    {
+      "id": 47599,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Kadabra (Vending Machine Series 3",
+      "number": "No. 019",
+      "number_value": 19,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11472/No-019-47599.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-019-47599.webp",
+      "image_sha256": "3542b50585bebb63d2e88d66c708fc068d339d03b34bea9b9ceda5073532db78",
+      "image_bytes": 100790,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 19
+    },
+    {
+      "id": 47600,
+      "set_id": 12124,
+      "set_ids": [
+        11472,
+        12124
+      ],
+      "language": "ja",
+      "name": "Kadabra (Vending Machine Series 3",
+      "number": "No. 020",
+      "number_value": 20,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/12124/No-020-47600.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12124/No-020-47600.webp",
+      "image_sha256": "2c2183db7ce129d7fde9d0767fe4433978af1c829c1a1392201f25a4effff1eb",
+      "image_bytes": 120936,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 20
+    },
+    {
+      "id": 47601,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Slowbro (Vending Machine Series 3",
+      "number": "No. 021",
+      "number_value": 21,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/11472/No-021-47601.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-021-47601.webp",
+      "image_sha256": "cee841caf01d8ccc4c90d7df6a6abf5969cdd0afec4a8805cd27444ca7cacd95",
+      "image_bytes": 125550,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 21
+    },
+    {
+      "id": 47602,
+      "set_id": 12124,
+      "set_ids": [
+        11472,
+        12124
+      ],
+      "language": "ja",
+      "name": "Gastly (Vending Machine Series 3",
+      "number": "No. 022",
+      "number_value": 22,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/12124/No-022-47602.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12124/No-022-47602.webp",
+      "image_sha256": "cb262d4ab716352ae7e2c4d3de8f2bbd2d878f77a2d528e8cb41a0bf91d88587",
+      "image_bytes": 148470,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 22
+    },
+    {
+      "id": 47603,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Haunter (Vending Machine Series 3",
+      "number": "No. 023",
+      "number_value": 23,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11472/No-023-47603.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-023-47603.webp",
+      "image_sha256": "b44517639c012375427cfc956442d6d67537d02fc4f247bab1f1c8da1d3debb2",
+      "image_bytes": 103014,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 23
+    },
+    {
+      "id": 47604,
+      "set_id": 12124,
+      "set_ids": [
+        11472,
+        12124
+      ],
+      "language": "ja",
+      "name": "Haunter (Vending Machine Series 3",
+      "number": "No. 024",
+      "number_value": 24,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/12124/No-024-47604.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12124/No-024-47604.webp",
+      "image_sha256": "2959bcb41a9d05199a71f845866ae98fd3b5a9f4041ec8a8771438dc6ffa8b8b",
+      "image_bytes": 368044,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 24
+    },
+    {
+      "id": 47605,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Hypno (Vending Machine Series 3",
+      "number": "No. 025",
+      "number_value": 25,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11472/No-025-47605.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-025-47605.webp",
+      "image_sha256": "b5ed8fca43e72b00d15ea0179ca4a049160f7a82d33d8989e23673d67178c5c2",
+      "image_bytes": 124252,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 25
+    },
+    {
+      "id": 47606,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Mewtwo (Vending Machine Series 3",
+      "number": "No. 026",
+      "number_value": 26,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/11472/No-026-47606.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-026-47606.webp",
+      "image_sha256": "a67f98f57d735b5ddbe5eb64ce557b06af221a7b5388a2bf633f26ef1d879252",
+      "image_bytes": 115906,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 26
+    },
+    {
+      "id": 47607,
+      "set_id": 12123,
+      "set_ids": [
+        11472,
+        12123
+      ],
+      "language": "ja",
+      "name": "Sandslash (Vending Machine Series 3",
+      "number": "No. 027",
+      "number_value": 27,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/12123/No-027-47607.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12123/No-027-47607.webp",
+      "image_sha256": "07179ef2cec5bb3f1183f6e3cab4cb010c5a22b36461a493badd491cf836a31f",
+      "image_bytes": 107792,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 27
+    },
+    {
+      "id": 47608,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Machoke (Vending Machine Series 3",
+      "number": "No. 028",
+      "number_value": 28,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/11472/No-028-47608.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-028-47608.webp",
+      "image_sha256": "7610708b0095819a4f5f34130365794fa4f2f99ec2506068a414d696c53d928c",
+      "image_bytes": 372664,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 28
+    },
+    {
+      "id": 47609,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Graveler (Vending Machine Series 3",
+      "number": "No. 029",
+      "number_value": 29,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/11472/No-029-47609.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-029-47609.webp",
+      "image_sha256": "60023d64e0ce0c52407c814a8a73de01725f4808e0c34f3f4e6d3c27a597ab30",
+      "image_bytes": 140402,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 29
+    },
+    {
+      "id": 47610,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Cubone (Vending Machine Series 3",
+      "number": "No. 030",
+      "number_value": 30,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/11472/No-030-47610.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-030-47610.webp",
+      "image_sha256": "d10a180ab9620db714a29c73ebb6657deb4b72156a128dcff56f3601a59c5d5f",
+      "image_bytes": 311222,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 30
+    },
+    {
+      "id": 47611,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Rhydon (Vending Machine Series 3",
+      "number": "No. 031",
+      "number_value": 31,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11472/No-031-47611.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-031-47611.webp",
+      "image_sha256": "c41dd0987736ad28b93ffdd46054599ea573e45e11320b9a0cb6b4b1f77657e4",
+      "image_bytes": 303924,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 31
+    },
+    {
+      "id": 47612,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Pidgeotto (Vending Machine Series 3",
+      "number": "No. 032",
+      "number_value": 32,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11472/No-032-47612.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-032-47612.webp",
+      "image_sha256": "2a23fcd154d262b6c547ac76ca2ed61291d08ec8242230db84377c9f9294de3a",
+      "image_bytes": 110724,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 32
+    },
+    {
+      "id": 47613,
+      "set_id": 12124,
+      "set_ids": [
+        11472,
+        12124
+      ],
+      "language": "ja",
+      "name": "Kangaskhan (Vending Machine Series 3",
+      "number": "No. 033",
+      "number_value": 33,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/12124/No-033-47613.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12124/No-033-47613.webp",
+      "image_sha256": "3619b72616d24bbd83755df0f8013b72c3eafe21197181b121914b2e113b253a",
+      "image_bytes": 154748,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 33
+    },
+    {
+      "id": 47614,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Tauros (Vending Machine Series 3",
+      "number": "No. 034",
+      "number_value": 34,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/11472/No-034-47614.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-034-47614.webp",
+      "image_sha256": "e722732d63669cbadf3caba7df359ee55255d3abe4180473370a8cbb9213a462",
+      "image_bytes": 156636,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 34
+    },
+    {
+      "id": 47615,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Pokémon Retransfer (Vending Machine Series 3",
+      "number": "No. 035",
+      "number_value": 35,
+      "printed_total": null,
+      "rarity": "Common",
+      "image_path": "images/cards/11472/No-035-47615.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-035-47615.webp",
+      "image_sha256": "74c1c4714aa12bb119e5e8d70c0be7b45505342d14c52a09676d1ffedef1cdca",
+      "image_bytes": 224736,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 35
+    },
+    {
+      "id": 47616,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Pokémon Tower (Vending Machine Series 3",
+      "number": "No. 036",
+      "number_value": 36,
+      "printed_total": null,
+      "rarity": "Uncommon",
+      "image_path": "images/cards/11472/No-036-47616.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-036-47616.webp",
+      "image_sha256": "f353f2b8abb06cd4a9f8ab411798ab6c7692d40c26f78d5197d5a1fb16141c5d",
+      "image_bytes": 88012,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 36
+    },
+    {
+      "id": 47617,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "4 Prize Battle (Vending Machine Series 3",
+      "number": "No. 037",
+      "number_value": 37,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-037-47617.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-037-47617.webp",
+      "image_sha256": "afbb45b35f41ed337832775862a3064b245fcc861fc6ebfd955216b39111d968",
+      "image_bytes": 130216,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 37
+    },
+    {
+      "id": 47618,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "20 Damage from Confusion (Vending Machine Series 3",
+      "number": "No. 038",
+      "number_value": 38,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-038-47618.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-038-47618.webp",
+      "image_sha256": "5831dcb289582ff8d89c183eefd5c32b766b7ad9624b382c62b5bdba8271175a",
+      "image_bytes": 95626,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 38
+    },
+    {
+      "id": 47619,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "3 Deck Battle (Vending Machine Series 3",
+      "number": "No. 039",
+      "number_value": 39,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-039-47619.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-039-47619.webp",
+      "image_sha256": "1f45b970d9bfcaf1c7bf2aa687b7e04d89e0ccf7efad6fde711a50604e8b0d7e",
+      "image_bytes": 178818,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 39
+    },
+    {
+      "id": 47620,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "3 vs 3 Dugtrio Team Battle (Vending Machine Series 3",
+      "number": "No. 040",
+      "number_value": 40,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-040-47620.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-040-47620.webp",
+      "image_sha256": "4b4f9460062cd0b148331eb7a34070d847aef48460c09ee502871b30af74f276",
+      "image_bytes": 132584,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 40
+    },
+    {
+      "id": 47621,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Deck Exchange (Vending Machine Series 3",
+      "number": "No. 041",
+      "number_value": 41,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-041-47621.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-041-47621.webp",
+      "image_sha256": "af787d4a3ebf6605a412f6c474dca627c4738c0b750f48d00b6d5a36edef280e",
+      "image_bytes": 336792,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 41
+    },
+    {
+      "id": 47634,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Ooyama's Pikachu LV.? (Vending Machine Series 3",
+      "number": "No. 042",
+      "number_value": 42,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-042-47634.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-042-47634.webp",
+      "image_sha256": "9cd06c2f0e691cb7770390c69bbb1caca573b74bdbdf24cdcf15187f20c91cc0",
+      "image_bytes": 243922,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 42
+    },
+    {
+      "id": 47622,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Imakuni?'s PC (Vending Machine Series 3",
+      "number": "No. 043",
+      "number_value": 43,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-043-47622.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-043-47622.webp",
+      "image_sha256": "e5e3b9fcb7f8bb239da4e3b770d1ab053e90c3c224c621cd4e8fa8a63f6a0abe",
+      "image_bytes": 131462,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 43
+    },
+    {
+      "id": 47623,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Imakuni?'s Nasty Plot (Vending Machine Series 3",
+      "number": "No. 044",
+      "number_value": 44,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-044-47623.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-044-47623.webp",
+      "image_sha256": "590694974e017ab50094cc52d5e7a3ace9e49fa096470ca3e25ed09b09b8ff0d",
+      "image_bytes": 144652,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 44
+    },
+    {
+      "id": 47624,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Imakuni?'s Corner (Vending Machine Series 3",
+      "number": "No. 045",
+      "number_value": 45,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-045-47624.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-045-47624.webp",
+      "image_sha256": "a72b6eae09182ecb3c36307da2a06200fd82d5ed44e9c66b5ce49d1f5377114a",
+      "image_bytes": 213352,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 45
+    },
+    {
+      "id": 47625,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Lose? (Vending Machine Series 3",
+      "number": "No. 046",
+      "number_value": 46,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-046-47625.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-046-47625.webp",
+      "image_sha256": "66067b5bfe73875e734efaf466d313ca33f3f4aedfa1dbb7f6aefca18b19e926",
+      "image_bytes": 111754,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 46
+    },
+    {
+      "id": 47626,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Pokémon Machine (Vending Machine Series 3",
+      "number": "No. 047",
+      "number_value": 47,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-047-47626.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-047-47626.webp",
+      "image_sha256": "176cda390b3ce05e0b0e09f876a57d0518966f4b818c217a91aedecd08d13eda",
+      "image_bytes": 159614,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 47
+    },
+    {
+      "id": 47627,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Bill's PC (Vending Machine Series 3",
+      "number": "No. 048",
+      "number_value": 48,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-048-47627.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-048-47627.webp",
+      "image_sha256": "ef517be767fdaa0100aa50570bfea44d048015d3807ffc5ef1b2845961dca3ce",
+      "image_bytes": 135726,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 48
+    },
+    {
+      "id": 47628,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "The Puzzle of Pokémon Tower? (Vending Machine Series 3",
+      "number": "No. 049",
+      "number_value": 49,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-049-47628.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-049-47628.webp",
+      "image_sha256": "649be234f808594f1e341b9b03d23743565c88b79366d73148dd258ac8bc93c8",
+      "image_bytes": 103198,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 49
+    },
+    {
+      "id": 47629,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Ouch! At the Pokémon Mansion (Vending Machine Series 3",
+      "number": "No. 050",
+      "number_value": 50,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-050-47629.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-050-47629.webp",
+      "image_sha256": "d90ea1976c5a7257590a28994cd1ecaeeb4455ee61b2a52657f6d1a14704c133",
+      "image_bytes": 100574,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 50
+    },
+    {
+      "id": 47630,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Violence in the Safari Zone! (Vending Machine Series 3",
+      "number": "No. 051",
+      "number_value": 51,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-051-47630.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-051-47630.webp",
+      "image_sha256": "c8136c5576b6cd1922be7c7d68e6baf8b8ccfb7d4458367402ea9687aae09672",
+      "image_bytes": 94404,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 51
+    },
+    {
+      "id": 47631,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "Horsea of the Seafoam Islands (Vending Machine Series 3",
+      "number": "No. 052",
+      "number_value": 52,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-052-47631.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-052-47631.webp",
+      "image_sha256": "5cd6bf64837ca7eb8a4195a9ef6fe286138167d4986bd4998da3545b533ff076",
+      "image_bytes": 99290,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 52
+    },
+    {
+      "id": 47635,
+      "set_id": 11472,
+      "set_ids": [
+        11472
+      ],
+      "language": "ja",
+      "name": "The Last Cave – Cerulean! (Vending Machine Series 3",
+      "number": "No. 053",
+      "number_value": 53,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11472/No-053-47635.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11472/No-053-47635.webp",
+      "image_sha256": "ce6a99a4633c04d3d63e7e86c7cb842adfbd0b68eaac60ef07f3833f0f9b3944",
+      "image_bytes": 92902,
+      "scraped_at": "2026-10-19T00:56:46Z",
+      "position": 53
+    }
+  ]
+}

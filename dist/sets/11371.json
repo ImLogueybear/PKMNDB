@@ -1,0 +1,154 @@
+{
+  "set": {
+    "id": 11371,
+    "language": "ja",
+    "name": "Zacian + Zamazenta Box",
+    "code": "SP1",
+    "series": "Sword & Shield Era",
+    "release_date": "2019-12-27",
+    "date_text": "Dec 27, 2019",
+    "card_count": 7,
+    "released": true,
+    "logo_path": "images/sets/11371-logo.png",
+    "symbol_path": "images/sets/11371-symbol.png",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11371-logo.png",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11371-symbol.png",
+    "scraped_at": "2026-10-19T00:49:42Z",
+    "cards_loaded": 7
+  },
+  "cards": [
+    {
+      "id": 18362,
+      "set_id": 11371,
+      "set_ids": [
+        11371
+      ],
+      "language": "ja",
+      "name": "Galarian Meowth",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 7,
+      "rarity": null,
+      "image_path": "images/cards/11371/001-18362.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11371/001-18362.jpg",
+      "image_sha256": "8090550e6cfde978ea680df3a09361b56bbb928d82a7648cfad53a9d892c064f",
+      "image_bytes": 228540,
+      "scraped_at": "2026-10-19T00:51:45Z",
+      "position": 1
+    },
+    {
+      "id": 18363,
+      "set_id": 11371,
+      "set_ids": [
+        11371
+      ],
+      "language": "ja",
+      "name": "Galarian Perrserker",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 7,
+      "rarity": null,
+      "image_path": "images/cards/11371/002-18363.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11371/002-18363.jpg",
+      "image_sha256": "1a2c42a9458395b0cead4afbe136583fac7481c56fb5940164c614f2b3e5df1e",
+      "image_bytes": 205411,
+      "scraped_at": "2026-10-19T00:51:45Z",
+      "position": 2
+    },
+    {
+      "id": 18364,
+      "set_id": 11371,
+      "set_ids": [
+        11371
+      ],
+      "language": "ja",
+      "name": "Zacian",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 7,
+      "rarity": null,
+      "image_path": "images/cards/11371/003-18364.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11371/003-18364.jpg",
+      "image_sha256": "c95e7d3477da87a64eae494b83e4c7ff213bf89d8efdb7578fa44677b9088782",
+      "image_bytes": 222282,
+      "scraped_at": "2026-10-19T00:51:45Z",
+      "position": 3
+    },
+    {
+      "id": 18365,
+      "set_id": 11371,
+      "set_ids": [
+        11371
+      ],
+      "language": "ja",
+      "name": "Zamazenta",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 7,
+      "rarity": null,
+      "image_path": "images/cards/11371/004-18365.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11371/004-18365.jpg",
+      "image_sha256": "22779b2569e48369249ea695a238d5828f5998ec4dcf072a1e53004edc940d83",
+      "image_bytes": 217099,
+      "scraped_at": "2026-10-19T00:51:45Z",
+      "position": 4
+    },
+    {
+      "id": 18366,
+      "set_id": 11371,
+      "set_ids": [
+        11371
+      ],
+      "language": "ja",
+      "name": "Metal Saucer",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 7,
+      "rarity": null,
+      "image_path": "images/cards/11371/005-18366.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11371/005-18366.jpg",
+      "image_sha256": "6f01a510206de73682bf3822016636bc39418de7d6b631d76d3911016f3cd643",
+      "image_bytes": 128399,
+      "scraped_at": "2026-10-19T00:51:45Z",
+      "position": 5
+    },
+    {
+      "id": 18367,
+      "set_id": 11371,
+      "set_ids": [
+        11371
+      ],
+      "language": "ja",
+      "name": "Poké Kid",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 7,
+      "rarity": null,
+      "image_path": "images/cards/11371/006-18367.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11371/006-18367.jpg",
+      "image_sha256": "c78b7f1b0facaf8d3414dd5e6ba0a57ff068d2969d6585743a0a4b9715c9bc99",
+      "image_bytes": 158493,
+      "scraped_at": "2026-10-19T00:51:45Z",
+      "position": 6
+    },
+    {
+      "id": 18368,
+      "set_id": 11371,
+      "set_ids": [
+        11371
+      ],
+      "language": "ja",
+      "name": "Hop",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 7,
+      "rarity": null,
+      "image_path": "images/cards/11371/007-18368.jpg",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11371/007-18368.jpg",
+      "image_sha256": "7d3d237f90677505ad6860b6e57c85ca0b1600e35e6a6b4d03be67e033203e10",
+      "image_bytes": 138552,
+      "scraped_at": "2026-10-19T00:51:45Z",
+      "position": 7
+    }
+  ]
+}
