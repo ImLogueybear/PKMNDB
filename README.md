@@ -113,7 +113,7 @@ PKMNDB owns the prebuilt card-scan indexes used by CardTable/PocketVault:
 - **CardTable:** `https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/scan/cardtable/index.json`
   — 843 shards, 57,428 packed descriptors, 784/784 audited sets.
 - **PocketVault:** `https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/scan/pocketvault/index.json`
-  — 876 shards, 62,433 packed descriptors, 800 sets / 56,394 app cards.
+  — 800 shards, 56,394 packed descriptors, 800 sets / 56,394 app cards.
 - Shard pattern: `<base>/<setId>.bin`; format 2 / scan version 4.
 - `dist/scan-index.json` and `dist/scan-index-pocketvault.json` are the small
   pointer manifests committed in this repo.
