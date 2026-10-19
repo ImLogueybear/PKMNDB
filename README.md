@@ -1,7 +1,6 @@
 # PKMNDB
 
-Pokemon TCG set and card data for English/international releases, derived from
-[TCGCollector](https://www.tcgcollector.com/).
+Pokemon TCG set and card data for English/international releases.
 
 ## Snapshot
 
@@ -22,29 +21,27 @@ Last updated: 2026-10-18
 - `dist/manifest.json` — snapshot counts and schema version.
 
 Card front image binaries are not stored in this repository because the full
-set is over 3 GB. The database includes each card's source image URL, local image
-path, SHA-256, and byte size. Consumers can use `image_url` or cache the images
-locally using the recorded paths.
+set is over 3 GB. The database includes each card's local image path, SHA-256,
+and byte size. Image archives are distributed as release assets.
 
 ## Schema
 
 `sets`:
 
-- `id` — TCGCollector set ID (stable numeric identifier)
+- `id` — numeric set ID
 - `name`, `code`, `series`
 - `release_date`, `date_text`, `released`
 - `card_count`
-- `logo_url`, `symbol_url`, `logo_path`, `symbol_path`
-- `source_url`, `scraped_at`
+- `logo_path`, `symbol_path`
+- `scraped_at`
 
 `cards`:
 
-- `id` — TCGCollector card ID (stable numeric identifier)
+- `id` — numeric card ID
 - `set_id` — canonical set ID
 - `name`, `number`, `number_value`, `printed_total`, `rarity`
-- `image_url`, `image_thumb_url`
 - `image_path`, `image_sha256`, `image_bytes`
-- `source_url`, `scraped_at`
+- `scraped_at`
 
 `set_cards`:
 
@@ -59,9 +56,7 @@ Use `sets.id` and `cards.id` as the stable keys. Set codes are not unique, and
 collector numbers can collide within a set, so neither is safe as a primary key.
 The `(set_id, card_id)` pair identifies a set membership.
 
-## Attribution
+## Notes
 
-Pokemon card data, names, and images are the intellectual property of their
-respective owners. This repository is an unofficial data index and is not
-affiliated with or endorsed by TCGCollector, The Pokemon Company, Nintendo,
-Creatures, or Wizards of the Coast.
+Unofficial Pokemon TCG data index. Card names and artwork remain the property
+of their respective owners. No affiliation or endorsement is claimed.
