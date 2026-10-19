@@ -36,7 +36,8 @@ Last updated: 2026-10-19
 - `dist/cards.jsonl` — one unique card per line, including `set_ids`.
 - `dist/sets/<set_id>.json` — set metadata plus its ordered card list.
 - `dist/manifest.json` — snapshot counts and schema version.
-- `dist/scan-index.json` — pointer to the R2-hosted card-scan index.
+- `dist/scan-index.json` — pointer to the R2-hosted CardTable scan index.
+- `dist/scan-index-pocketvault.json` — pointer to the PocketVault scan index.
 - `data/sources/creatures-deck.json` — curated 30-card source list for set
   11651.
 - `scripts/add-creatures-deck.mjs` — imports that deck, uploads its fronts to
@@ -107,19 +108,21 @@ The `(set_id, card_id)` pair identifies a set membership.
 
 ## Scan index
 
-PKMNDB also owns the prebuilt card-scan index used by CardTable/PocketVault:
+PKMNDB owns the prebuilt card-scan indexes used by CardTable/PocketVault:
 
-- Manifest: `https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/scan/cardtable/index.json`
-- Shards: `https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/scan/cardtable/<setId>.bin`
-- Format 2 / scan version 4; 843 set shards, 57,428 packed descriptors.
-- `dist/scan-index.json` is the small pointer manifest committed in this repo.
+- **CardTable:** `https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/scan/cardtable/index.json`
+  — 843 shards, 57,428 packed descriptors, 784/784 audited sets.
+- **PocketVault:** `https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/scan/pocketvault/index.json`
+  — 876 shards, 62,433 packed descriptors, 800 sets / 56,394 app cards.
+- Shard pattern: `<base>/<setId>.bin`; format 2 / scan version 4.
+- `dist/scan-index.json` and `dist/scan-index-pocketvault.json` are the small
+  pointer manifests committed in this repo.
 
-The shards are derived from CardTable's app catalogue (stable app set/card ids)
-and PKMNDB card images. Rebuild the catalogue with
-`node scripts/build-scan-catalog.mjs`, then run the PocketVault/PKMNDB
-descriptor builder (`format` 2, `SCAN_VERSION` 4) and upload the resulting
-shards plus `index.json` to `scan/cardtable/`. The CardTable set-id mapping is
-in `data/scan/cardtable-set-map.json`.
+The CardTable index is derived from CardTable's app catalogue and PKMNDB card
+images; rebuild the catalogue with `node scripts/build-scan-catalog.mjs`. The
+PocketVault index is derived from PocketVault's `src/data/cards*.json` plus the
+Creatures Deck rows. Both use the shared descriptor builder (`format` 2,
+`SCAN_VERSION` 4) and are uploaded to their respective R2 prefixes.
 
 ## Notes
 
