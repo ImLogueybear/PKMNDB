@@ -7,12 +7,15 @@ Simplified Chinese releases.
 
 Last updated: 2026-10-23
 
-- 930 sets (926 released, 4 upcoming)
+- 930 source sets (926 released, 4 upcoming)
   - 333 English/international sets
   - 451 Japanese sets
   - 146 Simplified Chinese sets
-- 67,260 set-card memberships
+- 67,260 source set-card memberships
 - 62,807 unique cards (21,891 English, 27,961 Japanese, 12,955 Chinese)
+- `dist/canonical` app catalogue: **945 sets / 69,898 card memberships**
+  (348 English, 451 Japanese, 146 Chinese), including the 15 TCG Pocket
+  app-only sets (2,480 cards) and 158 PocketVault-only variants
 - Unnumbered Energies excluded from all catalogs; Topps Series excluded from
   the English catalog
 - French and German set releases excluded
@@ -69,6 +72,9 @@ Last updated: 2026-10-23
 - `dist/sets.json` — set catalog.
 - `dist/cards.jsonl` — one unique card per line, including `set_ids`.
 - `dist/sets/<set_id>.json` — set metadata plus its ordered card list.
+- `dist/canonical/` — app-facing canonical catalogue (see "Canonical IDs").
+  `sets.json`, `cards.jsonl`, `sets/<id>.json` (941 sets with cards), and
+  `manifest.json`.
 - `dist/manifest.json` — snapshot counts and schema version.
 - `dist/art_issues.json` — sets missing art, cards using the card back, and
   cards with no image URL.
@@ -139,36 +145,45 @@ A custom domain is recommended for production applications.
 
 ## Identifiers
 
-Use `sets.id` and `cards.id` as the stable keys. Set codes are not unique, and
-collector numbers can collide within a set, so neither is safe as a primary key.
-The `(set_id, card_id)` pair identifies a set membership.
+Use `sets.id` and `cards.id` as the stable database keys. Set codes are not
+unique, and collector numbers can collide within a set, so neither is safe as a
+primary key. The `(set_id, card_id)` pair identifies a set membership.
+
+`dist/canonical` exposes a separate app-facing ID model built from those
+memberships:
+
+- **English:** keyless PocketVault IDs where the set already existed there;
+  PKMNDB-only English sets use `pkmndb-<setId>`.
+- **Japanese:** every set and card uses `ja-pkmndb-<setId>`.
+- **Simplified Chinese:** every set and card uses `zh-pkmndb-<setId>`.
+- **TCG Pocket extras:** the 15 app-only sets keep their existing IDs
+  (`A1`-`A4a`, `B1`-`B2a`, `P-A`).
+- Card IDs are **per-set memberships**: `<canonicalSetId>-<cleanNumber>`, with
+  `-2`, `-3`, ... suffixes for duplicate numbers in the same set. This keeps
+  reprint and promo memberships (for example Play! Prize Pack) instead of
+  collapsing them into one physical card.
+- `miscp` is the only canonical set that merges two PKMNDB sets. All other
+  canonical sets map 1:1.
 
 ## Scan index
 
-PKMNDB owns the prebuilt card-scan indexes used by CardTable/PocketVault:
+PKMNDB owns the prebuilt card-scan index used by PocketVault and CardTable:
 
-- **CardTable:** `https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/scan/cardtable/index.json`
-  — 985 shards, 70,396 packed descriptors, including 142 Chinese shards.
-- **PocketVault:** `https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/scan/pocketvault/index.json`
-  — 942 shards, 69,290 packed descriptors, including 142 Chinese shards.
-- Shard pattern: `<base>/<setId>.bin`; format 2 / scan version 4.
-- `dist/scan-index.json` and `dist/scan-index-pocketvault.json` are the small
-  pointer manifests committed in this repo.
-- The Chinese catalogue adds 142 shards to each index. The 59 no-art cards in
-  `Happy Set: Trainer's Pokémon` (`111243`) are not indexed; the renumbered
-  Creatures Deck ids (`2000001`-`2000030`) are included in the CardTable shard
-  for `11651`.
-- The two apps still have their pre-existing English/Japanese catalogue
-  differences (CardTable includes legacy sets and PocketVault has its curated
-  set list); Chinese set ids and card ids are shared, so 139/142 Chinese shards
-  are byte-identical between the indexes. `11721` differs by 72 CardTable
-  memberships, and `11824`/`11945` differ only in record order.
-
-The CardTable index is derived from CardTable's app catalogue and PKMNDB card
-images; rebuild the catalogue with `node scripts/build-scan-catalog.mjs`. The
-PocketVault index is derived from PocketVault's `src/data/cards*.json` plus the
-Creatures Deck rows. Both use the shared descriptor builder (`format` 2,
-`SCAN_VERSION` 4) and are uploaded to their respective R2 prefixes.
+- **Canonical index:**
+  `https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/scan/canonical/index.json`
+  — 933 shards, 69,439 packed descriptors, format 2 / scan version 5.
+- Both apps consume this one index. `dist/scan-index.json` (CardTable) and
+  `dist/scan-index-pocketvault.json` (PocketVault) point at the same canonical
+  `base_url` / `manifest_url` and carry the same `sets`, `cards` and
+  `generated_at` values.
+- Shard pattern: `<base>/<setId>.bin`. The builder is
+  `PocketVaultTCG/scripts/build-scan-index.ts` with
+  `--catalog data/scan/canonical/canonical-catalog.json` and
+  `--image-root data/images/cards`.
+- The 459 canonical cards without an image URL are not indexed: 400 use the
+  generic card back and 59 Chinese cards in `111243` have no source art.
+- The legacy `scan/pocketvault/` and `scan/cardtable/` v4 indexes remain in R2
+  for already-released APKs; they are no longer written by this pipeline.
 
 ## Notes
 
