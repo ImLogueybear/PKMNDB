@@ -1,0 +1,275 @@
+{
+  "set": {
+    "id": 12144,
+    "language": "zh",
+    "name": "Gym Event Promo Pack Vol. 6",
+    "code": null,
+    "series": "Sword & Shield Series",
+    "release_date": "2024-09-20",
+    "date_text": "Sep 20, 2024",
+    "card_count": 12,
+    "released": true,
+    "logo_path": "images/sets/12144-logo.webp",
+    "symbol_path": null,
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/12144-logo.webp",
+    "symbol_url": null,
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/12144-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/12144-logo.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 12
+  },
+  "cards": [
+    {
+      "id": 62960,
+      "set_id": 12144,
+      "set_ids": [
+        11721,
+        12144
+      ],
+      "language": "zh",
+      "name": "Sunkern",
+      "number": "176/S-P",
+      "number_value": 176,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12144/176-S-P-62960.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12144/176-S-P-62960.webp",
+      "image_status": "front",
+      "image_sha256": "991e305a8efeb6b50b9c808555f1427cbed1d58ff58a92cdaae1b815cf46ee81",
+      "image_bytes": 20394,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 1
+    },
+    {
+      "id": 62956,
+      "set_id": 12144,
+      "set_ids": [
+        11721,
+        12144
+      ],
+      "language": "zh",
+      "name": "Golduck",
+      "number": "177/S-P",
+      "number_value": 177,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12144/177-S-P-62956.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12144/177-S-P-62956.webp",
+      "image_status": "front",
+      "image_sha256": "1e56005f2982f0ecf2048a66f90938861f18f02d9dae9c6d62126bacf39819fa",
+      "image_bytes": 37188,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 2
+    },
+    {
+      "id": 62961,
+      "set_id": 12144,
+      "set_ids": [
+        11721,
+        12144
+      ],
+      "language": "zh",
+      "name": "Kyogre V",
+      "number": "178/S-P",
+      "number_value": 178,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12144/178-S-P-62961.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12144/178-S-P-62961.webp",
+      "image_status": "front",
+      "image_sha256": "772f4d84231053e706773fea50e0297835d39e82f433fbab574613c0aa63bbfa",
+      "image_bytes": 43012,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 3
+    },
+    {
+      "id": 62975,
+      "set_id": 12144,
+      "set_ids": [
+        11721,
+        12144
+      ],
+      "language": "zh",
+      "name": "Hisuian Basculin",
+      "number": "179/S-P",
+      "number_value": 179,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12144/179-S-P-62975.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12144/179-S-P-62975.webp",
+      "image_status": "front",
+      "image_sha256": "f6c617e13b329fd52db1af55c853c84d65a973c23dc3d6ff4dba434eaa1e6796",
+      "image_bytes": 36606,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 4
+    },
+    {
+      "id": 62974,
+      "set_id": 12144,
+      "set_ids": [
+        11721,
+        12144
+      ],
+      "language": "zh",
+      "name": "Rotom V",
+      "number": "180/S-P",
+      "number_value": 180,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12144/180-S-P-62974.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12144/180-S-P-62974.webp",
+      "image_status": "front",
+      "image_sha256": "cd38992b8bbd0e49b49df96ff8ac73cea3bfa4d5197e1f94ff0d843063d4470d",
+      "image_bytes": 32418,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 5
+    },
+    {
+      "id": 62986,
+      "set_id": 12144,
+      "set_ids": [
+        11721,
+        12144
+      ],
+      "language": "zh",
+      "name": "Eelektrik",
+      "number": "181/S-P",
+      "number_value": 181,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12144/181-S-P-62986.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12144/181-S-P-62986.webp",
+      "image_status": "front",
+      "image_sha256": "dd410da0bbefc4192769d6851b1655e8c0ffca5d311134291a5e1e4ecab5c9cb",
+      "image_bytes": 25810,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 6
+    },
+    {
+      "id": 62987,
+      "set_id": 12144,
+      "set_ids": [
+        11721,
+        12144
+      ],
+      "language": "zh",
+      "name": "Enamorus",
+      "number": "182/S-P",
+      "number_value": 182,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12144/182-S-P-62987.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12144/182-S-P-62987.webp",
+      "image_status": "front",
+      "image_sha256": "c05041f92ba4279aacbedd65d0bdfba3e1473838bd9f7d6a1d27ca5271020aab",
+      "image_bytes": 31584,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 7
+    },
+    {
+      "id": 62991,
+      "set_id": 12144,
+      "set_ids": [
+        11721,
+        12144
+      ],
+      "language": "zh",
+      "name": "Landorus",
+      "number": "183/S-P",
+      "number_value": 183,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12144/183-S-P-62991.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12144/183-S-P-62991.webp",
+      "image_status": "front",
+      "image_sha256": "106ef64df11884dae6c7300e6797bf0d4759e7647c6c9f63518d5c2c6c850aac",
+      "image_bytes": 29110,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 8
+    },
+    {
+      "id": 62988,
+      "set_id": 12144,
+      "set_ids": [
+        11721,
+        12144
+      ],
+      "language": "zh",
+      "name": "Absol",
+      "number": "184/S-P",
+      "number_value": 184,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12144/184-S-P-62988.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12144/184-S-P-62988.webp",
+      "image_status": "front",
+      "image_sha256": "666593d05b2465653b943cde1106a47cb7aa2a0742d731dd0c38fc5e4e626cd6",
+      "image_bytes": 33542,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 9
+    },
+    {
+      "id": 62989,
+      "set_id": 12144,
+      "set_ids": [
+        11721,
+        12144
+      ],
+      "language": "zh",
+      "name": "Metang",
+      "number": "185/S-P",
+      "number_value": 185,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12144/185-S-P-62989.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12144/185-S-P-62989.webp",
+      "image_status": "front",
+      "image_sha256": "de86e10b08594d1532b9d2e510169ee43f5f72959381e8fbb77934e5e323cece",
+      "image_bytes": 33470,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 10
+    },
+    {
+      "id": 62981,
+      "set_id": 12144,
+      "set_ids": [
+        11721,
+        12144
+      ],
+      "language": "zh",
+      "name": "Aerodactyl",
+      "number": "186/S-P",
+      "number_value": 186,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12144/186-S-P-62981.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12144/186-S-P-62981.webp",
+      "image_status": "front",
+      "image_sha256": "0fdc0275f2058a6380a9d94f5f4fbb3bbd121184a78d5a74bc9becbbcc1c181c",
+      "image_bytes": 25898,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 11
+    },
+    {
+      "id": 62982,
+      "set_id": 12144,
+      "set_ids": [
+        11721,
+        12144
+      ],
+      "language": "zh",
+      "name": "Peaceful Park",
+      "number": "187/S-P",
+      "number_value": 187,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12144/187-S-P-62982.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12144/187-S-P-62982.webp",
+      "image_status": "front",
+      "image_sha256": "df16a709738411f4b6cb1b2038ab63419094c5526002960d36caf7036b3e6713",
+      "image_bytes": 23842,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 12
+    }
+  ]
+}

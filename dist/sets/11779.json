@@ -1,0 +1,483 @@
+{
+  "set": {
+    "id": 11779,
+    "language": "zh",
+    "name": "Happy Set: Lucario & Greninja & Zamazenta & Mabosstiff (Modification Pack)",
+    "code": "CSVH2aC",
+    "series": "Scarlet & Violet Series",
+    "release_date": "2025-05-16",
+    "date_text": "May 16, 2025",
+    "card_count": 23,
+    "released": true,
+    "logo_path": "images/sets/11779-logo.webp",
+    "symbol_path": "images/sets/11779-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11779-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11779-symbol.webp",
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11779-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11779-symbol.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 23
+  },
+  "cards": [
+    {
+      "id": 56327,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Kangaskhan ex",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/001-56327.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/001-56327.webp",
+      "image_status": "front",
+      "image_sha256": "be63e0cad35d34d157080fbc040a6936ed3464672472558142541737ba336504",
+      "image_bytes": 31654,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 1
+    },
+    {
+      "id": 56319,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Tauros",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/002-56319.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/002-56319.webp",
+      "image_status": "front",
+      "image_sha256": "2320cd6fe9d879d606c8bb667e949fa51c89292443bb9d8f08a0e2467071b33b",
+      "image_bytes": 26538,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 2
+    },
+    {
+      "id": 56337,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Spinda",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/003-56337.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/003-56337.webp",
+      "image_status": "front",
+      "image_sha256": "1bb981138fa1788d20d5efd5c9411bc49e744298698ecaf9d877c49ab6566b9a",
+      "image_bytes": 27000,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 3
+    },
+    {
+      "id": 56330,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Zangoose",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/004-56330.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/004-56330.webp",
+      "image_status": "front",
+      "image_sha256": "393577f7013077fc4ea951da8f740ab2305884dbc15554d458220cdd166e52ad",
+      "image_bytes": 26316,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 4
+    },
+    {
+      "id": 56341,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Bouffalant",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/005-56341.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/005-56341.webp",
+      "image_status": "front",
+      "image_sha256": "4e7acf8dbed209f61b02a94501f253914f0afd6ed114e0d698c786315c355784",
+      "image_bytes": 27548,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 5
+    },
+    {
+      "id": 56331,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Indeedee",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/006-56331.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/006-56331.webp",
+      "image_status": "front",
+      "image_sha256": "1c2e3057cfe09a7b17156341823d2154e3ab4fcca67416f1a4b4e5a0d1dc99e3",
+      "image_bytes": 30002,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 6
+    },
+    {
+      "id": 56317,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Wait and See Turbo",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/007-56317.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/007-56317.webp",
+      "image_status": "front",
+      "image_sha256": "1e4235a371125cf8330aac4917467dd28021cfb1175bafc42bedba74822dbc6d",
+      "image_bytes": 20320,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 7
+    },
+    {
+      "id": 56338,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Capturing Aroma",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/008-56338.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/008-56338.webp",
+      "image_status": "front",
+      "image_sha256": "ec6136b9f08e3b69493ee79b0cf9d302ee583056137b0d2ac2a29883953e025d",
+      "image_bytes": 17624,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 8
+    },
+    {
+      "id": 56332,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Crushing Hammer",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/009-56332.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/009-56332.webp",
+      "image_status": "front",
+      "image_sha256": "53517d60c9bf55c3d1a55fc405aed44423242fa9d2577ef0386538e4ee8d2fd2",
+      "image_bytes": 22256,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 9
+    },
+    {
+      "id": 56328,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Grabber",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/010-56328.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/010-56328.webp",
+      "image_status": "front",
+      "image_sha256": "6aa9463cdc93ec970d0eac26a8160db05938c52776029d51ef96aa8cc8f8b49d",
+      "image_bytes": 18664,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 10
+    },
+    {
+      "id": 56320,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Toy Catcher",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/011-56320.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/011-56320.webp",
+      "image_status": "front",
+      "image_sha256": "8869d4c0b75bc26113e66a5a2fdb706f157a6d004861f59eaf2a694ef582305c",
+      "image_bytes": 17704,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 11
+    },
+    {
+      "id": 56335,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Pal Pad",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/012-56335.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/012-56335.webp",
+      "image_status": "front",
+      "image_sha256": "37634e31ac3d8e8774daa981d3a0a5af862f4e2b816278ebba1d15a30bd73d50",
+      "image_bytes": 18918,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 12
+    },
+    {
+      "id": 56334,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Exp. Share",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/013-56334.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/013-56334.webp",
+      "image_status": "front",
+      "image_sha256": "d3ac40361ccf16f1a38570e6dd8b7eab6870641eb47f605221f713ccfc51e19a",
+      "image_bytes": 21450,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 13
+    },
+    {
+      "id": 56329,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Leftovers",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/014-56329.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/014-56329.webp",
+      "image_status": "front",
+      "image_sha256": "75f6b3665b60446891a7d4cbc0346f8922118478327e2ff9db5902a3f9ef3da8",
+      "image_bytes": 19220,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 14
+    },
+    {
+      "id": 56318,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Tool Jammer",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/015-56318.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/015-56318.webp",
+      "image_status": "front",
+      "image_sha256": "936588ce921cf4cad9c8b755de97330ba97b58a48ee839b0caf1cc1bd1e87aff",
+      "image_bytes": 25356,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 15
+    },
+    {
+      "id": 56333,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Defiance Band",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/016-56333.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/016-56333.webp",
+      "image_status": "front",
+      "image_sha256": "69659f0e5b81ace23775ebdf76b53a4faf26aadd0099be2ca0572ee496de1f2b",
+      "image_bytes": 23032,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 16
+    },
+    {
+      "id": 56324,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Vengeful Punch",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/017-56324.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/017-56324.webp",
+      "image_status": "front",
+      "image_sha256": "c4816dc291fc4398b3fbaf21ded6ff5af0cafa2f5f3e4b664a7ee86a3193f300",
+      "image_bytes": 20688,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 17
+    },
+    {
+      "id": 56322,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Riley",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/018-56322.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/018-56322.webp",
+      "image_status": "front",
+      "image_sha256": "8537527506917a9563eafe07b7741a7a162dfaf9a791e9fbb3a1628f88f8d818",
+      "image_bytes": 21704,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 18
+    },
+    {
+      "id": 56321,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Cook",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/019-56321.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/019-56321.webp",
+      "image_status": "front",
+      "image_sha256": "3f7e403dcd4e98737a98ab9fca013c4da6035f70d85972118354a2351fa8553b",
+      "image_bytes": 20264,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 19
+    },
+    {
+      "id": 56336,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Team Star Grunt",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/020-56336.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/020-56336.webp",
+      "image_status": "front",
+      "image_sha256": "885e53b3d74da76316b63b57cd3a3e3d5b0b6af0ae238cf039be843db6c0b117",
+      "image_bytes": 24050,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 20
+    },
+    {
+      "id": 56326,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Iono",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/021-56326.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/021-56326.webp",
+      "image_status": "front",
+      "image_sha256": "5f8f23dac9baab03839068c34585e5ebe580f186c1e5f19dadede7f9c54e08fe",
+      "image_bytes": 22928,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 21
+    },
+    {
+      "id": 56339,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Furisode Girl",
+      "number": "022",
+      "number_value": 22,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/022-56339.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/022-56339.webp",
+      "image_status": "front",
+      "image_sha256": "737e7614bd3ca8dca4b50ef78520c4aa58bd9b590b28d1f8953562231739942f",
+      "image_bytes": 22924,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 22
+    },
+    {
+      "id": 56325,
+      "set_id": 11779,
+      "set_ids": [
+        11779
+      ],
+      "language": "zh",
+      "name": "Boss's Orders",
+      "number": "023",
+      "number_value": 23,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11779/023-56325.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11779/023-56325.webp",
+      "image_status": "front",
+      "image_sha256": "d48b06e415ddd4c6226f37c2fc52172f6c85eb0262361116fc436bbe0d463824",
+      "image_bytes": 20684,
+      "scraped_at": "2026-10-23T04:23:24Z",
+      "position": 23
+    }
+  ]
+}

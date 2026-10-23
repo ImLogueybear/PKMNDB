@@ -1,0 +1,483 @@
+{
+  "set": {
+    "id": 11787,
+    "language": "zh",
+    "name": "Happy Set: Altaria & Latios & Infernape & Maushold (Modification Pack)",
+    "code": "CSVH3aC",
+    "series": "Scarlet & Violet Series",
+    "release_date": "2025-09-12",
+    "date_text": "Sep 12, 2025",
+    "card_count": 23,
+    "released": true,
+    "logo_path": "images/sets/11787-logo.webp",
+    "symbol_path": "images/sets/11787-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11787-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11787-symbol.webp",
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11787-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11787-symbol.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 23
+  },
+  "cards": [
+    {
+      "id": 55093,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Chansey",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/001-55093.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/001-55093.webp",
+      "image_status": "front",
+      "image_sha256": "bb16d108e245e3aaf9a9ba07dc713b1f0161854c584e59c3c67b7ad3149ee083",
+      "image_bytes": 26448,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 1
+    },
+    {
+      "id": 55084,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Dunsparce",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/002-55084.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/002-55084.webp",
+      "image_status": "front",
+      "image_sha256": "10201243a65e063fbd085db00dbc97c756095d37ef43e2cd64cb6997c3679e8d",
+      "image_bytes": 25916,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 2
+    },
+    {
+      "id": 55100,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Smeargle",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/003-55100.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/003-55100.webp",
+      "image_status": "front",
+      "image_sha256": "cd597a458bf6241ee513be05dcbc5524c87fb5b9477366415ca4ed36e8f84944",
+      "image_bytes": 27160,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 3
+    },
+    {
+      "id": 55082,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Lugia",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/004-55082.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/004-55082.webp",
+      "image_status": "front",
+      "image_sha256": "1d94ab0d2b1d58690d1ce60c955af6f4c0b5b5b2d7e1f6f2294144603992090b",
+      "image_bytes": 30470,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 4
+    },
+    {
+      "id": 55089,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Bombirdier ex",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/005-55089.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/005-55089.webp",
+      "image_status": "front",
+      "image_sha256": "b396aa269e0472ada44216481916c94b09d2c9601e218baa032782afffbf502f",
+      "image_bytes": 33026,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 5
+    },
+    {
+      "id": 55090,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Cyclizar",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/006-55090.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/006-55090.webp",
+      "image_status": "front",
+      "image_sha256": "6396dc2029bed33db78db12d67c8ccf5f42d0189b8dab8518b43621529287bf1",
+      "image_bytes": 24392,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 6
+    },
+    {
+      "id": 55078,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Switch Cart",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/007-55078.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/007-55078.webp",
+      "image_status": "front",
+      "image_sha256": "bcb2986ff778998dc0b94fad88cecaa2ff50038ce06e5c34bab30f26b41855d3",
+      "image_bytes": 18852,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 7
+    },
+    {
+      "id": 55094,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Energy Sticker",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/008-55094.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/008-55094.webp",
+      "image_status": "front",
+      "image_sha256": "04d0ac9f93237a80be74bc7d90664debf083eb9978dcbf6f2cf0106db09461a0",
+      "image_bytes": 18404,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 8
+    },
+    {
+      "id": 55097,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Energy Switch",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/009-55097.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/009-55097.webp",
+      "image_status": "front",
+      "image_sha256": "093490ac8d47ea932b8acf410b06814038e0d81bcffd977fee6e6c5d8f8f6566",
+      "image_bytes": 19118,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 9
+    },
+    {
+      "id": 55079,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Trekking Shoes",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/010-55079.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/010-55079.webp",
+      "image_status": "front",
+      "image_sha256": "99e96aaeef708cbbeaab3a9e434559a6549cbba2f4d1ac60ac19b09ea5ef89b3",
+      "image_bytes": 19862,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 10
+    },
+    {
+      "id": 55086,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Fighting Au Lait",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/011-55086.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/011-55086.webp",
+      "image_status": "front",
+      "image_sha256": "3340420b9520629de31e93b46f0a7b6f481be3ff8cf0cea87e3866dec6a5ccc9",
+      "image_bytes": 17616,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 11
+    },
+    {
+      "id": 55098,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Pokégear 3.0",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/012-55098.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/012-55098.webp",
+      "image_status": "front",
+      "image_sha256": "b1571a41ce3450212894f058de29304c61cc9cb8e7899da70bc26b5b7b4bcbcd",
+      "image_bytes": 20188,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 12
+    },
+    {
+      "id": 55099,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Rocky Helmet",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/013-55099.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/013-55099.webp",
+      "image_status": "front",
+      "image_sha256": "dd3b1559df1298569cac505758334f161394364c093cf2fd5cf223de361be762",
+      "image_bytes": 20210,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 13
+    },
+    {
+      "id": 55095,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Leftovers",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/014-55095.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/014-55095.webp",
+      "image_status": "front",
+      "image_sha256": "7bc3ae78ffde189a5b468220539b1b06624da3d9989f22737d96a925522a468d",
+      "image_bytes": 19226,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 14
+    },
+    {
+      "id": 55096,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Defiance Band",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/015-55096.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/015-55096.webp",
+      "image_status": "front",
+      "image_sha256": "7104b1fa0b651ec2fe6edc7ca6fe760ea9592c20ce8c30ea8bc9df160612971f",
+      "image_bytes": 23028,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 15
+    },
+    {
+      "id": 55083,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Vengeful Punch",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/016-55083.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/016-55083.webp",
+      "image_status": "front",
+      "image_sha256": "ae489ecab5c0748e502c56c5227a4c9e4849fcffd5e1c3260c108ce32b48febb",
+      "image_bytes": 20792,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 16
+    },
+    {
+      "id": 55088,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Technical Machine: Crisis Punch",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/017-55088.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/017-55088.webp",
+      "image_status": "front",
+      "image_sha256": "e16d8206a435aaf9d5a7ec8d456d2df91e5aaf21dd33500c39e902bc4bb54e6e",
+      "image_bytes": 27252,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 17
+    },
+    {
+      "id": 55091,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Larry",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/018-55091.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/018-55091.webp",
+      "image_status": "front",
+      "image_sha256": "8cf2ff0b0e89e3e811b7c77d399bcbc9c89ad413485f5e1c417499f50a15d150",
+      "image_bytes": 22130,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 18
+    },
+    {
+      "id": 55092,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Shauntal",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/019-55092.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/019-55092.webp",
+      "image_status": "front",
+      "image_sha256": "599c54f91569cb068d3e192808bcc126ab0786ecb2fbf7bef29984a410f4ddc3",
+      "image_bytes": 20224,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 19
+    },
+    {
+      "id": 55080,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Cynthia's Ambition",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/020-55080.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/020-55080.webp",
+      "image_status": "front",
+      "image_sha256": "2317675feea7878fb57d77a1e73834ec4eb778f3ccfb7a4782aedd92e40d0081",
+      "image_bytes": 18302,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 20
+    },
+    {
+      "id": 55087,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Iono",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/021-55087.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/021-55087.webp",
+      "image_status": "front",
+      "image_sha256": "4b12e39e4c4eee9cfa6ca5dd383896ae222cf894ca363c480a88d4c4a60374dc",
+      "image_bytes": 22984,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 21
+    },
+    {
+      "id": 55085,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Boss's Orders",
+      "number": "022",
+      "number_value": 22,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/022-55085.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/022-55085.webp",
+      "image_status": "front",
+      "image_sha256": "c25ff0a159b55d5940e8e34a3a2f142739a48bdb5385759fb1c52b3352d08296",
+      "image_bytes": 20802,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 22
+    },
+    {
+      "id": 55081,
+      "set_id": 11787,
+      "set_ids": [
+        11787
+      ],
+      "language": "zh",
+      "name": "Marnie's Pride",
+      "number": "023",
+      "number_value": 23,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11787/023-55081.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11787/023-55081.webp",
+      "image_status": "front",
+      "image_sha256": "23e827de78b7b815582d04d9b41371b09c855c7e408bd5e073a87937e8a83101",
+      "image_bytes": 19216,
+      "scraped_at": "2026-10-23T04:23:15Z",
+      "position": 23
+    }
+  ]
+}

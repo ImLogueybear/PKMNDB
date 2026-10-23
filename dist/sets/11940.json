@@ -1,0 +1,143 @@
+{
+  "set": {
+    "id": 11940,
+    "language": "zh",
+    "name": "Happy Set: Dragonite & Mewtwo & Camerupt & Sinistcha (Reward Pack)",
+    "code": "CSVH5pC",
+    "series": "Scarlet & Violet Series",
+    "release_date": "2026-07-16",
+    "date_text": "Jul 16, 2026",
+    "card_count": 6,
+    "released": true,
+    "logo_path": "images/sets/11940-logo.webp",
+    "symbol_path": "images/sets/11940-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11940-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11940-symbol.webp",
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11940-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11940-symbol.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 6
+  },
+  "cards": [
+    {
+      "id": 76435,
+      "set_id": 11940,
+      "set_ids": [
+        11940
+      ],
+      "language": "zh",
+      "name": "Arcanine ex",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 6,
+      "rarity": null,
+      "image_path": "images/cards/11940/001-76435.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11940/001-76435.webp",
+      "image_status": "front",
+      "image_sha256": "133b257be9637853526b40107616b880080c054ed4bd922db7ddcd9577df0279",
+      "image_bytes": 50566,
+      "scraped_at": "2026-10-23T04:22:47Z",
+      "position": 1
+    },
+    {
+      "id": 76432,
+      "set_id": 11940,
+      "set_ids": [
+        11940
+      ],
+      "language": "zh",
+      "name": "Slowking ex",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 6,
+      "rarity": null,
+      "image_path": "images/cards/11940/002-76432.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11940/002-76432.webp",
+      "image_status": "front",
+      "image_sha256": "8224e9643a37d0e01bffc63f78d25f3ab58aa7f6d4d19d3ae50c39de92cb7299",
+      "image_bytes": 44336,
+      "scraped_at": "2026-10-23T04:22:47Z",
+      "position": 2
+    },
+    {
+      "id": 76433,
+      "set_id": 11940,
+      "set_ids": [
+        11940
+      ],
+      "language": "zh",
+      "name": "Dedenne ex",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 6,
+      "rarity": null,
+      "image_path": "images/cards/11940/003-76433.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11940/003-76433.webp",
+      "image_status": "front",
+      "image_sha256": "cfbf54d50783c86c7dca021c857c82e915df313085d046ed96e082537fad380f",
+      "image_bytes": 46842,
+      "scraped_at": "2026-10-23T04:22:47Z",
+      "position": 3
+    },
+    {
+      "id": 76431,
+      "set_id": 11940,
+      "set_ids": [
+        11940
+      ],
+      "language": "zh",
+      "name": "Mimikyu ex",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 6,
+      "rarity": null,
+      "image_path": "images/cards/11940/004-76431.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11940/004-76431.webp",
+      "image_status": "front",
+      "image_sha256": "afd5134e3a6bab653d5c716ac01ef8e234ddf2163351b2f0a9e9b4f7fffef3a6",
+      "image_bytes": 38666,
+      "scraped_at": "2026-10-23T04:22:47Z",
+      "position": 4
+    },
+    {
+      "id": 76434,
+      "set_id": 11940,
+      "set_ids": [
+        11940
+      ],
+      "language": "zh",
+      "name": "Lucario ex",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 6,
+      "rarity": null,
+      "image_path": "images/cards/11940/005-76434.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11940/005-76434.webp",
+      "image_status": "front",
+      "image_sha256": "f6773effd52005d36abc70299c9fca9f0ef8c129d932700433999ee5592ddb1e",
+      "image_bytes": 40054,
+      "scraped_at": "2026-10-23T04:22:47Z",
+      "position": 5
+    },
+    {
+      "id": 76436,
+      "set_id": 11940,
+      "set_ids": [
+        11940
+      ],
+      "language": "zh",
+      "name": "Koraidon ex",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 6,
+      "rarity": null,
+      "image_path": "images/cards/11940/006-76436.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11940/006-76436.webp",
+      "image_status": "front",
+      "image_sha256": "765c343699813f83a19c0e0a012ef0ee6a3ec3a6a8f5213150bc50ee19d85449",
+      "image_bytes": 44016,
+      "scraped_at": "2026-10-23T04:22:47Z",
+      "position": 6
+    }
+  ]
+}

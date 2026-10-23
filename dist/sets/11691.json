@@ -1,0 +1,123 @@
+{
+  "set": {
+    "id": 11691,
+    "language": "zh",
+    "name": "Lillie's Support Box",
+    "code": "CSMLC",
+    "series": "Sun & Moon Series",
+    "release_date": "2022-11-11",
+    "date_text": "Nov 11, 2022",
+    "card_count": 5,
+    "released": true,
+    "logo_path": "images/sets/11691-logo.webp",
+    "symbol_path": "images/sets/11691-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11691-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11691-symbol.webp",
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11691-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11691-symbol.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 5
+  },
+  "cards": [
+    {
+      "id": 64236,
+      "set_id": 11691,
+      "set_ids": [
+        11691
+      ],
+      "language": "zh",
+      "name": "Cosmog",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 5,
+      "rarity": null,
+      "image_path": "images/cards/11691/001-64236.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11691/001-64236.webp",
+      "image_status": "front",
+      "image_sha256": "868ee234a527ba74c4aef7203b86525d94d9578813ece292919bb4c7a2d9411b",
+      "image_bytes": 43648,
+      "scraped_at": "2026-10-23T04:25:08Z",
+      "position": 1
+    },
+    {
+      "id": 64237,
+      "set_id": 11691,
+      "set_ids": [
+        11691
+      ],
+      "language": "zh",
+      "name": "Cosmoem",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 5,
+      "rarity": null,
+      "image_path": "images/cards/11691/002-64237.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11691/002-64237.webp",
+      "image_status": "front",
+      "image_sha256": "3abad29157fd8c8fd1ca95cfd365fbf8533ba2388ee3215da7ec87706e58cc1a",
+      "image_bytes": 46070,
+      "scraped_at": "2026-10-23T04:25:08Z",
+      "position": 2
+    },
+    {
+      "id": 64235,
+      "set_id": 11691,
+      "set_ids": [
+        11691
+      ],
+      "language": "zh",
+      "name": "Lunala-GX",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 5,
+      "rarity": null,
+      "image_path": "images/cards/11691/003-64235.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11691/003-64235.webp",
+      "image_status": "front",
+      "image_sha256": "ead485472d51834d130543a1ce1ff6c156a5227081744d5afe9d20416ce6f1a3",
+      "image_bytes": 45580,
+      "scraped_at": "2026-10-23T04:25:08Z",
+      "position": 3
+    },
+    {
+      "id": 64234,
+      "set_id": 11691,
+      "set_ids": [
+        11691
+      ],
+      "language": "zh",
+      "name": "Solgaleo-GX",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 5,
+      "rarity": null,
+      "image_path": "images/cards/11691/004-64234.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11691/004-64234.webp",
+      "image_status": "front",
+      "image_sha256": "8d05bedfb8564f99665ddc150a77f4de7b773cbbd34a7774ab19368624a60c67",
+      "image_bytes": 47666,
+      "scraped_at": "2026-10-23T04:25:08Z",
+      "position": 4
+    },
+    {
+      "id": 64238,
+      "set_id": 11691,
+      "set_ids": [
+        11691
+      ],
+      "language": "zh",
+      "name": "Lillie",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 5,
+      "rarity": null,
+      "image_path": "images/cards/11691/005-64238.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11691/005-64238.webp",
+      "image_status": "front",
+      "image_sha256": "c9d803662ee2226250b2c5f6bf9065f5d446303b8dca2a26946c4d961f804378",
+      "image_bytes": 37604,
+      "scraped_at": "2026-10-23T04:25:08Z",
+      "position": 5
+    }
+  ]
+}

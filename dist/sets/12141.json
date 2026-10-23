@@ -1,0 +1,275 @@
+{
+  "set": {
+    "id": 12141,
+    "language": "zh",
+    "name": "Gym Event Promo Pack Vol. 3",
+    "code": null,
+    "series": "Sword & Shield Series",
+    "release_date": "2023-11-17",
+    "date_text": "Nov 17, 2023",
+    "card_count": 12,
+    "released": true,
+    "logo_path": "images/sets/12141-logo.webp",
+    "symbol_path": null,
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/12141-logo.webp",
+    "symbol_url": null,
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/12141-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/12141-logo.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 12
+  },
+  "cards": [
+    {
+      "id": 62878,
+      "set_id": 12141,
+      "set_ids": [
+        11721,
+        12141
+      ],
+      "language": "zh",
+      "name": "Breloom V",
+      "number": "091/S-P",
+      "number_value": 91,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12141/091-S-P-62878.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12141/091-S-P-62878.webp",
+      "image_status": "front",
+      "image_sha256": "97eff38ce8044addf4589f2281a5204a979188e70bb48f33d202ff9002e33ea1",
+      "image_bytes": 26994,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 1
+    },
+    {
+      "id": 62875,
+      "set_id": 12141,
+      "set_ids": [
+        11721,
+        12141
+      ],
+      "language": "zh",
+      "name": "Cherubi",
+      "number": "092/S-P",
+      "number_value": 92,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12141/092-S-P-62875.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12141/092-S-P-62875.webp",
+      "image_status": "front",
+      "image_sha256": "330c9652037108e376510e020625365728b4c136bb62f19ea0bdc416fdf9f061",
+      "image_bytes": 18698,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 2
+    },
+    {
+      "id": 62892,
+      "set_id": 12141,
+      "set_ids": [
+        11721,
+        12141
+      ],
+      "language": "zh",
+      "name": "Leafeon",
+      "number": "093/S-P",
+      "number_value": 93,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12141/093-S-P-62892.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12141/093-S-P-62892.webp",
+      "image_status": "front",
+      "image_sha256": "3b49e4bced17765dbf29cd1ef1532ce4eb8de3efd5fc42b7524f6233845ea240",
+      "image_bytes": 21156,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 3
+    },
+    {
+      "id": 62882,
+      "set_id": 12141,
+      "set_ids": [
+        11721,
+        12141
+      ],
+      "language": "zh",
+      "name": "Dartrix",
+      "number": "094/S-P",
+      "number_value": 94,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12141/094-S-P-62882.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12141/094-S-P-62882.webp",
+      "image_status": "front",
+      "image_sha256": "07c5623270f00374149c208fe338ddb7a92a02bff30d89d7839763eb5e74cb11",
+      "image_bytes": 18798,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 4
+    },
+    {
+      "id": 62889,
+      "set_id": 12141,
+      "set_ids": [
+        11721,
+        12141
+      ],
+      "language": "zh",
+      "name": "Tepig",
+      "number": "095/S-P",
+      "number_value": 95,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12141/095-S-P-62889.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12141/095-S-P-62889.webp",
+      "image_status": "front",
+      "image_sha256": "cbd71696b28664151ba6d13f0b36fd22ef6b97fefc8e6165d5a65da72c6788c5",
+      "image_bytes": 20722,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 5
+    },
+    {
+      "id": 62876,
+      "set_id": 12141,
+      "set_ids": [
+        11721,
+        12141
+      ],
+      "language": "zh",
+      "name": "Galarian Mr. Mime",
+      "number": "096/S-P",
+      "number_value": 96,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12141/096-S-P-62876.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12141/096-S-P-62876.webp",
+      "image_status": "front",
+      "image_sha256": "0431269d89f052380882f0af1978c6b0fdea5865af1d3ad5ffe57db832f7dff9",
+      "image_bytes": 26308,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 6
+    },
+    {
+      "id": 62890,
+      "set_id": 12141,
+      "set_ids": [
+        11721,
+        12141
+      ],
+      "language": "zh",
+      "name": "Blitzle",
+      "number": "097/S-P",
+      "number_value": 97,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12141/097-S-P-62890.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12141/097-S-P-62890.webp",
+      "image_status": "front",
+      "image_sha256": "7fc3c54187c2ac54ac791c4260c67b74025e1715fa20f8c581a4c5c70a1483f8",
+      "image_bytes": 18552,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 7
+    },
+    {
+      "id": 62891,
+      "set_id": 12141,
+      "set_ids": [
+        11721,
+        12141
+      ],
+      "language": "zh",
+      "name": "Espeon",
+      "number": "098/S-P",
+      "number_value": 98,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12141/098-S-P-62891.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12141/098-S-P-62891.webp",
+      "image_status": "front",
+      "image_sha256": "751f64ab8cbb25a2bcbd4d093aa7846fc0b7711105fb8ac1654e555d258ab553",
+      "image_bytes": 26106,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 8
+    },
+    {
+      "id": 62877,
+      "set_id": 12141,
+      "set_ids": [
+        11721,
+        12141
+      ],
+      "language": "zh",
+      "name": "Koffing",
+      "number": "099/S-P",
+      "number_value": 99,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12141/099-S-P-62877.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12141/099-S-P-62877.webp",
+      "image_status": "front",
+      "image_sha256": "dfe1e69a59738d0f475206491c84e24d0f488660537302d09bfe552af365a213",
+      "image_bytes": 19938,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 9
+    },
+    {
+      "id": 62879,
+      "set_id": 12141,
+      "set_ids": [
+        11721,
+        12141
+      ],
+      "language": "zh",
+      "name": "Dodrio V",
+      "number": "100/S-P",
+      "number_value": 100,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12141/100-S-P-62879.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12141/100-S-P-62879.webp",
+      "image_status": "front",
+      "image_sha256": "84850b5d1ecb8121a55658e9bd5320ffc813daaa907d9676a4c3297d92df620c",
+      "image_bytes": 29798,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 10
+    },
+    {
+      "id": 62910,
+      "set_id": 12141,
+      "set_ids": [
+        11721,
+        12141
+      ],
+      "language": "zh",
+      "name": "Eevee",
+      "number": "101/S-P",
+      "number_value": 101,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12141/101-S-P-62910.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12141/101-S-P-62910.webp",
+      "image_status": "front",
+      "image_sha256": "f6d5f017bba3d28e11ad9d03294af7a16b2ab8620047e91f8fbcae1aa030c3e1",
+      "image_bytes": 17604,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 11
+    },
+    {
+      "id": 62894,
+      "set_id": 12141,
+      "set_ids": [
+        11721,
+        12141
+      ],
+      "language": "zh",
+      "name": "Spicy Seasoned Curry",
+      "number": "102/S-P",
+      "number_value": 102,
+      "printed_total": null,
+      "rarity": "Promo",
+      "image_path": "images/cards/12141/102-S-P-62894.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/12141/102-S-P-62894.webp",
+      "image_status": "front",
+      "image_sha256": "576d469090c62ca90efc292850f4dd58d39f9e8396922b960761d7779a42eb49",
+      "image_bytes": 18760,
+      "scraped_at": "2026-10-23T04:24:36Z",
+      "position": 12
+    }
+  ]
+}

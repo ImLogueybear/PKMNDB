@@ -1,23 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-19T12:48:24Z",
+  "generated_at": "2026-10-23T05:08:40Z",
   "languages": [
     "en",
-    "ja"
+    "ja",
+    "zh"
   ],
   "image_base_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev",
   "counts": {
-    "sets": 784,
-    "released_sets": 783,
-    "cards": 49852,
+    "sets": 930,
+    "released_sets": 926,
+    "sets_zh": 146,
+    "cards": 62807,
     "cards_en": 21891,
     "cards_ja": 27961,
-    "set_card_memberships": 54233,
-    "cards_with_images": 49852
+    "cards_zh": 12955,
+    "set_card_memberships": 67260,
+    "cards_with_images": 62748,
+    "cards_with_fronts": 62348,
+    "cards_with_card_backs": 400,
+    "cards_missing_images": 59
   },
   "files": {
     "sets": "sets.json",
     "cards": "cards.jsonl",
-    "per_set": "sets/{set_id}.json"
+    "per_set": "sets/{set_id}.json",
+    "art_issues": "art_issues.json"
   }
 }

@@ -1,0 +1,183 @@
+{
+  "set": {
+    "id": 11693,
+    "language": "zh",
+    "name": "Eevee-GX Box Set",
+    "code": "CSMYC",
+    "series": "Sun & Moon Series",
+    "release_date": "2023-01-06",
+    "date_text": "Jan 06, 2023",
+    "card_count": 8,
+    "released": true,
+    "logo_path": "images/sets/11693-logo.webp",
+    "symbol_path": "images/sets/11693-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11693-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11693-symbol.webp",
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11693-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11693-symbol.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 8
+  },
+  "cards": [
+    {
+      "id": 64232,
+      "set_id": 11693,
+      "set_ids": [
+        11693
+      ],
+      "language": "zh",
+      "name": "Leafeon-GX",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 8,
+      "rarity": null,
+      "image_path": "images/cards/11693/001-64232.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11693/001-64232.webp",
+      "image_status": "front",
+      "image_sha256": "b4d462f1cabcb6dd4af0ae9121e05672165f6c9b1a65a788dd7a816e9a4cbf30",
+      "image_bytes": 29692,
+      "scraped_at": "2026-10-23T04:25:06Z",
+      "position": 1
+    },
+    {
+      "id": 64233,
+      "set_id": 11693,
+      "set_ids": [
+        11693
+      ],
+      "language": "zh",
+      "name": "Glaceon-GX",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 8,
+      "rarity": null,
+      "image_path": "images/cards/11693/002-64233.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11693/002-64233.webp",
+      "image_status": "front",
+      "image_sha256": "afb6f4868e07b9010dab317af2ac3e087e805ac33f9c4b591350f012f1ef3788",
+      "image_bytes": 28940,
+      "scraped_at": "2026-10-23T04:25:06Z",
+      "position": 2
+    },
+    {
+      "id": 64230,
+      "set_id": 11693,
+      "set_ids": [
+        11693
+      ],
+      "language": "zh",
+      "name": "Espeon-GX",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 8,
+      "rarity": null,
+      "image_path": "images/cards/11693/003-64230.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11693/003-64230.webp",
+      "image_status": "front",
+      "image_sha256": "e87640281db5751237e25dbcb8360dc84a08f88f0af970667604fa5c28c08d91",
+      "image_bytes": 27458,
+      "scraped_at": "2026-10-23T04:25:06Z",
+      "position": 3
+    },
+    {
+      "id": 64231,
+      "set_id": 11693,
+      "set_ids": [
+        11693
+      ],
+      "language": "zh",
+      "name": "Umbreon-GX",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 8,
+      "rarity": null,
+      "image_path": "images/cards/11693/004-64231.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11693/004-64231.webp",
+      "image_status": "front",
+      "image_sha256": "7433be89bca5a0f1dd6d0903706ae7566fc4d4a71ce0e78f722c8e60e4542e73",
+      "image_bytes": 26944,
+      "scraped_at": "2026-10-23T04:25:06Z",
+      "position": 4
+    },
+    {
+      "id": 64226,
+      "set_id": 11693,
+      "set_ids": [
+        11693
+      ],
+      "language": "zh",
+      "name": "Sylveon-GX",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 8,
+      "rarity": null,
+      "image_path": "images/cards/11693/005-64226.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11693/005-64226.webp",
+      "image_status": "front",
+      "image_sha256": "8c3539cc3f66b6ca1141f37878699230f1606b31ab031bebea5b4cf7afeb1ff6",
+      "image_bytes": 30552,
+      "scraped_at": "2026-10-23T04:25:06Z",
+      "position": 5
+    },
+    {
+      "id": 64227,
+      "set_id": 11693,
+      "set_ids": [
+        11693
+      ],
+      "language": "zh",
+      "name": "Eevee-GX",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 8,
+      "rarity": null,
+      "image_path": "images/cards/11693/006-64227.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11693/006-64227.webp",
+      "image_status": "front",
+      "image_sha256": "b13fe5e09c5bcfbc4a566ac54ddd829de7265056f8c9af3513e2dd60ef49d3e6",
+      "image_bytes": 35746,
+      "scraped_at": "2026-10-23T04:25:06Z",
+      "position": 6
+    },
+    {
+      "id": 64228,
+      "set_id": 11693,
+      "set_ids": [
+        11693
+      ],
+      "language": "zh",
+      "name": "Eevee-GX",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 8,
+      "rarity": null,
+      "image_path": "images/cards/11693/007-64228.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11693/007-64228.webp",
+      "image_status": "front",
+      "image_sha256": "f43740d936a87897040fffcdc003ebbd8041ef9b0d876a03627a1184f05050f4",
+      "image_bytes": 34946,
+      "scraped_at": "2026-10-23T04:25:06Z",
+      "position": 7
+    },
+    {
+      "id": 64229,
+      "set_id": 11693,
+      "set_ids": [
+        11693
+      ],
+      "language": "zh",
+      "name": "Eevee-GX",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 8,
+      "rarity": null,
+      "image_path": "images/cards/11693/008-64229.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11693/008-64229.webp",
+      "image_status": "front",
+      "image_sha256": "8bf15e56f979e960941c55fcd8e5db5f376aeaeee7e09c1cb7679eccad9a2d9d",
+      "image_bytes": 29306,
+      "scraped_at": "2026-10-23T04:25:06Z",
+      "position": 8
+    }
+  ]
+}

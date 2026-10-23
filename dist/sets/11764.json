@@ -1,0 +1,423 @@
+{
+  "set": {
+    "id": 11764,
+    "language": "zh",
+    "name": "Giratina VSTAR Advanced Deck Building Gift Box",
+    "code": "CSXC",
+    "series": "Sword & Shield Series",
+    "release_date": "2024-12-21",
+    "date_text": "Dec 21, 2024",
+    "card_count": 20,
+    "released": true,
+    "logo_path": "images/sets/11764-logo.webp",
+    "symbol_path": "images/sets/11764-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11764-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11764-symbol.webp",
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11764-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11764-symbol.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 20
+  },
+  "cards": [
+    {
+      "id": 57870,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Cramorant",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/001-57870.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/001-57870.webp",
+      "image_status": "front",
+      "image_sha256": "b0d69d9e7429f67f5e326b8d04849f53b89761166f2aca3772f169129b7079db",
+      "image_bytes": 34818,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 1
+    },
+    {
+      "id": 57871,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Sableye",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/002-57871.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/002-57871.webp",
+      "image_status": "front",
+      "image_sha256": "4d7394bc5845c7273373d49b6a540042a633f47e9590685a2ffb5d3fd1b6a923",
+      "image_bytes": 31308,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 2
+    },
+    {
+      "id": 57876,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Comfey",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/003-57876.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/003-57876.webp",
+      "image_status": "front",
+      "image_sha256": "327f22dc01f0ac750509d18d8224c7df110fa3e437415bb08b519c672927353e",
+      "image_bytes": 29708,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 3
+    },
+    {
+      "id": 57877,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Giratina V",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/004-57877.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/004-57877.webp",
+      "image_status": "front",
+      "image_sha256": "90d5bb0079e4d87055bf3e4edff8bbaca1b119ed8699c17a388f0d1478543e97",
+      "image_bytes": 39110,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 4
+    },
+    {
+      "id": 57861,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Escape Rope",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/005-57861.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/005-57861.webp",
+      "image_status": "front",
+      "image_sha256": "fadbd4f6aec3117835871b1e8dda670cbb79eb151d9e4f1c6d71935676c53edc",
+      "image_bytes": 21964,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 5
+    },
+    {
+      "id": 57859,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Switch Cart",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/006-57859.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/006-57859.webp",
+      "image_status": "front",
+      "image_sha256": "543679ec4909883f125cb70332d2554db6b5aea000942cf1f4405d90acea336c",
+      "image_bytes": 19074,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 6
+    },
+    {
+      "id": 57860,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Energy Recycler",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/007-57860.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/007-57860.webp",
+      "image_status": "front",
+      "image_sha256": "d522d277ae4794feffae89bdfbd03d0abe7e2429e0eb40360fbb21f8e22eb3e2",
+      "image_bytes": 17782,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 7
+    },
+    {
+      "id": 57866,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Ultra Ball",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/008-57866.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/008-57866.webp",
+      "image_status": "front",
+      "image_sha256": "8fef2f10a363c1f82efcb1cd8316a3dd5d30d1da8e6ff129ffe910662ce3186d",
+      "image_bytes": 19054,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 8
+    },
+    {
+      "id": 57868,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Battle VIP Pass",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/009-57868.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/009-57868.webp",
+      "image_status": "front",
+      "image_sha256": "b51df58f9637bee361fa98b373afc19d065dbcd5f320f421513a36fcf2f42a49",
+      "image_bytes": 18018,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 9
+    },
+    {
+      "id": 57858,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Hisuian Heavy Ball",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/010-57858.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/010-57858.webp",
+      "image_status": "front",
+      "image_sha256": "562a2bb26cec3049d2fae151126e87ea258e4d0658ce6d19318edbb59ef989ca",
+      "image_bytes": 23044,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 10
+    },
+    {
+      "id": 57875,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Mirage Gate",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/011-57875.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/011-57875.webp",
+      "image_status": "front",
+      "image_sha256": "4dbe296e97efeaebecc8debf51db8cb0708fc644aa9b9ea049db43a2ca5eb001",
+      "image_bytes": 21102,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 11
+    },
+    {
+      "id": 57862,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Level Ball",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/012-57862.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/012-57862.webp",
+      "image_status": "front",
+      "image_sha256": "734e7ed6fcda14f3ea532956603155b04c82c6f39e1ff5c99fde18564028b174",
+      "image_bytes": 14740,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 12
+    },
+    {
+      "id": 57874,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Lost Vacuum",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/013-57874.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/013-57874.webp",
+      "image_status": "front",
+      "image_sha256": "a4602facae6ae655696df4d668c31c5360ee8b6e9588b4981d45c776241e9be4",
+      "image_bytes": 22784,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 13
+    },
+    {
+      "id": 57864,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Choice Belt",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/014-57864.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/014-57864.webp",
+      "image_status": "front",
+      "image_sha256": "a6ffb1e7c8d9547443ea8171e8078371193bd055542aad6979bd33c1ff08bc49",
+      "image_bytes": 22744,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 14
+    },
+    {
+      "id": 57872,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Colress's Experiment",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/015-57872.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/015-57872.webp",
+      "image_status": "front",
+      "image_sha256": "fbd1dc2ccb04113c6f1ccb5be68075f3a12dd7a5b1785e79b1fb13162f24ed80",
+      "image_bytes": 24676,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 15
+    },
+    {
+      "id": 57867,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Raihan",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/016-57867.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/016-57867.webp",
+      "image_status": "front",
+      "image_sha256": "9d1bba9d3f945c3289143a1e91e89ba78a089d97f52d863a9195d16157619ec7",
+      "image_bytes": 25038,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 16
+    },
+    {
+      "id": 57869,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Judge",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/017-57869.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/017-57869.webp",
+      "image_status": "front",
+      "image_sha256": "e5b50e8418f3d394095110f6b123cf81ddc4edec8154d2937e8056fa77bb6fea",
+      "image_bytes": 20742,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 17
+    },
+    {
+      "id": 57865,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Professor's Research",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/018-57865.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/018-57865.webp",
+      "image_status": "front",
+      "image_sha256": "dd2f6f27ea8d307226bd20b4cfc2d4e428d04a0dce79506a26a961286d41463e",
+      "image_bytes": 19860,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 18
+    },
+    {
+      "id": 57863,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Boss's Orders",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/019-57863.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/019-57863.webp",
+      "image_status": "front",
+      "image_sha256": "6705eb0f789a820bc35533f5f77a37154f7afaa3a80ecaa0de93172333626c37",
+      "image_bytes": 21998,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 19
+    },
+    {
+      "id": 57873,
+      "set_id": 11764,
+      "set_ids": [
+        11764
+      ],
+      "language": "zh",
+      "name": "Lost City",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 20,
+      "rarity": null,
+      "image_path": "images/cards/11764/020-57873.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11764/020-57873.webp",
+      "image_status": "front",
+      "image_sha256": "86a21c9ba2289bf95ca76cf06117b01986b89060f5f25767228666613f986110",
+      "image_bytes": 25642,
+      "scraped_at": "2026-10-23T04:23:38Z",
+      "position": 20
+    }
+  ]
+}

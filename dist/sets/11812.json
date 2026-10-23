@@ -1,0 +1,5343 @@
+{
+  "set": {
+    "id": 11812,
+    "language": "zh",
+    "name": "Stellar Crystal",
+    "code": "CSV9C",
+    "series": "Scarlet & Violet Series",
+    "release_date": "2026-05-15",
+    "date_text": "May 15, 2026",
+    "card_count": 266,
+    "released": true,
+    "logo_path": "images/sets/11812-logo.webp",
+    "symbol_path": "images/sets/11812-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11812-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11812-symbol.webp",
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11812-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11812-symbol.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 266
+  },
+  "cards": [
+    {
+      "id": 66265,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Exeggcute",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/001-66265.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/001-66265.webp",
+      "image_status": "front",
+      "image_sha256": "b8e44784968d8e0e5a4ee64dda5ee882f35d346337f47ce6b5e6e68bae411ac5",
+      "image_bytes": 30032,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 1
+    },
+    {
+      "id": 66203,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Lileep",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/002-66203.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/002-66203.webp",
+      "image_status": "front",
+      "image_sha256": "57b638074ed6f0ef9a34b0df9f7a68351f5175be232722518b75902b2fb53e30",
+      "image_bytes": 22412,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 2
+    },
+    {
+      "id": 66204,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Cradily",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/003-66204.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/003-66204.webp",
+      "image_status": "front",
+      "image_sha256": "9cea9bf7093353695e32c2097ee4a7790fb0a6c4f1309e5480a9f663135ecd09",
+      "image_bytes": 28916,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 3
+    },
+    {
+      "id": 66205,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Carnivine",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/004-66205.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/004-66205.webp",
+      "image_status": "front",
+      "image_sha256": "1c0be68dc498dcee5d3f541df9efe9ae42334f28ed5ac2a2eab0731947d41f0c",
+      "image_bytes": 27146,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 4
+    },
+    {
+      "id": 66206,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Mow Rotom",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/005-66206.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/005-66206.webp",
+      "image_status": "front",
+      "image_sha256": "eb8267986fe52d5df967fe32dd49e9d833b1ac69c7aefb816884277e80bf78af",
+      "image_bytes": 25926,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 5
+    },
+    {
+      "id": 66266,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Durant ex",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/006-66266.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/006-66266.webp",
+      "image_status": "front",
+      "image_sha256": "262cd5d22b696474698354df5653dcedbbea935e4f9f6aee530ec8d0af1772ed",
+      "image_bytes": 38346,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 6
+    },
+    {
+      "id": 66207,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Grubbin",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/007-66207.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/007-66207.webp",
+      "image_status": "front",
+      "image_sha256": "fc7d4ad5190a08507b6e4a40ab13aae60bd8d4697614dd1b9681b1378a5ac936",
+      "image_bytes": 25710,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 7
+    },
+    {
+      "id": 66267,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Dhelmise",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/008-66267.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/008-66267.webp",
+      "image_status": "front",
+      "image_sha256": "17f5b5a37d5c0147866511bf1dee1f867d8ffd447105c0462ad517628a706851",
+      "image_bytes": 34460,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 8
+    },
+    {
+      "id": 66208,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Gossifleur",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/009-66208.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/009-66208.webp",
+      "image_status": "front",
+      "image_sha256": "9c4e180b4bdac36ef42aa5487e4bb15c43a85ece3ab02458b4197c5cb2a52eff",
+      "image_bytes": 27482,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 9
+    },
+    {
+      "id": 66209,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Eldegoss",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/010-66209.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/010-66209.webp",
+      "image_status": "front",
+      "image_sha256": "e02f2be7d46fa5750cd3952a2a214cc1280ad83c4f8db9c78b6ddb24c8eff8aa",
+      "image_bytes": 28920,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 10
+    },
+    {
+      "id": 66210,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Applin",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/011-66210.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/011-66210.webp",
+      "image_status": "front",
+      "image_sha256": "8b5d3e7a4d95e3b1a2cc1423e3489787f205b0e4f3d3fefb8b841e72ce53ef34",
+      "image_bytes": 24088,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 11
+    },
+    {
+      "id": 66211,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Dipplin",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/012-66211.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/012-66211.webp",
+      "image_status": "front",
+      "image_sha256": "d8e6685224417a5fe12b05947466741404e8f305600c67727dd37f15c287c3d1",
+      "image_bytes": 30220,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 12
+    },
+    {
+      "id": 66212,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Hydrapple ex",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/013-66212.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/013-66212.webp",
+      "image_status": "front",
+      "image_sha256": "96c24f2ff0cfe6307d9b479c974133eee05e95cbed0a81c9ee9a08a62fea6e02",
+      "image_bytes": 41518,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 13
+    },
+    {
+      "id": 66268,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Zarude",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/014-66268.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/014-66268.webp",
+      "image_status": "front",
+      "image_sha256": "40ea855a122f620ee317ca7a97aefed2b9dba9a1ac9b4fac2ee820e7bb2d70b2",
+      "image_bytes": 32010,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 14
+    },
+    {
+      "id": 66269,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Capsakid",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/015-66269.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/015-66269.webp",
+      "image_status": "front",
+      "image_sha256": "8e71dcce35cd521bc6d754e575dfa24af48221b3c8ec82dc85861bd4b04a8886",
+      "image_bytes": 24310,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 15
+    },
+    {
+      "id": 66270,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Rellor",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/016-66270.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/016-66270.webp",
+      "image_status": "front",
+      "image_sha256": "e6f8947ed070f6c682d10833caf1c29c4c14a31d471fa927262da13f52087d55",
+      "image_bytes": 20674,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 16
+    },
+    {
+      "id": 66271,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Rabsca",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/017-66271.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/017-66271.webp",
+      "image_status": "front",
+      "image_sha256": "916272704034a3ccb987b8be6f4ee80bd5058761f86097f0b58398ba99bb50b0",
+      "image_bytes": 32206,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 17
+    },
+    {
+      "id": 66272,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Wo-Chien",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/018-66272.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/018-66272.webp",
+      "image_status": "front",
+      "image_sha256": "abe2128e1b24e997bc16b8f35cf59a20a69bb510be9875c1313df85d81598940",
+      "image_bytes": 31132,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 18
+    },
+    {
+      "id": 66394,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Poltchageist",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/019-66394.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/019-66394.webp",
+      "image_status": "front",
+      "image_sha256": "986204e4d8602ad5689cbdc89dd6e60a1a8721b3c130a32f0a044256fc39a9d2",
+      "image_bytes": 24358,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 19
+    },
+    {
+      "id": 66395,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Sinistcha ex",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/020-66395.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/020-66395.webp",
+      "image_status": "front",
+      "image_sha256": "22285f52f8fdb20da33fb93f459f55b87e562e8f22f226a926bca3cdd7d600ed",
+      "image_bytes": 41224,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 20
+    },
+    {
+      "id": 66273,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Ho-Oh",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/021-66273.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/021-66273.webp",
+      "image_status": "front",
+      "image_sha256": "26514b5328e07f6786cd33a244298a99dc41c6a3c9cdc648b057437175299054",
+      "image_bytes": 24008,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 21
+    },
+    {
+      "id": 66274,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Castform Sunny Form",
+      "number": "022",
+      "number_value": 22,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/022-66274.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/022-66274.webp",
+      "image_status": "front",
+      "image_sha256": "468ad1d4e81ccbeedba67f7b7cece5e0a73845f5d24d6b76936dd8a77d19743a",
+      "image_bytes": 29824,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 22
+    },
+    {
+      "id": 66275,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Victini",
+      "number": "023",
+      "number_value": 23,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/023-66275.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/023-66275.webp",
+      "image_status": "front",
+      "image_sha256": "21724ed63e4d2fd6895692ae7f2b2fc28e2f0680edf6207329edba010c0fff2e",
+      "image_bytes": 30650,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 23
+    },
+    {
+      "id": 66213,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Salandit",
+      "number": "024",
+      "number_value": 24,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/024-66213.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/024-66213.webp",
+      "image_status": "front",
+      "image_sha256": "484a04b47f10a1551199266b245185f43ee972be5b7862d099494fe2a63bce98",
+      "image_bytes": 24590,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 24
+    },
+    {
+      "id": 66214,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Salazzle",
+      "number": "025",
+      "number_value": 25,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/025-66214.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/025-66214.webp",
+      "image_status": "front",
+      "image_sha256": "e87beb406f4e83942f1ab1b2a8952d996a6841a89a84c5fd3ba98779f417f8e5",
+      "image_bytes": 31624,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 25
+    },
+    {
+      "id": 66215,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Turtonator",
+      "number": "026",
+      "number_value": 26,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/026-66215.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/026-66215.webp",
+      "image_status": "front",
+      "image_sha256": "3118b6fc148ad9a33a4fe109e675717b896d138bb05e8d2f8bd43f342f6bee97",
+      "image_bytes": 35492,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 26
+    },
+    {
+      "id": 66216,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Scorbunny",
+      "number": "027",
+      "number_value": 27,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/027-66216.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/027-66216.webp",
+      "image_status": "front",
+      "image_sha256": "375c3a31ed956797d454d107e1d92c3af46934bc8f20e3367912335fe58aade6",
+      "image_bytes": 28418,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 27
+    },
+    {
+      "id": 66217,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Raboot",
+      "number": "028",
+      "number_value": 28,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/028-66217.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/028-66217.webp",
+      "image_status": "front",
+      "image_sha256": "e9fed2447bfea77247f428c028cf7684566088839ade49180133342230cbd8c1",
+      "image_bytes": 28792,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 28
+    },
+    {
+      "id": 66218,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Cinderace ex",
+      "number": "029",
+      "number_value": 29,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/029-66218.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/029-66218.webp",
+      "image_status": "front",
+      "image_sha256": "e24b355e5a4163740311912e49cec41f4966562602d0f8d0b98554f14dd40cf8",
+      "image_bytes": 45630,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 29
+    },
+    {
+      "id": 66276,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Fuecoco",
+      "number": "030",
+      "number_value": 30,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/030-66276.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/030-66276.webp",
+      "image_status": "front",
+      "image_sha256": "1a524397887ade61d0fa2ca24d9674831e1d1b00103c68765ec8d087319d3695",
+      "image_bytes": 26878,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 30
+    },
+    {
+      "id": 66277,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Crocalor",
+      "number": "031",
+      "number_value": 31,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/031-66277.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/031-66277.webp",
+      "image_status": "front",
+      "image_sha256": "7e953b11a115392bfbe37cd865f7296c66a92811fa33916b3deaac7df7167d9c",
+      "image_bytes": 29922,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 31
+    },
+    {
+      "id": 66278,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Skeledirge",
+      "number": "032",
+      "number_value": 32,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/032-66278.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/032-66278.webp",
+      "image_status": "front",
+      "image_sha256": "4f41b5ea10648cd0e4b9edddfbfa0258ade8edd52a27236308d287d4df8f50a2",
+      "image_bytes": 33214,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 32
+    },
+    {
+      "id": 66279,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Charcadet",
+      "number": "033",
+      "number_value": 33,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/033-66279.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/033-66279.webp",
+      "image_status": "front",
+      "image_sha256": "65bac292e8cdf96bb8bb28638ea10ee1197bb0f121100159f8fd3891284d3702",
+      "image_bytes": 26448,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 33
+    },
+    {
+      "id": 66280,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Ceruledge ex",
+      "number": "034",
+      "number_value": 34,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/034-66280.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/034-66280.webp",
+      "image_status": "front",
+      "image_sha256": "03cf85f52d48b958b827b8d8e555379dc4ccc776297c505c14b9de28cf19120b",
+      "image_bytes": 47306,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 34
+    },
+    {
+      "id": 66281,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Scovillain ex",
+      "number": "035",
+      "number_value": 35,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/035-66281.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/035-66281.webp",
+      "image_status": "front",
+      "image_sha256": "d0477d00bae7ec1f86f5d19ec29f38859332a9e8993a3c9bf744920ceb68703b",
+      "image_bytes": 38224,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 35
+    },
+    {
+      "id": 66282,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Gouging Fire",
+      "number": "036",
+      "number_value": 36,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/036-66282.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/036-66282.webp",
+      "image_status": "front",
+      "image_sha256": "7d296658679cb96b66aa1626a0778cc55f8d7934f91c380f8d1c458a882ab7f5",
+      "image_bytes": 38878,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 36
+    },
+    {
+      "id": 66219,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Lapras ex",
+      "number": "037",
+      "number_value": 37,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/037-66219.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/037-66219.webp",
+      "image_status": "front",
+      "image_sha256": "39660d5db6ce3d5c19048d6b40770307cf37a1e8b8e56696656eae0cda07fdde",
+      "image_bytes": 47646,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 37
+    },
+    {
+      "id": 66396,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Feebas",
+      "number": "038",
+      "number_value": 38,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/038-66396.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/038-66396.webp",
+      "image_status": "front",
+      "image_sha256": "391c1d1e261642ddd67d350c1d09e0500cffbc140e05ab378fd1960b6fea0973",
+      "image_bytes": 28668,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 38
+    },
+    {
+      "id": 66397,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Milotic",
+      "number": "039",
+      "number_value": 39,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/039-66397.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/039-66397.webp",
+      "image_status": "front",
+      "image_sha256": "42d80ac794e27ea4d8f061712c0ebb76f02cd16614bb4fb2a05390634564abb0",
+      "image_bytes": 31430,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 39
+    },
+    {
+      "id": 66283,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Spheal",
+      "number": "040",
+      "number_value": 40,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/040-66283.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/040-66283.webp",
+      "image_status": "front",
+      "image_sha256": "d8940a1a852500a4e9331687152b3b2871cf0ba0338da7ae31f9c3b87042ccb1",
+      "image_bytes": 25900,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 40
+    },
+    {
+      "id": 66284,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Sealeo",
+      "number": "041",
+      "number_value": 41,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/041-66284.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/041-66284.webp",
+      "image_status": "front",
+      "image_sha256": "74fa55d1004870c2970bda41f356fbc1fd50c3ef6d8ff783ef237defdf3d5cc0",
+      "image_bytes": 29464,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 41
+    },
+    {
+      "id": 66285,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Walrein",
+      "number": "042",
+      "number_value": 42,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/042-66285.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/042-66285.webp",
+      "image_status": "front",
+      "image_sha256": "28a375b7925e42778c0d4fc0e887eb83bf0511f1c53e4ddc31ceceb1a114eadd",
+      "image_bytes": 27954,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 42
+    },
+    {
+      "id": 66286,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Shellos",
+      "number": "043",
+      "number_value": 43,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/043-66286.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/043-66286.webp",
+      "image_status": "front",
+      "image_sha256": "3cffdb5e880e8c84e15cc42c6e054edd1012cbde2c452041bf3fcaac3a10c402",
+      "image_bytes": 30434,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 43
+    },
+    {
+      "id": 66220,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Tirtouga",
+      "number": "044",
+      "number_value": 44,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/044-66220.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/044-66220.webp",
+      "image_status": "front",
+      "image_sha256": "0a07b333a1637682519565d69d653f8494b23508a858729f60bc5b9da89ec5be",
+      "image_bytes": 33720,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 44
+    },
+    {
+      "id": 66221,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Carracosta",
+      "number": "045",
+      "number_value": 45,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/045-66221.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/045-66221.webp",
+      "image_status": "front",
+      "image_sha256": "945f9be03e453514827fbff1f4438a339ec0554e4dd092925c11b188c3a46094",
+      "image_bytes": 33080,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 45
+    },
+    {
+      "id": 66287,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Cryogonal",
+      "number": "046",
+      "number_value": 46,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/046-66287.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/046-66287.webp",
+      "image_status": "front",
+      "image_sha256": "b2da095b74e99ed204178d64934ac5868372974566b97c7f025ff2434fddb615",
+      "image_bytes": 30982,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 46
+    },
+    {
+      "id": 66288,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Bruxish",
+      "number": "047",
+      "number_value": 47,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/047-66288.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/047-66288.webp",
+      "image_status": "front",
+      "image_sha256": "f5e81bc8b9f0596d5f3675b61d3be4782b054612093b4fc974ed7facab6db127",
+      "image_bytes": 37000,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 47
+    },
+    {
+      "id": 66289,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Quaxly",
+      "number": "048",
+      "number_value": 48,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/048-66289.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/048-66289.webp",
+      "image_status": "front",
+      "image_sha256": "4e1f59779841ae34d0f2eee35f829a2a22787fb98e78c1e058900500f0308422",
+      "image_bytes": 33490,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 48
+    },
+    {
+      "id": 66290,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Quaxwell",
+      "number": "049",
+      "number_value": 49,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/049-66290.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/049-66290.webp",
+      "image_status": "front",
+      "image_sha256": "8d6237406411604c787bfe163569d71264c8db7399b4e4a4ef28c59fe5a9722f",
+      "image_bytes": 28444,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 49
+    },
+    {
+      "id": 66291,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Quaquaval",
+      "number": "050",
+      "number_value": 50,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/050-66291.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/050-66291.webp",
+      "image_status": "front",
+      "image_sha256": "48e0a3f265ca5df57d26be649acecc805b6caf3928125b65881110729a50af01",
+      "image_bytes": 34616,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 50
+    },
+    {
+      "id": 66222,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Veluza",
+      "number": "051",
+      "number_value": 51,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/051-66222.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/051-66222.webp",
+      "image_status": "front",
+      "image_sha256": "322745f97fd8ff171a1902466a9d2dcbd063fc3b0248020764832667c2a3af23",
+      "image_bytes": 33968,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 51
+    },
+    {
+      "id": 66292,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Iron Bundle",
+      "number": "052",
+      "number_value": 52,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/052-66292.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/052-66292.webp",
+      "image_status": "front",
+      "image_sha256": "76adcdaee1bc33c6fa99328d1b8342c589dab1f1f0f719e861fdc00d076a242a",
+      "image_bytes": 38216,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 52
+    },
+    {
+      "id": 66293,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Chien-Pao",
+      "number": "053",
+      "number_value": 53,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/053-66293.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/053-66293.webp",
+      "image_status": "front",
+      "image_sha256": "ec4837cf3c516f65f21194d737d1eef96776caa16e3d7322e34e8fa5656c8663",
+      "image_bytes": 31642,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 53
+    },
+    {
+      "id": 66294,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Pikachu ex",
+      "number": "054",
+      "number_value": 54,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/054-66294.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/054-66294.webp",
+      "image_status": "front",
+      "image_sha256": "8542d7f6d8327b481982b2c3ae79924eeb60deb91a33df47e1fd5c546afaa605",
+      "image_bytes": 44638,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 54
+    },
+    {
+      "id": 66295,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Magnemite",
+      "number": "055",
+      "number_value": 55,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/055-66295.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/055-66295.webp",
+      "image_status": "front",
+      "image_sha256": "26dd7af53e8dfa9342950f6dfc707c741b79fbceea4d4f4a7cd8dc08493ee791",
+      "image_bytes": 23624,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 55
+    },
+    {
+      "id": 66296,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Magneton",
+      "number": "056",
+      "number_value": 56,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/056-66296.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/056-66296.webp",
+      "image_status": "front",
+      "image_sha256": "4f5ab627f02d4a19591da8dad3cff2bdcfd0b4e01d968cea3d6522b1b9ac3f29",
+      "image_bytes": 30710,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 56
+    },
+    {
+      "id": 66297,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Magnezone",
+      "number": "057",
+      "number_value": 57,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/057-66297.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/057-66297.webp",
+      "image_status": "front",
+      "image_sha256": "0ec1ddb3eb19b6b0b5756d8e8fde4f294227d040246fd330662791f4b1714ba6",
+      "image_bytes": 29736,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 57
+    },
+    {
+      "id": 66223,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Electabuzz",
+      "number": "058",
+      "number_value": 58,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/058-66223.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/058-66223.webp",
+      "image_status": "front",
+      "image_sha256": "3bb77e20e715ab5522313fdc0b42c7b5a4e3a0656085c6b0e8fa27cced9480ef",
+      "image_bytes": 23738,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 58
+    },
+    {
+      "id": 66224,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Electivire",
+      "number": "059",
+      "number_value": 59,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/059-66224.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/059-66224.webp",
+      "image_status": "front",
+      "image_sha256": "db58b4f01d65f5632534629b3909205400c4717c43eea0a64bfebc50c17d4844",
+      "image_bytes": 29742,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 59
+    },
+    {
+      "id": 66225,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Chinchou",
+      "number": "060",
+      "number_value": 60,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/060-66225.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/060-66225.webp",
+      "image_status": "front",
+      "image_sha256": "4bd6f7b829be129abb265d69e2cb2d4a00f2f6e8c58cf7e3f04f4f7f32ce2928",
+      "image_bytes": 23654,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 60
+    },
+    {
+      "id": 66226,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Lanturn",
+      "number": "061",
+      "number_value": 61,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/061-66226.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/061-66226.webp",
+      "image_status": "front",
+      "image_sha256": "fbddd173c6a3398ea8835a9d85e501364c45208361cb0392d93058d5b03b4c80",
+      "image_bytes": 29338,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 61
+    },
+    {
+      "id": 66298,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Rotom",
+      "number": "062",
+      "number_value": 62,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/062-66298.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/062-66298.webp",
+      "image_status": "front",
+      "image_sha256": "98ebec90c7635a4b8615e23ef49afc3e924544869978a16157988c6828e319e2",
+      "image_bytes": 24060,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 62
+    },
+    {
+      "id": 66227,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Joltik",
+      "number": "063",
+      "number_value": 63,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/063-66227.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/063-66227.webp",
+      "image_status": "front",
+      "image_sha256": "c40f0f8eae39d835c479119c7ea8996cdebf4352cfa9ff74b8c47a3b7054b4c4",
+      "image_bytes": 27118,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 63
+    },
+    {
+      "id": 66228,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Galvantula ex",
+      "number": "064",
+      "number_value": 64,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/064-66228.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/064-66228.webp",
+      "image_status": "front",
+      "image_sha256": "9ce91b675f1f569f172c6053a264adbc95719596f72aa5f44d7d43f60e2bf34d",
+      "image_bytes": 46128,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 64
+    },
+    {
+      "id": 66299,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Stunfisk",
+      "number": "065",
+      "number_value": 65,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/065-66299.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/065-66299.webp",
+      "image_status": "front",
+      "image_sha256": "ca1c888feaecefdc7aba2ddaabb29437b3580e97a611c218f108b83f22d8aacb",
+      "image_bytes": 20548,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 65
+    },
+    {
+      "id": 66229,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Charjabug",
+      "number": "066",
+      "number_value": 66,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/066-66229.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/066-66229.webp",
+      "image_status": "front",
+      "image_sha256": "0d3bc51c600425781aef0f165753ad3aaf5a4e242361c56414e99c2000c1536f",
+      "image_bytes": 25920,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 66
+    },
+    {
+      "id": 66230,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Vikavolt",
+      "number": "067",
+      "number_value": 67,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/067-66230.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/067-66230.webp",
+      "image_status": "front",
+      "image_sha256": "d9977adea688d555352529733ce662f7705f843bb961f8efb007645acbdbe6af",
+      "image_bytes": 27260,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 67
+    },
+    {
+      "id": 66300,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Tapu Koko",
+      "number": "068",
+      "number_value": 68,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/068-66300.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/068-66300.webp",
+      "image_status": "front",
+      "image_sha256": "77b97034668c7a1cedec1ce76050b3aaaf149b9beb80e8b8ed9b719290ba6e01",
+      "image_bytes": 33670,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 68
+    },
+    {
+      "id": 66231,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Zeraora",
+      "number": "069",
+      "number_value": 69,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/069-66231.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/069-66231.webp",
+      "image_status": "front",
+      "image_sha256": "260e2743b9efdc618d6c17e4249dd0ea4593cc79cae16f47536f6bd827275d30",
+      "image_bytes": 28082,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 69
+    },
+    {
+      "id": 66301,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Miraidon",
+      "number": "070",
+      "number_value": 70,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/070-66301.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/070-66301.webp",
+      "image_status": "front",
+      "image_sha256": "54c6cee3f9ac38f5796621be2638526a69177aae8869b2ffee6113bb62c9a12b",
+      "image_bytes": 37296,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 70
+    },
+    {
+      "id": 66232,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Slowpoke",
+      "number": "071",
+      "number_value": 71,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/071-66232.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/071-66232.webp",
+      "image_status": "front",
+      "image_sha256": "26879871b08b528733caee6e0f20ac35b8ecb0caf23491e809b55af9bb8f4a8c",
+      "image_bytes": 24212,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 71
+    },
+    {
+      "id": 66233,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Slowking",
+      "number": "072",
+      "number_value": 72,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/072-66233.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/072-66233.webp",
+      "image_status": "front",
+      "image_sha256": "4fb4df2a9d93c90c329d3bde10d71b9361f9bce801da334d3c5481c1c37f3e66",
+      "image_bytes": 31226,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 72
+    },
+    {
+      "id": 66302,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Togepi",
+      "number": "073",
+      "number_value": 73,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/073-66302.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/073-66302.webp",
+      "image_status": "front",
+      "image_sha256": "35c29c9114d1b0f2aa406ed1d86da769cb8cf6b06746379a5d4cae192c2eccd2",
+      "image_bytes": 23408,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 73
+    },
+    {
+      "id": 66303,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Togetic",
+      "number": "074",
+      "number_value": 74,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/074-66303.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/074-66303.webp",
+      "image_status": "front",
+      "image_sha256": "6d603c1c1662bb499aa4e3adb26e3adc9cb4bc72a766830a6311bea6c93e2569",
+      "image_bytes": 26478,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 74
+    },
+    {
+      "id": 66304,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Togekiss",
+      "number": "075",
+      "number_value": 75,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/075-66304.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/075-66304.webp",
+      "image_status": "front",
+      "image_sha256": "f77282459838e786bbe906bc45172d46c6a22728364630000d7edb27a3598855",
+      "image_bytes": 32574,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 75
+    },
+    {
+      "id": 66305,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Marill",
+      "number": "076",
+      "number_value": 76,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/076-66305.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/076-66305.webp",
+      "image_status": "front",
+      "image_sha256": "57c6591af9bc7e6716bc9d2b368dda172b9c0d9f949ecf1b09db73825af0817d",
+      "image_bytes": 26434,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 76
+    },
+    {
+      "id": 66306,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Azumarill",
+      "number": "077",
+      "number_value": 77,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/077-66306.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/077-66306.webp",
+      "image_status": "front",
+      "image_sha256": "a9887ca67b068e8e02e94886bdf4d6012381a4dd8a7d1b8bcd45a13d2e6c388f",
+      "image_bytes": 29628,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 77
+    },
+    {
+      "id": 66307,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Latias ex",
+      "number": "078",
+      "number_value": 78,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/078-66307.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/078-66307.webp",
+      "image_status": "front",
+      "image_sha256": "5c1b6397c1c094ef821de1570b666c72ed3081ccb880949776708a202fb46954",
+      "image_bytes": 34396,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 78
+    },
+    {
+      "id": 66308,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Latios",
+      "number": "079",
+      "number_value": 79,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/079-66308.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/079-66308.webp",
+      "image_status": "front",
+      "image_sha256": "4d6a4543486afa524b00673b63f767823f2235902be5862e52c931111b83fa7b",
+      "image_bytes": 29656,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 79
+    },
+    {
+      "id": 66234,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Drifloon",
+      "number": "080",
+      "number_value": 80,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/080-66234.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/080-66234.webp",
+      "image_status": "front",
+      "image_sha256": "07aabf6c1335068fd3ec9ee8443dc6f2cfb05b8e055f10ff639cc8ff941d11d0",
+      "image_bytes": 21662,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 80
+    },
+    {
+      "id": 66235,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Drifblim",
+      "number": "081",
+      "number_value": 81,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/081-66235.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/081-66235.webp",
+      "image_status": "front",
+      "image_sha256": "0e4c69e4dc15c60c011536d9a91e21eeb2508ba90aa3a55d74e23e5ee2eb1496",
+      "image_bytes": 32046,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 81
+    },
+    {
+      "id": 66309,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Uxie",
+      "number": "082",
+      "number_value": 82,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/082-66309.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/082-66309.webp",
+      "image_status": "front",
+      "image_sha256": "576be3faaa32c81b6e023ec4b7f2e1f4d090b9b13c2d119a01096ff5ba2c32b7",
+      "image_bytes": 21508,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 82
+    },
+    {
+      "id": 66310,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Mesprit",
+      "number": "083",
+      "number_value": 83,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/083-66310.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/083-66310.webp",
+      "image_status": "front",
+      "image_sha256": "3de5229162ba2be0cbd6b753faf64b2523db831caf9b777919037bf404509c34",
+      "image_bytes": 24404,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 83
+    },
+    {
+      "id": 66311,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Azelf",
+      "number": "084",
+      "number_value": 84,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/084-66311.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/084-66311.webp",
+      "image_status": "front",
+      "image_sha256": "67e51602fefeba49a548cb578b572d5ade0a18b2eeadd7897299e3f1b50db174",
+      "image_bytes": 22640,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 84
+    },
+    {
+      "id": 66196,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Cresselia",
+      "number": "085",
+      "number_value": 85,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/085-66196.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/085-66196.webp",
+      "image_status": "front",
+      "image_sha256": "f34aa534ea1311e8dd7a85c1fd0fcc1121a9a0d89363b951b0f63e8dc3461e6f",
+      "image_bytes": 29078,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 85
+    },
+    {
+      "id": 66312,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Yamask",
+      "number": "086",
+      "number_value": 86,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/086-66312.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/086-66312.webp",
+      "image_status": "front",
+      "image_sha256": "70221fb3738d504675bad24e6c3b543d576a1af172d32e11481f152445e62aee",
+      "image_bytes": 29810,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 86
+    },
+    {
+      "id": 66313,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Cofagrigus",
+      "number": "087",
+      "number_value": 87,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/087-66313.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/087-66313.webp",
+      "image_status": "front",
+      "image_sha256": "b9b025cca4643037e29b2592f84af9c7a824f9147928a91829702b10d5d78501",
+      "image_bytes": 30398,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 87
+    },
+    {
+      "id": 66314,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Espurr",
+      "number": "088",
+      "number_value": 88,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/088-66314.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/088-66314.webp",
+      "image_status": "front",
+      "image_sha256": "2331f39344b9f9ae92eb1e4d6e0b0a2b73550a2b55a84df75834554a5a4cf1a1",
+      "image_bytes": 25192,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 88
+    },
+    {
+      "id": 66315,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Meowstic",
+      "number": "089",
+      "number_value": 89,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/089-66315.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/089-66315.webp",
+      "image_status": "front",
+      "image_sha256": "f2f06c30fca0aca3031b43fdc9c763d315e05ca82367a22e0b495c972bedd824",
+      "image_bytes": 31798,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 89
+    },
+    {
+      "id": 66316,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Sylveon ex",
+      "number": "090",
+      "number_value": 90,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/090-66316.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/090-66316.webp",
+      "image_status": "front",
+      "image_sha256": "bc0f43eec67f6fa0d4c50f7402fb1714d21a53c214744614a2f05a78c316df03",
+      "image_bytes": 48004,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 90
+    },
+    {
+      "id": 66317,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Dedenne",
+      "number": "091",
+      "number_value": 91,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/091-66317.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/091-66317.webp",
+      "image_status": "front",
+      "image_sha256": "f244c731b9026a7d96c37ea50ba525158434db44469f73cd6e19a1b18c413c48",
+      "image_bytes": 29430,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 91
+    },
+    {
+      "id": 66318,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Oricorio",
+      "number": "092",
+      "number_value": 92,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/092-66318.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/092-66318.webp",
+      "image_status": "front",
+      "image_sha256": "3d0c806896fd2db60d5a22c5379eec9607dabe419e5f28223d158baf32d04bf4",
+      "image_bytes": 30180,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 92
+    },
+    {
+      "id": 66319,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Sandygast",
+      "number": "093",
+      "number_value": 93,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/093-66319.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/093-66319.webp",
+      "image_status": "front",
+      "image_sha256": "86188e029aa1c7bfcd95ec55ff5f3a15ad364da7570dbdc369f14a4d8bbfeaec",
+      "image_bytes": 25084,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 93
+    },
+    {
+      "id": 66320,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Palossand ex",
+      "number": "094",
+      "number_value": 94,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/094-66320.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/094-66320.webp",
+      "image_status": "front",
+      "image_sha256": "9fe09120f1f957e565cf486f750a47670152b0d94e8abe8dc50d731032a307fe",
+      "image_bytes": 46474,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 94
+    },
+    {
+      "id": 66321,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Flutter Mane",
+      "number": "095",
+      "number_value": 95,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/095-66321.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/095-66321.webp",
+      "image_status": "front",
+      "image_sha256": "93b3b5d3e71d5e658da2a71c20d2281e4dccd890f8e5cb8f7f86c306a1289406",
+      "image_bytes": 34956,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 95
+    },
+    {
+      "id": 66322,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Gimmighoul",
+      "number": "096",
+      "number_value": 96,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/096-66322.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/096-66322.webp",
+      "image_status": "front",
+      "image_sha256": "99dbf0b1031800f12e346537430439786f284d3a39cc151b2f177fa2d6d65046",
+      "image_bytes": 27226,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 96
+    },
+    {
+      "id": 66323,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Mankey",
+      "number": "097",
+      "number_value": 97,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/097-66323.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/097-66323.webp",
+      "image_status": "front",
+      "image_sha256": "f7417ce64a04436c58bdf18777bc6741fbd62b47abeef2ca27b58153cebb9906",
+      "image_bytes": 31254,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 97
+    },
+    {
+      "id": 66324,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Primeape",
+      "number": "098",
+      "number_value": 98,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/098-66324.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/098-66324.webp",
+      "image_status": "front",
+      "image_sha256": "db8c74673e409ab26ad56a563483e62b6c16c5c31048fdb18ae6d63f5ea15cb8",
+      "image_bytes": 32248,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 98
+    },
+    {
+      "id": 66325,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Annihilape",
+      "number": "099",
+      "number_value": 99,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/099-66325.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/099-66325.webp",
+      "image_status": "front",
+      "image_sha256": "a7dda07fa96fd10139c838f4d18011aa5c8dd6e339918c0a49dcc910871cf1c8",
+      "image_bytes": 31444,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 99
+    },
+    {
+      "id": 66326,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Trapinch",
+      "number": "100",
+      "number_value": 100,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/100-66326.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/100-66326.webp",
+      "image_status": "front",
+      "image_sha256": "24d93ab74acb01ed7a546bd9556fa41dbc77c040d0b6d5fa346c5dd7ce9f18b1",
+      "image_bytes": 28976,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 100
+    },
+    {
+      "id": 66327,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Vibrava",
+      "number": "101",
+      "number_value": 101,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/101-66327.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/101-66327.webp",
+      "image_status": "front",
+      "image_sha256": "10b4cac5d1fdab94df907ca066d45140fd10cbed9f4ba849f6bd63e745713a4b",
+      "image_bytes": 29290,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 101
+    },
+    {
+      "id": 66328,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Flygon ex",
+      "number": "102",
+      "number_value": 102,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/102-66328.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/102-66328.webp",
+      "image_status": "front",
+      "image_sha256": "2d3e124fabc85c35c205ac9cd6887d7634682b7402ae4314cd4a31a4c3ee9cd3",
+      "image_bytes": 47038,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 102
+    },
+    {
+      "id": 66329,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Gastrodon",
+      "number": "103",
+      "number_value": 103,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/103-66329.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/103-66329.webp",
+      "image_status": "front",
+      "image_sha256": "f23cfe89fcc515e4969bd9068ee18fe8355d5073d117f5513ea0eefc8576463a",
+      "image_bytes": 33782,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 103
+    },
+    {
+      "id": 66330,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Landorus",
+      "number": "104",
+      "number_value": 104,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/104-66330.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/104-66330.webp",
+      "image_status": "front",
+      "image_sha256": "00311c57a456ec9e119da461e8e951334f8cfae6be8185718e9c1250173c980f",
+      "image_bytes": 32582,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 104
+    },
+    {
+      "id": 66236,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Pancham",
+      "number": "105",
+      "number_value": 105,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/105-66236.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/105-66236.webp",
+      "image_status": "front",
+      "image_sha256": "799560da4767c66d2e26b18ba40d2354ff65c710df4930dd10d6a1f08c8d0ce5",
+      "image_bytes": 26382,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 105
+    },
+    {
+      "id": 66237,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Diancie",
+      "number": "106",
+      "number_value": 106,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/106-66237.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/106-66237.webp",
+      "image_status": "front",
+      "image_sha256": "0cef2a47717c34b400a26ee2258b98539dbab39700cb1eed66542c2bcd1cade6",
+      "image_bytes": 29438,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 106
+    },
+    {
+      "id": 66331,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Clobbopus",
+      "number": "107",
+      "number_value": 107,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/107-66331.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/107-66331.webp",
+      "image_status": "front",
+      "image_sha256": "c4f7fceab0c5b9b5a3dfd0cd51b6c2de7ae9c63b81a35c953f86a66144c37458",
+      "image_bytes": 29788,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 107
+    },
+    {
+      "id": 66332,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Grapploct",
+      "number": "108",
+      "number_value": 108,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/108-66332.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/108-66332.webp",
+      "image_status": "front",
+      "image_sha256": "e004cca6246566b4847f8e5e7e1965c58378b4b79449a4726ebd5dcc83cbca59",
+      "image_bytes": 28180,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 108
+    },
+    {
+      "id": 66238,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Falinks",
+      "number": "109",
+      "number_value": 109,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/109-66238.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/109-66238.webp",
+      "image_status": "front",
+      "image_sha256": "2e2f77510edcc568eac5858b0dc69191bceb93ccd299b253d1d232fc7a1eab26",
+      "image_bytes": 35446,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 109
+    },
+    {
+      "id": 66333,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Glimmet",
+      "number": "110",
+      "number_value": 110,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/110-66333.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/110-66333.webp",
+      "image_status": "front",
+      "image_sha256": "2edea3f85a058ed313014e2b11de69f273cf06739ebcf022f35993daa2a52855",
+      "image_bytes": 28318,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 110
+    },
+    {
+      "id": 66334,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Glimmora",
+      "number": "111",
+      "number_value": 111,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/111-66334.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/111-66334.webp",
+      "image_status": "front",
+      "image_sha256": "6c73b77a5c808e99483181ad6b3729162c7d64c68a16cbbdb0b62965ed841d02",
+      "image_bytes": 35862,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 111
+    },
+    {
+      "id": 66335,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Koraidon",
+      "number": "112",
+      "number_value": 112,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/112-66335.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/112-66335.webp",
+      "image_status": "front",
+      "image_sha256": "1e0088027aebe4efb04077fa5d8cc5eb9611901ed8af11bdade55b0868c977cb",
+      "image_bytes": 38982,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 112
+    },
+    {
+      "id": 66239,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Gulpin",
+      "number": "113",
+      "number_value": 113,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/113-66239.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/113-66239.webp",
+      "image_status": "front",
+      "image_sha256": "121d4448770f9250e1b3776ae91d2a9d86fe79148b24dc9cd674a4745d9dda4f",
+      "image_bytes": 28438,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 113
+    },
+    {
+      "id": 66240,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Swalot",
+      "number": "114",
+      "number_value": 114,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/114-66240.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/114-66240.webp",
+      "image_status": "front",
+      "image_sha256": "feb7c5a98d8acf47abeda541308c569b1680b0c998ce3fef41df565727261d1c",
+      "image_bytes": 25312,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 114
+    },
+    {
+      "id": 66197,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Zorua",
+      "number": "115",
+      "number_value": 115,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/115-66197.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/115-66197.webp",
+      "image_status": "front",
+      "image_sha256": "29311bf2952d9d44bf380d58c5e63ad01906016240e538a59c209ad5a4897550",
+      "image_bytes": 26548,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 115
+    },
+    {
+      "id": 66198,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Zoroark",
+      "number": "116",
+      "number_value": 116,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/116-66198.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/116-66198.webp",
+      "image_status": "front",
+      "image_sha256": "a637b6f53b8393c8f67fc5dbf9e7a838abdd4d602a2b2ead9bcc32aa03a1580f",
+      "image_bytes": 29954,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 116
+    },
+    {
+      "id": 66336,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Deino",
+      "number": "117",
+      "number_value": 117,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/117-66336.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/117-66336.webp",
+      "image_status": "front",
+      "image_sha256": "35452dc0639b89f8315a4b2da396bc0d7e31b498180b6f8167c259f038159d14",
+      "image_bytes": 28710,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 117
+    },
+    {
+      "id": 66337,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Zweilous",
+      "number": "118",
+      "number_value": 118,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/118-66337.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/118-66337.webp",
+      "image_status": "front",
+      "image_sha256": "40760a0296cabb102b96cc5363bceb305abd8fed498201ea7f4d2b2b336b59ad",
+      "image_bytes": 28660,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 118
+    },
+    {
+      "id": 66338,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Hydreigon ex",
+      "number": "119",
+      "number_value": 119,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/119-66338.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/119-66338.webp",
+      "image_status": "front",
+      "image_sha256": "257b4f2114f96a78d1bee3215abace8810c7f223d3ac2b488e45bcd8ec2db7bb",
+      "image_bytes": 48078,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 119
+    },
+    {
+      "id": 66241,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Pangoro",
+      "number": "120",
+      "number_value": 120,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/120-66241.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/120-66241.webp",
+      "image_status": "front",
+      "image_sha256": "8d920f95c44675ed615a0c770fe736d2905b767197959fc233a7f450eafeb332",
+      "image_bytes": 26370,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 120
+    },
+    {
+      "id": 66199,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Yveltal",
+      "number": "121",
+      "number_value": 121,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/121-66199.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/121-66199.webp",
+      "image_status": "front",
+      "image_sha256": "a677f6f6a9c87f8108770911c1d123cbe1199fc3d77df5f6ac13410eff1a078f",
+      "image_bytes": 33314,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 121
+    },
+    {
+      "id": 66242,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Impidimp",
+      "number": "122",
+      "number_value": 122,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/122-66242.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/122-66242.webp",
+      "image_status": "front",
+      "image_sha256": "408c4ab717f45d689853c9e10303eb38027f88cd3813907c7f9b29432ea13138",
+      "image_bytes": 37386,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 122
+    },
+    {
+      "id": 66243,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Morgrem",
+      "number": "123",
+      "number_value": 123,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/123-66243.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/123-66243.webp",
+      "image_status": "front",
+      "image_sha256": "63da39add86ddcaa95b882995fb48758e3a30f4c591a1ac4ab3d587369b6ad93",
+      "image_bytes": 32000,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 123
+    },
+    {
+      "id": 66244,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Grimmsnarl",
+      "number": "124",
+      "number_value": 124,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/124-66244.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/124-66244.webp",
+      "image_status": "front",
+      "image_sha256": "5e956dd80d582fb73d62130df67e9a9b4739868111ecd3b8538facdb96d3e500",
+      "image_bytes": 36108,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 124
+    },
+    {
+      "id": 66339,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Shroodle",
+      "number": "125",
+      "number_value": 125,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/125-66339.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/125-66339.webp",
+      "image_status": "front",
+      "image_sha256": "e63786217f8bd433999e25d94eecba7651a391ccd78ea3d33f049a811f7ed0e8",
+      "image_bytes": 28894,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 125
+    },
+    {
+      "id": 66340,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Grafaiai",
+      "number": "126",
+      "number_value": 126,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/126-66340.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/126-66340.webp",
+      "image_status": "front",
+      "image_sha256": "f05fd968cbdbb207ac69a27eb00caba1bd158e9245ff8de11e86c3c42c3eb7ae",
+      "image_bytes": 31506,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 126
+    },
+    {
+      "id": 66194,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Pecharunt",
+      "number": "127",
+      "number_value": 127,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/127-66194.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/127-66194.webp",
+      "image_status": "front",
+      "image_sha256": "d0b6e4b9b30ad48d6993c84ee035d6323bbad6dc6e3a0391fb1b122843c46245",
+      "image_bytes": 34924,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 127
+    },
+    {
+      "id": 66341,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Alolan Diglett",
+      "number": "128",
+      "number_value": 128,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/128-66341.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/128-66341.webp",
+      "image_status": "front",
+      "image_sha256": "ccd8c1e664a7d38ea076074e0f6facb4a656ac733d08198c154fb1c91b7f049c",
+      "image_bytes": 21320,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 128
+    },
+    {
+      "id": 66342,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Alolan Dugtrio",
+      "number": "129",
+      "number_value": 129,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/129-66342.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/129-66342.webp",
+      "image_status": "front",
+      "image_sha256": "ac52ed5e831ca55dcfcacb15aa1aecde5d083bbe4f1e8bbe68b286d2b0bddabc",
+      "image_bytes": 26068,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 129
+    },
+    {
+      "id": 66398,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Skarmory",
+      "number": "130",
+      "number_value": 130,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/130-66398.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/130-66398.webp",
+      "image_status": "front",
+      "image_sha256": "56194966ed9326187d82efcd28379444114bdb19d84ba7e0739eb9fb099192b3",
+      "image_bytes": 26780,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 130
+    },
+    {
+      "id": 66343,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Bronzor",
+      "number": "131",
+      "number_value": 131,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/131-66343.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/131-66343.webp",
+      "image_status": "front",
+      "image_sha256": "e6037f6716c18fecec4e5d00702ceed27dfd249ccb810ea69572d7c3734ecfe9",
+      "image_bytes": 21404,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 131
+    },
+    {
+      "id": 66344,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Bronzong",
+      "number": "132",
+      "number_value": 132,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/132-66344.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/132-66344.webp",
+      "image_status": "front",
+      "image_sha256": "7ccec01c57ed07b7053d1304fc4a98f2d71be602ea656d340c239c1cc683109e",
+      "image_bytes": 24348,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 132
+    },
+    {
+      "id": 66200,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Genesect",
+      "number": "133",
+      "number_value": 133,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/133-66200.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/133-66200.webp",
+      "image_status": "front",
+      "image_sha256": "ab17ababd30905d9088344d9b92913fa820074d5039cd41db61bf350b73ef006",
+      "image_bytes": 32890,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 133
+    },
+    {
+      "id": 66245,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Meltan",
+      "number": "134",
+      "number_value": 134,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/134-66245.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/134-66245.webp",
+      "image_status": "front",
+      "image_sha256": "71b0d1cc60c8bfc8b0368452a648cff08275e11be30c1b3602694fb25c97c32a",
+      "image_bytes": 25898,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 134
+    },
+    {
+      "id": 66246,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Melmetal",
+      "number": "135",
+      "number_value": 135,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/135-66246.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/135-66246.webp",
+      "image_status": "front",
+      "image_sha256": "d712537dd2b2584a8353439e35365ff066df07180a424438a75e55a6f9d15292",
+      "image_bytes": 30138,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 135
+    },
+    {
+      "id": 66345,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Duraludon",
+      "number": "136",
+      "number_value": 136,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/136-66345.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/136-66345.webp",
+      "image_status": "front",
+      "image_sha256": "e557a0f51844f12584843a0c19865492576358fcdfd9f615cbdbe7636c09c721",
+      "image_bytes": 28458,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 136
+    },
+    {
+      "id": 66247,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Archaludon",
+      "number": "137",
+      "number_value": 137,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/137-66247.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/137-66247.webp",
+      "image_status": "front",
+      "image_sha256": "b2a1dfd2fda4962415e42c64397caa97bd5374839c8fa8d821b24b42ce441cc9",
+      "image_bytes": 27364,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 137
+    },
+    {
+      "id": 66400,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Archaludon ex",
+      "number": "138",
+      "number_value": 138,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/138-66400.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/138-66400.webp",
+      "image_status": "front",
+      "image_sha256": "dd60d85b983bf47b4348db2d9e0cbd857e0031919674a66272a206a867c55a0c",
+      "image_bytes": 37038,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 138
+    },
+    {
+      "id": 66195,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Zacian ex",
+      "number": "139",
+      "number_value": 139,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/139-66195.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/139-66195.webp",
+      "image_status": "front",
+      "image_sha256": "b49ef3c636a5f224014d2b50f7f1a2955524ed20c22543742308273272dd9ea9",
+      "image_bytes": 37558,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 139
+    },
+    {
+      "id": 66201,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Varoom",
+      "number": "140",
+      "number_value": 140,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/140-66201.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/140-66201.webp",
+      "image_status": "front",
+      "image_sha256": "a1176aae0d94fb30b295621d6c96b3866a5ccdf1874f6265f5d4e03e61a3f380",
+      "image_bytes": 27400,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 140
+    },
+    {
+      "id": 66399,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Revavroom",
+      "number": "141",
+      "number_value": 141,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/141-66399.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/141-66399.webp",
+      "image_status": "front",
+      "image_sha256": "d778afb8a79b64ecc010ad18364223610f0f26718eebb5d9f0d77968a1f105ec",
+      "image_bytes": 30224,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 141
+    },
+    {
+      "id": 66347,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Gholdengo",
+      "number": "142",
+      "number_value": 142,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/142-66347.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/142-66347.webp",
+      "image_status": "front",
+      "image_sha256": "016a3e785a8d16e363115751e1f53171ffb0d88d79557889ed10451fe91d11af",
+      "image_bytes": 33960,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 142
+    },
+    {
+      "id": 66348,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Iron Crown",
+      "number": "143",
+      "number_value": 143,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/143-66348.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/143-66348.webp",
+      "image_status": "front",
+      "image_sha256": "1fc4cef833fdaa8f0cfd656ed34754345e6e3b07fa60f6994be2e8b990150d26",
+      "image_bytes": 38148,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 143
+    },
+    {
+      "id": 66349,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Alolan Exeggutor ex",
+      "number": "144",
+      "number_value": 144,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/144-66349.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/144-66349.webp",
+      "image_status": "front",
+      "image_sha256": "4140b1ccb5433a2bdf0668f93f700036c249f4fc5d6742148bd489d257bcb439",
+      "image_bytes": 45354,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 144
+    },
+    {
+      "id": 66350,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Dialga",
+      "number": "145",
+      "number_value": 145,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/145-66350.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/145-66350.webp",
+      "image_status": "front",
+      "image_sha256": "f4dda86b4abcd79ab974700c490bc1f9993220f4c248aeb41c90ddf5bf7b0902",
+      "image_bytes": 30350,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 145
+    },
+    {
+      "id": 66351,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Palkia",
+      "number": "146",
+      "number_value": 146,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/146-66351.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/146-66351.webp",
+      "image_status": "front",
+      "image_sha256": "48d689a2f0b21a75ed792ed5fbbfafc1dcef0134a57c31b3744271558c437e4d",
+      "image_bytes": 26342,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 146
+    },
+    {
+      "id": 66202,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Kyurem",
+      "number": "147",
+      "number_value": 147,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/147-66202.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/147-66202.webp",
+      "image_status": "front",
+      "image_sha256": "e11a6e9d1fab43df7f32a7523ef2bf841994862aff35121915e4223512e83db5",
+      "image_bytes": 30414,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 147
+    },
+    {
+      "id": 66352,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Applin",
+      "number": "148",
+      "number_value": 148,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/148-66352.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/148-66352.webp",
+      "image_status": "front",
+      "image_sha256": "77294404139d93109e8cd04524a9205c2e0db191882e8eb4c6dd2250d1bb3237",
+      "image_bytes": 23484,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 148
+    },
+    {
+      "id": 66353,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Flapple",
+      "number": "149",
+      "number_value": 149,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/149-66353.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/149-66353.webp",
+      "image_status": "front",
+      "image_sha256": "847293b5b52ee5dd64458ea77aa3c7ff0a0c4248becfd9a5c9cced0a368da145",
+      "image_bytes": 27304,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 149
+    },
+    {
+      "id": 66354,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Appletun",
+      "number": "150",
+      "number_value": 150,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/150-66354.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/150-66354.webp",
+      "image_status": "front",
+      "image_sha256": "f91b37181124825fb2b720c41a085fcd90e5c319e148e1214f1143f4e589f158",
+      "image_bytes": 25498,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 150
+    },
+    {
+      "id": 66355,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Eternatus",
+      "number": "151",
+      "number_value": 151,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/151-66355.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/151-66355.webp",
+      "image_status": "front",
+      "image_sha256": "aa11cb07918a074b7ff4c0602d40376b06f54bf91c0c13577e1e4d773702806d",
+      "image_bytes": 33796,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 151
+    },
+    {
+      "id": 66356,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Tatsugiri ex",
+      "number": "152",
+      "number_value": 152,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/152-66356.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/152-66356.webp",
+      "image_status": "front",
+      "image_sha256": "026f0a03896e777e0ff4d351864b3bf285d3d41fd3ad9ccdc33e4977e4635140",
+      "image_bytes": 43252,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 152
+    },
+    {
+      "id": 66357,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Eevee",
+      "number": "153",
+      "number_value": 153,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/153-66357.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/153-66357.webp",
+      "image_status": "front",
+      "image_sha256": "bda4828f9cd7684c68346ac7454b4e775290c8097eb1c5e59d029aad779687d8",
+      "image_bytes": 25198,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 153
+    },
+    {
+      "id": 66248,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Hoothoot",
+      "number": "154",
+      "number_value": 154,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/154-66248.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/154-66248.webp",
+      "image_status": "front",
+      "image_sha256": "cf14560b35094b092fff0a7afc56e121527579018900fe56b21960b5a18fca62",
+      "image_bytes": 25218,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 154
+    },
+    {
+      "id": 66249,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Noctowl",
+      "number": "155",
+      "number_value": 155,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/155-66249.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/155-66249.webp",
+      "image_status": "front",
+      "image_sha256": "43ece25aa3569c1da7a3d93a66f64a7db1a9e91df4313f951415d3175d5e44aa",
+      "image_bytes": 26698,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 155
+    },
+    {
+      "id": 66358,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Slakoth",
+      "number": "156",
+      "number_value": 156,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/156-66358.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/156-66358.webp",
+      "image_status": "front",
+      "image_sha256": "0d706483906af026baf6204bc51626564a68eb848e2ce7f37fc08d84badd7585",
+      "image_bytes": 26532,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 156
+    },
+    {
+      "id": 66359,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Vigoroth",
+      "number": "157",
+      "number_value": 157,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/157-66359.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/157-66359.webp",
+      "image_status": "front",
+      "image_sha256": "6582f5c1e1a79a1d21629460db884f509cfaa8f3cd41319cb00a107a6158d77b",
+      "image_bytes": 22696,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 157
+    },
+    {
+      "id": 66360,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Slaking ex",
+      "number": "158",
+      "number_value": 158,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/158-66360.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/158-66360.webp",
+      "image_status": "front",
+      "image_sha256": "5a4beb3810fd643526484575eda7c76d0ece5baaa133dd64f1a246a5effaa33e",
+      "image_bytes": 36538,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 158
+    },
+    {
+      "id": 66361,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Zangoose",
+      "number": "159",
+      "number_value": 159,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/159-66361.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/159-66361.webp",
+      "image_status": "front",
+      "image_sha256": "6e1f28534fef3116ec55576ac892d9729a50e743ef94766a7f236b9f282b0ed5",
+      "image_bytes": 23524,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 159
+    },
+    {
+      "id": 66362,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Kecleon",
+      "number": "160",
+      "number_value": 160,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/160-66362.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/160-66362.webp",
+      "image_status": "front",
+      "image_sha256": "fbed17a50a146a00f544cbf7eb6704aed683f56cb43544b4de38ace90a05df78",
+      "image_bytes": 35972,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 160
+    },
+    {
+      "id": 66250,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Fan Rotom",
+      "number": "161",
+      "number_value": 161,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/161-66250.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/161-66250.webp",
+      "image_status": "front",
+      "image_sha256": "f78ed696bbd546b87dcbc4ffbe96dd7867680ef2f2159ffe357f967a8eecfe2c",
+      "image_bytes": 29424,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 161
+    },
+    {
+      "id": 66251,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Bouffalant",
+      "number": "162",
+      "number_value": 162,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/162-66251.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/162-66251.webp",
+      "image_status": "front",
+      "image_sha256": "5585a2d946d477ffc9345e5f5ee13d37872288bd8c329cdbf1fd99d16a83ea13",
+      "image_bytes": 30684,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 162
+    },
+    {
+      "id": 66363,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Rufflet",
+      "number": "163",
+      "number_value": 163,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/163-66363.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/163-66363.webp",
+      "image_status": "front",
+      "image_sha256": "e81e9b4d6d8192a60eea16d4ea2525f08930270a7955d57fa7d193b4321b2b17",
+      "image_bytes": 26696,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 163
+    },
+    {
+      "id": 66364,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Braviary",
+      "number": "164",
+      "number_value": 164,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/164-66364.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/164-66364.webp",
+      "image_status": "front",
+      "image_sha256": "57a5e279a5dd1dc50a8bdc5b9f35a01f4fcea8ffe7e99efa8ade79620bf0c6e7",
+      "image_bytes": 29044,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 164
+    },
+    {
+      "id": 66252,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Fletchling",
+      "number": "165",
+      "number_value": 165,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/165-66252.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/165-66252.webp",
+      "image_status": "front",
+      "image_sha256": "41c3c13423a5e6671ce82b9ccfdd7ea1564b493267ecb13bc4323d5f7649242b",
+      "image_bytes": 21812,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 165
+    },
+    {
+      "id": 66253,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Fletchinder",
+      "number": "166",
+      "number_value": 166,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/166-66253.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/166-66253.webp",
+      "image_status": "front",
+      "image_sha256": "69012bd9cf8705179107d8ac8a7b502ccb9186de7c3bd88b0569d4947a5267f1",
+      "image_bytes": 21960,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 166
+    },
+    {
+      "id": 66254,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Talonflame",
+      "number": "167",
+      "number_value": 167,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/167-66254.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/167-66254.webp",
+      "image_status": "front",
+      "image_sha256": "01366a4fac83a44016dc5915e18a64b0bf35d48b742e553b95a0d43dc5cda60c",
+      "image_bytes": 24002,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 167
+    },
+    {
+      "id": 66192,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Noibat",
+      "number": "168",
+      "number_value": 168,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/168-66192.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/168-66192.webp",
+      "image_status": "front",
+      "image_sha256": "0c81353c03678f7c196e5b2c3449c8b177e6fa49ac7ed27a60a638a2636678e3",
+      "image_bytes": 27440,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 168
+    },
+    {
+      "id": 66193,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Noivern ex",
+      "number": "169",
+      "number_value": 169,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/169-66193.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/169-66193.webp",
+      "image_status": "front",
+      "image_sha256": "51910c344eb376df7bf69a4c0e7bae5d390adbc6e497c71208e78e3f684e9ad5",
+      "image_bytes": 34634,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 169
+    },
+    {
+      "id": 66365,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Oranguru",
+      "number": "170",
+      "number_value": 170,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/170-66365.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/170-66365.webp",
+      "image_status": "front",
+      "image_sha256": "017876c8d45c965804933afc7c2793758d30019b7643aaa8703cd7cb3025fc9f",
+      "image_bytes": 27402,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 170
+    },
+    {
+      "id": 66366,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Tandemaus",
+      "number": "171",
+      "number_value": 171,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/171-66366.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/171-66366.webp",
+      "image_status": "front",
+      "image_sha256": "7ffb56c0ee216e4446d6164be34f52ed3b3b693d12e5eb3c68165029f76531d6",
+      "image_bytes": 19674,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 171
+    },
+    {
+      "id": 66367,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Maushold",
+      "number": "172",
+      "number_value": 172,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/172-66367.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/172-66367.webp",
+      "image_status": "front",
+      "image_sha256": "ff5a43c321eb9c0c52380ce356cf6cb20223304f85887ff0d650632948dec9eb",
+      "image_bytes": 27614,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 172
+    },
+    {
+      "id": 66368,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Cyclizar ex",
+      "number": "173",
+      "number_value": 173,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/173-66368.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/173-66368.webp",
+      "image_status": "front",
+      "image_sha256": "3d007e0533a05f2aa58a7ce9373c16d67d59604a49477666c5aac3b8a7349451",
+      "image_bytes": 45570,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 173
+    },
+    {
+      "id": 66369,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Terapagos",
+      "number": "174",
+      "number_value": 174,
+      "printed_total": 208,
+      "rarity": "Rare (R)",
+      "image_path": "images/cards/11812/174-66369.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/174-66369.webp",
+      "image_status": "front",
+      "image_sha256": "6f63af3fe5e7299d8c52ba82a6d6caeabee5ca774e3b334f076726cb5de59d48",
+      "image_bytes": 30750,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 174
+    },
+    {
+      "id": 66255,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Terapagos ex",
+      "number": "175",
+      "number_value": 175,
+      "printed_total": 208,
+      "rarity": "Double Rare (RR)",
+      "image_path": "images/cards/11812/175-66255.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/175-66255.webp",
+      "image_status": "front",
+      "image_sha256": "a42ee1825f7ae0bd169a2d4e5b92f4ecb6f026828f1675cc12937ca091a983f9",
+      "image_bytes": 46224,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 175
+    },
+    {
+      "id": 66383,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Energy Search Pro",
+      "number": "176",
+      "number_value": 176,
+      "printed_total": 208,
+      "rarity": "ACE SPEC Rare (ACE)",
+      "image_path": "images/cards/11812/176-66383.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/176-66383.webp",
+      "image_status": "front",
+      "image_sha256": "d6119d80b4cd71827bc6d985d3875e0adacfce8f52145a4a3816bbc163e84d5c",
+      "image_bytes": 33526,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 176
+    },
+    {
+      "id": 66373,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Call Bell",
+      "number": "177",
+      "number_value": 177,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/177-66373.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/177-66373.webp",
+      "image_status": "front",
+      "image_sha256": "ab32e5f1c2559aaa5059565cf241d405950973a4b2349b5358923f269a9fb7f4",
+      "image_bytes": 17290,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 177
+    },
+    {
+      "id": 66261,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Glass Trumpet",
+      "number": "178",
+      "number_value": 178,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/178-66261.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/178-66261.webp",
+      "image_status": "front",
+      "image_sha256": "7cffe29726654fd0fef1105da82348dd000b4c2f4b1ea867c53d43f0a44279aa",
+      "image_bytes": 20028,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 178
+    },
+    {
+      "id": 66379,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Deduction Kit",
+      "number": "179",
+      "number_value": 179,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/179-66379.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/179-66379.webp",
+      "image_status": "front",
+      "image_sha256": "948e1c11aab62508c705047bb7052b7ab03a46d14229d4f7f423d86fb9d0ddc2",
+      "image_bytes": 23640,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 179
+    },
+    {
+      "id": 66390,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Scramble Switch",
+      "number": "180",
+      "number_value": 180,
+      "printed_total": 208,
+      "rarity": "ACE SPEC Rare (ACE)",
+      "image_path": "images/cards/11812/180-66390.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/180-66390.webp",
+      "image_status": "front",
+      "image_sha256": "0372051757c76f3949a58d3e22a669d4e12cc2b11cdf0f517b472b7796041d68",
+      "image_bytes": 31462,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 180
+    },
+    {
+      "id": 66392,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Tera Orb",
+      "number": "181",
+      "number_value": 181,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/181-66392.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/181-66392.webp",
+      "image_status": "front",
+      "image_sha256": "5f4b512c24f870a8481913c8f928cda5b63b6839ece6c25defb99e9b19e5062c",
+      "image_bytes": 21708,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 181
+    },
+    {
+      "id": 66374,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Chill Teaser Toy",
+      "number": "182",
+      "number_value": 182,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/182-66374.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/182-66374.webp",
+      "image_status": "front",
+      "image_sha256": "4826a84bf7e26fdafb2d8bc48ecdad2f80188d7743ed1391832bcba2e4f66387",
+      "image_bytes": 19202,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 182
+    },
+    {
+      "id": 66372,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Brilliant Blender",
+      "number": "183",
+      "number_value": 183,
+      "printed_total": 208,
+      "rarity": "ACE SPEC Rare (ACE)",
+      "image_path": "images/cards/11812/183-66372.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/183-66372.webp",
+      "image_status": "front",
+      "image_sha256": "7b77d84e03f92384b24dcccb4667ad4750036ac711154490a3fc5d966f364dd5",
+      "image_bytes": 31850,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 183
+    },
+    {
+      "id": 66257,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Antique Root Fossil",
+      "number": "184",
+      "number_value": 184,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/184-66257.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/184-66257.webp",
+      "image_status": "front",
+      "image_sha256": "f59691dd366d1e67df6c72116d89018367419a85f73cdc00f859e165e605ee6d",
+      "image_bytes": 32180,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 184
+    },
+    {
+      "id": 66256,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Antique Cover Fossil",
+      "number": "185",
+      "number_value": 185,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/185-66256.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/185-66256.webp",
+      "image_status": "front",
+      "image_sha256": "6415c0deec59a3123b777968fe36693d9c25f72755206cec7ba0edd8fb5069e9",
+      "image_bytes": 28730,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 185
+    },
+    {
+      "id": 66389,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Precious Trolley",
+      "number": "186",
+      "number_value": 186,
+      "printed_total": 208,
+      "rarity": "ACE SPEC Rare (ACE)",
+      "image_path": "images/cards/11812/186-66389.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/186-66389.webp",
+      "image_status": "front",
+      "image_sha256": "7625f39e8fa5af181b6a51d1156ef959a492122ab255d33fc75e4c9069bd2308",
+      "image_bytes": 34404,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 186
+    },
+    {
+      "id": 66388,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Miracle Headset",
+      "number": "187",
+      "number_value": 187,
+      "printed_total": 208,
+      "rarity": "ACE SPEC Rare (ACE)",
+      "image_path": "images/cards/11812/187-66388.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/187-66388.webp",
+      "image_status": "front",
+      "image_sha256": "f8c5caffa48c52e0d0d5c758756e8b944d0575c25fb79a5b35babb5f64734b1d",
+      "image_bytes": 31686,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 187
+    },
+    {
+      "id": 66387,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Megaton Blower",
+      "number": "188",
+      "number_value": 188,
+      "printed_total": 208,
+      "rarity": "ACE SPEC Rare (ACE)",
+      "image_path": "images/cards/11812/188-66387.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/188-66387.webp",
+      "image_status": "front",
+      "image_sha256": "e99c3bbcdfdae413a0a857158eaf98f7efe228c8e6035b5aef29e4f0327e634f",
+      "image_bytes": 34774,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 188
+    },
+    {
+      "id": 66380,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Dragon Elixir",
+      "number": "189",
+      "number_value": 189,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/189-66380.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/189-66380.webp",
+      "image_status": "front",
+      "image_sha256": "8f1c09afc0dea13cb1321e7daf4af23ef81abb97709e763b5486ffc66f7d4c33",
+      "image_bytes": 19856,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 189
+    },
+    {
+      "id": 66377,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Counter Gain",
+      "number": "190",
+      "number_value": 190,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/190-66377.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/190-66377.webp",
+      "image_status": "front",
+      "image_sha256": "590c89981f56732e1c28646899566ad28791b065a6f136c9bfe66f68c343fb3e",
+      "image_bytes": 21578,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 190
+    },
+    {
+      "id": 66370,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Amulet of Hope",
+      "number": "191",
+      "number_value": 191,
+      "printed_total": 208,
+      "rarity": "ACE SPEC Rare (ACE)",
+      "image_path": "images/cards/11812/191-66370.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/191-66370.webp",
+      "image_status": "front",
+      "image_sha256": "af5d8a27bada6af7010998ffbdd6adcb42eea8b63f0e9849b96543eea5cd189e",
+      "image_bytes": 35130,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 191
+    },
+    {
+      "id": 66263,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Gravity Gemstone",
+      "number": "192",
+      "number_value": 192,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/192-66263.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/192-66263.webp",
+      "image_status": "front",
+      "image_sha256": "5a652a8ce85ede91833b12aabf97edc0d4229cf8bb2c7b498ee3dc1f4efdbee0",
+      "image_bytes": 19452,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 192
+    },
+    {
+      "id": 66376,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Colbur Berry",
+      "number": "193",
+      "number_value": 193,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/193-66376.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/193-66376.webp",
+      "image_status": "front",
+      "image_sha256": "a22c89b0c13d44e2e15fa2a8c2bd8b340a0d1f038c5c77ed122746d7ebac5321",
+      "image_bytes": 18654,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 193
+    },
+    {
+      "id": 66371,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Babiri Berry",
+      "number": "194",
+      "number_value": 194,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/194-66371.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/194-66371.webp",
+      "image_status": "front",
+      "image_sha256": "637be5e0fe77eb324ead4ffcedd03f40dc4fdec889299cbb762cee6caa9187ef",
+      "image_bytes": 19492,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 194
+    },
+    {
+      "id": 66391,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Technical Machine: Fluorite",
+      "number": "195",
+      "number_value": 195,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/195-66391.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/195-66391.webp",
+      "image_status": "front",
+      "image_sha256": "2a7eaf25571e623a567681916deee0a68e0b0f853cb9944a96de7c1f7a432a0c",
+      "image_bytes": 24240,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 195
+    },
+    {
+      "id": 66260,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Crispin",
+      "number": "196",
+      "number_value": 196,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/196-66260.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/196-66260.webp",
+      "image_status": "front",
+      "image_sha256": "a58d0a067de8705321a19eab0f0c81ba4169627bb91e6d21937765ff669300c1",
+      "image_bytes": 23710,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 196
+    },
+    {
+      "id": 66382,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Drayton",
+      "number": "197",
+      "number_value": 197,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/197-66382.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/197-66382.webp",
+      "image_status": "front",
+      "image_sha256": "5bbe5c0157ff983b104ba5e93c8442cef4ebd61e0b9937ae6d2fdc18902b8686",
+      "image_bytes": 25296,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 197
+    },
+    {
+      "id": 66378,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Cyrano",
+      "number": "198",
+      "number_value": 198,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/198-66378.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/198-66378.webp",
+      "image_status": "front",
+      "image_sha256": "356a8fab8e2f13f4490d745c9c84c0d56f1477d6ecb6558d322edf00c9cd71f0",
+      "image_bytes": 22232,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 198
+    },
+    {
+      "id": 66375,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Clemont's Quick Wit",
+      "number": "199",
+      "number_value": 199,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/199-66375.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/199-66375.webp",
+      "image_status": "front",
+      "image_sha256": "a6ead0f8122d2a02af5d4eeccdf55cd6045d32cc3eb1b09046934f82df61befd",
+      "image_bytes": 22616,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 199
+    },
+    {
+      "id": 66264,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Lacey",
+      "number": "200",
+      "number_value": 200,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/200-66264.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/200-66264.webp",
+      "image_status": "front",
+      "image_sha256": "53674c5f8802668059669a1769faafe0da8e2a7e20477dd51a389e0958f4b78f",
+      "image_bytes": 24294,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 200
+    },
+    {
+      "id": 66381,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Drasna",
+      "number": "201",
+      "number_value": 201,
+      "printed_total": 208,
+      "rarity": "Common (C)",
+      "image_path": "images/cards/11812/201-66381.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/201-66381.webp",
+      "image_status": "front",
+      "image_sha256": "85a93d8914a8c34d67e2bffc9f012a4535546998360df276da2f720656800fa5",
+      "image_bytes": 20512,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 201
+    },
+    {
+      "id": 66259,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Briar",
+      "number": "202",
+      "number_value": 202,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/202-66259.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/202-66259.webp",
+      "image_status": "front",
+      "image_sha256": "2ae456f09738e798a3e931765b3037dac29649b5ba05554521f9041db648ff0c",
+      "image_bytes": 23022,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 202
+    },
+    {
+      "id": 66384,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Jasmine's Gaze",
+      "number": "203",
+      "number_value": 203,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/203-66384.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/203-66384.webp",
+      "image_status": "front",
+      "image_sha256": "13c46cf4ea866934ec9e1a023ca27836aa1cc796b05fc2be7da68ad811ff19ba",
+      "image_bytes": 20554,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 203
+    },
+    {
+      "id": 66401,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Lisia's Appeal",
+      "number": "204",
+      "number_value": 204,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/204-66401.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/204-66401.webp",
+      "image_status": "front",
+      "image_sha256": "4142d1a9f954ce6d9d32e1b2091417ce760dbfe0293852251c161db1343cc5e1",
+      "image_bytes": 23202,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 204
+    },
+    {
+      "id": 66262,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Grand Tree",
+      "number": "205",
+      "number_value": 205,
+      "printed_total": 208,
+      "rarity": "ACE SPEC Rare (ACE)",
+      "image_path": "images/cards/11812/205-66262.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/205-66262.webp",
+      "image_status": "front",
+      "image_sha256": "bb961be366fe96efe347c41e8772d5441d97a5cd112d2b6c08b94aec9af82680",
+      "image_bytes": 43248,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 205
+    },
+    {
+      "id": 66386,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Lively Stadium",
+      "number": "206",
+      "number_value": 206,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/206-66386.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/206-66386.webp",
+      "image_status": "front",
+      "image_sha256": "7a2f56c8bb917116bfe85e50e23ecfe0d56f1bf2a240ada07ca50257d5e8616b",
+      "image_bytes": 24344,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 206
+    },
+    {
+      "id": 66258,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Area Zero Underdepths",
+      "number": "207",
+      "number_value": 207,
+      "printed_total": 208,
+      "rarity": "Uncommon (U)",
+      "image_path": "images/cards/11812/207-66258.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/207-66258.webp",
+      "image_status": "front",
+      "image_sha256": "57814e046ab28e21c586219e487e04068722399125d3e5eb85153f4fb4e0bca4",
+      "image_bytes": 28146,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 207
+    },
+    {
+      "id": 66393,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Enriching Energy",
+      "number": "208",
+      "number_value": 208,
+      "printed_total": 208,
+      "rarity": "ACE SPEC Rare (ACE)",
+      "image_path": "images/cards/11812/208-66393.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/208-66393.webp",
+      "image_status": "front",
+      "image_sha256": "678e9084513f255e36973f2b87bba481c2e804b463952ff0bf9e89f7c2fcb749",
+      "image_bytes": 35206,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 208
+    },
+    {
+      "id": 66409,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Turtonator",
+      "number": "209",
+      "number_value": 209,
+      "printed_total": 208,
+      "rarity": "Art Rare (AR)",
+      "image_path": "images/cards/11812/209-66409.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/209-66409.webp",
+      "image_status": "front",
+      "image_sha256": "ae5af96500d8e36c0d5402d0d28a7a70c38d1f2c7d59c5a16403058d79d8bc0f",
+      "image_bytes": 46218,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 209
+    },
+    {
+      "id": 66410,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Zeraora",
+      "number": "210",
+      "number_value": 210,
+      "printed_total": 208,
+      "rarity": "Art Rare (AR)",
+      "image_path": "images/cards/11812/210-66410.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/210-66410.webp",
+      "image_status": "front",
+      "image_sha256": "bb58e7ff6bde9764a6b8cf2e9f8442f067fa7b7e5df8365e00e7b504f830eb4e",
+      "image_bytes": 53420,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 210
+    },
+    {
+      "id": 66406,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Cresselia",
+      "number": "211",
+      "number_value": 211,
+      "printed_total": 208,
+      "rarity": "Art Rare (AR)",
+      "image_path": "images/cards/11812/211-66406.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/211-66406.webp",
+      "image_status": "front",
+      "image_sha256": "57e00de2fc1c0523362ff884295613c0234a1d61114932a3e39492c6e0e4a26d",
+      "image_bytes": 22948,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 211
+    },
+    {
+      "id": 66407,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Zorua",
+      "number": "212",
+      "number_value": 212,
+      "printed_total": 208,
+      "rarity": "Art Rare (AR)",
+      "image_path": "images/cards/11812/212-66407.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/212-66407.webp",
+      "image_status": "front",
+      "image_sha256": "124de7cf452c10d97024ce33b5156c60699f8f617a5c1beeeb16765e60927985",
+      "image_bytes": 21988,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 212
+    },
+    {
+      "id": 66411,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Archaludon",
+      "number": "213",
+      "number_value": 213,
+      "printed_total": 208,
+      "rarity": "Art Rare (AR)",
+      "image_path": "images/cards/11812/213-66411.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/213-66411.webp",
+      "image_status": "front",
+      "image_sha256": "d815a76fdf017c2105ff3ffc1cc2e487923d7a6e1d2d7f1eef332f728d5add24",
+      "image_bytes": 43706,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 213
+    },
+    {
+      "id": 66402,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Noctowl",
+      "number": "214",
+      "number_value": 214,
+      "printed_total": 208,
+      "rarity": "Art Rare (AR)",
+      "image_path": "images/cards/11812/214-66402.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/214-66402.webp",
+      "image_status": "front",
+      "image_sha256": "1cf757041bbcadd5721db4088921bb52af5cbdb19fd3cb4351c737ad97c27a54",
+      "image_bytes": 48120,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 214
+    },
+    {
+      "id": 66426,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Durant ex",
+      "number": "215",
+      "number_value": 215,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/215-66426.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/215-66426.webp",
+      "image_status": "front",
+      "image_sha256": "bdeeb97ff9287d0f2c01f78edce55d806806f20e09f34c720f866add25596068",
+      "image_bytes": 32858,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 215
+    },
+    {
+      "id": 66460,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Sinistcha ex",
+      "number": "216",
+      "number_value": 216,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/216-66460.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/216-66460.webp",
+      "image_status": "front",
+      "image_sha256": "29ac69d104e9210882240129af1036886806f7d3146a849775a0f04c4235310c",
+      "image_bytes": 34700,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 216
+    },
+    {
+      "id": 66412,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Hydrapple ex",
+      "number": "217",
+      "number_value": 217,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/217-66412.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/217-66412.webp",
+      "image_status": "front",
+      "image_sha256": "45d293169d181b8c160a07319e41dbed2a2cefa221bef2266ec3faacc43d71fd",
+      "image_bytes": 41158,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 217
+    },
+    {
+      "id": 66413,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Cinderace ex",
+      "number": "218",
+      "number_value": 218,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/218-66413.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/218-66413.webp",
+      "image_status": "front",
+      "image_sha256": "27246509bb1e90c040f09e1c2f9c5dcd415c408f668742bf7c071aaf064933c1",
+      "image_bytes": 44720,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 218
+    },
+    {
+      "id": 66427,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Scovillain ex",
+      "number": "219",
+      "number_value": 219,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/219-66427.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/219-66427.webp",
+      "image_status": "front",
+      "image_sha256": "0a5f1e18997ce1fcc70af3fb9f620f3353d74adc857b79daed90f2505ef30e6f",
+      "image_bytes": 35198,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 219
+    },
+    {
+      "id": 66414,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Lapras ex",
+      "number": "220",
+      "number_value": 220,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/220-66414.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/220-66414.webp",
+      "image_status": "front",
+      "image_sha256": "d5b60328d42225fba63da94f6ad7af61384e67459640b35860a1f3ffcc3e66b7",
+      "image_bytes": 43270,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 220
+    },
+    {
+      "id": 66428,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Pikachu ex",
+      "number": "221",
+      "number_value": 221,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/221-66428.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/221-66428.webp",
+      "image_status": "front",
+      "image_sha256": "db905bde0b1e05a8ea86081f5df31c3c1707f156cda33964ddd050bf9ef2fa46",
+      "image_bytes": 43764,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 221
+    },
+    {
+      "id": 66415,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Galvantula ex",
+      "number": "222",
+      "number_value": 222,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/222-66415.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/222-66415.webp",
+      "image_status": "front",
+      "image_sha256": "2e3cae303ca9ef99e3b1989d461be5eea9639379b5d248d66d385ce7729b3785",
+      "image_bytes": 46156,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 222
+    },
+    {
+      "id": 66429,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Latias ex",
+      "number": "223",
+      "number_value": 223,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/223-66429.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/223-66429.webp",
+      "image_status": "front",
+      "image_sha256": "d3a02332b2343a13934d4eab066253da1a988655606000a01c897be796a71be4",
+      "image_bytes": 33740,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 223
+    },
+    {
+      "id": 66430,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Palossand ex",
+      "number": "224",
+      "number_value": 224,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/224-66430.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/224-66430.webp",
+      "image_status": "front",
+      "image_sha256": "b245ff9ce5214f1647ac66dd0f6d033ad971509b6f0c6456bd8f0949cc56154c",
+      "image_bytes": 45840,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 224
+    },
+    {
+      "id": 66431,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Flygon ex",
+      "number": "225",
+      "number_value": 225,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/225-66431.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/225-66431.webp",
+      "image_status": "front",
+      "image_sha256": "379cf53a579aa23e512bd0dc8fcb023ce71ac426426695d96e867ddc3cb706bf",
+      "image_bytes": 47042,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 225
+    },
+    {
+      "id": 66432,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Hydreigon ex",
+      "number": "226",
+      "number_value": 226,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/226-66432.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/226-66432.webp",
+      "image_status": "front",
+      "image_sha256": "e7a3dadc9a7c28bc2322bfee4135a8697a4d6728b742abb9ca2a5caaa098f26a",
+      "image_bytes": 48228,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 226
+    },
+    {
+      "id": 66433,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Archaludon ex",
+      "number": "227",
+      "number_value": 227,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/227-66433.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/227-66433.webp",
+      "image_status": "front",
+      "image_sha256": "cb53ecb3595ced4edcf76ce2e1e9000c8e01f42dea916c883c0225797a1ad21a",
+      "image_bytes": 38710,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 227
+    },
+    {
+      "id": 66434,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Alolan Exeggutor ex",
+      "number": "228",
+      "number_value": 228,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/228-66434.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/228-66434.webp",
+      "image_status": "front",
+      "image_sha256": "61c3d9637144f21c4ecacca214c2af9fc87ba8ccbf2a9aedd13b0892971a9ac2",
+      "image_bytes": 43850,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 228
+    },
+    {
+      "id": 66435,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Tatsugiri ex",
+      "number": "229",
+      "number_value": 229,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/229-66435.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/229-66435.webp",
+      "image_status": "front",
+      "image_sha256": "b2d2782db8eb8dab3e5ce78b71de765558651419581224a4df61fa7988148f56",
+      "image_bytes": 43218,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 229
+    },
+    {
+      "id": 66436,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Slaking ex",
+      "number": "230",
+      "number_value": 230,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/230-66436.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/230-66436.webp",
+      "image_status": "front",
+      "image_sha256": "8ac62bc8c2c558e651d30ac75f91801c5698dcd8dcff4e79039d72de599971d1",
+      "image_bytes": 33850,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 230
+    },
+    {
+      "id": 66437,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Cyclizar ex",
+      "number": "231",
+      "number_value": 231,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/231-66437.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/231-66437.webp",
+      "image_status": "front",
+      "image_sha256": "7a1b39d942660d1c7983acb99912204929d4a2db9cefe4e7a6e968d79537ccc0",
+      "image_bytes": 45704,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 231
+    },
+    {
+      "id": 66405,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Terapagos ex",
+      "number": "232",
+      "number_value": 232,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/232-66405.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/232-66405.webp",
+      "image_status": "front",
+      "image_sha256": "bffb24c9595c78b40b38286214fa18b8617a2dc719d01788705cc6b7da3b599d",
+      "image_bytes": 48388,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 232
+    },
+    {
+      "id": 66417,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Crispin",
+      "number": "233",
+      "number_value": 233,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/233-66417.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/233-66417.webp",
+      "image_status": "front",
+      "image_sha256": "59c70dcd1473450b9a3cc51c87cb38b19a661e07c4e315fa04797b9837102a3b",
+      "image_bytes": 35722,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 233
+    },
+    {
+      "id": 66441,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Drayton",
+      "number": "234",
+      "number_value": 234,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/234-66441.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/234-66441.webp",
+      "image_status": "front",
+      "image_sha256": "474b9f6be9195ee32962183b9c33970dee9365763284c0eba705591c80bb581b",
+      "image_bytes": 34816,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 234
+    },
+    {
+      "id": 66439,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Cyrano",
+      "number": "235",
+      "number_value": 235,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/235-66439.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/235-66439.webp",
+      "image_status": "front",
+      "image_sha256": "7e237c1e7911588297fce15bd5afc3106fcf5409b8f86b1ffc490ad0fcfa335f",
+      "image_bytes": 32698,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 235
+    },
+    {
+      "id": 66438,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Clemont's Quick Wit",
+      "number": "236",
+      "number_value": 236,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/236-66438.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/236-66438.webp",
+      "image_status": "front",
+      "image_sha256": "68ce97117e9782daa5ad6a7aedf17474391d128f18459cca5ba4492c1dd38d3a",
+      "image_bytes": 34290,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 236
+    },
+    {
+      "id": 66418,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Lacey",
+      "number": "237",
+      "number_value": 237,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/237-66418.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/237-66418.webp",
+      "image_status": "front",
+      "image_sha256": "d0fe360431620ac3f95008d20aadfe389f28257fe55ca957481a45f098b902dd",
+      "image_bytes": 39442,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 237
+    },
+    {
+      "id": 66440,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Drasna",
+      "number": "238",
+      "number_value": 238,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/238-66440.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/238-66440.webp",
+      "image_status": "front",
+      "image_sha256": "2819da7399a1084d0156bb7fc5b01961f58a512d39009edaed779f78711fd18b",
+      "image_bytes": 34308,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 238
+    },
+    {
+      "id": 66416,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Briar",
+      "number": "239",
+      "number_value": 239,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/239-66416.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/239-66416.webp",
+      "image_status": "front",
+      "image_sha256": "32dc6dd30665ba2cf22a3dc0711ca14de9e1663a0b10516f515c6a379440906a",
+      "image_bytes": 38010,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 239
+    },
+    {
+      "id": 66442,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Jasmine's Gaze",
+      "number": "240",
+      "number_value": 240,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/240-66442.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/240-66442.webp",
+      "image_status": "front",
+      "image_sha256": "2e50cb4304e8896b69fda6095526006f98ebd684fa87831345209045d8ef8b2d",
+      "image_bytes": 30286,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 240
+    },
+    {
+      "id": 66443,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Lisia's Appeal",
+      "number": "241",
+      "number_value": 241,
+      "printed_total": 208,
+      "rarity": "Super Rare (SR)",
+      "image_path": "images/cards/11812/241-66443.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/241-66443.webp",
+      "image_status": "front",
+      "image_sha256": "d7d90a8ae647b1fbd265b1708dfd5a75212c72e265d1b4ce724f766e58bbc1cf",
+      "image_bytes": 36598,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 241
+    },
+    {
+      "id": 66444,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Durant ex",
+      "number": "242",
+      "number_value": 242,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/242-66444.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/242-66444.webp",
+      "image_status": "front",
+      "image_sha256": "c1ca4989938362cb6557e213c07ed143143515fd7d61af3c15f289c12d2cb13a",
+      "image_bytes": 42938,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 242
+    },
+    {
+      "id": 66461,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Sinistcha ex",
+      "number": "243",
+      "number_value": 243,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/243-66461.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/243-66461.webp",
+      "image_status": "front",
+      "image_sha256": "09e590951d1c2987c48fa072acbb6881e5b595ef55e6b626a899ad7c1c048478",
+      "image_bytes": 44556,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 243
+    },
+    {
+      "id": 66419,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Hydrapple ex",
+      "number": "244",
+      "number_value": 244,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/244-66419.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/244-66419.webp",
+      "image_status": "front",
+      "image_sha256": "cc44ef932912fa65020b86d74c65ee21b3908e161c210f68a59d5ecfa0d1f5ff",
+      "image_bytes": 52402,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 244
+    },
+    {
+      "id": 66445,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Pikachu ex",
+      "number": "245",
+      "number_value": 245,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/245-66445.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/245-66445.webp",
+      "image_status": "front",
+      "image_sha256": "eaed66f119be76eafaed736d921d05c5d065b55b7fe0baa0a5fdc1f1ca40af68",
+      "image_bytes": 41104,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 245
+    },
+    {
+      "id": 66420,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Galvantula ex",
+      "number": "246",
+      "number_value": 246,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/246-66420.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/246-66420.webp",
+      "image_status": "front",
+      "image_sha256": "72500e90b11f59739aef04b4862deca097d71dfae2b944b97072ce606c092463",
+      "image_bytes": 47652,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 246
+    },
+    {
+      "id": 66446,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Latias ex",
+      "number": "247",
+      "number_value": 247,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/247-66446.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/247-66446.webp",
+      "image_status": "front",
+      "image_sha256": "8e3039181eefed8b2e4d0e8fa61ba1a521587f6dd35b8ce33b7924de333ff075",
+      "image_bytes": 35698,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 247
+    },
+    {
+      "id": 66447,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Hydreigon ex",
+      "number": "248",
+      "number_value": 248,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/248-66447.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/248-66447.webp",
+      "image_status": "front",
+      "image_sha256": "19b0d726d6d16f8f2d49a54ec6d30c87ee8bd7a0f14b282987fb10f33f2b2bc8",
+      "image_bytes": 49618,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 248
+    },
+    {
+      "id": 66448,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Archaludon ex",
+      "number": "249",
+      "number_value": 249,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/249-66448.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/249-66448.webp",
+      "image_status": "front",
+      "image_sha256": "3570e167a5212608cb1636382855c3c96717662ee51ee2f4dc959c3dff158fc0",
+      "image_bytes": 45850,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 249
+    },
+    {
+      "id": 66449,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Alolan Exeggutor ex",
+      "number": "250",
+      "number_value": 250,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/250-66449.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/250-66449.webp",
+      "image_status": "front",
+      "image_sha256": "dd216488066be9dda672bb359bb735725bb55bfa86ee91f545c062ceb5c215d2",
+      "image_bytes": 49304,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 250
+    },
+    {
+      "id": 66421,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Terapagos ex",
+      "number": "251",
+      "number_value": 251,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/251-66421.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/251-66421.webp",
+      "image_status": "front",
+      "image_sha256": "51c5a08f1e1d9be8f926fb2bb1a8ea4421e3d8c4882b03ba19fa137b91d2e3fa",
+      "image_bytes": 54654,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 251
+    },
+    {
+      "id": 66451,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Drayton",
+      "number": "252",
+      "number_value": 252,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/252-66451.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/252-66451.webp",
+      "image_status": "front",
+      "image_sha256": "5a07f3d416db151a2995a984133ed2bed4a094c64419053633b631a542f12da2",
+      "image_bytes": 39808,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 252
+    },
+    {
+      "id": 66450,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Clemont's Quick Wit",
+      "number": "253",
+      "number_value": 253,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/253-66450.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/253-66450.webp",
+      "image_status": "front",
+      "image_sha256": "814178fb1e69c21d11a7ffaf4ca8a3aa5b4278bf54a35c0eb3f770596911c6e1",
+      "image_bytes": 37868,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 253
+    },
+    {
+      "id": 66423,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Lacey",
+      "number": "254",
+      "number_value": 254,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/254-66423.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/254-66423.webp",
+      "image_status": "front",
+      "image_sha256": "6a05fb2d1da96ebfa43226bb32d1e5e45bd34904fc10993312191ebe1fc79872",
+      "image_bytes": 42782,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 254
+    },
+    {
+      "id": 66422,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Briar",
+      "number": "255",
+      "number_value": 255,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/255-66422.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/255-66422.webp",
+      "image_status": "front",
+      "image_sha256": "6f327b12d823256b75fa9273569e510df4712fcdc6af65773cc6b8e06ec216c5",
+      "image_bytes": 37582,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 255
+    },
+    {
+      "id": 66452,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Jasmine's Gaze",
+      "number": "256",
+      "number_value": 256,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/256-66452.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/256-66452.webp",
+      "image_status": "front",
+      "image_sha256": "0cab135566836479827b40263f5b9408f1a1387df6a979e28478f43a4c5f1bdb",
+      "image_bytes": 33200,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 256
+    },
+    {
+      "id": 66453,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Lisia's Appeal",
+      "number": "257",
+      "number_value": 257,
+      "printed_total": 208,
+      "rarity": "Special Art Rare (SAR)",
+      "image_path": "images/cards/11812/257-66453.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/257-66453.webp",
+      "image_status": "front",
+      "image_sha256": "cd10d4a32fe0a168ead1ddf94a0ae22087c03a9bbe3dd14b07f406d35138fbbc",
+      "image_bytes": 36296,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 257
+    },
+    {
+      "id": 66403,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Cinderace ex",
+      "number": "258",
+      "number_value": 258,
+      "printed_total": 208,
+      "rarity": "Ultra Rare (UR)",
+      "image_path": "images/cards/11812/258-66403.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/258-66403.webp",
+      "image_status": "front",
+      "image_sha256": "03f9f8881d1a5eb5428bc96870848b2cc7d283bcf27fd2849099a5f2f464a41d",
+      "image_bytes": 46968,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 258
+    },
+    {
+      "id": 66404,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Lapras ex",
+      "number": "259",
+      "number_value": 259,
+      "printed_total": 208,
+      "rarity": "Ultra Rare (UR)",
+      "image_path": "images/cards/11812/259-66404.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/259-66404.webp",
+      "image_status": "front",
+      "image_sha256": "80e5214c745dc857f31ce132de546b06dca99abc175e01783d6a2d031a05df35",
+      "image_bytes": 44332,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 259
+    },
+    {
+      "id": 66454,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Pikachu ex",
+      "number": "260",
+      "number_value": 260,
+      "printed_total": 208,
+      "rarity": "Ultra Rare (UR)",
+      "image_path": "images/cards/11812/260-66454.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/260-66454.webp",
+      "image_status": "front",
+      "image_sha256": "79ea53c2f3843eda9cf148d32fc623e2a348b9e09ad10fb7bdae92c01514156a",
+      "image_bytes": 46012,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 260
+    },
+    {
+      "id": 66455,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Alolan Exeggutor ex",
+      "number": "261",
+      "number_value": 261,
+      "printed_total": 208,
+      "rarity": "Ultra Rare (UR)",
+      "image_path": "images/cards/11812/261-66455.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/261-66455.webp",
+      "image_status": "front",
+      "image_sha256": "1c129b843cc324a276563d6d0d444eacfe95ea10e8d78fea15245c57f9f1960f",
+      "image_bytes": 46800,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 261
+    },
+    {
+      "id": 66424,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Terapagos ex",
+      "number": "262",
+      "number_value": 262,
+      "printed_total": 208,
+      "rarity": "Ultra Rare (UR)",
+      "image_path": "images/cards/11812/262-66424.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/262-66424.webp",
+      "image_status": "front",
+      "image_sha256": "cb6a248125f2da035a360118e759847ceb15184ee58ed381cc09d59fc452b641",
+      "image_bytes": 49280,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 262
+    },
+    {
+      "id": 66457,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Night Stretcher",
+      "number": "263",
+      "number_value": 263,
+      "printed_total": 208,
+      "rarity": "Ultra Rare (UR)",
+      "image_path": "images/cards/11812/263-66457.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/263-66457.webp",
+      "image_status": "front",
+      "image_sha256": "c6f9810b8cef7fe108ba56201295b3585503700ec3866388b64f4d784d162189",
+      "image_bytes": 36352,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 263
+    },
+    {
+      "id": 66456,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Counter Gain",
+      "number": "264",
+      "number_value": 264,
+      "printed_total": 208,
+      "rarity": "Ultra Rare (UR)",
+      "image_path": "images/cards/11812/264-66456.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/264-66456.webp",
+      "image_status": "front",
+      "image_sha256": "ccf56d662a9f8d5f479bc1130bb6bc9d025dc22a0a1eaffb6959142c3663cb24",
+      "image_bytes": 37720,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 264
+    },
+    {
+      "id": 66408,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Powerglass",
+      "number": "265",
+      "number_value": 265,
+      "printed_total": 208,
+      "rarity": "Ultra Rare (UR)",
+      "image_path": "images/cards/11812/265-66408.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/265-66408.webp",
+      "image_status": "front",
+      "image_sha256": "e008cead68e9438a40c5736033c84f96a0f4c13f348662f98d8325ec85939054",
+      "image_bytes": 38422,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 265
+    },
+    {
+      "id": 66425,
+      "set_id": 11812,
+      "set_ids": [
+        11812
+      ],
+      "language": "zh",
+      "name": "Area Zero Underdepths",
+      "number": "266",
+      "number_value": 266,
+      "printed_total": 208,
+      "rarity": "Ultra Rare (UR)",
+      "image_path": "images/cards/11812/266-66425.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11812/266-66425.webp",
+      "image_status": "front",
+      "image_sha256": "b6704377f1ba63a166c971ee7e9eef3a3ef9880e2e199c44729eec661c214bb3",
+      "image_bytes": 47154,
+      "scraped_at": "2026-10-23T04:22:54Z",
+      "position": 266
+    }
+  ]
+}

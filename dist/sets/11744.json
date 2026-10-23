@@ -1,0 +1,203 @@
+{
+  "set": {
+    "id": 11744,
+    "language": "zh",
+    "name": "Eevee Advanced Gift Boxes",
+    "code": "CSHC",
+    "series": "Sword & Shield Series",
+    "release_date": "2024-04-26",
+    "date_text": "Apr 26, 2024",
+    "card_count": 9,
+    "released": true,
+    "logo_path": "images/sets/11744-logo.webp",
+    "symbol_path": "images/sets/11744-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11744-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11744-symbol.webp",
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11744-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11744-symbol.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 9
+  },
+  "cards": [
+    {
+      "id": 59223,
+      "set_id": 11744,
+      "set_ids": [
+        11744
+      ],
+      "language": "zh",
+      "name": "Flareon V",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 9,
+      "rarity": null,
+      "image_path": "images/cards/11744/001-59223.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11744/001-59223.webp",
+      "image_status": "front",
+      "image_sha256": "b5aa6d67b3a28d37aab730ea8ff12f440cfc04e2ddd4aff7f7e59a97fbb541a4",
+      "image_bytes": 35926,
+      "scraped_at": "2026-10-23T04:24:04Z",
+      "position": 1
+    },
+    {
+      "id": 59220,
+      "set_id": 11744,
+      "set_ids": [
+        11744
+      ],
+      "language": "zh",
+      "name": "Flareon VMAX",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 9,
+      "rarity": null,
+      "image_path": "images/cards/11744/002-59220.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11744/002-59220.webp",
+      "image_status": "front",
+      "image_sha256": "2413d7a1e542179dad0d14a54dac7da65a74ea3fc41d1a60eced6d81cc9d82e3",
+      "image_bytes": 43584,
+      "scraped_at": "2026-10-23T04:24:04Z",
+      "position": 2
+    },
+    {
+      "id": 59226,
+      "set_id": 11744,
+      "set_ids": [
+        11744
+      ],
+      "language": "zh",
+      "name": "Flareon VMAX",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 9,
+      "rarity": null,
+      "image_path": "images/cards/11744/003-59226.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11744/003-59226.webp",
+      "image_status": "front",
+      "image_sha256": "ffc6de1409f916cd751e2a828cc7060f34d093597f6359f082a5af8b4bbec15f",
+      "image_bytes": 53854,
+      "scraped_at": "2026-10-23T04:24:04Z",
+      "position": 3
+    },
+    {
+      "id": 59224,
+      "set_id": 11744,
+      "set_ids": [
+        11744
+      ],
+      "language": "zh",
+      "name": "Vaporeon V",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 9,
+      "rarity": null,
+      "image_path": "images/cards/11744/004-59224.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11744/004-59224.webp",
+      "image_status": "front",
+      "image_sha256": "64ac03fab10e93be0511706c5f8065355158ab2559023becbce83b900d6f22e5",
+      "image_bytes": 39968,
+      "scraped_at": "2026-10-23T04:24:04Z",
+      "position": 4
+    },
+    {
+      "id": 59221,
+      "set_id": 11744,
+      "set_ids": [
+        11744
+      ],
+      "language": "zh",
+      "name": "Vaporeon VMAX",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 9,
+      "rarity": null,
+      "image_path": "images/cards/11744/005-59221.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11744/005-59221.webp",
+      "image_status": "front",
+      "image_sha256": "0cb87f595fe6dd3447b8ff7b50034caf2998d212a7bcd0857a05e39731565cb8",
+      "image_bytes": 46752,
+      "scraped_at": "2026-10-23T04:24:04Z",
+      "position": 5
+    },
+    {
+      "id": 59227,
+      "set_id": 11744,
+      "set_ids": [
+        11744
+      ],
+      "language": "zh",
+      "name": "Vaporeon VMAX",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 9,
+      "rarity": null,
+      "image_path": "images/cards/11744/006-59227.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11744/006-59227.webp",
+      "image_status": "front",
+      "image_sha256": "d976baed43ef7385e4d83818266b5730c5f03533b928ffb4e1241ce85bbdfb43",
+      "image_bytes": 57340,
+      "scraped_at": "2026-10-23T04:24:04Z",
+      "position": 6
+    },
+    {
+      "id": 59225,
+      "set_id": 11744,
+      "set_ids": [
+        11744
+      ],
+      "language": "zh",
+      "name": "Jolteon V",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 9,
+      "rarity": null,
+      "image_path": "images/cards/11744/007-59225.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11744/007-59225.webp",
+      "image_status": "front",
+      "image_sha256": "36f7fec86ebabba691a67d6c901e8f292c2853c038d5007dc3a32aa39aa27ba1",
+      "image_bytes": 39298,
+      "scraped_at": "2026-10-23T04:24:04Z",
+      "position": 7
+    },
+    {
+      "id": 59222,
+      "set_id": 11744,
+      "set_ids": [
+        11744
+      ],
+      "language": "zh",
+      "name": "Jolteon VMAX",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 9,
+      "rarity": null,
+      "image_path": "images/cards/11744/008-59222.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11744/008-59222.webp",
+      "image_status": "front",
+      "image_sha256": "b2dfb23102ba57eb3030cc6026c3d1dacea47d747e952a352882c91cd3ad0b05",
+      "image_bytes": 47332,
+      "scraped_at": "2026-10-23T04:24:04Z",
+      "position": 8
+    },
+    {
+      "id": 59228,
+      "set_id": 11744,
+      "set_ids": [
+        11744
+      ],
+      "language": "zh",
+      "name": "Jolteon VMAX",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 9,
+      "rarity": null,
+      "image_path": "images/cards/11744/009-59228.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11744/009-59228.webp",
+      "image_status": "front",
+      "image_sha256": "0076103afb7aba7b7a1450fa77b4107c92aec5a6b2a6a39c441a8ae83a25dca9",
+      "image_bytes": 56110,
+      "scraped_at": "2026-10-23T04:24:04Z",
+      "position": 9
+    }
+  ]
+}

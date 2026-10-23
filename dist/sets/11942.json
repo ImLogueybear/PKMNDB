@@ -1,0 +1,643 @@
+{
+  "set": {
+    "id": 11942,
+    "language": "zh",
+    "name": "Master Strategy Deck Building Set (Raging Bolt ex)",
+    "code": "CSVM2aC",
+    "series": "Scarlet & Violet Series",
+    "release_date": "2026-07-16",
+    "date_text": "Jul 16, 2026",
+    "card_count": 31,
+    "released": true,
+    "logo_path": "images/sets/11942-logo.webp",
+    "symbol_path": "images/sets/11942-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11942-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11942-symbol.webp",
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11942-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11942-symbol.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 31
+  },
+  "cards": [
+    {
+      "id": 76533,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Teal Mask Ogerpon ex",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/001-76533.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/001-76533.webp",
+      "image_status": "front",
+      "image_sha256": "86158bd2c3982bf7d553ad0dbee69887c86873f0a9214227658bc115b6554b2d",
+      "image_bytes": 49280,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 1
+    },
+    {
+      "id": 76520,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Iron Bundle",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/002-76520.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/002-76520.webp",
+      "image_status": "front",
+      "image_sha256": "6e48a8393909e8e0a520ac1fbe9dcd0adc425ef39233f69433bca0ce4e1595b8",
+      "image_bytes": 39044,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 2
+    },
+    {
+      "id": 76530,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Chien-Pao",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/003-76530.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/003-76530.webp",
+      "image_status": "front",
+      "image_sha256": "136108751240b2fac15adc1a7ab69683cf6ed332c112ccd31440b4e3d877db53",
+      "image_bytes": 32360,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 3
+    },
+    {
+      "id": 76513,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Slither Wing",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/004-76513.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/004-76513.webp",
+      "image_status": "front",
+      "image_sha256": "4a55bdcae18260a962512754c5ccec4c30be884f04085e0862ee03fbddc58de4",
+      "image_bytes": 40688,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 4
+    },
+    {
+      "id": 76531,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Koraidon",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/005-76531.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/005-76531.webp",
+      "image_status": "front",
+      "image_sha256": "59e391985fcbbe37ab588120ada0b23a3ddaab48d42c91351494683bd2dc40fd",
+      "image_bytes": 40386,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 5
+    },
+    {
+      "id": 76524,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Fezandipiti ex",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/006-76524.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/006-76524.webp",
+      "image_status": "front",
+      "image_sha256": "306ec7b1dc07302a18840bef729903705ba6479247057bc3ce50260cd833621a",
+      "image_bytes": 40198,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 6
+    },
+    {
+      "id": 76526,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Raging Bolt",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/007-76526.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/007-76526.webp",
+      "image_status": "front",
+      "image_sha256": "5584dab00a4fbe8420638748333c5954b5c3c0af74ec4e5845a410db4a26b809",
+      "image_bytes": 36562,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 7
+    },
+    {
+      "id": 76532,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Raging Bolt ex",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/008-76532.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/008-76532.webp",
+      "image_status": "front",
+      "image_sha256": "8636e5fa09fae401ff5eaa7e72ea4eea74580b107e0e51d823e4867d1f6469a2",
+      "image_bytes": 41560,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 8
+    },
+    {
+      "id": 76519,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Ditto",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/009-76519.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/009-76519.webp",
+      "image_status": "front",
+      "image_sha256": "6d483fa904c15252ec8e08d7ddc5c9298ff7bef8ea6120086dbda31f616b8693",
+      "image_bytes": 30046,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 9
+    },
+    {
+      "id": 76527,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Hoothoot",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/010-76527.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/010-76527.webp",
+      "image_status": "front",
+      "image_sha256": "9f079e1d37ca48e6198d9ecaf15a95e65c0449bcd681baa9ce5e2a42655cfeb0",
+      "image_bytes": 25536,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 10
+    },
+    {
+      "id": 76528,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Noctowl",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/011-76528.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/011-76528.webp",
+      "image_status": "front",
+      "image_sha256": "14c320ab6583273fc288526a3a0ea0800f906f710e072f4cf80880c71156a7ff",
+      "image_bytes": 27024,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 11
+    },
+    {
+      "id": 76529,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Fan Rotom",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/012-76529.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/012-76529.webp",
+      "image_status": "front",
+      "image_sha256": "30dad76d25d1d8ca473640c445a459af1f86fb800b4eb6fa5c7f9eb7b1de5d66",
+      "image_bytes": 29790,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 12
+    },
+    {
+      "id": 76535,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Energy Retrieval",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/013-76535.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/013-76535.webp",
+      "image_status": "front",
+      "image_sha256": "e021795632b933230edcd1b42b51e3882425732dd7cce194d5484202cf7763ec",
+      "image_bytes": 19964,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 13
+    },
+    {
+      "id": 76521,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Energy Switch",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/014-76521.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/014-76521.webp",
+      "image_status": "front",
+      "image_sha256": "aed012046318c320ca7dc19820e745f7053010c144cd188aac75ef32a61c9786",
+      "image_bytes": 19664,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 14
+    },
+    {
+      "id": 76514,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Counter Catcher",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/015-76514.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/015-76514.webp",
+      "image_status": "front",
+      "image_sha256": "f00326bf5b9df8769fa2beda75d934681213bc449395ee3dc166f98c7193e711",
+      "image_bytes": 21932,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 15
+    },
+    {
+      "id": 76509,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Superior Energy Retrieval",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/016-76509.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/016-76509.webp",
+      "image_status": "front",
+      "image_sha256": "1c168c92188deeecd874875bd566ee035d33abebf9cf1f67811b34b24816db25",
+      "image_bytes": 26788,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 16
+    },
+    {
+      "id": 76516,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Earthen Vessel",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/017-76516.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/017-76516.webp",
+      "image_status": "front",
+      "image_sha256": "b3303bde02fb17a6fe22a2b7d93c2aa52d8c6090d1076a9f81bea51260f8c1fb",
+      "image_bytes": 28316,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 17
+    },
+    {
+      "id": 76511,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Nest Ball",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/018-76511.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/018-76511.webp",
+      "image_status": "front",
+      "image_sha256": "388a5c17d52745c73ae34512bba15d9f8b87eceee7669eccdab0fa394bf2545c",
+      "image_bytes": 16234,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 18
+    },
+    {
+      "id": 76512,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Ultra Ball",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/019-76512.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/019-76512.webp",
+      "image_status": "front",
+      "image_sha256": "a3b4e6c8160eaeec96399fef3b7cb9630d838d259fc3858467955ca58aca904d",
+      "image_bytes": 18620,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 19
+    },
+    {
+      "id": 76522,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Picnic Basket",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/020-76522.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/020-76522.webp",
+      "image_status": "front",
+      "image_sha256": "8f1b98c38a24e5b5352edf1919abdd2d9bbc31ccce8bc9ee5ca20d012e548529",
+      "image_bytes": 19986,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 20
+    },
+    {
+      "id": 76517,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Prime Catcher",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/021-76517.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/021-76517.webp",
+      "image_status": "front",
+      "image_sha256": "7e0ce6a33252976774d218867d88d547aa604addf7edaa04b06f49236bbbad02",
+      "image_bytes": 35972,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 21
+    },
+    {
+      "id": 76523,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Switch",
+      "number": "022",
+      "number_value": 22,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/022-76523.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/022-76523.webp",
+      "image_status": "front",
+      "image_sha256": "34ddc0f542929f678701fb204c805b6ed8f809f6e55568744901f32f1a020da9",
+      "image_bytes": 20206,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 22
+    },
+    {
+      "id": 76525,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Night Stretcher",
+      "number": "023",
+      "number_value": 23,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/023-76525.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/023-76525.webp",
+      "image_status": "front",
+      "image_sha256": "b50fae6863c58d23deaa10a3c960197466069ee9a30cc3b7f65b2762471b16ee",
+      "image_bytes": 16138,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 23
+    },
+    {
+      "id": 76508,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Bravery Charm",
+      "number": "024",
+      "number_value": 24,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/024-76508.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/024-76508.webp",
+      "image_status": "front",
+      "image_sha256": "9f3c2ecc01fbe052253431fb8d42ead14f225aa78373b8014a21621c7e49c686",
+      "image_bytes": 19220,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 24
+    },
+    {
+      "id": 76536,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Crispin",
+      "number": "025",
+      "number_value": 25,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/025-76536.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/025-76536.webp",
+      "image_status": "front",
+      "image_sha256": "6a504a0addd4370e8a7a56751f49daf0c7e9044e932f6e366adac3ab1d374ed6",
+      "image_bytes": 24312,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 25
+    },
+    {
+      "id": 76518,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Professor Sada's Vitality",
+      "number": "026",
+      "number_value": 26,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/026-76518.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/026-76518.webp",
+      "image_status": "front",
+      "image_sha256": "075a73176ae8fbd0b2ce259cd76da93265f91667c339cfe47f8dca688ade1490",
+      "image_bytes": 27674,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 26
+    },
+    {
+      "id": 76506,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Judge",
+      "number": "027",
+      "number_value": 27,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/027-76506.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/027-76506.webp",
+      "image_status": "front",
+      "image_sha256": "0cbcb384c4d0d4c8a54a33f5cb5e9a5dd518759338703a0455b5b8213baf1f7c",
+      "image_bytes": 23496,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 27
+    },
+    {
+      "id": 76510,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Iono",
+      "number": "028",
+      "number_value": 28,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/028-76510.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/028-76510.webp",
+      "image_status": "front",
+      "image_sha256": "86221cbfb26d9deb365d3bb01e5c1390a6d1065c795a1f34f43190a7dfd03848",
+      "image_bytes": 23642,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 28
+    },
+    {
+      "id": 76507,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Boss's Orders",
+      "number": "029",
+      "number_value": 29,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/029-76507.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/029-76507.webp",
+      "image_status": "front",
+      "image_sha256": "63fac0d2f73ac814e9549730a993a6ea388fecac9a5fa2c9652b16c572319ef4",
+      "image_bytes": 22454,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 29
+    },
+    {
+      "id": 76534,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Jamming Tower",
+      "number": "030",
+      "number_value": 30,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/030-76534.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/030-76534.webp",
+      "image_status": "front",
+      "image_sha256": "f7bca52765df0ca1b08c363a5008aa8fb1ba5b526589c0ca1591ea8db3b3498a",
+      "image_bytes": 26714,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 30
+    },
+    {
+      "id": 76515,
+      "set_id": 11942,
+      "set_ids": [
+        11942
+      ],
+      "language": "zh",
+      "name": "Area Zero Underdepths",
+      "number": "031",
+      "number_value": 31,
+      "printed_total": 31,
+      "rarity": null,
+      "image_path": "images/cards/11942/031-76515.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11942/031-76515.webp",
+      "image_status": "front",
+      "image_sha256": "a94d86bad6f35ebc27972449bbd3888f7821e005c2ce618a42d26dde308cb933",
+      "image_bytes": 28924,
+      "scraped_at": "2026-10-23T04:22:45Z",
+      "position": 31
+    }
+  ]
+}

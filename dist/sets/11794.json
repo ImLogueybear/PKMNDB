@@ -1,0 +1,683 @@
+{
+  "set": {
+    "id": 11794,
+    "language": "zh",
+    "name": "Master Strategy Deck Building Set (Gardevoir ex)",
+    "code": "CSVM1bC",
+    "series": "Scarlet & Violet Series",
+    "release_date": "2026-01-16",
+    "date_text": "Jan 16, 2026",
+    "card_count": 33,
+    "released": true,
+    "logo_path": "images/sets/11794-logo.webp",
+    "symbol_path": "images/sets/11794-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11794-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11794-symbol.webp",
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11794-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11794-symbol.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 33
+  },
+  "cards": [
+    {
+      "id": 55014,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Lumineon V",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/001-55014.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/001-55014.webp",
+      "image_status": "front",
+      "image_sha256": "184e4517de1d0d6c49b94c962bda02305aac6a69636e0bbe2a1a1b6bc240aae0",
+      "image_bytes": 36830,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 1
+    },
+    {
+      "id": 55015,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Manaphy",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/002-55015.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/002-55015.webp",
+      "image_status": "front",
+      "image_sha256": "3ee37add6b4b0c055a7e5a4a8712d0fac7f33c442532a5f7dc50d2a2082ea35a",
+      "image_bytes": 28048,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 2
+    },
+    {
+      "id": 55012,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Radiant Greninja",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/003-55012.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/003-55012.webp",
+      "image_status": "front",
+      "image_sha256": "a8d1ee173213316b43fdad93044eea822a2eb2a0116fed5ff22294715f5523e6",
+      "image_bytes": 37654,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 3
+    },
+    {
+      "id": 55034,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Mew ex",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/004-55034.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/004-55034.webp",
+      "image_status": "front",
+      "image_sha256": "1829a9325f3b92e5f6074cedeacc4a3c695fc40569cdd0b6e5e89f1e9827a41f",
+      "image_bytes": 36058,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 4
+    },
+    {
+      "id": 55013,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Ralts",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/005-55013.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/005-55013.webp",
+      "image_status": "front",
+      "image_sha256": "a95a28d7540423ae60638db1fd659561f84ad01b4c7c854cfe7abb7e3eb1fe97",
+      "image_bytes": 27894,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 5
+    },
+    {
+      "id": 55042,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Kirlia",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/006-55042.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/006-55042.webp",
+      "image_status": "front",
+      "image_sha256": "9787efa4adfd5728c113643387236762307e6a8928768ef94a458a2a5ce9943a",
+      "image_bytes": 29878,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 6
+    },
+    {
+      "id": 55035,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Gardevoir ex",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/007-55035.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/007-55035.webp",
+      "image_status": "front",
+      "image_sha256": "042afdc2b3c204ee5a67c3948ff5f556a5d3af4395ccb42ba2884034d505e667",
+      "image_bytes": 36422,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 7
+    },
+    {
+      "id": 55036,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Drifloon",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/008-55036.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/008-55036.webp",
+      "image_status": "front",
+      "image_sha256": "cccd53dbac1c4414450091c2f86ac211c14b50f2853d4551e5ea42210a72aee2",
+      "image_bytes": 23070,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 8
+    },
+    {
+      "id": 55017,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Cresselia",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/009-55017.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/009-55017.webp",
+      "image_status": "front",
+      "image_sha256": "4fc363ead4c9fe997bcca7d4a763aca296c1fddc41d7bbef8429c1cd448f7a07",
+      "image_bytes": 25312,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 9
+    },
+    {
+      "id": 55019,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Mimikyu",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/010-55019.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/010-55019.webp",
+      "image_status": "front",
+      "image_sha256": "968bc1dee19719fc260e4ff833895e5eab278e42e0de935e15d0be18cb2757a4",
+      "image_bytes": 28874,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 10
+    },
+    {
+      "id": 55027,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Scream Tail",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/011-55027.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/011-55027.webp",
+      "image_status": "front",
+      "image_sha256": "3f455e3890314462980418098a120d576cf1c93035461626c0aaf00c57a821f0",
+      "image_bytes": 34588,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 11
+    },
+    {
+      "id": 55043,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Flutter Mane",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/012-55043.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/012-55043.webp",
+      "image_status": "front",
+      "image_sha256": "b77cfa0f1a1d0fa5da294913b6b5117a36039a3196981c1b2bd7e0dbbfc999f7",
+      "image_bytes": 34264,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 12
+    },
+    {
+      "id": 55028,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Jirachi",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/013-55028.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/013-55028.webp",
+      "image_status": "front",
+      "image_sha256": "501a46c39fed4c0b9d9580d0c31b2aabd844be9a74f3fd93910a115e43944f72",
+      "image_bytes": 25794,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 13
+    },
+    {
+      "id": 55020,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Squawkabilly ex",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/014-55020.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/014-55020.webp",
+      "image_status": "front",
+      "image_sha256": "3db9259f36a20dbf5b9b43b1d141c661b528dda3bda68f63616dd1cc52f192e2",
+      "image_bytes": 38008,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 14
+    },
+    {
+      "id": 55029,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Counter Catcher",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/015-55029.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/015-55029.webp",
+      "image_status": "front",
+      "image_sha256": "d4793c3221aa561456065d4b7c9c0fb3f46191a483294ba41aab6a670375b2a6",
+      "image_bytes": 21282,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 15
+    },
+    {
+      "id": 55025,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Super Rod",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/016-55025.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/016-55025.webp",
+      "image_status": "front",
+      "image_sha256": "05a6688d21caa1bf6337014d280a846f92cff11d552cdd7878610c2047b94b2c",
+      "image_bytes": 20430,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 16
+    },
+    {
+      "id": 55030,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Earthen Vessel",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/017-55030.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/017-55030.webp",
+      "image_status": "front",
+      "image_sha256": "0922c4c44cac862fdc83e0164bbd2995c9cb5b418cacf2b70ca025a32c6b8907",
+      "image_bytes": 27304,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 17
+    },
+    {
+      "id": 55044,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Buddy-Buddy Poffin",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/018-55044.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/018-55044.webp",
+      "image_status": "front",
+      "image_sha256": "b050d016bc783ba93126ca3e8e173a79e3182d5a57abe70fdc3609ea4fcd484c",
+      "image_bytes": 19760,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 18
+    },
+    {
+      "id": 55038,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Nest Ball",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/019-55038.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/019-55038.webp",
+      "image_status": "front",
+      "image_sha256": "d5f06fbec6f89a0a3bfaf6a75cadd507618a3134a418775a432a805e24a48673",
+      "image_bytes": 15858,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 19
+    },
+    {
+      "id": 55041,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Ultra Ball",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/020-55041.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/020-55041.webp",
+      "image_status": "front",
+      "image_sha256": "ee2671edc5a332883b7946ab584a7f16ec894bf1150fd42b35b1c9bd10a6072d",
+      "image_bytes": 17932,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 20
+    },
+    {
+      "id": 55040,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Rare Candy",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/021-55040.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/021-55040.webp",
+      "image_status": "front",
+      "image_sha256": "60ef721b771e688b2772c8bf2922032b77f18e5e446c5ecf4cadb05e76c74c27",
+      "image_bytes": 18886,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 21
+    },
+    {
+      "id": 55018,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Lost Vacuum",
+      "number": "022",
+      "number_value": 22,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/022-55018.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/022-55018.webp",
+      "image_status": "front",
+      "image_sha256": "b3a1b28ed8be8bcc13544587b8d73b82f79025ab2be8b6f34298ad1f8b658cdc",
+      "image_bytes": 22112,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 22
+    },
+    {
+      "id": 55031,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Luxurious Cape",
+      "number": "023",
+      "number_value": 23,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/023-55031.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/023-55031.webp",
+      "image_status": "front",
+      "image_sha256": "3378d34639a5feda7881bdd2e9e559e9e24c13959c42a8c837b08c3dc8f794cf",
+      "image_bytes": 22772,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 23
+    },
+    {
+      "id": 55023,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Bravery Charm",
+      "number": "024",
+      "number_value": 24,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/024-55023.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/024-55023.webp",
+      "image_status": "front",
+      "image_sha256": "35f17f2270807f5aa6bb1e88a521afde703157c37c18e0ef03522be6d058d304",
+      "image_bytes": 18576,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 24
+    },
+    {
+      "id": 55033,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Technical Machine: Evolution",
+      "number": "025",
+      "number_value": 25,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/025-55033.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/025-55033.webp",
+      "image_status": "front",
+      "image_sha256": "68c92f4f29753e090726ffebeb693fcf0e3ce3b06f0526815773498a57b507ae",
+      "image_bytes": 24158,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 25
+    },
+    {
+      "id": 55024,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Iono",
+      "number": "026",
+      "number_value": 26,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/026-55024.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/026-55024.webp",
+      "image_status": "front",
+      "image_sha256": "2bd0da81bed5a3cbebe5aea731177c27490081335bcc3e671dd64a171d3ae2a9",
+      "image_bytes": 22948,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 26
+    },
+    {
+      "id": 55039,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Professor's Research",
+      "number": "027",
+      "number_value": 27,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/027-55039.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/027-55039.webp",
+      "image_status": "front",
+      "image_sha256": "bf0d3380db0a6a0c62b1a3805cfa4736fe1b3c50be477395c96503fc60800262",
+      "image_bytes": 20766,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 27
+    },
+    {
+      "id": 55032,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Professor Turo's Scenario",
+      "number": "028",
+      "number_value": 28,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/028-55032.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/028-55032.webp",
+      "image_status": "front",
+      "image_sha256": "6513a2c31329c1f9e977a9f3a99ad3732bd90ebff97dccabe8086085bc2e0818",
+      "image_bytes": 25964,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 28
+    },
+    {
+      "id": 55037,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Arven",
+      "number": "029",
+      "number_value": 29,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/029-55037.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/029-55037.webp",
+      "image_status": "front",
+      "image_sha256": "ed676977b2b5791f50fb7edaa3a5f2c0c82dc785032decabb12e3b9e7dd71b9f",
+      "image_bytes": 23268,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 29
+    },
+    {
+      "id": 55022,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Boss's Orders",
+      "number": "030",
+      "number_value": 30,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/030-55022.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/030-55022.webp",
+      "image_status": "front",
+      "image_sha256": "f263bad4001d1b4e98741e5491789ed34ce3fa5978fadd252cb324c4b350d38d",
+      "image_bytes": 21614,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 30
+    },
+    {
+      "id": 55016,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Collapsed Stadium",
+      "number": "031",
+      "number_value": 31,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/031-55016.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/031-55016.webp",
+      "image_status": "front",
+      "image_sha256": "424c462d61fb682b80ac09d2feee2bd031739a389f8f983ca67aef0ba6b7cb19",
+      "image_bytes": 29510,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 31
+    },
+    {
+      "id": 55026,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Moonlit Hill",
+      "number": "032",
+      "number_value": 32,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/032-55026.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/032-55026.webp",
+      "image_status": "front",
+      "image_sha256": "249a1b8588112a8dfa86525903c4432dba617af6c5ddedb3740f4e98ab4b90e1",
+      "image_bytes": 23218,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 32
+    },
+    {
+      "id": 55021,
+      "set_id": 11794,
+      "set_ids": [
+        11794
+      ],
+      "language": "zh",
+      "name": "Artazon",
+      "number": "033",
+      "number_value": 33,
+      "printed_total": 33,
+      "rarity": null,
+      "image_path": "images/cards/11794/033-55021.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11794/033-55021.webp",
+      "image_status": "front",
+      "image_sha256": "09912a908bb3b3adf228a28a5112e22afc6fca34f709fc3e5a455cae77d0ab06",
+      "image_bytes": 26484,
+      "scraped_at": "2026-10-23T04:23:07Z",
+      "position": 33
+    }
+  ]
+}

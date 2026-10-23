@@ -1,0 +1,223 @@
+{
+  "set": {
+    "id": 11714,
+    "language": "zh",
+    "name": "Battle Party Set (Psychic Modification Pack)",
+    "code": "CSMPnC",
+    "series": "Sun & Moon Series",
+    "release_date": "2023-04-15",
+    "date_text": "Apr 15, 2023",
+    "card_count": 10,
+    "released": true,
+    "logo_path": "images/sets/11714-logo.webp",
+    "symbol_path": "images/sets/11714-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11714-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11714-symbol.webp",
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11714-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11714-symbol.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 10
+  },
+  "cards": [
+    {
+      "id": 63487,
+      "set_id": 11714,
+      "set_ids": [
+        11714
+      ],
+      "language": "zh",
+      "name": "Latios",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11714/001-63487.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11714/001-63487.webp",
+      "image_status": "front",
+      "image_sha256": "5cbae40d07854d0ce211267ea2f081892f04db9b3efa602932c261cfea87e1dd",
+      "image_bytes": 18112,
+      "scraped_at": "2026-10-23T04:24:42Z",
+      "position": 1
+    },
+    {
+      "id": 63491,
+      "set_id": 11714,
+      "set_ids": [
+        11714
+      ],
+      "language": "zh",
+      "name": "Latios-GX",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11714/002-63491.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11714/002-63491.webp",
+      "image_status": "front",
+      "image_sha256": "7fe8b502f576ac7d4cda01cb9d2f73fb562a15b3f7b3ce9531b83ec4b2bca1f1",
+      "image_bytes": 31440,
+      "scraped_at": "2026-10-23T04:24:42Z",
+      "position": 2
+    },
+    {
+      "id": 63486,
+      "set_id": 11714,
+      "set_ids": [
+        11714
+      ],
+      "language": "zh",
+      "name": "Sigilyph-GX",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11714/003-63486.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11714/003-63486.webp",
+      "image_status": "front",
+      "image_sha256": "d4ab0f8b824164bdbc9fa4eddbc11cab5af46c4fcd56306f0e08398292ab8b58",
+      "image_bytes": 41428,
+      "scraped_at": "2026-10-23T04:24:42Z",
+      "position": 3
+    },
+    {
+      "id": 63488,
+      "set_id": 11714,
+      "set_ids": [
+        11714
+      ],
+      "language": "zh",
+      "name": "Tapu Lele",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11714/004-63488.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11714/004-63488.webp",
+      "image_status": "front",
+      "image_sha256": "c2a7c749b4780af2a3477c50f280b0ac0a165f8b62ee9f2b4d28e6a653175050",
+      "image_bytes": 23024,
+      "scraped_at": "2026-10-23T04:24:42Z",
+      "position": 4
+    },
+    {
+      "id": 63484,
+      "set_id": 11714,
+      "set_ids": [
+        11714
+      ],
+      "language": "zh",
+      "name": "Tapu Lele-GX",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11714/005-63484.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11714/005-63484.webp",
+      "image_status": "front",
+      "image_sha256": "4e0185309dc34897e928a94260082638343f417d2cf43a013a2c6476be1acd53",
+      "image_bytes": 43832,
+      "scraped_at": "2026-10-23T04:24:42Z",
+      "position": 5
+    },
+    {
+      "id": 63482,
+      "set_id": 11714,
+      "set_ids": [
+        11714
+      ],
+      "language": "zh",
+      "name": "Blacephalon",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11714/006-63482.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11714/006-63482.webp",
+      "image_status": "front",
+      "image_sha256": "cca206aaae1f5e6090d918204da811aa3b70b9f0bd0ade018acf4958df3c4711",
+      "image_bytes": 22760,
+      "scraped_at": "2026-10-23T04:24:42Z",
+      "position": 6
+    },
+    {
+      "id": 63483,
+      "set_id": 11714,
+      "set_ids": [
+        11714
+      ],
+      "language": "zh",
+      "name": "Counter Catcher",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11714/007-63483.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11714/007-63483.webp",
+      "image_status": "front",
+      "image_sha256": "98688f5df53e3e470e4bf6c9a6443327f23f02b02d55e6744be0748e10210b98",
+      "image_bytes": 18330,
+      "scraped_at": "2026-10-23T04:24:42Z",
+      "position": 7
+    },
+    {
+      "id": 63489,
+      "set_id": 11714,
+      "set_ids": [
+        11714
+      ],
+      "language": "zh",
+      "name": "Exp. Share",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11714/008-63489.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11714/008-63489.webp",
+      "image_status": "front",
+      "image_sha256": "31dd2747cd501c179a8cf5c19b49a0f5a83c076a653059cfd2324aaa623d90b7",
+      "image_bytes": 18408,
+      "scraped_at": "2026-10-23T04:24:42Z",
+      "position": 8
+    },
+    {
+      "id": 63485,
+      "set_id": 11714,
+      "set_ids": [
+        11714
+      ],
+      "language": "zh",
+      "name": "Choice Band",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11714/009-63485.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11714/009-63485.webp",
+      "image_status": "front",
+      "image_sha256": "7aad98916fe5c3e572d0786dddf7378ffb36c2031b61f93c856cac7bd8c09d8a",
+      "image_bytes": 19050,
+      "scraped_at": "2026-10-23T04:24:42Z",
+      "position": 9
+    },
+    {
+      "id": 63490,
+      "set_id": 11714,
+      "set_ids": [
+        11714
+      ],
+      "language": "zh",
+      "name": "Erika's Hospitality",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11714/010-63490.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11714/010-63490.webp",
+      "image_status": "front",
+      "image_sha256": "ceaefef4c790eb8eeda120c7aa071f6ec72afa6aa9ccc99d193827c2c984cb3c",
+      "image_bytes": 22680,
+      "scraped_at": "2026-10-23T04:24:42Z",
+      "position": 10
+    }
+  ]
+}

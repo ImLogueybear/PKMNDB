@@ -1,0 +1,43 @@
+{
+  "set": {
+    "id": 11950,
+    "language": "zh",
+    "name": "Mega Evolution Promos",
+    "code": "MP",
+    "series": "Mega Evolution Series",
+    "release_date": "2026-08-07",
+    "date_text": "Aug 07, 2026",
+    "card_count": 1,
+    "released": true,
+    "logo_path": null,
+    "symbol_path": "images/sets/11950-symbol.webp",
+    "logo_url": null,
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11950-symbol.webp",
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11950-symbol.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11950-symbol.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 1
+  },
+  "cards": [
+    {
+      "id": 82384,
+      "set_id": 11950,
+      "set_ids": [
+        11950
+      ],
+      "language": "zh",
+      "name": "Pikachu",
+      "number": "001/M-P",
+      "number_value": 1,
+      "printed_total": null,
+      "rarity": null,
+      "image_path": "images/cards/11950/001-M-P-82384.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11950/001-M-P-82384.webp",
+      "image_status": "front",
+      "image_sha256": "ea1d4b4d7b0a1b60d25314d45fdb3b7a97c5cc6151345a8316fc8406a55c42c2",
+      "image_bytes": 148680,
+      "scraped_at": "2026-10-23T04:22:40Z",
+      "position": 1
+    }
+  ]
+}

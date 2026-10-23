@@ -20,6 +20,9 @@ import { DatabaseSync } from "node:sqlite";
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const DRY = process.argv.includes("--dry");
 const SET_ID = 11651;
+// Keep manual card ids out of TCG Collector's numeric range so they can never
+// collide with a scraped card (Chinese ids in particular sit around 100k).
+const CREATURES_DECK_ID_BASE = 2_000_000;
 const SOURCE = JSON.parse(readFileSync(join(ROOT, "data", "sources", "creatures-deck.json"), "utf8"));
 const R2 = JSON.parse(readFileSync(join(homedir(), ".config", "pkmndb", "r2.json"), "utf8"));
 
@@ -114,7 +117,7 @@ const existing = db
   .all(SET_ID);
 const existingByNumber = new Map(existing.map((row) => [String(row.number), row.id]));
 
-let nextId = Number(db.prepare("SELECT COALESCE(MAX(id), 0) AS id FROM cards").get().id) + 1;
+let nextId = CREATURES_DECK_ID_BASE + 1;
 const cards = SOURCE.cards.map((card) => ({
   ...card,
   id: existingByNumber.get(card.number) ?? nextId++,
@@ -245,6 +248,7 @@ function distCard(card, position) {
     image_url: card.url,
     image_sha256: card.sha256,
     image_bytes: card.bytes,
+    image_status: "front",
     scraped_at: timestamp,
     ...(position == null ? {} : { position }),
   };
@@ -294,13 +298,18 @@ manifest.generated_at = now();
 manifest.counts = {
   sets: sets.length,
   released_sets: sets.filter((s) => s.released).length,
+  sets_zh: sets.filter((s) => s.language === "zh").length,
   cards: allCards.length,
   cards_en: allCards.filter((c) => c.language === "en").length,
   cards_ja: allCards.filter((c) => c.language === "ja").length,
+  cards_zh: allCards.filter((c) => c.language === "zh").length,
   set_card_memberships: Number(
     db.prepare("SELECT COUNT(*) AS count FROM set_cards").get().count,
   ),
   cards_with_images: allCards.filter((c) => c.image_url).length,
+  cards_with_fronts: allCards.filter((c) => c.image_status === "front").length,
+  cards_with_card_backs: allCards.filter((c) => c.image_status === "card_back").length,
+  cards_missing_images: allCards.filter((c) => c.image_status === "missing").length,
 };
 writeFileSync(manifestPath, JSON.stringify(manifest, null, 2) + "\n");
 

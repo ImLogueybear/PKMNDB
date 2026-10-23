@@ -1,0 +1,223 @@
+{
+  "set": {
+    "id": 11715,
+    "language": "zh",
+    "name": "Battle Party Set (Fighting Modification Pack)",
+    "code": "CSMPoC",
+    "series": "Sun & Moon Series",
+    "release_date": "2023-04-15",
+    "date_text": "Apr 15, 2023",
+    "card_count": 10,
+    "released": true,
+    "logo_path": "images/sets/11715-logo.webp",
+    "symbol_path": "images/sets/11715-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11715-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11715-symbol.webp",
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11715-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11715-symbol.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 10
+  },
+  "cards": [
+    {
+      "id": 63498,
+      "set_id": 11715,
+      "set_ids": [
+        11715
+      ],
+      "language": "zh",
+      "name": "Onix-GX",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11715/001-63498.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11715/001-63498.webp",
+      "image_status": "front",
+      "image_sha256": "d06184fbbe269e56df6cd851752c7dc6145a9bfeb7a85904f0d16dd95cc3b14b",
+      "image_bytes": 35368,
+      "scraped_at": "2026-10-23T04:24:41Z",
+      "position": 1
+    },
+    {
+      "id": 63492,
+      "set_id": 11715,
+      "set_ids": [
+        11715
+      ],
+      "language": "zh",
+      "name": "Sawk",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11715/002-63492.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11715/002-63492.webp",
+      "image_status": "front",
+      "image_sha256": "3a67ca815bb5dc8392daff9ae0917ba670e02914dccfdcc5a2411e4f2e8395c6",
+      "image_bytes": 29240,
+      "scraped_at": "2026-10-23T04:24:41Z",
+      "position": 2
+    },
+    {
+      "id": 63501,
+      "set_id": 11715,
+      "set_ids": [
+        11715
+      ],
+      "language": "zh",
+      "name": "Landorus",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11715/003-63501.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11715/003-63501.webp",
+      "image_status": "front",
+      "image_sha256": "863e7fc151ff7b251fc48c2ba90744b54163a801ff7cc0253222f54621f8a6e9",
+      "image_bytes": 25476,
+      "scraped_at": "2026-10-23T04:24:41Z",
+      "position": 3
+    },
+    {
+      "id": 63494,
+      "set_id": 11715,
+      "set_ids": [
+        11715
+      ],
+      "language": "zh",
+      "name": "Zygarde",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11715/004-63494.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11715/004-63494.webp",
+      "image_status": "front",
+      "image_sha256": "483c5e6061e980bd940abb54334b7060ea6671ae00d5f1665bee5b1df980afb2",
+      "image_bytes": 25086,
+      "scraped_at": "2026-10-23T04:24:41Z",
+      "position": 4
+    },
+    {
+      "id": 63495,
+      "set_id": 11715,
+      "set_ids": [
+        11715
+      ],
+      "language": "zh",
+      "name": "Zygarde-GX",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11715/005-63495.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11715/005-63495.webp",
+      "image_status": "front",
+      "image_sha256": "74bd6abc560d9f6cc0c38a9ab8fa78c0d7c7f3cac001dcb3df7633d3293a27ac",
+      "image_bytes": 44074,
+      "scraped_at": "2026-10-23T04:24:41Z",
+      "position": 5
+    },
+    {
+      "id": 63499,
+      "set_id": 11715,
+      "set_ids": [
+        11715
+      ],
+      "language": "zh",
+      "name": "Tauros-GX",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11715/006-63499.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11715/006-63499.webp",
+      "image_status": "front",
+      "image_sha256": "2c8f04fe4d26e71fb8e03c5e9aa7542efe46ddc75082285ffdae02cb220aeeff",
+      "image_bytes": 48364,
+      "scraped_at": "2026-10-23T04:24:41Z",
+      "position": 6
+    },
+    {
+      "id": 63500,
+      "set_id": 11715,
+      "set_ids": [
+        11715
+      ],
+      "language": "zh",
+      "name": "Pal Pad",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11715/007-63500.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11715/007-63500.webp",
+      "image_status": "front",
+      "image_sha256": "32d17a48fa3ce29708b45146f81f6e50d9196c0853ca4ed07f225a769cf26eab",
+      "image_bytes": 15794,
+      "scraped_at": "2026-10-23T04:24:41Z",
+      "position": 7
+    },
+    {
+      "id": 63497,
+      "set_id": 11715,
+      "set_ids": [
+        11715
+      ],
+      "language": "zh",
+      "name": "Choice Band",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11715/008-63497.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11715/008-63497.webp",
+      "image_status": "front",
+      "image_sha256": "5cd89ded0f215f7b0b4857bbb0f33d08361d7d2b95b534966496469683624818",
+      "image_bytes": 19072,
+      "scraped_at": "2026-10-23T04:24:41Z",
+      "position": 8
+    },
+    {
+      "id": 63493,
+      "set_id": 11715,
+      "set_ids": [
+        11715
+      ],
+      "language": "zh",
+      "name": "Acerola",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11715/009-63493.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11715/009-63493.webp",
+      "image_status": "front",
+      "image_sha256": "c95125464b6df370c7c7c161de9ed9ad11ad2aabe69ba8fcb554119bc5a8f644",
+      "image_bytes": 18496,
+      "scraped_at": "2026-10-23T04:24:41Z",
+      "position": 9
+    },
+    {
+      "id": 63496,
+      "set_id": 11715,
+      "set_ids": [
+        11715
+      ],
+      "language": "zh",
+      "name": "Brooklet Hill",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 10,
+      "rarity": null,
+      "image_path": "images/cards/11715/010-63496.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11715/010-63496.webp",
+      "image_status": "front",
+      "image_sha256": "deb77a8286ac6e3405c320199d88c2f0d13d7580d5cb91d1736243dbd970e987",
+      "image_bytes": 22296,
+      "scraped_at": "2026-10-23T04:24:41Z",
+      "position": 10
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "set": {
+    "id": 11805,
+    "language": "zh",
+    "name": "Happy Set: Decidueye & Melmetal & Koraidon & Miraidon (Modification Pack)",
+    "code": "CSVH4aC",
+    "series": "Scarlet & Violet Series",
+    "release_date": "2026-04-10",
+    "date_text": "Apr 10, 2026",
+    "card_count": 23,
+    "released": true,
+    "logo_path": "images/sets/11805-logo.webp",
+    "symbol_path": "images/sets/11805-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11805-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11805-symbol.webp",
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11805-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11805-symbol.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 23
+  },
+  "cards": [
+    {
+      "id": 63078,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Chansey",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/001-63078.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/001-63078.webp",
+      "image_status": "front",
+      "image_sha256": "cf393f51fb488321689f2d51b44f378c3fe7679756402ed3a09bb673de48a365",
+      "image_bytes": 26090,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 1
+    },
+    {
+      "id": 63079,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Ditto",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/002-63079.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/002-63079.webp",
+      "image_status": "front",
+      "image_sha256": "fbffd7c905ca084aec502cf6a93905fb3617ca394b016f2a6624915c9417739d",
+      "image_bytes": 28064,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 2
+    },
+    {
+      "id": 63087,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Snorlax",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/003-63087.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/003-63087.webp",
+      "image_status": "front",
+      "image_sha256": "e18bfbdc540878fa37f7cbf3f5c2b746b4ca6177e1916b547d17e42774876276",
+      "image_bytes": 25638,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 3
+    },
+    {
+      "id": 63074,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Spinda",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/004-63074.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/004-63074.webp",
+      "image_status": "front",
+      "image_sha256": "7f089211abe6413490c00975482210cde7e3b5af07c83868a05e3ea0ac378fb0",
+      "image_bytes": 24290,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 4
+    },
+    {
+      "id": 63068,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Audino",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/005-63068.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/005-63068.webp",
+      "image_status": "front",
+      "image_sha256": "10fa9d2c05123bc29b300d95cfc3ce5c1b81a953a436eef2a3cd769f836ada0c",
+      "image_bytes": 25250,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 5
+    },
+    {
+      "id": 63085,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Flamigo ex",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/006-63085.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/006-63085.webp",
+      "image_status": "front",
+      "image_sha256": "286c122cb4a194a671470a8b489f0f8621ea9d087802957c3dd6a73d64816b0d",
+      "image_bytes": 32084,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 6
+    },
+    {
+      "id": 63081,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Energy Sticker",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/007-63081.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/007-63081.webp",
+      "image_status": "front",
+      "image_sha256": "dfb11dea09ef52711f160ec9eaea45ceb0f6dfbeddf51965f7e3bd4c8837f195",
+      "image_bytes": 18272,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 7
+    },
+    {
+      "id": 63075,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Counter Catcher",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/008-63075.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/008-63075.webp",
+      "image_status": "front",
+      "image_sha256": "c90f31460e3916cb90e08715e4e48baf97fc9a51cc29c9527e88d029b6f5719c",
+      "image_bytes": 21320,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 8
+    },
+    {
+      "id": 63067,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Trekking Shoes",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/009-63067.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/009-63067.webp",
+      "image_status": "front",
+      "image_sha256": "d6bd72e62c615be0f41549ec128b27c068be4cff9154f7f150a85a2b86d2ddfd",
+      "image_bytes": 19684,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 9
+    },
+    {
+      "id": 63069,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Letter of Encouragement",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/010-63069.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/010-63069.webp",
+      "image_status": "front",
+      "image_sha256": "7d9036edc6fe7bb1f3e69bb284f570a7738e9f5d315ddb2b47fa9b47f77f7b79",
+      "image_bytes": 18866,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 10
+    },
+    {
+      "id": 63083,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Picnic Basket",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/011-63083.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/011-63083.webp",
+      "image_status": "front",
+      "image_sha256": "b20867f7cfe84b927e231fb422c9661d238d91793aeca16463e7f83ad4ae155b",
+      "image_bytes": 19104,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 11
+    },
+    {
+      "id": 63084,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Night Stretcher",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/012-63084.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/012-63084.webp",
+      "image_status": "front",
+      "image_sha256": "3f861180578d92e1f061130cdb3abf3c965b1ae1a7858cd00c1bebdb39d74883",
+      "image_bytes": 15650,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 12
+    },
+    {
+      "id": 63086,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Rescue Board",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/013-63086.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/013-63086.webp",
+      "image_status": "front",
+      "image_sha256": "e412e3c5bd6e04c48717683b789f9d29cb184f4e5370f0171f759cddd71e9b47",
+      "image_bytes": 20636,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 13
+    },
+    {
+      "id": 63072,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Bravery Charm",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/014-63072.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/014-63072.webp",
+      "image_status": "front",
+      "image_sha256": "51a30b4ea45849e3db04884c86cb27e6381224372e556ed2930ff998ec591c16",
+      "image_bytes": 18486,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 14
+    },
+    {
+      "id": 63070,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Vengeful Punch",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/015-63070.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/015-63070.webp",
+      "image_status": "front",
+      "image_sha256": "449435f32d3e9ca5bfa94b60fb6da02a186099f4f91b2d4688926a8a4d76da90",
+      "image_bytes": 20762,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 15
+    },
+    {
+      "id": 63077,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Technical Machine: Turbo Energize",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/016-63077.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/016-63077.webp",
+      "image_status": "front",
+      "image_sha256": "28c9b1f0cdb5028e9e1f7efe45eb0514ad2bd48d6e23c169b5e578aa241b59d6",
+      "image_bytes": 21914,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 16
+    },
+    {
+      "id": 63076,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Technical Machine: Blindside",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/017-63076.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/017-63076.webp",
+      "image_status": "front",
+      "image_sha256": "17b7298676fa54af4f9384eab3916cce9bc7d9f5feaa7867e17cfe0cd0290e9a",
+      "image_bytes": 23008,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 17
+    },
+    {
+      "id": 63089,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Lucian",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/018-63089.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/018-63089.webp",
+      "image_status": "front",
+      "image_sha256": "6ccb433a6e1550ffe1473319621686976f1cbf672c1cb86be325ccbb7125d07a",
+      "image_bytes": 24226,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 18
+    },
+    {
+      "id": 63082,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Giovanni's Charisma",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/019-63082.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/019-63082.webp",
+      "image_status": "front",
+      "image_sha256": "317cb1350b59c70ce9a937b28cd3674340fc158b536de62ccfdd3dee9bd03b19",
+      "image_bytes": 18180,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 19
+    },
+    {
+      "id": 63088,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Carmine",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/020-63088.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/020-63088.webp",
+      "image_status": "front",
+      "image_sha256": "38f12b8cc8c9ac70e61563257104646b511165fc07808395eddc371480b53639",
+      "image_bytes": 23122,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 20
+    },
+    {
+      "id": 63073,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Iono",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/021-63073.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/021-63073.webp",
+      "image_status": "front",
+      "image_sha256": "6461094850aa6822f500c79cac1b36bf953515273e435808a8b1673c0e40703b",
+      "image_bytes": 23030,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 21
+    },
+    {
+      "id": 63071,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Boss's Orders",
+      "number": "022",
+      "number_value": 22,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/022-63071.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/022-63071.webp",
+      "image_status": "front",
+      "image_sha256": "426acd5876e7fd7ce996432d8a1f72047b70f993764395762051b8339dfe15b8",
+      "image_bytes": 20754,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 22
+    },
+    {
+      "id": 63080,
+      "set_id": 11805,
+      "set_ids": [
+        11805
+      ],
+      "language": "zh",
+      "name": "Bill's Transfer",
+      "number": "023",
+      "number_value": 23,
+      "printed_total": 23,
+      "rarity": null,
+      "image_path": "images/cards/11805/023-63080.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11805/023-63080.webp",
+      "image_status": "front",
+      "image_sha256": "f90282137ead2319bfeabf57ff42633d6b8d2272dacdc5dd7bbf8f931e2735ce",
+      "image_bytes": 20938,
+      "scraped_at": "2026-10-23T04:22:58Z",
+      "position": 23
+    }
+  ]
+}

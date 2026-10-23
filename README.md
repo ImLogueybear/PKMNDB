@@ -1,19 +1,22 @@
 # PKMNDB
 
-Pokemon TCG set and card data for English/international and Japanese releases.
+Pokemon TCG set and card data for English/international, Japanese, and
+Simplified Chinese releases.
 
 ## Snapshot
 
-Last updated: 2026-10-19
+Last updated: 2026-10-23
 
-- 784 sets (783 released, 1 upcoming)
+- 930 sets (926 released, 4 upcoming)
   - 333 English/international sets
   - 451 Japanese sets
-- 54,233 set-card memberships
-- 49,852 unique cards (21,891 English, 27,961 Japanese)
-- Unnumbered Energies excluded from both catalogs; Topps Series excluded from
+  - 146 Simplified Chinese sets
+- 67,260 set-card memberships
+- 62,807 unique cards (21,891 English, 27,961 Japanese, 12,955 Chinese)
+- Unnumbered Energies excluded from all catalogs; Topps Series excluded from
   the English catalog
 - French and German set releases excluded
+- Traditional Chinese, Korean, and Indonesian set releases are not included
 
 ## Japanese Catalog
 
@@ -28,6 +31,37 @@ Last updated: 2026-10-19
   card list. Its `001`-`030` numbers are checklist positions (the physical
   cards are unnumbered except `011/008` on three cards).
 - Japanese rows are marked `language = 'ja'`
+- The manually imported Creatures Deck rows use ids `2000001`-`2000030`, a
+  reserved range above TCG Collector's card ids, so they cannot collide with
+  scraped English/Japanese/Chinese rows.
+
+## Simplified Chinese Catalog
+
+- 146 sets, 12,955 unique cards, 13,027 set-card memberships
+- Sourced from TCG Collector's China region; set codes end in `C` (`CSV10C`,
+  `CSVH6C`, `CBB6C`, `30thC`)
+- Set and card names are English, the same convention as the Japanese catalog
+- Collector numbers use `001/222`; `printed_total` is populated when printed
+- Card fronts are WebP, usually 300px wide
+- 143 released sets are populated; 3 upcoming sets have no card list yet
+- `Happy Set: Trainer's Pokémon` (`111243`) has no card art on the source, so
+  its 59 cards are stored as metadata with `image_status = 'missing'`
+- Chinese rows are marked `language = 'zh'`
+
+## Image Gaps
+
+- 872/930 sets have a logo and 797/930 have a symbol.
+- 58 sets are missing a logo and 133 are missing a symbol.
+- 16 sets have neither; 914 have at least one usable asset.
+- `logo_fallback_url` and `symbol_fallback_url` in `sets.json` let applications
+  use the other asset when one is missing.
+- 400 cards only have the generic card-back image. They are marked
+  `image_status = 'card_back'` and do not expose an `image_url`.
+- 62,348 cards have verified front images and are marked
+  `image_status = 'front'`.
+- 59 Chinese cards have no image on the source. They are marked
+  `image_status = 'missing'` and do not expose an `image_url`.
+- `dist/art_issues.json` lists every affected set and card.
 
 ## Files
 
@@ -36,6 +70,8 @@ Last updated: 2026-10-19
 - `dist/cards.jsonl` — one unique card per line, including `set_ids`.
 - `dist/sets/<set_id>.json` — set metadata plus its ordered card list.
 - `dist/manifest.json` — snapshot counts and schema version.
+- `dist/art_issues.json` — sets missing art, cards using the card back, and
+  cards with no image URL.
 - `dist/scan-index.json` — pointer to the R2-hosted CardTable scan index.
 - `dist/scan-index-pocketvault.json` — pointer to the PocketVault scan index.
 - `data/sources/creatures-deck.json` — curated 30-card source list for set
@@ -88,9 +124,10 @@ A custom domain is recommended for production applications.
 
 - `id` — numeric card ID
 - `set_id` — canonical set ID
-- `language` — `en` or `ja`
+- `language` — `en`, `ja`, or `zh`
 - `name`, `number`, `number_value`, `printed_total`, `rarity`
 - `image_path`, `public_url`, `image_sha256`, `image_bytes`
+- `image_status` — `front`, `card_back`, or `missing`
 - `scraped_at`
 
 `set_cards`:
@@ -117,6 +154,9 @@ PKMNDB owns the prebuilt card-scan indexes used by CardTable/PocketVault:
 - Shard pattern: `<base>/<setId>.bin`; format 2 / scan version 4.
 - `dist/scan-index.json` and `dist/scan-index-pocketvault.json` are the small
   pointer manifests committed in this repo.
+- The published indexes currently cover the English/Japanese catalogue. They
+  must be rebuilt to add the 12,955 Chinese cards (and to pick up the renumbered
+  Creatures Deck ids) before Chinese cards can match from the shared index.
 
 The CardTable index is derived from CardTable's app catalogue and PKMNDB card
 images; rebuild the catalogue with `node scripts/build-scan-catalog.mjs`. The

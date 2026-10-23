@@ -1,0 +1,523 @@
+{
+  "set": {
+    "id": 11735,
+    "language": "zh",
+    "name": "Pikachu Legendary Celebration Gift Boxes",
+    "code": "CSDC",
+    "series": "Sword & Shield Series",
+    "release_date": "2023-12-08",
+    "date_text": "Dec 08, 2023",
+    "card_count": 25,
+    "released": true,
+    "logo_path": "images/sets/11735-logo.webp",
+    "symbol_path": "images/sets/11735-symbol.webp",
+    "logo_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11735-logo.webp",
+    "symbol_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11735-symbol.webp",
+    "logo_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11735-logo.webp",
+    "symbol_fallback_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/sets/11735-symbol.webp",
+    "scraped_at": "2026-10-23T04:22:33Z",
+    "cards_loaded": 25
+  },
+  "cards": [
+    {
+      "id": 60823,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Pikachu",
+      "number": "001",
+      "number_value": 1,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/001-60823.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/001-60823.webp",
+      "image_status": "front",
+      "image_sha256": "e3d239b1939ccaaeace36222206be195a4136d5ad1c997ac3f3ecd7d6e46c50d",
+      "image_bytes": 25552,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 1
+    },
+    {
+      "id": 60829,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Mew",
+      "number": "002",
+      "number_value": 2,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/002-60829.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/002-60829.webp",
+      "image_status": "front",
+      "image_sha256": "106b9d2535000781e0eee18062fc0cdffb0736f9e56f2dcc339cf80d462dd013",
+      "image_bytes": 32466,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 2
+    },
+    {
+      "id": 60819,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Ho-Oh",
+      "number": "003",
+      "number_value": 3,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/003-60819.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/003-60819.webp",
+      "image_status": "front",
+      "image_sha256": "7a2e6aa2fc2907aed258e1ed586d0f76262d3ae6eee530d959b876849655b017",
+      "image_bytes": 38134,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 3
+    },
+    {
+      "id": 60840,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Lugia",
+      "number": "004",
+      "number_value": 4,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/004-60840.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/004-60840.webp",
+      "image_status": "front",
+      "image_sha256": "36c545634a369f83a53b1749573302501790f4b3ac139d3e3b7669952f3681d1",
+      "image_bytes": 29552,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 4
+    },
+    {
+      "id": 60835,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Groudon",
+      "number": "005",
+      "number_value": 5,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/005-60835.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/005-60835.webp",
+      "image_status": "front",
+      "image_sha256": "fa144900866e42ff6fb55f545e788d6d9f3eb089fca67e1301a7d482a9e0a1cb",
+      "image_bytes": 36146,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 5
+    },
+    {
+      "id": 60821,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Kyogre",
+      "number": "006",
+      "number_value": 6,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/006-60821.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/006-60821.webp",
+      "image_status": "front",
+      "image_sha256": "1e32becff53b0ced368e97226732099eb0289f359a82ed137083304cbe41ac9e",
+      "image_bytes": 39154,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 6
+    },
+    {
+      "id": 60838,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Dialga",
+      "number": "007",
+      "number_value": 7,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/007-60838.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/007-60838.webp",
+      "image_status": "front",
+      "image_sha256": "f512b2991ce77e650a4bfda66655bdc438ef34a31e1870b401df0055e2f806e5",
+      "image_bytes": 29598,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 7
+    },
+    {
+      "id": 60822,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Palkia",
+      "number": "008",
+      "number_value": 8,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/008-60822.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/008-60822.webp",
+      "image_status": "front",
+      "image_sha256": "9e3a572ed9ee4fcb6b260298d2f450ff4052c63f430bc919da4da0768baf3e18",
+      "image_bytes": 35204,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 8
+    },
+    {
+      "id": 60820,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Reshiram",
+      "number": "009",
+      "number_value": 9,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/009-60820.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/009-60820.webp",
+      "image_status": "front",
+      "image_sha256": "da1248d35ecae081aedec393ceea1c119b929b86513cdee929a6f6c4649b08b3",
+      "image_bytes": 37624,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 9
+    },
+    {
+      "id": 60828,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Zekrom",
+      "number": "010",
+      "number_value": 10,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/010-60828.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/010-60828.webp",
+      "image_status": "front",
+      "image_sha256": "f4e1638652bf337a19fe7b13fad56c06cb93a0dc143a921a64a66723ae84cd59",
+      "image_bytes": 31814,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 10
+    },
+    {
+      "id": 60830,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Xerneas",
+      "number": "011",
+      "number_value": 11,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/011-60830.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/011-60830.webp",
+      "image_status": "front",
+      "image_sha256": "be080c28131c1e4932d143cbcaa15dcb618ea711dbc588a7ca650f57e4a055d1",
+      "image_bytes": 33590,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 11
+    },
+    {
+      "id": 60837,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Yveltal",
+      "number": "012",
+      "number_value": 12,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/012-60837.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/012-60837.webp",
+      "image_status": "front",
+      "image_sha256": "b998ac98490c8e7d1f967374d59a5e14fb34b02de10c0632524dbc1c94b8831e",
+      "image_bytes": 40644,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 12
+    },
+    {
+      "id": 60831,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Cosmog",
+      "number": "013",
+      "number_value": 13,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/013-60831.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/013-60831.webp",
+      "image_status": "front",
+      "image_sha256": "27dc892d6aa1169caf6b4de614501da825d25b24fe76037654ffa085283c0bc7",
+      "image_bytes": 32822,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 13
+    },
+    {
+      "id": 60832,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Cosmoem",
+      "number": "014",
+      "number_value": 14,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/014-60832.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/014-60832.webp",
+      "image_status": "front",
+      "image_sha256": "7323216070c0e7bc93066f06b4ce2f5b4090da0f3f2945315f7e78d573d6faca",
+      "image_bytes": 32024,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 14
+    },
+    {
+      "id": 60839,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Solgaleo",
+      "number": "015",
+      "number_value": 15,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/015-60839.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/015-60839.webp",
+      "image_status": "front",
+      "image_sha256": "17860245d30c9af4e03a3569af9c0727e7ecb8c6a1c57881d7870e7e29b3cd40",
+      "image_bytes": 34278,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 15
+    },
+    {
+      "id": 60833,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Lunala",
+      "number": "016",
+      "number_value": 16,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/016-60833.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/016-60833.webp",
+      "image_status": "front",
+      "image_sha256": "a685ac40b62924085944053a97e2c1be55cae560aac3ecaca6206f95fee26215",
+      "image_bytes": 34036,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 16
+    },
+    {
+      "id": 60834,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Zacian V",
+      "number": "017",
+      "number_value": 17,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/017-60834.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/017-60834.webp",
+      "image_status": "front",
+      "image_sha256": "2d97ae68c39b8e9dbd627cfdb9ba84a600002c4c657ad65954fcc86d8b9e9da7",
+      "image_bytes": 31820,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 17
+    },
+    {
+      "id": 60836,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Zamazenta V",
+      "number": "018",
+      "number_value": 18,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/018-60836.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/018-60836.webp",
+      "image_status": "front",
+      "image_sha256": "b4010867be1453ab1191e1ad786395eee2b808b457aa715ced034018afe50abe",
+      "image_bytes": 31082,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 18
+    },
+    {
+      "id": 60842,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Pikachu V",
+      "number": "019",
+      "number_value": 19,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/019-60842.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/019-60842.webp",
+      "image_status": "front",
+      "image_sha256": "a88446d050844d3c3d42246e61592bd56e177ad21a4002231854deff538b1bd6",
+      "image_bytes": 24354,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 19
+    },
+    {
+      "id": 60843,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Pikachu VMAX",
+      "number": "020",
+      "number_value": 20,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/020-60843.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/020-60843.webp",
+      "image_status": "front",
+      "image_sha256": "c966d3e86d7917d01a41532394537754116692ac6032228b65f785d720452200",
+      "image_bytes": 30916,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 20
+    },
+    {
+      "id": 60826,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Surfing Pikachu V",
+      "number": "021",
+      "number_value": 21,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/021-60826.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/021-60826.webp",
+      "image_status": "front",
+      "image_sha256": "198e536f08d4e82ab593c856ac0e107957907b33faf32228aa2f9ef307ba4e3a",
+      "image_bytes": 21172,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 21
+    },
+    {
+      "id": 60827,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Surfing Pikachu VMAX",
+      "number": "022",
+      "number_value": 22,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/022-60827.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/022-60827.webp",
+      "image_status": "front",
+      "image_sha256": "580f9f007ab5bfb25a4f800ee126b63b25c4adf19fc815e2522cb4f7c54556cd",
+      "image_bytes": 27186,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 22
+    },
+    {
+      "id": 60824,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Flying Pikachu V",
+      "number": "023",
+      "number_value": 23,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/023-60824.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/023-60824.webp",
+      "image_status": "front",
+      "image_sha256": "f7098e3a665bffdac107f552185b8cf0f193372cad37533842030cdf6c2a2ec4",
+      "image_bytes": 26428,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 23
+    },
+    {
+      "id": 60825,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Flying Pikachu VMAX",
+      "number": "024",
+      "number_value": 24,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/024-60825.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/024-60825.webp",
+      "image_status": "front",
+      "image_sha256": "25a163e54e7d0142cd158e33ce40512833b1784665bab583eeb21b9990774ca5",
+      "image_bytes": 29906,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 24
+    },
+    {
+      "id": 60841,
+      "set_id": 11735,
+      "set_ids": [
+        11735
+      ],
+      "language": "zh",
+      "name": "Mew",
+      "number": "025",
+      "number_value": 25,
+      "printed_total": 24,
+      "rarity": null,
+      "image_path": "images/cards/11735/025-60841.webp",
+      "image_url": "https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/cards/11735/025-60841.webp",
+      "image_status": "front",
+      "image_sha256": "180652b3df736c595f09e1930e3d223bec7f4a8888365f77b711eae6924a5b4f",
+      "image_bytes": 41378,
+      "scraped_at": "2026-10-23T04:24:15Z",
+      "position": 25
+    }
+  ]
+}
