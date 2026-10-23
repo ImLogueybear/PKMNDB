@@ -56,9 +56,13 @@ for (const set of SETS) {
     continue;
   }
   const data = JSON.parse(fs.readFileSync(file, "utf8"));
-  const language = set.language === "ja" ? "ja" : "en";
+  const language = set.language === "ja" ? "ja" : set.language === "zh" ? "zh" : "en";
   const namespaced =
-    language === "ja" ? `ja-pkmndb-${set.id}` : `pkmndb-${set.id}`;
+    language === "ja"
+      ? `ja-pkmndb-${set.id}`
+      : language === "zh"
+        ? `zh-pkmndb-${set.id}`
+        : `pkmndb-${set.id}`;
   const keyless = appSetId !== namespaced;
   const used = usedBySet.get(appSetId) ?? new Set();
   usedBySet.set(appSetId, used);
@@ -73,7 +77,11 @@ for (const set of SETS) {
       while (used.has(id)) id = `${base}-${raw.id}-${suffix++}`;
       used.add(id);
     } else {
-      id = language === "ja" ? `ja-pkmndb-${raw.id}` : `pkmndb-${raw.id}`;
+      id = language === "ja"
+        ? `ja-pkmndb-${raw.id}`
+        : language === "zh"
+          ? `zh-pkmndb-${raw.id}`
+          : `pkmndb-${raw.id}`;
     }
     cards.push({
       id,

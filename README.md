@@ -148,15 +148,21 @@ The `(set_id, card_id)` pair identifies a set membership.
 PKMNDB owns the prebuilt card-scan indexes used by CardTable/PocketVault:
 
 - **CardTable:** `https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/scan/cardtable/index.json`
-  — 843 shards, 57,428 packed descriptors, 784/784 audited sets.
+  — 985 shards, 70,396 packed descriptors, including 142 Chinese shards.
 - **PocketVault:** `https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/scan/pocketvault/index.json`
-  — 800 shards, 56,394 packed descriptors, 800 sets / 56,394 app cards.
+  — 942 shards, 69,290 packed descriptors, including 142 Chinese shards.
 - Shard pattern: `<base>/<setId>.bin`; format 2 / scan version 4.
 - `dist/scan-index.json` and `dist/scan-index-pocketvault.json` are the small
   pointer manifests committed in this repo.
-- The published indexes currently cover the English/Japanese catalogue. They
-  must be rebuilt to add the 12,955 Chinese cards (and to pick up the renumbered
-  Creatures Deck ids) before Chinese cards can match from the shared index.
+- The Chinese catalogue adds 142 shards to each index. The 59 no-art cards in
+  `Happy Set: Trainer's Pokémon` (`111243`) are not indexed; the renumbered
+  Creatures Deck ids (`2000001`-`2000030`) are included in the CardTable shard
+  for `11651`.
+- The two apps still have their pre-existing English/Japanese catalogue
+  differences (CardTable includes legacy sets and PocketVault has its curated
+  set list); Chinese set ids and card ids are shared, so 139/142 Chinese shards
+  are byte-identical between the indexes. `11721` differs by 72 CardTable
+  memberships, and `11824`/`11945` differ only in record order.
 
 The CardTable index is derived from CardTable's app catalogue and PKMNDB card
 images; rebuild the catalogue with `node scripts/build-scan-catalog.mjs`. The
