@@ -1,13 +1,19 @@
 import json
+import string
+import sys
 from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "scripts"))
+from canonical_revision import revision_for_cards
 SCAN = ROOT / "data" / "scan" / "canonical"
 DIST = ROOT / "dist" / "canonical"
 EXPECTED_CARDS = 69898
 EXPECTED_SETS = 945
 EXPECTED_SET_FILES = 941
+LANGUAGES = {"en", "ja", "zh"}
+REQUIRED_CARD_FIELDS = ("id", "name", "set_id", "number", "language")
 
 
 def read_jsonl(path):
@@ -28,6 +34,13 @@ def read_json(path):
         return json.load(handle)
 
 
+def assert_card_fields(card, source):
+    for field in REQUIRED_CARD_FIELDS:
+        value = card.get(field)
+        assert isinstance(value, str) and value.strip(), f"{source}: empty {field} on {card.get('id')!r}"
+    assert card["language"] in LANGUAGES, f"{source}: bad language {card['language']!r}"
+
+
 def test_manifest_matches_payload():
     manifest = read_json(DIST / "manifest.json")
     sets = read_json(DIST / "sets.json")
@@ -39,6 +52,17 @@ def test_manifest_matches_payload():
     assert len({card["id"] for card in cards}) == len(cards)
     assert len({set_["id"] for set_ in sets}) == len(sets)
     assert manifest["languages"] == dict(Counter(card["language"] for card in cards))
+
+    set_ids = {set_["id"] for set_ in sets}
+    assert set_ids, "sets.json is empty"
+    for set_ in sets:
+        assert isinstance(set_["id"], str) and set_["id"].strip()
+        assert isinstance(set_["name"], str) and set_["name"].strip()
+        assert set_["language"] in LANGUAGES
+        assert isinstance(set_["card_count"], int) and set_["card_count"] >= 0
+    for card in cards:
+        assert_card_fields(card, "cards.jsonl")
+        assert card["set_id"] in set_ids, f"card {card['id']} belongs to unknown set {card['set_id']}"
 
 
 def test_every_canonical_card_has_a_name():
@@ -77,8 +101,8 @@ def test_every_set_file_has_names_and_matching_metadata():
         assert len(cards) == by_id[set_id]["card_count"]
         file_counts[set_id] = len(cards)
         for card in cards:
+            assert_card_fields(card, str(path))
             assert card["set_id"] == set_id
-            assert isinstance(card.get("name"), str) and card["name"].strip()
             assert card["id"] not in seen
             seen.add(card["id"])
 
@@ -94,3 +118,27 @@ def test_team_rocket_set_identities_are_stable():
     assert sets["base5"]["card_count"] == 83
     assert sets["ex7"]["name"] == "EX Team Rocket Returns"
     assert sets["ex7"]["card_count"] == 111
+
+
+def test_set_revisions_are_deterministic():
+    sets = read_json(DIST / "sets.json")
+    revision_by_id = {}
+    hexdigits = set(string.hexdigits.lower())
+    for set_ in sets:
+        revision = set_["revision"]
+        assert isinstance(revision, str)
+        assert len(revision) == 64
+        assert set(revision) <= hexdigits
+        revision_by_id[set_["id"]] = revision
+
+    for path in sorted((DIST / "sets").glob("*.json")):
+        data = read_json(path)
+        set_id = data["set"]["id"]
+        assert data["set"]["revision"] == revision_by_id[set_id]
+        assert data["set"]["revision"] == revision_for_cards(data["cards"])
+        assert revision_for_cards(data["cards"]) == revision_for_cards(data["cards"])
+
+    empty_revision = revision_for_cards([])
+    for set_ in sets:
+        if set_["card_count"] == 0:
+            assert set_["revision"] == empty_revision

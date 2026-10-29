@@ -6,6 +6,8 @@ from collections import Counter, defaultdict
 from datetime import date
 from pathlib import Path
 
+from canonical_revision import revision_for_cards
+
 parser = argparse.ArgumentParser()
 parser.add_argument(
     "--old-pocketvault",
@@ -149,6 +151,8 @@ for set_id, info in canon_sets.items():
         if cid == set_id and int(pk_id) in sets:
             pkmn = sets[int(pk_id)]
             break
+    set_cards = by_set.get(set_id, [])
+    revision = revision_for_cards(set_cards)
     if pkmn:
         full_sets.append(
             {
@@ -158,12 +162,13 @@ for set_id, info in canon_sets.items():
                 "series": info.get("series") or pkmn.get("series") or "",
                 "release_date": info.get("releaseDate") or pkmn.get("release_date") or "",
                 "date_text": pkmn.get("date_text") or "",
-                "card_count": len(by_set.get(set_id, [])),
+                "card_count": len(set_cards),
                 "logo_url": pkmn.get("logo_url"),
                 "symbol_url": pkmn.get("symbol_url"),
                 "source_url": pkmn.get("source_url"),
                 "released": bool(pkmn.get("released")),
                 "language": info.get("language") or "en",
+                "revision": revision,
             }
         )
     else:
@@ -176,12 +181,13 @@ for set_id, info in canon_sets.items():
                 "series": meta.get("series") or "Other",
                 "release_date": meta.get("releaseDate") or "",
                 "date_text": "",
-                "card_count": len(by_set.get(set_id, [])),
+                "card_count": len(set_cards),
                 "logo_url": meta.get("logo"),
                 "symbol_url": meta.get("symbol"),
                 "source_url": None,
                 "released": True,
                 "language": "en",
+                "revision": revision,
             }
         )
 

@@ -5,7 +5,7 @@ Simplified Chinese releases.
 
 ## Snapshot
 
-Last updated: 2026-10-23
+Last updated: 2026-10-29
 
 - 930 source sets (926 released, 4 upcoming)
   - 333 English/international sets
@@ -75,7 +75,9 @@ Last updated: 2026-10-23
 - `dist/canonical/` — app-facing canonical catalogue (see "Canonical IDs").
   `sets.json`, `cards.jsonl`, `sets/<id>.json` (941 sets with cards), and
   `manifest.json`. Every card in `cards.jsonl` and the per-set files includes a
-  required, non-empty `name`; consumers may rely on it.
+  required, non-empty `name`; consumers may rely on it. Every set carries a
+  deterministic 64-character `revision` hash over its canonical card records, so
+  apps can refresh renamed or remapped sets whose `card_count` did not change.
 - `dist/manifest.json` — snapshot counts and schema version.
 - `dist/art_issues.json` — sets missing art, cards using the card back, and
   cards with no image URL.
@@ -167,9 +169,21 @@ memberships:
   canonical sets map 1:1.
 
 Validate the app-facing export with `pytest tests/test_canonical_export.py`.
-It checks the manifest counts, that every canonical card has a non-empty
-`name`, that set files match the global dump, and that the `base5`/`ex7`
-identities remain stable.
+It checks the manifest counts, required card fields, that every canonical card
+has a non-empty `name`, that set files match the global dump and their
+deterministic `revision`, and that the `base5`/`ex7` identities remain stable.
+`scripts/validate_canonical_export.py` runs the same contract checks without
+importing `src/` or third-party packages.
+
+### Canonical release checklist
+
+1. Rebuild or name-backfill the export, then set `generated_at` to the release
+   date (`--generated-at YYYY-MM-DD`).
+2. Run `python scripts/validate_canonical_export.py`.
+3. Run `python scripts/backfill_canonical_names.py --dry-run`.
+4. Run `pytest tests/test_canonical_export.py`.
+5. Never publish a canonical payload without all three checks passing; a
+   nameless or malformed row must fail CI before release.
 
 ## Scan index
 

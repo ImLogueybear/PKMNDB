@@ -4,10 +4,13 @@ import os
 from datetime import date
 from pathlib import Path
 
+from canonical_revision import revision_for_cards
+
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_NAMES = ROOT / "data" / "scan" / "canonical" / "canonical-cards.jsonl"
 DEFAULT_CARDS = ROOT / "dist" / "canonical" / "cards.jsonl"
 DEFAULT_SETS = ROOT / "dist" / "canonical" / "sets"
+DEFAULT_SETS_INDEX = ROOT / "dist" / "canonical" / "sets.json"
 DEFAULT_MANIFEST = ROOT / "dist" / "canonical" / "manifest.json"
 
 
@@ -60,7 +63,11 @@ def run(args):
     names = read_names(args.names)
     cards_path = args.cards
     sets_dir = args.sets
+    sets_index_path = args.sets_index
     manifest_path = args.manifest
+    sets_index = read_json(sets_index_path)
+    if not isinstance(sets_index, list):
+        raise SystemExit(f"{sets_index_path}: expected a JSON array")
 
     records = []
     with cards_path.open(encoding="utf-8") as handle:
@@ -79,6 +86,7 @@ def run(args):
     set_card_ids = set()
     set_card_count = 0
     set_updates = []
+    revisions = {}
     for set_path in set_files:
         data = read_json(set_path)
         set_id = data.get("set", {}).get("id")
@@ -93,6 +101,7 @@ def run(args):
             set_card_ids.add(updated["id"])
             updated_cards.append(updated)
         set_card_count += len(updated_cards)
+        revisions[set_id] = revision_for_cards(updated_cards)
         set_updates.append((set_path, data, updated_cards))
 
     missing_sets = set(names) - set_card_ids
@@ -101,6 +110,17 @@ def run(args):
         raise SystemExit(f"{len(missing_sets)} cards are missing from set files: {sample}")
     if set_card_count != len(records):
         raise SystemExit(f"set files contain {set_card_count} cards, expected {len(records)}")
+
+    indexed_sets = set()
+    empty_revision = revision_for_cards([])
+    for set_entry in sets_index:
+        if not isinstance(set_entry, dict) or not set_entry.get("id"):
+            raise SystemExit(f"{sets_index_path}: set entry without an id")
+        set_id = set_entry["id"]
+        if set_id in indexed_sets:
+            raise SystemExit(f"{sets_index_path}: duplicate set id {set_id}")
+        indexed_sets.add(set_id)
+        set_entry["revision"] = revisions.get(set_id, empty_revision)
 
     manifest = read_json(manifest_path)
     if manifest.get("cards") != len(records):
@@ -118,12 +138,15 @@ def run(args):
         )
         for set_path, data, updated_cards in set_updates:
             data["cards"] = updated_cards
+            data["set"]["revision"] = revision_for_cards(updated_cards)
             write_atomic(set_path, json.dumps(data))
+        write_atomic(sets_index_path, json.dumps(sets_index, indent=2) + "\n")
         write_atomic(manifest_path, json.dumps(manifest, indent=2) + "\n")
 
     print(
         f"{'checked' if args.dry_run else 'wrote'} {len(records)} cards, "
-        f"{len(set_updates)} set files, {len(names)} names, generated_at={generated_at}"
+        f"{len(set_updates)} set files, {len(names)} names, "
+        f"{len(sets_index)} revisions, generated_at={generated_at}"
     )
 
 
@@ -132,6 +155,7 @@ def main():
     parser.add_argument("--names", type=Path, default=DEFAULT_NAMES)
     parser.add_argument("--cards", type=Path, default=DEFAULT_CARDS)
     parser.add_argument("--sets", type=Path, default=DEFAULT_SETS)
+    parser.add_argument("--sets-index", type=Path, default=DEFAULT_SETS_INDEX)
     parser.add_argument("--manifest", type=Path, default=DEFAULT_MANIFEST)
     parser.add_argument("--generated-at")
     parser.add_argument("--dry-run", action="store_true")
