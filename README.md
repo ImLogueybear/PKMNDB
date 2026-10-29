@@ -74,7 +74,8 @@ Last updated: 2026-10-23
 - `dist/sets/<set_id>.json` — set metadata plus its ordered card list.
 - `dist/canonical/` — app-facing canonical catalogue (see "Canonical IDs").
   `sets.json`, `cards.jsonl`, `sets/<id>.json` (941 sets with cards), and
-  `manifest.json`.
+  `manifest.json`. Every card in `cards.jsonl` and the per-set files includes a
+  required, non-empty `name`; consumers may rely on it.
 - `dist/manifest.json` — snapshot counts and schema version.
 - `dist/art_issues.json` — sets missing art, cards using the card back, and
   cards with no image URL.
@@ -164,6 +165,11 @@ memberships:
   collapsing them into one physical card.
 - `miscp` is the only canonical set that merges two PKMNDB sets. All other
   canonical sets map 1:1.
+
+Validate the app-facing export with `pytest tests/test_canonical_export.py`.
+It checks the manifest counts, that every canonical card has a non-empty
+`name`, that set files match the global dump, and that the `base5`/`ex7`
+identities remain stable.
 
 ## Scan index
 

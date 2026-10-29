@@ -1,11 +1,27 @@
+import argparse
 import json
+import os
 import re
 from collections import Counter, defaultdict
+from datetime import date
 from pathlib import Path
 
-root = Path(r"C:\Users\blogu\.VisualStudio\Projects\Pokemon Applications")
-pkmndb = root / "PKMNDB"
-oldpv = Path(r"C:\Users\blogu\AppData\Local\Temp\kilo\pv-old")
+parser = argparse.ArgumentParser()
+parser.add_argument(
+    "--old-pocketvault",
+    type=Path,
+    default=Path(
+        os.environ.get(
+            "PKMNDB_OLD_POCKETVAULT",
+            r"C:\Users\blogu\AppData\Local\Temp\kilo\pv-old",
+        )
+    ),
+)
+parser.add_argument("--generated-at", default=date.today().isoformat())
+args = parser.parse_args()
+
+pkmndb = Path(__file__).resolve().parents[1]
+oldpv = args.old_pocketvault
 canon = pkmndb / "data" / "scan" / "canonical"
 out = pkmndb / "dist" / "canonical"
 (out / "sets").mkdir(parents=True, exist_ok=True)
@@ -27,23 +43,36 @@ pkmn_cards = {
     )
 }
 vcards = {}
-for name in ("cards.json", "cards.ja.json", "cards.zh.json"):
-    for card in json.loads((oldpv / name).read_text(encoding="utf-8"))["cards"]:
-        vcards[str(card["id"])] = card
-
-wotc_text = (oldpv / "wotcSets.ts").read_text(encoding="utf-8")
 pv_meta = {}
-for m in re.finditer(
-    r'\{ id: "([^"]+)", name: "([^"]+)", series: "([^"]+)", releaseDate: "([^"]+)", total: (\d+)(?:, symbol: "([^"]+)")?(?:, logo: "([^"]+)")? \}',
-    wotc_text,
-):
-    pv_meta[m.group(1)] = {
-        "name": m.group(2),
-        "series": m.group(3),
-        "releaseDate": m.group(4),
-        "symbol": m.group(6),
-        "logo": m.group(7),
-    }
+if oldpv.exists():
+    for name in ("cards.json", "cards.ja.json", "cards.zh.json"):
+        path = oldpv / name
+        if not path.exists():
+            print(f"warning: legacy PocketVault file not found: {path}")
+            continue
+        for card in json.loads(path.read_text(encoding="utf-8"))["cards"]:
+            vcards[str(card["id"])] = card
+    wotc_path = oldpv / "wotcSets.ts"
+    if wotc_path.exists():
+        wotc_text = wotc_path.read_text(encoding="utf-8")
+        for m in re.finditer(
+            r'\{ id: "([^"]+)", name: "([^"]+)", series: "([^"]+)", releaseDate: "([^"]+)", total: (\d+)(?:, symbol: "([^"]+)")?(?:, logo: "([^"]+)")? \}',
+            wotc_text,
+        ):
+            pv_meta[m.group(1)] = {
+                "name": m.group(2),
+                "series": m.group(3),
+                "releaseDate": m.group(4),
+                "symbol": m.group(6),
+                "logo": m.group(7),
+            }
+    else:
+        print(f"warning: legacy PocketVault file not found: {wotc_path}")
+else:
+    print(
+        f"warning: legacy PocketVault data not found at {oldpv}; "
+        "using canonical scan fields for fallback cards"
+    )
 
 
 def number_value(value):
@@ -65,6 +94,7 @@ for card in canon_cards:
     if src:
         record = {
             "id": card["id"],
+            "name": card.get("name") or src.get("name") or "",
             "set_id": card["setId"],
             "set_ids": [card["setId"]],
             "number": str(src.get("number") or card.get("number") or ""),
@@ -84,6 +114,7 @@ for card in canon_cards:
         old = vcards.get(str(card.get("sourceId")))
         record = {
             "id": card["id"],
+            "name": card.get("name") or (old.get("name") if old else "") or "",
             "set_id": card["setId"],
             "set_ids": [card["setId"]],
             "number": str(old.get("number") if old else card.get("number") or ""),
@@ -101,6 +132,15 @@ for card in canon_cards:
         }
     by_set[card["setId"]].append(record)
     full_cards.append(record)
+
+missing_names = [
+    card["id"]
+    for card in full_cards
+    if not isinstance(card.get("name"), str) or not card["name"].strip()
+]
+if missing_names:
+    sample = ", ".join(missing_names[:5])
+    raise SystemExit(f"{len(missing_names)} canonical cards have no name: {sample}")
 
 full_sets = []
 for set_id, info in canon_sets.items():
@@ -158,7 +198,7 @@ for set_id, cards in by_set.items():
     json.dumps(
         {
             "schema_version": 1,
-            "generated_at": "2026-10-23",
+            "generated_at": args.generated_at,
             "sets": len(full_sets),
             "cards": len(full_cards),
             "languages": dict(Counter(card["language"] for card in full_cards)),
