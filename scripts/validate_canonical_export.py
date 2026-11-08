@@ -8,9 +8,9 @@ from canonical_revision import revision_for_cards
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_DIST = ROOT / "dist" / "canonical"
-EXPECTED_SETS = 945
-EXPECTED_CARDS = 69898
-EXPECTED_SET_FILES = 941
+EXPECTED_SETS = 946
+EXPECTED_CARDS = 70054
+EXPECTED_SET_FILES = 943
 LANGUAGES = {"en", "ja", "zh"}
 REQUIRED_CARD_FIELDS = ("id", "name", "set_id", "number", "language")
 

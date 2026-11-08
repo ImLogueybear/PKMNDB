@@ -9,9 +9,9 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from canonical_revision import revision_for_cards
 SCAN = ROOT / "data" / "scan" / "canonical"
 DIST = ROOT / "dist" / "canonical"
-EXPECTED_CARDS = 69898
-EXPECTED_SETS = 945
-EXPECTED_SET_FILES = 941
+EXPECTED_CARDS = 70054
+EXPECTED_SETS = 946
+EXPECTED_SET_FILES = 943
 LANGUAGES = {"en", "ja", "zh"}
 REQUIRED_CARD_FIELDS = ("id", "name", "set_id", "number", "language")
 
@@ -118,6 +118,64 @@ def test_team_rocket_set_identities_are_stable():
     assert sets["base5"]["card_count"] == 83
     assert sets["ex7"]["name"] == "EX Team Rocket Returns"
     assert sets["ex7"]["card_count"] == 111
+
+
+def test_delta_reign_set_is_complete():
+    sets = {set_["id"]: set_ for set_ in read_json(DIST / "sets.json")}
+    set_ = sets["pkmndb-111247"]
+    assert set_["name"] == "Delta Reign"
+    assert set_["language"] == "en"
+    assert set_["released"] is True
+    assert set_["release_date"] == "2026-11-06"
+    assert set_["card_count"] == 141
+
+    data = read_json(DIST / "sets" / "pkmndb-111247.json")
+    cards = data["cards"]
+    assert len(cards) == 141
+    assert [card["id"] for card in cards] == [
+        f"pkmndb-111247-{position}" for position in range(1, 142)
+    ]
+    assert [card["number"] for card in cards] == [
+        f"{position:03d}" for position in range(1, 142)
+    ]
+    assert cards[0]["name"] == "Heracross"
+    assert cards[-1]["name"] == "Mega Rayquaza ex"
+    assert all(card.get("image_url") for card in cards)
+
+
+def test_mcdonalds_collection_2026_set_is_complete():
+    sets = {set_["id"]: set_ for set_ in read_json(DIST / "sets.json")}
+    set_ = sets["pkmndb-111259"]
+    assert set_["name"] == "McDonald's Collection 2026"
+    assert set_["language"] == "en"
+    assert set_["released"] is True
+    assert set_["release_date"] == "2026-11-03"
+    assert set_["card_count"] == 15
+    assert set_["symbol_url"].endswith("/sets/111259-symbol.webp")
+
+    data = read_json(DIST / "sets" / "pkmndb-111259.json")
+    cards = data["cards"]
+    assert [card["id"] for card in cards] == [
+        f"pkmndb-111259-{position}" for position in range(1, 16)
+    ]
+    assert [card["number"] for card in cards] == [
+        f"{position:03d}" for position in range(1, 16)
+    ]
+    assert cards[0]["name"] == "Decidueye"
+    assert cards[-1]["name"] == "Wooloo"
+    assert all(card.get("image_url") for card in cards)
+
+
+def test_bulbapedia_symbols_are_published():
+    source = {set_["id"]: set_ for set_ in read_json(ROOT / "dist" / "sets.json")}
+    assert source[111254]["symbol_url"].endswith("/sets/111254-symbol.webp")
+
+    canonical = {set_["id"]: set_ for set_ in read_json(DIST / "sets.json")}
+    for set_id, source_id in (
+        ("zh-pkmndb-111251", 111251),
+        ("zh-pkmndb-111252", 111252),
+    ):
+        assert canonical[set_id]["symbol_url"].endswith(f"/sets/{source_id}-symbol.webp")
 
 
 def test_set_revisions_are_deterministic():

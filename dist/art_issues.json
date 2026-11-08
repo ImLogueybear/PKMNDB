@@ -1129,12 +1129,28 @@
       "missing_symbol": false
     },
     {
+      "id": 111254,
+      "language": "ja",
+      "name": "Aura Seeker",
+      "series": "Mega Evolution Era",
+      "missing_logo": true,
+      "missing_symbol": false
+    },
+    {
       "id": 11665,
       "language": "ja",
       "name": "Mega Evolution Promos",
       "series": "Mega Evolution Era",
       "missing_logo": true,
       "missing_symbol": false
+    },
+    {
+      "id": 111253,
+      "language": "ja",
+      "name": "Mega Gengar ex, Mega Dragonite ex & Mega Feraligatr ex Special Deck Set",
+      "series": "Mega Evolution Era",
+      "missing_logo": true,
+      "missing_symbol": true
     },
     {
       "id": 11571,
@@ -1278,7 +1294,7 @@
       "name": "Black Bolt",
       "series": "Scarlet & Violet Series",
       "missing_logo": true,
-      "missing_symbol": true
+      "missing_symbol": false
     },
     {
       "id": 111243,
@@ -1326,7 +1342,7 @@
       "name": "White Flare",
       "series": "Scarlet & Violet Series",
       "missing_logo": true,
-      "missing_symbol": true
+      "missing_symbol": false
     },
     {
       "id": 11689,
@@ -5478,13 +5494,13 @@
     }
   ],
   "counts": {
-    "sets": 930,
-    "sets_with_logo": 872,
-    "sets_with_symbol": 797,
-    "sets_missing_logo": 58,
-    "sets_missing_symbol": 133,
-    "sets_with_neither": 16,
-    "sets_with_fallback_art": 914,
+    "sets": 933,
+    "sets_with_logo": 873,
+    "sets_with_symbol": 801,
+    "sets_missing_logo": 60,
+    "sets_missing_symbol": 132,
+    "sets_with_neither": 15,
+    "sets_with_fallback_art": 918,
     "cards_with_card_back": 400,
     "cards_missing_images": 59
   }

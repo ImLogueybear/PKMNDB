@@ -5,16 +5,16 @@ Simplified Chinese releases.
 
 ## Snapshot
 
-Last updated: 2026-10-29
+Last updated: 2026-11-08
 
-- 930 source sets (926 released, 4 upcoming)
-  - 333 English/international sets
-  - 451 Japanese sets
+- 933 source sets (931 released, 2 upcoming)
+  - 334 English/international sets
+  - 453 Japanese sets
   - 146 Simplified Chinese sets
-- 67,260 source set-card memberships
-- 62,807 unique cards (21,891 English, 27,961 Japanese, 12,955 Chinese)
-- `dist/canonical` app catalogue: **945 sets / 69,898 card memberships**
-  (348 English, 451 Japanese, 146 Chinese), including the 15 TCG Pocket
+- 67,416 source set-card memberships
+- 62,963 unique cards (22,047 English, 27,961 Japanese, 12,955 Chinese)
+- `dist/canonical` app catalogue: **946 sets / 70,054 card memberships**
+  (349 English, 451 Japanese, 146 Chinese), including the 15 TCG Pocket
   app-only sets (2,480 cards) and 158 PocketVault-only variants
 - Unnumbered Energies excluded from all catalogs; Topps Series excluded from
   the English catalog
@@ -23,7 +23,7 @@ Last updated: 2026-10-29
 
 ## Japanese Catalog
 
-- 451 sets, 27,961 unique cards, 28,522 set-card memberships
+- 453 sets, 27,961 unique cards, 28,522 set-card memberships
 - Original Base Set is listed as `Expansion Pack` (`11182`)
 - Jungle is `11201`; Fossil is `Mystery of the Fossils` (`11172`)
 - Japanese collector numbers use `No. 001`; `printed_total` is usually unknown
@@ -51,19 +51,37 @@ Last updated: 2026-10-29
   its 59 cards are stored as metadata with `image_status = 'missing'`
 - Chinese rows are marked `language = 'zh'`
 
+## Cross-Language Releases
+
+- `Delta Reign` (`111247`, English/international, 141 cards) is the English
+  print of cards released in Japanese `Storm Emeralda` (`M6`, `11929`, 113
+  cards) and the 2026 Japanese ex Starter Sets (`11930`-`11932`, 20/18/20
+  cards). It is not a standalone Japanese set.
+- Verified at release (`2026-11-06`): TCGCollector still does not list a
+  Japanese or Chinese set named `Delta Reign`. The two new Japanese sets are
+  future, unrelated releases (`Aura Seeker`, `M7`, `2026-11-27`; the Mega
+  Gengar ex / Mega Dragonite ex / Mega Feraligatr ex Special Deck Set,
+  `2026-11-13`). The Chinese sets dated 2026-11-06 are `Black Bolt` (`111251`),
+  `Gem Pack Vol. 7` (`111250`), and `White Flare` (`111252`).
+- No synthetic `ja`/`zh` Delta Reign records are created. Chinese coverage is
+  added when TCGCollector lists the localized set containing these cards.
+
 ## Image Gaps
 
-- 872/930 sets have a logo and 797/930 have a symbol.
-- 58 sets are missing a logo and 133 are missing a symbol.
-- 16 sets have neither; 914 have at least one usable asset.
+- 873/933 sets have a logo and 801/933 have a symbol.
+- 60 sets are missing a logo and 132 are missing a symbol.
+- 15 sets have neither; 918 have at least one usable asset.
 - `logo_fallback_url` and `symbol_fallback_url` in `sets.json` let applications
   use the other asset when one is missing.
 - 400 cards only have the generic card-back image. They are marked
   `image_status = 'card_back'` and do not expose an `image_url`.
-- 62,348 cards have verified front images and are marked
+- 62,504 cards have verified front images and are marked
   `image_status = 'front'`.
 - 59 Chinese cards have no image on the source. They are marked
   `image_status = 'missing'` and do not expose an `image_url`.
+- Set symbols missing from TCGCollector are sourced from Bulbapedia when
+  available; currently this covers `McDonald's Collection 2026`, `Aura Seeker`,
+  `Black Bolt`, and `White Flare`.
 - `dist/art_issues.json` lists every affected set and card.
 
 ## Files
@@ -73,7 +91,7 @@ Last updated: 2026-10-29
 - `dist/cards.jsonl` — one unique card per line, including `set_ids`.
 - `dist/sets/<set_id>.json` — set metadata plus its ordered card list.
 - `dist/canonical/` — app-facing canonical catalogue (see "Canonical IDs").
-  `sets.json`, `cards.jsonl`, `sets/<id>.json` (941 sets with cards), and
+  `sets.json`, `cards.jsonl`, `sets/<id>.json` (943 sets with cards), and
   `manifest.json`. Every card in `cards.jsonl` and the per-set files includes a
   required, non-empty `name`; consumers may rely on it. Every set carries a
   deterministic 64-character `revision` hash over its canonical card records, so
@@ -87,6 +105,12 @@ Last updated: 2026-10-29
   11651.
 - `scripts/add-creatures-deck.mjs` — imports that deck, uploads its fronts to
   R2, and updates the SQLite database and dist exports.
+- `scripts/update_canonical_set.py` — updates one mapped set in the canonical
+  membership files without a full membership rebuild.
+- `scripts/upload-images.mjs` — uploads local card and set images to the
+  public R2 bucket.
+- `scripts/update_scan_index_pointers.py` — rewrites both scan-index pointer
+  files from a built `index.json`.
 
 Card front image binaries are not stored in this repository because the full
 set is over 7 GB. The database includes each card's language, local image path,
@@ -177,6 +201,9 @@ importing `src/` or third-party packages.
 
 ### Canonical release checklist
 
+For a single newly released set, refresh `dist` first, then run
+`python scripts/update_canonical_set.py --set-id <id>` before the steps below.
+
 1. Rebuild or name-backfill the export, then set `generated_at` to the release
    date (`--generated-at YYYY-MM-DD`).
 2. Run `python scripts/validate_canonical_export.py`.
@@ -191,7 +218,7 @@ PKMNDB owns the prebuilt card-scan index used by PocketVault and CardTable:
 
 - **Canonical index:**
   `https://pub-54a82c9e988c459da62f95d0bd9c78d9.r2.dev/scan/canonical/index.json`
-  — 933 shards, 69,439 packed descriptors, format 2 / scan version 5.
+  — 935 shards, 69,595 packed descriptors, format 2 / scan version 5.
 - Both apps consume this one index. `dist/scan-index.json` (CardTable) and
   `dist/scan-index-pocketvault.json` (PocketVault) point at the same canonical
   `base_url` / `manifest_url` and carry the same `sets`, `cards` and
